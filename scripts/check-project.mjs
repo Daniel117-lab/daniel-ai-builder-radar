@@ -3,6 +3,11 @@ import { readFile, readdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { QUERIES, normalizeUrl, validatePayload } from './fetch-news.mjs';
+import {
+  MARKETS,
+  SOURCE_FEEDS,
+  validateMarketPayload,
+} from './fetch-market-news.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -25,6 +30,14 @@ assert.ok(payload.stories.every((story) => Date.parse(story.publishedAt) >= Date
 assert.equal(new Set(payload.stories.map((story) => story.objectID)).size, payload.stories.length);
 assert.equal(new Set(payload.stories.map((story) => normalizeUrl(story.url))).size, payload.stories.length);
 
+const marketPayload = JSON.parse(await readFile(path.join(root, 'data/market-news.json'), 'utf8'));
+validateMarketPayload(marketPayload);
+assert.deepEqual(marketPayload.markets, MARKETS);
+assert.deepEqual(marketPayload.sources, SOURCE_FEEDS);
+assert.equal(new Set(marketPayload.stories.map((story) => story.id)).size, marketPayload.stories.length);
+assert.equal(new Set(marketPayload.stories.map((story) => story.url)).size, marketPayload.stories.length);
+assert.ok(marketPayload.stories.every((story) => Date.parse(story.publishedAt) >= Date.parse(marketPayload.windowStart)));
+
 const workflow = await readFile(path.join(root, '.github/workflows/update-news.yml'), 'utf8');
 for (const action of [
   'actions/checkout@v7',
@@ -41,6 +54,11 @@ assert.doesNotMatch(workflow, /secrets\./i);
 const html = await readFile(path.join(root, 'news.html'), 'utf8');
 for (const required of ['Hacker News', 'Algolia HN Search API', '10,000', '八小時', '不保存新聞全文']) {
   assert.ok(html.includes(required), `Missing public-page disclosure: ${required}`);
+}
+
+const marketHtml = await readFile(path.join(root, 'market.html'), 'utf8');
+for (const required of ['中文整體股市新聞', '港股', '美股', 'A 股', '全球', '香港電台財經新聞 RSS', '不構成投資建議', '不保存新聞全文']) {
+  assert.ok(marketHtml.includes(required), `Missing market-page disclosure: ${required}`);
 }
 
 const credentialPatterns = [
@@ -62,4 +80,4 @@ for (const file of await collectFiles(root)) {
   );
 }
 
-console.log(`Project checks passed: schema, workflow, disclosures, and ${await collectFiles(root).then((files) => files.length)} public files scanned.`);
+console.log(`Project checks passed: AI and market schemas, workflow, disclosures, and ${await collectFiles(root).then((files) => files.length)} public files scanned.`);

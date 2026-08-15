@@ -37,7 +37,10 @@
     }
     a { color: inherit; }
     .shell { width: min(100% - 32px, 960px); margin: 0 auto; }
-    header { padding: 64px 0 34px; }
+    .site-nav { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 22px; }
+    .site-nav a { padding: 7px 11px; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: 0.78rem; text-decoration: none; }
+    .site-nav a:hover, .site-nav a:focus-visible, .site-nav a[aria-current="page"] { border-color: rgba(115, 215, 208, 0.5); color: var(--teal); background: rgba(46, 196, 182, 0.08); }
+    header { padding: 46px 0 34px; }
     .eyebrow {
       display: inline-flex;
       gap: 8px;
@@ -103,6 +106,11 @@
   </style>
 </head>
 <body>
+  <nav class="site-nav shell" aria-label="公開情報頁">
+    <a href="news.html" aria-current="page">AI 開發情報</a>
+    <a href="market.html">股市新聞</a>
+  </nav>
+
   <header class="shell">
     <div class="eyebrow">Daniel OS · 公開情報</div>
     <h1>AI 開發情報雷達</h1>

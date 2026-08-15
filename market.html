@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="zh-HK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Daniel OS 中文整體股市新聞：港股、美股、A 股及全球股市最新消息。">
+  <title>Daniel OS · 中文整體股市新聞</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --navy-950: #07111f;
+      --navy-900: #0b1829;
+      --navy-800: #11243a;
+      --line: rgba(126, 205, 201, 0.18);
+      --teal: #73d7d0;
+      --teal-strong: #2ec4b6;
+      --gold: #f0c36a;
+      --text: #eaf5f6;
+      --muted: #96a9b8;
+      --danger: #ff8181;
+      --danger-bg: rgba(255, 91, 91, 0.12);
+      --warning: #ffd166;
+      --warning-bg: rgba(255, 209, 102, 0.12);
+    }
+    * { box-sizing: border-box; }
+    html { background: var(--navy-950); }
+    body {
+      margin: 0;
+      min-width: 0;
+      min-height: 100vh;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 90% 5%, rgba(46, 196, 182, 0.14), transparent 31rem),
+        radial-gradient(circle at 8% 33%, rgba(240, 195, 106, 0.06), transparent 24rem),
+        linear-gradient(180deg, #0b192a 0%, var(--navy-950) 38%);
+      font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+    a { color: inherit; }
+    button { font: inherit; }
+    .shell { width: min(100% - 32px, 1040px); margin: 0 auto; }
+    .site-nav { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 22px; }
+    .site-nav a { padding: 7px 11px; border: 1px solid var(--line); border-radius: 999px; color: var(--muted); font-size: 0.78rem; text-decoration: none; }
+    .site-nav a:hover, .site-nav a:focus-visible, .site-nav a[aria-current="page"] { border-color: rgba(115, 215, 208, 0.5); color: var(--teal); background: rgba(46, 196, 182, 0.08); }
+    header { padding: 46px 0 32px; }
+    .eyebrow { display: inline-flex; gap: 8px; align-items: center; margin-bottom: 14px; color: var(--teal); font-size: 0.75rem; font-weight: 750; letter-spacing: 0.14em; text-transform: uppercase; }
+    .eyebrow::before { content: ""; width: 24px; height: 1px; background: var(--teal-strong); }
+    h1 { margin: 0; max-width: 850px; font-size: clamp(2rem, 6vw, 3.75rem); line-height: 1.05; letter-spacing: -0.045em; }
+    .intro { max-width: 760px; margin: 18px 0 0; color: var(--muted); font-size: clamp(0.94rem, 2vw, 1.08rem); }
+    .status { display: none; margin: 0 0 20px; padding: 13px 15px; border: 1px solid; border-radius: 12px; font-size: 0.9rem; }
+    .status[data-state="stale"] { display: block; color: var(--warning); border-color: rgba(255, 209, 102, 0.32); background: var(--warning-bg); }
+    .status[data-state="error"] { display: block; color: var(--danger); border-color: rgba(255, 129, 129, 0.35); background: var(--danger-bg); }
+    .market-filters { display: flex; gap: 8px; overflow-x: auto; padding: 2px 0 18px; scrollbar-width: thin; }
+    .filter { flex: 0 0 auto; border: 1px solid var(--line); border-radius: 10px; padding: 8px 11px; color: var(--muted); background: rgba(17, 36, 58, 0.56); cursor: pointer; }
+    .filter:hover, .filter:focus-visible { color: var(--text); border-color: rgba(115, 215, 208, 0.45); }
+    .filter[aria-pressed="true"] { border-color: var(--teal-strong); color: var(--navy-950); background: var(--teal); font-weight: 700; }
+    .filter-count { margin-left: 5px; font-size: 0.72rem; font-variant-numeric: tabular-nums; opacity: 0.74; }
+    .toolbar { display: flex; justify-content: space-between; gap: 18px; align-items: baseline; padding-bottom: 12px; border-bottom: 1px solid var(--line); }
+    .toolbar h2 { margin: 0; font-size: 0.82rem; color: var(--teal); letter-spacing: 0.11em; text-transform: uppercase; }
+    #updated { min-width: 0; color: var(--muted); font-size: 0.78rem; text-align: right; }
+    #stories { list-style: none; margin: 0; padding: 0; }
+    .story { display: grid; grid-template-columns: 74px minmax(0, 1fr); gap: 16px; padding: 23px 0; border-bottom: 1px solid var(--line); }
+    .market-tag { align-self: start; justify-self: start; min-width: 58px; padding: 6px 8px; border: 1px solid rgba(240, 195, 106, 0.25); border-radius: 8px; color: var(--gold); font-size: 0.72rem; font-weight: 700; text-align: center; }
+    .story-main { min-width: 0; }
+    .story-title { display: inline; color: var(--text); font-size: clamp(1rem, 2.5vw, 1.15rem); font-weight: 680; line-height: 1.45; text-decoration: none; overflow-wrap: anywhere; }
+    .story-title:hover, .story-title:focus-visible { color: var(--teal); text-decoration: underline; text-underline-offset: 4px; }
+    .meta { display: flex; flex-wrap: wrap; gap: 7px 12px; margin-top: 8px; color: var(--muted); font-size: 0.77rem; }
+    .source { color: var(--teal); }
+    .empty { padding: 34px 0; color: var(--muted); }
+    footer { padding: 36px 0 48px; color: var(--muted); font-size: 0.75rem; }
+    footer p { margin: 0 0 9px; }
+    footer a { color: var(--teal); text-underline-offset: 3px; }
+    @media (max-width: 560px) {
+      .shell { width: min(100% - 24px, 1040px); }
+      header { padding: 38px 0 26px; }
+      .toolbar { display: block; }
+      #updated { margin-top: 7px; text-align: left; }
+      .story { grid-template-columns: minmax(0, 1fr); gap: 10px; padding: 20px 0; }
+      .market-tag { grid-row: 2; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="site-nav shell" aria-label="公開情報頁">
+    <a href="news.html">AI 開發情報</a>
+    <a href="market.html" aria-current="page">股市新聞</a>
+  </nav>
+
+  <header class="shell">
+    <div class="eyebrow">Daniel OS · 公開情報</div>
+    <h1>中文整體股市新聞</h1>
+    <p class="intro">一頁掌握最近 72 小時港股、美股、A 股同全球主要股市消息。每六小時更新，只保留標題、來源、時間同原文連結。</p>
+  </header>
+
+  <main class="shell">
+    <div id="status" class="status" role="status" aria-live="polite"></div>
+    <div id="filters" class="market-filters" aria-label="市場篩選"></div>
+    <div class="toolbar">
+      <h2 id="list-heading">全部市場</h2>
+      <div id="updated">載入中…</div>
+    </div>
+    <ol id="stories" aria-labelledby="list-heading" aria-busy="true"></ol>
+  </main>
+
+  <footer class="shell">
+    <p>來源：<a href="https://news.rthk.hk/rthk/ch/rss.feed" rel="noopener noreferrer">香港電台財經新聞 RSS</a>。系統依標題內市場關鍵字分類，可能存在遺漏；原文內容及權利屬該新聞來源。</p>
+    <p>資料邊界：本頁不保存新聞全文、摘要、圖片或 AI 解讀；所有資料只供一般新聞閱讀，不構成投資建議。</p>
+  </footer>
+
+  <script>
+    (() => {
+      const STALE_MS = 8 * 60 * 60 * 1000;
+      const status = document.querySelector('#status');
+      const updated = document.querySelector('#updated');
+      const list = document.querySelector('#stories');
+      const filters = document.querySelector('#filters');
+      const heading = document.querySelector('#list-heading');
+      const formatter = new Intl.RelativeTimeFormat('zh-HK', { numeric: 'auto' });
+      let payload = null;
+      let selected = 'all';
+
+      function relativeTime(iso) {
+        const delta = new Date(iso).getTime() - Date.now();
+        for (const [unit, size] of [['day', 864e5], ['hour', 36e5], ['minute', 6e4]]) {
+          if (Math.abs(delta) >= size || unit === 'minute') return formatter.format(Math.round(delta / size), unit);
+        }
+      }
+
+      function validate(data) {
+        if (!data || !Number.isFinite(Date.parse(data.fetchedAt)) || !Array.isArray(data.markets) || !Array.isArray(data.stories)) throw new Error('資料格式不正確');
+        const ids = new Set(data.markets.map((market) => market.id));
+        for (const story of data.stories) {
+          if (!story || !story.id || !story.title || !/^https:\/\//.test(story.url) || !story.source || !ids.has(story.market) || !Number.isFinite(Date.parse(story.publishedAt))) {
+            throw new Error('新聞項目格式不正確');
+          }
+        }
+        return data;
+      }
+
+      function marketLabel(id) {
+        return payload?.markets.find((market) => market.id === id)?.label || id;
+      }
+
+      function renderFilters() {
+        filters.replaceChildren();
+        const choices = [{ id: 'all', label: '全部' }, ...payload.markets];
+        for (const market of choices) {
+          const button = document.createElement('button');
+          const count = market.id === 'all' ? payload.stories.length : payload.stories.filter((story) => story.market === market.id).length;
+          button.type = 'button';
+          button.className = 'filter';
+          button.dataset.market = market.id;
+          button.setAttribute('aria-pressed', String(selected === market.id));
+          const label = document.createTextNode(market.label);
+          const badge = document.createElement('span');
+          badge.className = 'filter-count';
+          badge.textContent = String(count);
+          button.append(label, badge);
+          button.addEventListener('click', () => {
+            selected = market.id;
+            renderFilters();
+            renderStories();
+          });
+          filters.append(button);
+        }
+      }
+
+      function renderStories() {
+        const stories = selected === 'all' ? payload.stories : payload.stories.filter((story) => story.market === selected);
+        heading.textContent = selected === 'all' ? `全部市場 · ${stories.length} 條` : `${marketLabel(selected)} · ${stories.length} 條`;
+        list.replaceChildren();
+        for (const story of stories) {
+          const item = document.createElement('li');
+          item.className = 'story';
+          const tag = document.createElement('span');
+          tag.className = 'market-tag';
+          tag.textContent = marketLabel(story.market);
+          const main = document.createElement('div');
+          main.className = 'story-main';
+          const link = document.createElement('a');
+          link.className = 'story-title';
+          link.href = story.url;
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+          link.textContent = story.title;
+          const meta = document.createElement('div');
+          meta.className = 'meta';
+          const source = document.createElement('span');
+          source.className = 'source';
+          source.textContent = story.source;
+          const age = document.createElement('time');
+          age.dateTime = story.publishedAt;
+          age.textContent = relativeTime(story.publishedAt);
+          meta.append(source, age);
+          main.append(link, meta);
+          item.append(tag, main);
+          list.append(item);
+        }
+        if (!stories.length) {
+          const empty = document.createElement('li');
+          empty.className = 'empty';
+          empty.textContent = '最近 72 小時暂時未有這個市場嘅繁中股市新聞。';
+          list.append(empty);
+        }
+        list.setAttribute('aria-busy', 'false');
+      }
+
+      function render(data) {
+        payload = data;
+        selected = 'all';
+        renderFilters();
+        renderStories();
+        const fetched = new Date(data.fetchedAt);
+        updated.textContent = `更新：${fetched.toLocaleString('zh-HK', { timeZone: 'Asia/Hong_Kong', dateStyle: 'medium', timeStyle: 'short' })}`;
+        if (Date.now() - fetched.getTime() > STALE_MS) {
+          status.dataset.state = 'stale';
+          status.textContent = '⚠️ 資料已超過八小時未更新；以下仍然係最後一次成功結果。';
+        } else {
+          status.removeAttribute('data-state');
+          status.textContent = '';
+        }
+      }
+
+      function renderError(error) {
+        status.dataset.state = 'error';
+        status.textContent = `無法載入股市新聞：${error.message}。請稍後再試。`;
+        updated.textContent = '更新狀態不可用';
+        filters.replaceChildren();
+        list.replaceChildren();
+        const empty = document.createElement('li');
+        empty.className = 'empty';
+        empty.textContent = '暫時未能顯示新聞項目。';
+        list.append(empty);
+        list.setAttribute('aria-busy', 'false');
+      }
+
+      async function load(url = 'data/market-news.json') {
+        try {
+          const response = await fetch(url, { cache: 'no-store' });
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          render(validate(await response.json()));
+        } catch (error) {
+          renderError(error);
+        }
+      }
+
+      const params = new URLSearchParams(window.location.search);
+      const localFixture = ['localhost', '127.0.0.1'].includes(window.location.hostname) ? params.get('data') : null;
+      window.MarketRadar = { load, render, renderError, validate, relativeTime, staleMs: STALE_MS };
+      load(localFixture || 'data/market-news.json');
+    })();
+  </script>
+</body>
+</html>

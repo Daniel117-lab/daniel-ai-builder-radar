@@ -1,4 +1,4 @@
-name: Update AI Builder Radar
+name: Update Public News Radar
 
 on:
   schedule:
@@ -28,21 +28,23 @@ jobs:
 
       - name: Run tests and project checks
         run: |
-          node --test scripts/fetch-news.test.mjs
+          node --test scripts/*.test.mjs
           node scripts/check-project.mjs
 
       - name: Fetch latest stories
-        run: node scripts/fetch-news.mjs
+        run: |
+          node scripts/fetch-news.mjs
+          node scripts/fetch-market-news.mjs
 
       - name: Commit changed data only
         run: |
-          if git diff --quiet -- data/news.json; then
+          if git diff --quiet -- data/news.json data/market-news.json; then
             echo "No data change to commit."
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/news.json
-            git commit -m "chore: refresh AI builder radar"
+            git add data/news.json data/market-news.json
+            git commit -m "chore: refresh public news radar"
             git push
           fi
 
@@ -51,7 +53,9 @@ jobs:
           mkdir -p _site/data
           cp news.html _site/index.html
           cp news.html _site/news.html
+          cp market.html _site/market.html
           cp data/news.json _site/data/news.json
+          cp data/market-news.json _site/data/market-news.json
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6

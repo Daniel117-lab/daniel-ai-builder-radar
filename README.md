@@ -1,22 +1,32 @@
-# Daniel AI 開發情報雷達
+# Daniel 公開新聞雷達
 
-一個細而透明嘅公開情報頁：每六小時從 Hacker News 搜尋最近七日嘅 AI 開發訊號，排序後顯示最多 20 條。呢個 repo 係 Dot.ai L3 Day 1 功課第二部分，同私人 Daniel OS 分開；公開內容只有新聞基本資料。
+一個細而透明嘅公開情報系統：每六小時更新 AI 開發訊號同繁中整體股市新聞。呢個 repo 同私人 Daniel OS 分開；公開內容只有新聞基本資料。
 
 ## 公開頁與資料
 
-- Pages：<https://daniel117-lab.github.io/daniel-ai-builder-radar/>
-- 固定資料介面：[`data/news.json`](data/news.json)
+- AI 開發情報：<https://daniel117-lab.github.io/daniel-ai-builder-radar/news.html>
+- 中文整體股市新聞：<https://daniel117-lab.github.io/daniel-ai-builder-radar/market.html>
+- 固定資料介面：[`data/news.json`](data/news.json) 及 [`data/market-news.json`](data/market-news.json)
 - 搜尋詞：`AI`、`LLM`、`AI agent`、`AI automation`、`OpenAI`、`Anthropic`
 - 顯示欄位：標題、原文／HN 討論連結、網域、相對時間、積分
 - 不保存：正文、摘要、節錄、留言、AI 生成描述、API 原始候選
 
+### 中文股市新聞
+
+- 來源：香港電台公開財經新聞 RSS
+- 範圍：最近 72 小時，分為港股、美股、A 股及全球四組
+- 篩選：依標題內市場／指數關鍵字分類，只保留整體股市相關新聞
+- 累積：每次 RSS 有限項目會與上次成功資料去重合併，最多 60 條，逾 72 小時自動剔除
+- 顯示欄位：標題、原文連結、來源、市場、相對時間
+- 不保存：正文、摘要、圖片、財務資料或 AI 解讀；不構成投資建議
+
 ## 資料流程
 
-1. [`scripts/fetch-news.mjs`](scripts/fetch-news.mjs) 以 Algolia HN Search API 嘅 `search` endpoint 執行六次查詢。
+1. [`scripts/fetch-news.mjs`](scripts/fetch-news.mjs) 以 Algolia HN Search API 嘅 `search` endpoint 執行六次查詢；[`scripts/fetch-market-news.mjs`](scripts/fetch-market-news.mjs) 讀取香港電台財經 RSS。
 2. API 端用 Unix timestamp 限制最近七日，每組最多取 100 個候選。
 3. 合併後按 Hacker News `objectID` 及正規化 URL 去重，再按 points、發佈時間排序，保留 20 條。
 4. 六個查詢全部成功先以 temp file → rename 更新 JSON；任何一個失敗都 exit 1、保留舊檔。
-5. 同一個 GitHub Actions run 有資料改變先 commit `data/news.json`，之後部署嗰次成功資料到 Pages。
+5. 同一個 GitHub Actions run 有資料改變先只 commit `data/news.json` 及 `data/market-news.json`，之後部署嗰次成功資料到 Pages。
 
 JSON 介面固定為：
 
@@ -52,8 +62,10 @@ JSON 介面固定為：
 
 ```bash
 node --test scripts/fetch-news.test.mjs
+node --test scripts/fetch-market-news.test.mjs
 node scripts/check-project.mjs
 node scripts/fetch-news.mjs
+node scripts/fetch-market-news.mjs
 python3 -m http.server 4173
 ```
 

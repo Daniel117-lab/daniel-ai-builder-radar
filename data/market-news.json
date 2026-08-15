@@ -1,0 +1,70 @@
+{
+  "fetchedAt": "2026-08-15T07:45:16.445Z",
+  "windowStart": "2026-08-12T07:45:16.445Z",
+  "markets": [
+    {
+      "id": "hk",
+      "label": "港股"
+    },
+    {
+      "id": "us",
+      "label": "美股"
+    },
+    {
+      "id": "cn",
+      "label": "A 股"
+    },
+    {
+      "id": "global",
+      "label": "全球"
+    }
+  ],
+  "sources": [
+    {
+      "name": "香港電台財經新聞",
+      "url": "https://rthk.hk/rthk/news/rss/c_expressnews_cfinance.xml"
+    }
+  ],
+  "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866232-20260815.htm",
+      "title": "港股美國預託證券造好　京東集團及藥明生物升逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866232-20260815.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-14T22:32:41.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866231-20260815.htm",
+      "title": "英法股市偏軟　德股升逾0.5%創收市新高",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866231-20260815.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-14T22:26:24.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866229-20260815.htm",
+      "title": "美股回吐　道指低收107點　3大指數本周個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866229-20260815.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-08-14T21:53:25.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866211-20260814.htm",
+      "title": "美股初段變動不大",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866211-20260814.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-08-14T13:43:18.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866177-20260814.htm",
+      "title": "港股低收279點　恒指本周累跌逾2%　科指累跌逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866177-20260814.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-14T08:47:13.000Z"
+    }
+  ]
+}
