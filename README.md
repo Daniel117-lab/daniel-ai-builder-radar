@@ -1,13 +1,13 @@
-# Daniel AI Builder 情報雷達
+# Daniel AI 開發情報雷達
 
-一個細而透明嘅公開情報頁：每六小時從 Hacker News 搜尋最近七日嘅 AI builder 訊號，排序後顯示最多 20 條。呢個 repo 係 Dot.ai L3 Day 1 功課第二部分，同私人 Daniel OS 分開；公開內容只有新聞 metadata。
+一個細而透明嘅公開情報頁：每六小時從 Hacker News 搜尋最近七日嘅 AI 開發訊號，排序後顯示最多 20 條。呢個 repo 係 Dot.ai L3 Day 1 功課第二部分，同私人 Daniel OS 分開；公開內容只有新聞基本資料。
 
 ## 公開頁與資料
 
 - Pages：<https://daniel117-lab.github.io/daniel-ai-builder-radar/>
 - 固定資料介面：[`data/news.json`](data/news.json)
 - 搜尋詞：`AI`、`LLM`、`AI agent`、`AI automation`、`OpenAI`、`Anthropic`
-- 顯示欄位：標題、原文／HN 討論連結、網域、相對時間、points
+- 顯示欄位：標題、原文／HN 討論連結、網域、相對時間、積分
 - 不保存：正文、摘要、節錄、留言、AI 生成描述、API 原始候選
 
 ## 資料流程
@@ -43,7 +43,7 @@ JSON 介面固定為：
 - 搜尋來源係 [Algolia Hacker News Search API](https://hn.algolia.com/api)。官方頁面提供公開程式介面，列明每 IP 每小時 10,000 次上限。
 - 排程每六小時一次，每次六個 query，即約 **6 requests/run、24 requests/day**，遠低於上限，亦不需要 API key 或 secret。
 - 2026-08-15 檢查 Hacker News `robots.txt`：它限制投票、登入、回覆等互動路徑。本專案不 crawl Hacker News 頁面，只經公開 Algolia API 搜尋並連結到原文／討論頁。
-- API 搜尋結果只轉存必要 metadata；標題及連結用作索引。全文、摘要、節錄及內容權利保留予原作者、Hacker News 及原網站。
+- API 搜尋結果只轉存必要基本資料；標題及連結用作索引。全文、摘要、節錄及內容權利保留予原作者、Hacker News 及原網站。
 - 如來源條款或 API 規則日後改變，應暫停 workflow 再重新檢查。
 
 ## 本機使用

@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Daniel AI Builder 情報雷達：最近七日 Hacker News AI builder 熱門連結。">
-  <title>Daniel AI Builder 情報雷達</title>
+  <meta name="description" content="Daniel AI 開發情報雷達：最近七日 Hacker News AI 開發熱門連結。">
+  <title>Daniel AI 開發情報雷達</title>
   <style>
     :root {
       color-scheme: dark;
@@ -104,15 +104,15 @@
 </head>
 <body>
   <header class="shell">
-    <div class="eyebrow">Daniel OS · Public Radar</div>
-    <h1>AI Builder 情報雷達</h1>
-    <p class="intro">最近七日 Hacker News 上最受關注嘅 AI、LLM、agent 同 automation builder 連結。每六小時更新，只保留連結 metadata。</p>
+    <div class="eyebrow">Daniel OS · 公開情報</div>
+    <h1>AI 開發情報雷達</h1>
+    <p class="intro">最近七日 Hacker News 上最受關注嘅 AI、LLM、智能代理同自動化開發連結。每六小時更新，只保留連結基本資料。</p>
   </header>
 
   <main class="shell">
     <div id="status" class="status" role="status" aria-live="polite"></div>
     <div class="toolbar">
-      <h2>Top 20 signals</h2>
+      <h2>熱門情報 20 條</h2>
       <div id="updated">載入中…</div>
     </div>
     <ol id="stories" aria-busy="true"></ol>
@@ -120,7 +120,7 @@
 
   <footer class="shell">
     <p>來源：<a href="https://news.ycombinator.com/" rel="noopener noreferrer">Hacker News</a>，經 <a href="https://hn.algolia.com/api" rel="noopener noreferrer">Algolia HN Search API</a> 搜尋。API 公開上限為每 IP 每小時 10,000 次；本專案排程約每六小時 6 次。</p>
-    <p>版權界線：本頁只展示標題、原文／HN 討論連結、網域、時間及 points；不保存新聞全文、摘要、節錄或 AI 生成描述。內容權利屬原作者及原網站。</p>
+    <p>版權界線：本頁只展示標題、原文／HN 討論連結、網域、時間及積分；不保存新聞全文、摘要、節錄或 AI 生成描述。內容權利屬原作者及原網站。</p>
   </footer>
 
   <script>
@@ -178,7 +178,7 @@
           main.append(link, meta);
           const points = document.createElement('span');
           points.className = 'points';
-          points.textContent = `${story.points ?? 0} pts`;
+          points.textContent = `${story.points ?? 0} 分`;
           item.append(main, points);
           list.append(item);
         }

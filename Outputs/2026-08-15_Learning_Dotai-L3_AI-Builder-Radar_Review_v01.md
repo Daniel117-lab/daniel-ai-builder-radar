@@ -1,5 +1,5 @@
 ---
-title: Dot.ai L3 Day 1 — Daniel AI Builder 情報雷達驗收
+title: Dot.ai L3 Day 1 — Daniel AI 開發情報雷達驗收
 date: 2026-08-15
 status: in-progress
 area: Learning
@@ -8,7 +8,7 @@ type: review
 version: v01
 ---
 
-# Daniel AI Builder 情報雷達 — 驗收紀錄
+# Daniel AI 開發情報雷達 — 驗收紀錄
 
 ## 範圍
 
@@ -20,7 +20,7 @@ version: v01
 - [x] `objectID`／正規化 URL 去重、points／時間排序、最多 20 條
 - [x] 固定 JSON schema；無原文 URL 時連 HN 討論頁
 - [x] 六組全成功先原子寫入；失敗保留舊 JSON
-- [x] 公開頁只顯示必要 metadata，設八小時過期與錯誤狀態
+- [x] 公開頁只顯示必要基本資料，設八小時過期與錯誤狀態
 - [x] 六小時 workflow 與手動執行；同一 run 更新並部署 Pages
 - [x] 零 API secret；公開 repo credential 掃描
 - [ ] 真實 GitHub Pages 首次部署
