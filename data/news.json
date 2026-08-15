@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-15T07:50:21.042Z",
-  "windowStart": "2026-08-08T07:50:21.042Z",
+  "fetchedAt": "2026-08-15T07:52:44.524Z",
+  "windowStart": "2026-08-08T07:52:44.524Z",
   "queries": [
     "AI",
     "LLM",
@@ -143,7 +143,7 @@
       "title": "AI by Hand",
       "url": "https://byhand.ai/",
       "domain": "byhand.ai",
-      "points": 284,
+      "points": 285,
       "publishedAt": "2026-08-14T15:58:59.000Z"
     },
     {
