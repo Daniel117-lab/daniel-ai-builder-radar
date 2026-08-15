@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-15T07:52:44.524Z",
-  "windowStart": "2026-08-08T07:52:44.524Z",
+  "fetchedAt": "2026-08-15T13:45:25.033Z",
+  "windowStart": "2026-08-08T13:45:25.033Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI is removing the middle class of software engineering?",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
-      "points": 987,
+      "points": 988,
       "publishedAt": "2026-08-12T13:20:05.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "domain": "cerebras.ai",
-      "points": 699,
+      "points": 702,
       "publishedAt": "2026-08-13T18:10:02.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Codex in ChatGPT desktop app for Linux is now in preview",
       "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
       "domain": "community.openai.com",
-      "points": 464,
+      "points": 465,
       "publishedAt": "2026-08-13T04:53:41.000Z"
     },
     {
@@ -107,20 +107,20 @@
       "publishedAt": "2026-08-11T16:57:09.000Z"
     },
     {
-      "objectID": "49220609",
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "domain": "simonwillison.net",
-      "points": 433,
-      "publishedAt": "2026-08-08T10:57:44.000Z"
-    },
-    {
       "objectID": "49300314",
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
       "domain": "blog.google",
-      "points": 365,
+      "points": 436,
       "publishedAt": "2026-08-14T15:43:10.000Z"
+    },
+    {
+      "objectID": "49300568",
+      "title": "AI by Hand",
+      "url": "https://byhand.ai/",
+      "domain": "byhand.ai",
+      "points": 335,
+      "publishedAt": "2026-08-14T15:58:59.000Z"
     },
     {
       "objectID": "49259339",
@@ -135,16 +135,8 @@
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
       "domain": "knownagents.com",
-      "points": 302,
+      "points": 303,
       "publishedAt": "2026-08-12T14:02:46.000Z"
-    },
-    {
-      "objectID": "49300568",
-      "title": "AI by Hand",
-      "url": "https://byhand.ai/",
-      "domain": "byhand.ai",
-      "points": 285,
-      "publishedAt": "2026-08-14T15:58:59.000Z"
     },
     {
       "objectID": "49247070",
@@ -169,6 +161,14 @@
       "domain": "kuber.studio",
       "points": 228,
       "publishedAt": "2026-08-10T13:35:40.000Z"
+    },
+    {
+      "objectID": "49285327",
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://netlify.com/blog/one-prompt-11-models-very-different-results",
+      "domain": "netlify.com",
+      "points": 217,
+      "publishedAt": "2026-08-13T13:05:29.000Z"
     }
   ]
 }
