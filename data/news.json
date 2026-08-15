@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-15T07:17:54.800Z",
-  "windowStart": "2026-08-08T07:17:54.800Z",
+  "fetchedAt": "2026-08-15T07:50:21.042Z",
+  "windowStart": "2026-08-08T07:50:21.042Z",
   "queries": [
     "AI",
     "LLM",
@@ -119,7 +119,7 @@
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
       "domain": "blog.google",
-      "points": 358,
+      "points": 365,
       "publishedAt": "2026-08-14T15:43:10.000Z"
     },
     {
@@ -139,20 +139,20 @@
       "publishedAt": "2026-08-12T14:02:46.000Z"
     },
     {
+      "objectID": "49300568",
+      "title": "AI by Hand",
+      "url": "https://byhand.ai/",
+      "domain": "byhand.ai",
+      "points": 284,
+      "publishedAt": "2026-08-14T15:58:59.000Z"
+    },
+    {
       "objectID": "49247070",
       "title": "Learning more about Claude's mathematical capabilities",
       "url": "https://anthropic.com/research/riemann-zeta",
       "domain": "anthropic.com",
       "points": 279,
       "publishedAt": "2026-08-10T17:41:13.000Z"
-    },
-    {
-      "objectID": "49300568",
-      "title": "AI by Hand",
-      "url": "https://byhand.ai/",
-      "domain": "byhand.ai",
-      "points": 278,
-      "publishedAt": "2026-08-14T15:58:59.000Z"
     },
     {
       "objectID": "49270022",
