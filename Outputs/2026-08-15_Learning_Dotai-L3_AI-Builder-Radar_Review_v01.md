@@ -1,7 +1,7 @@
 ---
 title: Dot.ai L3 Day 1 — Daniel AI 開發情報雷達驗收
 date: 2026-08-15
-status: in-progress
+status: review
 area: Learning
 project: Dotai L3 AI Builder Radar
 type: review
@@ -23,7 +23,7 @@ version: v01
 - [x] 公開頁只顯示必要基本資料，設八小時過期與錯誤狀態
 - [x] 六小時 workflow 與手動執行；同一 run 更新並部署 Pages
 - [x] 零 API secret；公開 repo credential 掃描
-- [ ] 真實 GitHub Pages 首次部署
+- [x] 真實 GitHub Pages 首次部署
 - [ ] 六小時 schedule 實際觸發（未確認）
 - [ ] 真實手機開頁
 - [ ] 導師 collaborator invite（Daniel 自行完成）
@@ -38,6 +38,8 @@ version: v01
 - 桌面：20 條真實資料顯示，頁面 `scrollWidth === clientWidth`。
 - 320px：長英文標題、domain、相對時間及 points 全部在 viewport 內；points 位於 meta 下方；無橫向溢出。
 - 錯誤狀態：缺檔顯示紅色 HTTP 404 訊息而非白畫面；過期 fixture 顯示黃色八小時提示並保留舊資料。
+- GitHub：public repo `main` 已推送；手動 run `31871587230` 嘅 update／deploy jobs 全部成功。
+- 公開驗收：Pages 回傳中文頁面；raw JSON `fetchedAt` 為 `2026-08-15T07:17:54.800Z`、20 條資料；Daniel OS 顯示同一批 20 條情報，冇 404。
 
 瀏覽器驗收涵蓋：正常資料同步、過期黃色 banner、缺失／損壞 JSON 紅色錯誤、320px 長英文標題及 meta 排版、橫向溢出。截圖只作驗收證據，不作裝飾內容。
 
