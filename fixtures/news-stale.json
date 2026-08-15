@@ -1,0 +1,15 @@
+{
+  "fetchedAt": "2026-08-01T00:00:00.000Z",
+  "windowStart": "2026-07-25T00:00:00.000Z",
+  "queries": ["AI", "LLM", "AI agent", "AI automation", "OpenAI", "Anthropic"],
+  "stories": [
+    {
+      "objectID": "stale-1",
+      "title": "Stale state acceptance fixture",
+      "url": "https://example.com/stale",
+      "domain": "example.com",
+      "points": 12,
+      "publishedAt": "2026-07-31T22:00:00.000Z"
+    }
+  ]
+}

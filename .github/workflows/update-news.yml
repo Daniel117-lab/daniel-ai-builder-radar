@@ -1,0 +1,75 @@
+name: Update AI Builder Radar
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Run tests and project checks
+        run: |
+          node --test scripts/fetch-news.test.mjs
+          node scripts/check-project.mjs
+
+      - name: Fetch latest stories
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit changed data only
+        run: |
+          if git diff --quiet -- data/news.json; then
+            echo "No data change to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/news.json
+            git commit -m "chore: refresh AI builder radar"
+            git push
+          fi
+
+      - name: Build Pages artifact
+        run: |
+          mkdir -p _site/data
+          cp news.html _site/index.html
+          cp news.html _site/news.html
+          cp data/news.json _site/data/news.json
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6
+        with:
+          enablement: true
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="zh-HK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Daniel AI Builder 情報雷達：最近七日 Hacker News AI builder 熱門連結。">
+  <title>Daniel AI Builder 情報雷達</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --navy-950: #07111f;
+      --navy-900: #0b1829;
+      --navy-800: #11243a;
+      --line: rgba(126, 205, 201, 0.18);
+      --teal: #73d7d0;
+      --teal-strong: #2ec4b6;
+      --gold: #f0c36a;
+      --text: #eaf5f6;
+      --muted: #96a9b8;
+      --danger: #ff8181;
+      --danger-bg: rgba(255, 91, 91, 0.12);
+      --warning: #ffd166;
+      --warning-bg: rgba(255, 209, 102, 0.12);
+    }
+    * { box-sizing: border-box; }
+    html { background: var(--navy-950); }
+    body {
+      margin: 0;
+      min-width: 0;
+      min-height: 100vh;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 90% 5%, rgba(46, 196, 182, 0.13), transparent 31rem),
+        linear-gradient(180deg, #0b192a 0%, var(--navy-950) 38%);
+      font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+    a { color: inherit; }
+    .shell { width: min(100% - 32px, 960px); margin: 0 auto; }
+    header { padding: 64px 0 34px; }
+    .eyebrow {
+      display: inline-flex;
+      gap: 8px;
+      align-items: center;
+      margin-bottom: 14px;
+      color: var(--teal);
+      font-size: 0.75rem;
+      font-weight: 750;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+    .eyebrow::before { content: ""; width: 24px; height: 1px; background: var(--teal-strong); }
+    h1 { margin: 0; max-width: 760px; font-size: clamp(2rem, 6vw, 3.75rem); line-height: 1.05; letter-spacing: -0.045em; }
+    .intro { max-width: 700px; margin: 18px 0 0; color: var(--muted); font-size: clamp(0.94rem, 2vw, 1.08rem); }
+    .status {
+      display: none;
+      margin: 0 0 20px;
+      padding: 13px 15px;
+      border: 1px solid;
+      border-radius: 12px;
+      font-size: 0.9rem;
+    }
+    .status[data-state="stale"] { display: block; color: var(--warning); border-color: rgba(255, 209, 102, 0.32); background: var(--warning-bg); }
+    .status[data-state="error"] { display: block; color: var(--danger); border-color: rgba(255, 129, 129, 0.35); background: var(--danger-bg); }
+    .toolbar {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      align-items: baseline;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--line);
+    }
+    .toolbar h2 { margin: 0; font-size: 0.82rem; color: var(--teal); letter-spacing: 0.11em; text-transform: uppercase; }
+    #updated { min-width: 0; color: var(--muted); font-size: 0.78rem; text-align: right; }
+    #stories { list-style: none; margin: 0; padding: 0; }
+    .story { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 16px; padding: 23px 0; border-bottom: 1px solid var(--line); }
+    .story-main { min-width: 0; }
+    .story-title {
+      display: inline;
+      color: var(--text);
+      font-size: clamp(1rem, 2.5vw, 1.15rem);
+      font-weight: 680;
+      line-height: 1.45;
+      text-decoration: none;
+      overflow-wrap: anywhere;
+    }
+    .story-title:hover, .story-title:focus-visible { color: var(--teal); text-decoration: underline; text-underline-offset: 4px; }
+    .meta { display: flex; flex-wrap: wrap; gap: 7px 12px; margin-top: 8px; color: var(--muted); font-size: 0.77rem; }
+    .domain { color: var(--teal); overflow-wrap: anywhere; }
+    .points { align-self: start; min-width: 58px; padding: 7px 9px; border: 1px solid rgba(240, 195, 106, 0.24); border-radius: 9px; color: var(--gold); font-size: 0.75rem; font-variant-numeric: tabular-nums; text-align: center; }
+    .empty { padding: 34px 0; color: var(--muted); }
+    footer { padding: 36px 0 48px; color: var(--muted); font-size: 0.75rem; }
+    footer p { margin: 0 0 9px; }
+    footer a { color: var(--teal); text-underline-offset: 3px; }
+    @media (max-width: 480px) {
+      .shell { width: min(100% - 24px, 960px); }
+      header { padding: 42px 0 28px; }
+      .toolbar { display: block; }
+      #updated { margin-top: 7px; text-align: left; }
+      .story { grid-template-columns: minmax(0, 1fr); gap: 10px; padding: 20px 0; }
+      .points { justify-self: start; min-width: 0; }
+    }
+  </style>
+</head>
+<body>
+  <header class="shell">
+    <div class="eyebrow">Daniel OS · Public Radar</div>
+    <h1>AI Builder 情報雷達</h1>
+    <p class="intro">最近七日 Hacker News 上最受關注嘅 AI、LLM、agent 同 automation builder 連結。每六小時更新，只保留連結 metadata。</p>
+  </header>
+
+  <main class="shell">
+    <div id="status" class="status" role="status" aria-live="polite"></div>
+    <div class="toolbar">
+      <h2>Top 20 signals</h2>
+      <div id="updated">載入中…</div>
+    </div>
+    <ol id="stories" aria-busy="true"></ol>
+  </main>
+
+  <footer class="shell">
+    <p>來源：<a href="https://news.ycombinator.com/" rel="noopener noreferrer">Hacker News</a>，經 <a href="https://hn.algolia.com/api" rel="noopener noreferrer">Algolia HN Search API</a> 搜尋。API 公開上限為每 IP 每小時 10,000 次；本專案排程約每六小時 6 次。</p>
+    <p>版權界線：本頁只展示標題、原文／HN 討論連結、網域、時間及 points；不保存新聞全文、摘要、節錄或 AI 生成描述。內容權利屬原作者及原網站。</p>
+  </footer>
+
+  <script>
+    (() => {
+      const STALE_MS = 8 * 60 * 60 * 1000;
+      const status = document.querySelector('#status');
+      const updated = document.querySelector('#updated');
+      const list = document.querySelector('#stories');
+      const formatter = new Intl.RelativeTimeFormat('zh-HK', { numeric: 'auto' });
+
+      function relativeTime(iso) {
+        const delta = new Date(iso).getTime() - Date.now();
+        const units = [
+          ['day', 864e5],
+          ['hour', 36e5],
+          ['minute', 6e4],
+        ];
+        for (const [unit, size] of units) {
+          if (Math.abs(delta) >= size || unit === 'minute') return formatter.format(Math.round(delta / size), unit);
+        }
+      }
+
+      function validate(data) {
+        if (!data || !Number.isFinite(Date.parse(data.fetchedAt)) || !Array.isArray(data.stories)) throw new Error('資料格式不正確');
+        for (const story of data.stories) {
+          if (!story || !story.title || !/^https?:\/\//.test(story.url) || !story.domain || !Number.isFinite(Date.parse(story.publishedAt))) {
+            throw new Error('新聞項目格式不正確');
+          }
+        }
+        return data;
+      }
+
+      function render(data) {
+        list.replaceChildren();
+        for (const story of data.stories) {
+          const item = document.createElement('li');
+          item.className = 'story';
+          const main = document.createElement('div');
+          main.className = 'story-main';
+          const link = document.createElement('a');
+          link.className = 'story-title';
+          link.href = story.url;
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+          link.textContent = story.title;
+          const meta = document.createElement('div');
+          meta.className = 'meta';
+          const domain = document.createElement('span');
+          domain.className = 'domain';
+          domain.textContent = story.domain;
+          const age = document.createElement('time');
+          age.dateTime = story.publishedAt;
+          age.textContent = relativeTime(story.publishedAt);
+          meta.append(domain, age);
+          main.append(link, meta);
+          const points = document.createElement('span');
+          points.className = 'points';
+          points.textContent = `${story.points ?? 0} pts`;
+          item.append(main, points);
+          list.append(item);
+        }
+        if (!data.stories.length) {
+          const empty = document.createElement('li');
+          empty.className = 'empty';
+          empty.textContent = '今次更新未有符合條件嘅項目。';
+          list.append(empty);
+        }
+        const fetched = new Date(data.fetchedAt);
+        updated.textContent = `更新：${fetched.toLocaleString('zh-HK', { timeZone: 'Asia/Hong_Kong', dateStyle: 'medium', timeStyle: 'short' })}`;
+        if (Date.now() - fetched.getTime() > STALE_MS) {
+          status.dataset.state = 'stale';
+          status.textContent = '⚠️ 資料已超過八小時未更新；以下仍然係最後一次成功結果。';
+        } else {
+          status.removeAttribute('data-state');
+          status.textContent = '';
+        }
+        list.setAttribute('aria-busy', 'false');
+      }
+
+      function renderError(error) {
+        status.dataset.state = 'error';
+        status.textContent = `無法載入情報資料：${error.message}。請稍後再試。`;
+        updated.textContent = '更新狀態不可用';
+        list.replaceChildren();
+        const empty = document.createElement('li');
+        empty.className = 'empty';
+        empty.textContent = '暫時未能顯示新聞項目。';
+        list.append(empty);
+        list.setAttribute('aria-busy', 'false');
+      }
+
+      async function load(url = 'data/news.json') {
+        try {
+          const response = await fetch(url, { cache: 'no-store' });
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          render(validate(await response.json()));
+        } catch (error) {
+          renderError(error);
+        }
+      }
+
+      const params = new URLSearchParams(window.location.search);
+      const localFixture = ['localhost', '127.0.0.1'].includes(window.location.hostname) ? params.get('data') : null;
+      window.AIRadar = { load, render, renderError, validate, relativeTime, staleMs: STALE_MS };
+      load(localFixture || 'data/news.json');
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,174 @@
+{
+  "fetchedAt": "2026-08-15T05:52:33.620Z",
+  "windowStart": "2026-08-08T05:52:33.620Z",
+  "queries": [
+    "AI",
+    "LLM",
+    "AI agent",
+    "AI automation",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "stories": [
+    {
+      "objectID": "49271994",
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "domain": "blog.florianherrengt.com",
+      "points": 985,
+      "publishedAt": "2026-08-12T13:20:05.000Z"
+    },
+    {
+      "objectID": "49250836",
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying",
+      "domain": "thewalrus.ca",
+      "points": 934,
+      "publishedAt": "2026-08-10T22:36:30.000Z"
+    },
+    {
+      "objectID": "49234675",
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
+      "domain": "laurentiugabriel.github.io",
+      "points": 825,
+      "publishedAt": "2026-08-09T19:16:49.000Z"
+    },
+    {
+      "objectID": "49289844",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "domain": "cerebras.ai",
+      "points": 699,
+      "publishedAt": "2026-08-13T18:10:02.000Z"
+    },
+    {
+      "objectID": "49257876",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "domain": "stolen-thoughts.com",
+      "points": 695,
+      "publishedAt": "2026-08-11T13:22:00.000Z"
+    },
+    {
+      "objectID": "49239751",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://docker.com/products/docker-sandboxes",
+      "domain": "docker.com",
+      "points": 692,
+      "publishedAt": "2026-08-10T06:02:38.000Z"
+    },
+    {
+      "objectID": "49243880",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "domain": "ft.com",
+      "points": 640,
+      "publishedAt": "2026-08-10T14:06:22.000Z"
+    },
+    {
+      "objectID": "49246804",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "domain": "cactuscompute.com",
+      "points": 527,
+      "publishedAt": "2026-08-10T17:22:07.000Z"
+    },
+    {
+      "objectID": "49257160",
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "url": "https://ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "domain": "ft.com",
+      "points": 522,
+      "publishedAt": "2026-08-11T12:23:07.000Z"
+    },
+    {
+      "objectID": "49281916",
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+      "domain": "community.openai.com",
+      "points": 464,
+      "publishedAt": "2026-08-13T04:53:41.000Z"
+    },
+    {
+      "objectID": "49250109",
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "domain": "support.claude.com",
+      "points": 449,
+      "publishedAt": "2026-08-10T21:36:56.000Z"
+    },
+    {
+      "objectID": "49261133",
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering",
+      "domain": "developers.googleblog.com",
+      "points": 437,
+      "publishedAt": "2026-08-11T16:57:09.000Z"
+    },
+    {
+      "objectID": "49220609",
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "domain": "simonwillison.net",
+      "points": 433,
+      "publishedAt": "2026-08-08T10:57:44.000Z"
+    },
+    {
+      "objectID": "49300314",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
+      "domain": "blog.google",
+      "points": 340,
+      "publishedAt": "2026-08-14T15:43:10.000Z"
+    },
+    {
+      "objectID": "49259339",
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "domain": "github.com",
+      "points": 305,
+      "publishedAt": "2026-08-11T14:50:33.000Z"
+    },
+    {
+      "objectID": "49272569",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "domain": "knownagents.com",
+      "points": 302,
+      "publishedAt": "2026-08-12T14:02:46.000Z"
+    },
+    {
+      "objectID": "49247070",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://anthropic.com/research/riemann-zeta",
+      "domain": "anthropic.com",
+      "points": 279,
+      "publishedAt": "2026-08-10T17:41:13.000Z"
+    },
+    {
+      "objectID": "49270022",
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at",
+      "domain": "gowers.wordpress.com",
+      "points": 259,
+      "publishedAt": "2026-08-12T10:04:25.000Z"
+    },
+    {
+      "objectID": "49300568",
+      "title": "AI by Hand",
+      "url": "https://byhand.ai/",
+      "domain": "byhand.ai",
+      "points": 257,
+      "publishedAt": "2026-08-14T15:58:59.000Z"
+    },
+    {
+      "objectID": "49243474",
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "domain": "kuber.studio",
+      "points": 228,
+      "publishedAt": "2026-08-10T13:35:40.000Z"
+    }
+  ]
+}

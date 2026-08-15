@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-08-15T04:00:00.000Z",
+  "windowStart": "2026-08-08T04:00:00.000Z",
+  "queries": ["AI", "LLM", "AI agent", "AI automation", "OpenAI", "Anthropic"],
+  "stories": [
+    {
+      "objectID": "sample-1",
+      "title": "A deliberately very long English headline for testing responsive wrapping without allowing metadata or points to overflow at narrow viewport widths",
+      "url": "https://example.com/long-responsive-title",
+      "domain": "example.com",
+      "points": 321,
+      "publishedAt": "2026-08-15T02:30:00.000Z"
+    },
+    {
+      "objectID": "sample-2",
+      "title": "Show HN: A small local-first agent tool",
+      "url": "https://news.ycombinator.com/item?id=sample-2",
+      "domain": "news.ycombinator.com",
+      "points": 88,
+      "publishedAt": "2026-08-14T20:00:00.000Z"
+    }
+  ]
+}
