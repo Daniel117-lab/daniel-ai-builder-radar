@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-16T13:47:28.410Z",
-  "windowStart": "2026-08-09T13:47:28.410Z",
+  "fetchedAt": "2026-08-16T19:04:41.704Z",
+  "windowStart": "2026-08-09T19:04:41.704Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI is removing the middle class of software engineering?",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
-      "points": 993,
+      "points": 995,
       "publishedAt": "2026-08-12T13:20:05.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying",
       "domain": "thewalrus.ca",
-      "points": 935,
+      "points": 936,
       "publishedAt": "2026-08-10T22:36:30.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn",
       "domain": "laurentiugabriel.github.io",
-      "points": 828,
+      "points": 830,
       "publishedAt": "2026-08-09T19:16:49.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "domain": "cerebras.ai",
-      "points": 709,
+      "points": 711,
       "publishedAt": "2026-08-13T18:10:02.000Z"
     },
     {
@@ -63,15 +63,15 @@
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "url": "https://ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "domain": "ft.com",
-      "points": 640,
+      "points": 641,
       "publishedAt": "2026-08-10T14:06:22.000Z"
     },
     {
       "objectID": "49312845",
-      "title": "AI has access to a vastly larger working memory than the human brain",
+      "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "domain": "davidepiffer.com",
-      "points": 529,
+      "points": 564,
       "publishedAt": "2026-08-15T18:13:02.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
       "domain": "cactuscompute.com",
-      "points": 529,
+      "points": 531,
       "publishedAt": "2026-08-10T17:22:07.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
       "domain": "blog.google",
-      "points": 489,
+      "points": 491,
       "publishedAt": "2026-08-14T15:43:10.000Z"
     },
     {
@@ -103,7 +103,7 @@
       "title": "Codex in ChatGPT desktop app for Linux is now in preview",
       "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
       "domain": "community.openai.com",
-      "points": 466,
+      "points": 467,
       "publishedAt": "2026-08-13T04:53:41.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "How Claude marks AI-generated content",
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "domain": "support.claude.com",
-      "points": 450,
+      "points": 451,
       "publishedAt": "2026-08-10T21:36:56.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "AI by Hand",
       "url": "https://byhand.ai/",
       "domain": "byhand.ai",
-      "points": 360,
+      "points": 365,
       "publishedAt": "2026-08-14T15:58:59.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
       "domain": "allen.bargi.org",
-      "points": 307,
+      "points": 318,
       "publishedAt": "2026-08-15T10:39:41.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
       "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
       "domain": "github.com",
-      "points": 305,
+      "points": 306,
       "publishedAt": "2026-08-11T14:50:33.000Z"
     },
     {
@@ -151,7 +151,7 @@
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
       "domain": "knownagents.com",
-      "points": 303,
+      "points": 304,
       "publishedAt": "2026-08-12T14:02:46.000Z"
     },
     {
