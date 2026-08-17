@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T03:29:42.818Z",
-  "windowStart": "2026-08-10T03:29:42.818Z",
+  "fetchedAt": "2026-08-17T08:26:23.093Z",
+  "windowStart": "2026-08-10T08:26:23.093Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI is removing the middle class of software engineering?",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
-      "points": 996,
+      "points": 997,
       "publishedAt": "2026-08-12T13:20:05.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "domain": "cerebras.ai",
-      "points": 711,
+      "points": 712,
       "publishedAt": "2026-08-13T18:10:02.000Z"
     },
     {
@@ -41,14 +41,6 @@
       "domain": "stolen-thoughts.com",
       "points": 696,
       "publishedAt": "2026-08-11T13:22:00.000Z"
-    },
-    {
-      "objectID": "49239751",
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://docker.com/products/docker-sandboxes",
-      "domain": "docker.com",
-      "points": 693,
-      "publishedAt": "2026-08-10T06:02:38.000Z"
     },
     {
       "objectID": "49243880",
@@ -63,7 +55,7 @@
       "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "domain": "davidepiffer.com",
-      "points": 601,
+      "points": 613,
       "publishedAt": "2026-08-15T18:13:02.000Z"
     },
     {
@@ -87,7 +79,7 @@
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
       "domain": "blog.google",
-      "points": 491,
+      "points": 494,
       "publishedAt": "2026-08-14T15:43:10.000Z"
     },
     {
@@ -127,7 +119,7 @@
       "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
       "domain": "allen.bargi.org",
-      "points": 322,
+      "points": 327,
       "publishedAt": "2026-08-15T10:39:41.000Z"
     },
     {
@@ -155,6 +147,14 @@
       "publishedAt": "2026-08-10T17:41:13.000Z"
     },
     {
+      "objectID": "49320611",
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "domain": "vectoral.com",
+      "points": 277,
+      "publishedAt": "2026-08-16T14:44:55.000Z"
+    },
+    {
       "objectID": "49270022",
       "title": "What sort of maths are LLMs good at?",
       "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at",
@@ -163,12 +163,12 @@
       "publishedAt": "2026-08-12T10:04:25.000Z"
     },
     {
-      "objectID": "49320611",
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "domain": "vectoral.com",
-      "points": 240,
-      "publishedAt": "2026-08-16T14:44:55.000Z"
+      "objectID": "49317760",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "domain": "littlelearner-ll.github.io",
+      "points": 239,
+      "publishedAt": "2026-08-16T07:37:53.000Z"
     }
   ]
 }

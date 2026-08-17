@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T03:29:43.429Z",
-  "windowStart": "2026-08-14T03:29:43.429Z",
+  "fetchedAt": "2026-08-17T08:26:23.968Z",
+  "windowStart": "2026-08-14T08:26:23.968Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,54 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866441-20260817.htm",
+      "title": "滬深股市高收逾1%至逾3%　創超過1個月收市新高",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866441-20260817.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-17T07:21:13.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866436-20260817.htm",
+      "title": "日股連升5日　高收近1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866436-20260817.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-17T06:45:21.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866435-20260817.htm",
+      "title": "台股收市靠穩",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866435-20260817.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-17T05:47:59.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866433-20260817.htm",
+      "title": "恒指午市初段升逾400點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866433-20260817.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-17T05:11:12.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866424-20260817.htm",
+      "title": "恒指半日升405點　科指升穿4800點關口",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866424-20260817.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-17T04:17:16.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866422-20260817.htm",
+      "title": "滬深股市半日升近1%或以上",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866422-20260817.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-17T03:49:24.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1866415-20260817.htm",
       "title": "日股半日變動不大",
