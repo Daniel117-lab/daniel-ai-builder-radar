@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T19:43:39.029Z",
-  "windowStart": "2026-08-14T19:43:39.029Z",
+  "fetchedAt": "2026-08-18T03:13:06.983Z",
+  "windowStart": "2026-08-15T03:13:06.983Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,78 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866550-20260818.htm",
+      "title": "日股半日跌近2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866550-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-18T02:41:57.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866542-20260818.htm",
+      "title": "內地股市初段變動不大",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866542-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-18T01:39:30.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866539-20260818.htm",
+      "title": "恒指競價時段跌84點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866539-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-18T01:25:53.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866536-20260818.htm",
+      "title": "台股初段靠穩",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866536-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-18T01:14:49.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866532-20260818.htm",
+      "title": "韓股初段升逾2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866532-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-18T00:11:28.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866531-20260818.htm",
+      "title": "日股初段向下",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866531-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-18T00:11:18.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866524-20260818.htm",
+      "title": "港股ADR普遍較本港收市下跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866524-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-17T22:23:45.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866519-20260818.htm",
+      "title": "美股收市下跌　Meta和微軟跌逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866519-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-08-17T21:32:30.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866514-20260818.htm",
+      "title": "歐股收市下跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866514-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-17T21:09:03.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1866495-20260817.htm",
       "title": "道指初段跌逾百點　納指微升",
@@ -137,30 +209,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-08-16T21:38:59.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866232-20260815.htm",
-      "title": "港股美國預託證券造好　京東集團及藥明生物升逾3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866232-20260815.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-14T22:32:41.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866231-20260815.htm",
-      "title": "英法股市偏軟　德股升逾0.5%創收市新高",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866231-20260815.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-14T22:26:24.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866229-20260815.htm",
-      "title": "美股回吐　道指低收107點　3大指數本周個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866229-20260815.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-08-14T21:53:25.000Z"
     }
   ]
 }

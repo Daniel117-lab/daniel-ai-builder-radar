@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-17T19:43:38.229Z",
-  "windowStart": "2026-08-10T19:43:38.229Z",
+  "fetchedAt": "2026-08-18T03:13:06.238Z",
+  "windowStart": "2026-08-11T03:13:06.238Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,23 +15,15 @@
       "title": "AI is removing the middle class of software engineering?",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
-      "points": 998,
+      "points": 1001,
       "publishedAt": "2026-08-12T13:20:05.000Z"
-    },
-    {
-      "objectID": "49250836",
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "url": "https://thewalrus.ca/google-search-is-dying",
-      "domain": "thewalrus.ca",
-      "points": 937,
-      "publishedAt": "2026-08-10T22:36:30.000Z"
     },
     {
       "objectID": "49324087",
       "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "domain": "daringfireball.net",
-      "points": 727,
+      "points": 767,
       "publishedAt": "2026-08-16T21:53:43.000Z"
     },
     {
@@ -51,11 +43,19 @@
       "publishedAt": "2026-08-11T13:22:00.000Z"
     },
     {
+      "objectID": "49336573",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
+      "domain": "rickmanelius.com",
+      "points": 646,
+      "publishedAt": "2026-08-17T19:47:15.000Z"
+    },
+    {
       "objectID": "49312845",
       "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "domain": "davidepiffer.com",
-      "points": 627,
+      "points": 629,
       "publishedAt": "2026-08-15T18:13:02.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
       "domain": "blog.google",
-      "points": 497,
+      "points": 498,
       "publishedAt": "2026-08-14T15:43:10.000Z"
     },
     {
@@ -81,14 +81,6 @@
       "domain": "community.openai.com",
       "points": 467,
       "publishedAt": "2026-08-13T04:53:41.000Z"
-    },
-    {
-      "objectID": "49250109",
-      "title": "How Claude marks AI-generated content",
-      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "domain": "support.claude.com",
-      "points": 451,
-      "publishedAt": "2026-08-10T21:36:56.000Z"
     },
     {
       "objectID": "49261133",
@@ -111,7 +103,7 @@
       "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
       "domain": "allen.bargi.org",
-      "points": 333,
+      "points": 334,
       "publishedAt": "2026-08-15T10:39:41.000Z"
     },
     {
@@ -119,8 +111,24 @@
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
-      "points": 321,
+      "points": 323,
       "publishedAt": "2026-08-16T14:44:55.000Z"
+    },
+    {
+      "objectID": "49331423",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "domain": "wiz.io",
+      "points": 322,
+      "publishedAt": "2026-08-17T14:18:38.000Z"
+    },
+    {
+      "objectID": "49329575",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6",
+      "domain": "blog.roboflow.com",
+      "points": 307,
+      "publishedAt": "2026-08-17T12:09:42.000Z"
     },
     {
       "objectID": "49259339",
@@ -139,6 +147,14 @@
       "publishedAt": "2026-08-12T14:02:46.000Z"
     },
     {
+      "objectID": "49331220",
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://librarian.net/notoai",
+      "domain": "librarian.net",
+      "points": 262,
+      "publishedAt": "2026-08-17T14:07:56.000Z"
+    },
+    {
       "objectID": "49270022",
       "title": "What sort of maths are LLMs good at?",
       "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at",
@@ -147,27 +163,11 @@
       "publishedAt": "2026-08-12T10:04:25.000Z"
     },
     {
-      "objectID": "49329575",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "domain": "blog.roboflow.com",
-      "points": 248,
-      "publishedAt": "2026-08-17T12:09:42.000Z"
-    },
-    {
-      "objectID": "49317760",
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://littlelearner-ll.github.io/",
-      "domain": "littlelearner-ll.github.io",
-      "points": 243,
-      "publishedAt": "2026-08-16T07:37:53.000Z"
-    },
-    {
       "objectID": "49323686",
       "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
       "url": "https://reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
       "domain": "reuters.com",
-      "points": 239,
+      "points": 245,
       "publishedAt": "2026-08-16T21:07:10.000Z"
     }
   ]
