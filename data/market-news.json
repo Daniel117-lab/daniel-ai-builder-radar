@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T08:04:15.594Z",
-  "windowStart": "2026-08-15T08:04:15.594Z",
+  "fetchedAt": "2026-08-18T14:09:21.467Z",
+  "windowStart": "2026-08-15T14:09:21.467Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866628-20260818.htm",
+      "title": "道指初段跌逾百點　納指跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866628-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-08-18T13:39:52.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866601-20260818.htm",
+      "title": "金融監管總局支持內地保險機構經滬深港通投資香港ETF",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866601-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-18T09:51:26.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866582-20260818.htm",
+      "title": "港股尾市收復失地　全日升17點　科指跌0.9%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866582-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-18T08:25:31.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1866569-20260818.htm",
       "title": "日股低收逾2.5%",

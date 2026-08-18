@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T08:04:15.158Z",
-  "windowStart": "2026-08-11T08:04:15.158Z",
+  "fetchedAt": "2026-08-18T14:09:20.872Z",
+  "windowStart": "2026-08-11T14:09:20.872Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,15 +23,23 @@
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
-      "points": 835,
+      "points": 990,
       "publishedAt": "2026-08-17T19:47:15.000Z"
+    },
+    {
+      "objectID": "49337392",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+      "domain": "responsiblestatecraft.org",
+      "points": 802,
+      "publishedAt": "2026-08-17T20:46:10.000Z"
     },
     {
       "objectID": "49324087",
       "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "domain": "daringfireball.net",
-      "points": 785,
+      "points": 798,
       "publishedAt": "2026-08-16T21:53:43.000Z"
     },
     {
@@ -43,14 +51,6 @@
       "publishedAt": "2026-08-13T18:10:02.000Z"
     },
     {
-      "objectID": "49257876",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "domain": "stolen-thoughts.com",
-      "points": 696,
-      "publishedAt": "2026-08-11T13:22:00.000Z"
-    },
-    {
       "objectID": "49312845",
       "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
@@ -59,12 +59,12 @@
       "publishedAt": "2026-08-15T18:13:02.000Z"
     },
     {
-      "objectID": "49257160",
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "url": "https://ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "domain": "ft.com",
-      "points": 523,
-      "publishedAt": "2026-08-11T12:23:07.000Z"
+      "objectID": "49337602",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "domain": "openrouter.ai",
+      "points": 548,
+      "publishedAt": "2026-08-17T21:03:18.000Z"
     },
     {
       "objectID": "49300314",
@@ -91,20 +91,12 @@
       "publishedAt": "2026-08-11T16:57:09.000Z"
     },
     {
-      "objectID": "49337392",
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
-      "domain": "responsiblestatecraft.org",
-      "points": 417,
-      "publishedAt": "2026-08-17T20:46:10.000Z"
-    },
-    {
-      "objectID": "49337602",
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "domain": "openrouter.ai",
-      "points": 393,
-      "publishedAt": "2026-08-17T21:03:18.000Z"
+      "objectID": "49331423",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "domain": "wiz.io",
+      "points": 403,
+      "publishedAt": "2026-08-17T14:18:38.000Z"
     },
     {
       "objectID": "49300568",
@@ -115,19 +107,11 @@
       "publishedAt": "2026-08-14T15:58:59.000Z"
     },
     {
-      "objectID": "49331423",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "domain": "wiz.io",
-      "points": 362,
-      "publishedAt": "2026-08-17T14:18:38.000Z"
-    },
-    {
       "objectID": "49329575",
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6",
       "domain": "blog.roboflow.com",
-      "points": 336,
+      "points": 355,
       "publishedAt": "2026-08-17T12:09:42.000Z"
     },
     {
@@ -135,7 +119,7 @@
       "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
       "domain": "allen.bargi.org",
-      "points": 334,
+      "points": 336,
       "publishedAt": "2026-08-15T10:39:41.000Z"
     },
     {
@@ -143,8 +127,16 @@
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
-      "points": 326,
+      "points": 327,
       "publishedAt": "2026-08-16T14:44:55.000Z"
+    },
+    {
+      "objectID": "49331220",
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://librarian.net/notoai",
+      "domain": "librarian.net",
+      "points": 322,
+      "publishedAt": "2026-08-17T14:07:56.000Z"
     },
     {
       "objectID": "49259339",
@@ -163,12 +155,20 @@
       "publishedAt": "2026-08-12T14:02:46.000Z"
     },
     {
-      "objectID": "49331220",
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://librarian.net/notoai",
-      "domain": "librarian.net",
-      "points": 292,
-      "publishedAt": "2026-08-17T14:07:56.000Z"
+      "objectID": "49343559",
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "domain": "theregister.com",
+      "points": 296,
+      "publishedAt": "2026-08-18T10:13:28.000Z"
+    },
+    {
+      "objectID": "49270022",
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at",
+      "domain": "gowers.wordpress.com",
+      "points": 259,
+      "publishedAt": "2026-08-12T10:04:25.000Z"
     }
   ]
 }
