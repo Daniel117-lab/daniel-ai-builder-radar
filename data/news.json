@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T03:13:06.238Z",
-  "windowStart": "2026-08-11T03:13:06.238Z",
+  "fetchedAt": "2026-08-18T08:04:15.158Z",
+  "windowStart": "2026-08-11T08:04:15.158Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,15 +15,23 @@
       "title": "AI is removing the middle class of software engineering?",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "domain": "blog.florianherrengt.com",
-      "points": 1001,
+      "points": 1002,
       "publishedAt": "2026-08-12T13:20:05.000Z"
+    },
+    {
+      "objectID": "49336573",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
+      "domain": "rickmanelius.com",
+      "points": 835,
+      "publishedAt": "2026-08-17T19:47:15.000Z"
     },
     {
       "objectID": "49324087",
       "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "domain": "daringfireball.net",
-      "points": 767,
+      "points": 785,
       "publishedAt": "2026-08-16T21:53:43.000Z"
     },
     {
@@ -41,14 +49,6 @@
       "domain": "stolen-thoughts.com",
       "points": 696,
       "publishedAt": "2026-08-11T13:22:00.000Z"
-    },
-    {
-      "objectID": "49336573",
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
-      "domain": "rickmanelius.com",
-      "points": 646,
-      "publishedAt": "2026-08-17T19:47:15.000Z"
     },
     {
       "objectID": "49312845",
@@ -91,12 +91,44 @@
       "publishedAt": "2026-08-11T16:57:09.000Z"
     },
     {
+      "objectID": "49337392",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+      "domain": "responsiblestatecraft.org",
+      "points": 417,
+      "publishedAt": "2026-08-17T20:46:10.000Z"
+    },
+    {
+      "objectID": "49337602",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "domain": "openrouter.ai",
+      "points": 393,
+      "publishedAt": "2026-08-17T21:03:18.000Z"
+    },
+    {
       "objectID": "49300568",
       "title": "AI by Hand",
       "url": "https://byhand.ai/",
       "domain": "byhand.ai",
       "points": 366,
       "publishedAt": "2026-08-14T15:58:59.000Z"
+    },
+    {
+      "objectID": "49331423",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "domain": "wiz.io",
+      "points": 362,
+      "publishedAt": "2026-08-17T14:18:38.000Z"
+    },
+    {
+      "objectID": "49329575",
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6",
+      "domain": "blog.roboflow.com",
+      "points": 336,
+      "publishedAt": "2026-08-17T12:09:42.000Z"
     },
     {
       "objectID": "49309451",
@@ -111,24 +143,8 @@
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
-      "points": 323,
+      "points": 326,
       "publishedAt": "2026-08-16T14:44:55.000Z"
-    },
-    {
-      "objectID": "49331423",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "domain": "wiz.io",
-      "points": 322,
-      "publishedAt": "2026-08-17T14:18:38.000Z"
-    },
-    {
-      "objectID": "49329575",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "domain": "blog.roboflow.com",
-      "points": 307,
-      "publishedAt": "2026-08-17T12:09:42.000Z"
     },
     {
       "objectID": "49259339",
@@ -151,24 +167,8 @@
       "title": "How to disable or avoid intrusive AI",
       "url": "https://librarian.net/notoai",
       "domain": "librarian.net",
-      "points": 262,
+      "points": 292,
       "publishedAt": "2026-08-17T14:07:56.000Z"
-    },
-    {
-      "objectID": "49270022",
-      "title": "What sort of maths are LLMs good at?",
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at",
-      "domain": "gowers.wordpress.com",
-      "points": 259,
-      "publishedAt": "2026-08-12T10:04:25.000Z"
-    },
-    {
-      "objectID": "49323686",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "domain": "reuters.com",
-      "points": 245,
-      "publishedAt": "2026-08-16T21:07:10.000Z"
     }
   ]
 }

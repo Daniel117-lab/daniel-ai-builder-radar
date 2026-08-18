@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T03:13:06.983Z",
-  "windowStart": "2026-08-15T03:13:06.983Z",
+  "fetchedAt": "2026-08-18T08:04:15.594Z",
+  "windowStart": "2026-08-15T08:04:15.594Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,62 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866569-20260818.htm",
+      "title": "日股低收逾2.5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866569-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-18T07:13:32.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866570-20260818.htm",
+      "title": "韓股跌近2%收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866570-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-18T07:12:57.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866575-20260818.htm",
+      "title": "滬深股市收市個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866575-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-18T07:11:59.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866568-20260818.htm",
+      "title": "台股低收1.2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866568-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-18T06:32:13.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866564-20260818.htm",
+      "title": "恒指下午初段跌逾百點　科指跌約2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866564-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-18T05:14:28.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866558-20260818.htm",
+      "title": "恒指半日跌165點　人工智能大模型股急跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866558-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-18T04:19:39.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866555-20260818.htm",
+      "title": "深證成指及創業板指數半日跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866555-20260818.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-18T03:43:08.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1866550-20260818.htm",
       "title": "日股半日跌近2%",
