@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-18T19:40:36.073Z",
-  "windowStart": "2026-08-11T19:40:36.073Z",
+  "fetchedAt": "2026-08-19T03:26:04.125Z",
+  "windowStart": "2026-08-12T03:26:04.125Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,31 +15,31 @@
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
-      "points": 1049,
+      "points": 1063,
       "publishedAt": "2026-08-17T19:47:15.000Z"
-    },
-    {
-      "objectID": "49271994",
-      "title": "AI is removing the middle class of software engineering?",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "domain": "blog.florianherrengt.com",
-      "points": 1004,
-      "publishedAt": "2026-08-12T13:20:05.000Z"
     },
     {
       "objectID": "49337392",
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
       "domain": "responsiblestatecraft.org",
-      "points": 983,
+      "points": 1016,
       "publishedAt": "2026-08-17T20:46:10.000Z"
+    },
+    {
+      "objectID": "49271994",
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "domain": "blog.florianherrengt.com",
+      "points": 1005,
+      "publishedAt": "2026-08-12T13:20:05.000Z"
     },
     {
       "objectID": "49324087",
       "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "domain": "daringfireball.net",
-      "points": 807,
+      "points": 814,
       "publishedAt": "2026-08-16T21:53:43.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "domain": "openrouter.ai",
-      "points": 607,
+      "points": 617,
       "publishedAt": "2026-08-17T21:03:18.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Google has acquired the data of failed US airline Spirit",
       "url": "https://theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
-      "points": 522,
+      "points": 570,
       "publishedAt": "2026-08-18T10:13:28.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Codex in ChatGPT desktop app for Linux is now in preview",
       "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
       "domain": "community.openai.com",
-      "points": 467,
+      "points": 468,
       "publishedAt": "2026-08-13T04:53:41.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "domain": "wiz.io",
-      "points": 416,
+      "points": 417,
       "publishedAt": "2026-08-17T14:18:38.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6",
       "domain": "blog.roboflow.com",
-      "points": 358,
+      "points": 359,
       "publishedAt": "2026-08-17T12:09:42.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "How to disable or avoid intrusive AI",
       "url": "https://librarian.net/notoai",
       "domain": "librarian.net",
-      "points": 332,
+      "points": 333,
       "publishedAt": "2026-08-17T14:07:56.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
-      "points": 330,
+      "points": 331,
       "publishedAt": "2026-08-16T14:44:55.000Z"
     },
     {
@@ -145,6 +145,14 @@
       "domain": "knownagents.com",
       "points": 304,
       "publishedAt": "2026-08-12T14:02:46.000Z"
+    },
+    {
+      "objectID": "49349147",
+      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "domain": "asmedigitalcollection.asme.org",
+      "points": 288,
+      "publishedAt": "2026-08-18T17:24:53.000Z"
     },
     {
       "objectID": "49270022",
@@ -159,16 +167,8 @@
       "title": "On AI regulation and messaging",
       "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
       "domain": "twitter.com",
-      "points": 247,
+      "points": 249,
       "publishedAt": "2026-08-17T01:59:56.000Z"
-    },
-    {
-      "objectID": "49323686",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "domain": "reuters.com",
-      "points": 246,
-      "publishedAt": "2026-08-16T21:07:10.000Z"
     }
   ]
 }
