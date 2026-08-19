@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T08:05:52.875Z",
-  "windowStart": "2026-08-16T08:05:52.875Z",
+  "fetchedAt": "2026-08-19T14:09:17.591Z",
+  "windowStart": "2026-08-16T14:09:17.591Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,22 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866768-20260819.htm",
+      "title": "美股初段靠穩　道指曾升逾200點　莫德納急升約1倍",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866768-20260819.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-08-19T13:41:13.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866731-20260819.htm",
+      "title": "港股收市升23點　科指跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866731-20260819.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-19T08:28:46.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1866721-20260819.htm",
       "title": "內地股市下跌　創指低收逾6%　宇樹收市升4.6倍",
