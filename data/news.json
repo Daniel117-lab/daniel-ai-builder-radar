@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T03:26:04.125Z",
-  "windowStart": "2026-08-12T03:26:04.125Z",
+  "fetchedAt": "2026-08-19T08:05:52.102Z",
+  "windowStart": "2026-08-12T08:05:52.102Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
-      "points": 1063,
+      "points": 1073,
       "publishedAt": "2026-08-17T19:47:15.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
       "domain": "responsiblestatecraft.org",
-      "points": 1016,
+      "points": 1022,
       "publishedAt": "2026-08-17T20:46:10.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "domain": "openrouter.ai",
-      "points": 617,
+      "points": 621,
       "publishedAt": "2026-08-17T21:03:18.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Google has acquired the data of failed US airline Spirit",
       "url": "https://theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
-      "points": 570,
+      "points": 577,
       "publishedAt": "2026-08-18T10:13:28.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "domain": "wiz.io",
-      "points": 417,
+      "points": 420,
       "publishedAt": "2026-08-17T14:18:38.000Z"
     },
     {
@@ -151,7 +151,7 @@
       "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "domain": "asmedigitalcollection.asme.org",
-      "points": 288,
+      "points": 297,
       "publishedAt": "2026-08-18T17:24:53.000Z"
     },
     {
