@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T08:08:10.444Z",
-  "windowStart": "2026-08-17T08:08:10.444Z",
+  "fetchedAt": "2026-08-20T14:20:46.553Z",
+  "windowStart": "2026-08-17T14:20:46.553Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,22 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866917-20260820.htm",
+      "title": "道指初段跌逾300點　美債孳息率回升　沃爾瑪績後急挫近8%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866917-20260820.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-08-20T13:41:18.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866873-20260820.htm",
+      "title": "港股高收203點　連升4日　石藥及東亞績後造好",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866873-20260820.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-20T08:24:57.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1866864-20260820.htm",
       "title": "滬深股市反彈　上證指數升逾0.2%　宇樹科技跌近19%",
@@ -433,22 +449,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-08-17T21:09:03.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866495-20260817.htm",
-      "title": "道指初段跌逾百點　納指微升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866495-20260817.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-08-17T13:34:03.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866456-20260817.htm",
-      "title": "恒指高收336點　受科技及金融股支持",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866456-20260817.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-17T08:39:20.000Z"
     }
   ]
 }
