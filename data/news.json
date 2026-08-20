@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T03:14:42.604Z",
-  "windowStart": "2026-08-13T03:14:42.604Z",
+  "fetchedAt": "2026-08-20T08:08:09.834Z",
+  "windowStart": "2026-08-13T08:08:09.834Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
-      "points": 1087,
+      "points": 1089,
       "publishedAt": "2026-08-17T19:47:15.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
       "domain": "responsiblestatecraft.org",
-      "points": 1043,
+      "points": 1045,
       "publishedAt": "2026-08-17T20:46:10.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "domain": "openrouter.ai",
-      "points": 627,
+      "points": 629,
       "publishedAt": "2026-08-17T21:03:18.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Google has acquired the data of failed US airline Spirit",
       "url": "https://theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
-      "points": 603,
+      "points": 608,
       "publishedAt": "2026-08-18T10:13:28.000Z"
     },
     {
@@ -73,14 +73,6 @@
       "domain": "blog.google",
       "points": 498,
       "publishedAt": "2026-08-14T15:43:10.000Z"
-    },
-    {
-      "objectID": "49281916",
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "domain": "community.openai.com",
-      "points": 468,
-      "publishedAt": "2026-08-13T04:53:41.000Z"
     },
     {
       "objectID": "49331423",
@@ -143,7 +135,7 @@
       "title": "Air Theremin – A browser theremin you play by waving at your webcam",
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
-      "points": 254,
+      "points": 271,
       "publishedAt": "2026-08-19T10:15:00.000Z"
     },
     {
@@ -151,7 +143,7 @@
       "title": "Norway should buy OpenAI",
       "url": "https://onethousandmeans.com/p/norway-should-buy-openai",
       "domain": "onethousandmeans.com",
-      "points": 254,
+      "points": 256,
       "publishedAt": "2026-08-18T19:30:29.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "reuters.com",
       "points": 249,
       "publishedAt": "2026-08-16T21:07:10.000Z"
+    },
+    {
+      "objectID": "49317760",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "domain": "littlelearner-ll.github.io",
+      "points": 244,
+      "publishedAt": "2026-08-16T07:37:53.000Z"
     }
   ]
 }

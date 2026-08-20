@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T03:14:43.822Z",
-  "windowStart": "2026-08-17T03:14:43.822Z",
+  "fetchedAt": "2026-08-20T08:08:10.444Z",
+  "windowStart": "2026-08-17T08:08:10.444Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,62 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866864-20260820.htm",
+      "title": "滬深股市反彈　上證指數升逾0.2%　宇樹科技跌近19%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866864-20260820.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-20T07:21:42.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866861-20260820.htm",
+      "title": "日股反彈約1.4%　結束兩日跌勢",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866861-20260820.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-20T07:07:39.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866863-20260820.htm",
+      "title": "韓股全日升約5.9%　結束兩連跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866863-20260820.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-20T07:06:53.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866857-20260820.htm",
+      "title": "台股高收約0.5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866857-20260820.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-20T05:40:46.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866853-20260820.htm",
+      "title": "恒指下午初段升逾300點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866853-20260820.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-20T05:22:13.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866842-20260820.htm",
+      "title": "恒指半日升291點　友邦業績後跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866842-20260820.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-20T04:20:03.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866838-20260820.htm",
+      "title": "滬指半日升約0.3%　深證成指升近1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866838-20260820.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-20T03:40:37.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1866832-20260820.htm",
       "title": "日股半日升1%",
@@ -393,54 +449,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-08-17T08:39:20.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866441-20260817.htm",
-      "title": "滬深股市高收逾1%至逾3%　創超過1個月收市新高",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866441-20260817.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-17T07:21:13.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866436-20260817.htm",
-      "title": "日股連升5日　高收近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866436-20260817.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-17T06:45:21.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866435-20260817.htm",
-      "title": "台股收市靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866435-20260817.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-17T05:47:59.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866433-20260817.htm",
-      "title": "恒指午市初段升逾400點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866433-20260817.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-17T05:11:12.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866424-20260817.htm",
-      "title": "恒指半日升405點　科指升穿4800點關口",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866424-20260817.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-17T04:17:16.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866422-20260817.htm",
-      "title": "滬深股市半日升近1%或以上",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866422-20260817.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-17T03:49:24.000Z"
     }
   ]
 }
