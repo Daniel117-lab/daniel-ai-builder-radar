@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-19T19:36:06.721Z",
-  "windowStart": "2026-08-12T19:36:06.721Z",
+  "fetchedAt": "2026-08-20T03:14:42.604Z",
+  "windowStart": "2026-08-13T03:14:42.604Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
-      "points": 1085,
+      "points": 1087,
       "publishedAt": "2026-08-17T19:47:15.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
       "domain": "responsiblestatecraft.org",
-      "points": 1040,
+      "points": 1043,
       "publishedAt": "2026-08-17T20:46:10.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "domain": "daringfireball.net",
-      "points": 817,
+      "points": 818,
       "publishedAt": "2026-08-16T21:53:43.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "domain": "davidepiffer.com",
-      "points": 630,
+      "points": 631,
       "publishedAt": "2026-08-15T18:13:02.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "domain": "openrouter.ai",
-      "points": 626,
+      "points": 627,
       "publishedAt": "2026-08-17T21:03:18.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Google has acquired the data of failed US airline Spirit",
       "url": "https://theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
-      "points": 597,
+      "points": 603,
       "publishedAt": "2026-08-18T10:13:28.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "domain": "wiz.io",
-      "points": 423,
+      "points": 424,
       "publishedAt": "2026-08-17T14:18:38.000Z"
     },
     {
@@ -103,7 +103,7 @@
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6",
       "domain": "blog.roboflow.com",
-      "points": 362,
+      "points": 363,
       "publishedAt": "2026-08-17T12:09:42.000Z"
     },
     {
@@ -135,15 +135,23 @@
       "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "domain": "asmedigitalcollection.asme.org",
-      "points": 308,
+      "points": 310,
       "publishedAt": "2026-08-18T17:24:53.000Z"
+    },
+    {
+      "objectID": "49359425",
+      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+      "url": "https://theremin.bizibah.com/",
+      "domain": "theremin.bizibah.com",
+      "points": 254,
+      "publishedAt": "2026-08-19T10:15:00.000Z"
     },
     {
       "objectID": "49351330",
       "title": "Norway should buy OpenAI",
       "url": "https://onethousandmeans.com/p/norway-should-buy-openai",
       "domain": "onethousandmeans.com",
-      "points": 252,
+      "points": 254,
       "publishedAt": "2026-08-18T19:30:29.000Z"
     },
     {
@@ -161,14 +169,6 @@
       "domain": "reuters.com",
       "points": 249,
       "publishedAt": "2026-08-16T21:07:10.000Z"
-    },
-    {
-      "objectID": "49317760",
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://littlelearner-ll.github.io/",
-      "domain": "littlelearner-ll.github.io",
-      "points": 244,
-      "publishedAt": "2026-08-16T07:37:53.000Z"
     }
   ]
 }
