@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-21T14:09:52.748Z",
-  "windowStart": "2026-08-14T14:09:52.748Z",
+  "fetchedAt": "2026-08-21T19:34:07.280Z",
+  "windowStart": "2026-08-14T19:34:07.280Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
       "domain": "responsiblestatecraft.org",
-      "points": 1053,
+      "points": 1054,
       "publishedAt": "2026-08-17T20:46:10.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
-      "points": 1021,
+      "points": 1026,
       "publishedAt": "2026-08-20T08:20:44.000Z"
     },
     {
@@ -43,11 +43,19 @@
       "publishedAt": "2026-08-16T21:53:43.000Z"
     },
     {
+      "objectID": "49385994",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "domain": "annas-archive.pk",
+      "points": 696,
+      "publishedAt": "2026-08-21T10:05:46.000Z"
+    },
+    {
       "objectID": "49337602",
       "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "domain": "openrouter.ai",
-      "points": 632,
+      "points": 633,
       "publishedAt": "2026-08-17T21:03:18.000Z"
     },
     {
@@ -67,12 +75,12 @@
       "publishedAt": "2026-08-18T10:13:28.000Z"
     },
     {
-      "objectID": "49300314",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption",
-      "domain": "blog.google",
-      "points": 498,
-      "publishedAt": "2026-08-14T15:43:10.000Z"
+      "objectID": "49383026",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "domain": "annas-archive.gl",
+      "points": 434,
+      "publishedAt": "2026-08-21T02:37:47.000Z"
     },
     {
       "objectID": "49331423",
@@ -83,20 +91,12 @@
       "publishedAt": "2026-08-17T14:18:38.000Z"
     },
     {
-      "objectID": "49383026",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "domain": "annas-archive.gl",
-      "points": 376,
-      "publishedAt": "2026-08-21T02:37:47.000Z"
-    },
-    {
-      "objectID": "49300568",
-      "title": "AI by Hand",
-      "url": "https://byhand.ai/",
-      "domain": "byhand.ai",
-      "points": 366,
-      "publishedAt": "2026-08-14T15:58:59.000Z"
+      "objectID": "49367350",
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "domain": "github.com",
+      "points": 367,
+      "publishedAt": "2026-08-19T21:19:50.000Z"
     },
     {
       "objectID": "49329575",
@@ -107,19 +107,11 @@
       "publishedAt": "2026-08-17T12:09:42.000Z"
     },
     {
-      "objectID": "49367350",
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "domain": "github.com",
-      "points": 364,
-      "publishedAt": "2026-08-19T21:19:50.000Z"
-    },
-    {
       "objectID": "49378768",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://danielvaughn.dev/posts/huzzah",
       "domain": "danielvaughn.dev",
-      "points": 345,
+      "points": 355,
       "publishedAt": "2026-08-20T19:05:36.000Z"
     },
     {
@@ -155,20 +147,28 @@
       "publishedAt": "2026-08-18T17:24:53.000Z"
     },
     {
-      "objectID": "49385994",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "domain": "annas-archive.pk",
-      "points": 305,
-      "publishedAt": "2026-08-21T10:05:46.000Z"
-    },
-    {
       "objectID": "49359425",
       "title": "Air Theremin – A browser theremin you play by waving at your webcam",
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
-      "points": 299,
+      "points": 300,
       "publishedAt": "2026-08-19T10:15:00.000Z"
+    },
+    {
+      "objectID": "49375996",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "domain": "github.com",
+      "points": 293,
+      "publishedAt": "2026-08-20T15:26:02.000Z"
+    },
+    {
+      "objectID": "49360140",
+      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
+      "url": "https://arxiv.org/abs/2504.09762",
+      "domain": "arxiv.org",
+      "points": 279,
+      "publishedAt": "2026-08-19T11:35:26.000Z"
     }
   ]
 }
