@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-21T08:09:13.915Z",
-  "windowStart": "2026-08-14T08:09:13.915Z",
+  "fetchedAt": "2026-08-21T14:09:52.748Z",
+  "windowStart": "2026-08-14T14:09:52.748Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
-      "points": 1099,
+      "points": 1101,
       "publishedAt": "2026-08-17T19:47:15.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
-      "points": 1010,
+      "points": 1021,
       "publishedAt": "2026-08-20T08:20:44.000Z"
     },
     {
@@ -83,6 +83,14 @@
       "publishedAt": "2026-08-17T14:18:38.000Z"
     },
     {
+      "objectID": "49383026",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "domain": "annas-archive.gl",
+      "points": 376,
+      "publishedAt": "2026-08-21T02:37:47.000Z"
+    },
+    {
       "objectID": "49300568",
       "title": "AI by Hand",
       "url": "https://byhand.ai/",
@@ -103,8 +111,16 @@
       "title": "Feature Request: Support AGENTS.md",
       "url": "https://github.com/anthropics/claude-code/issues/6235",
       "domain": "github.com",
-      "points": 360,
+      "points": 364,
       "publishedAt": "2026-08-19T21:19:50.000Z"
+    },
+    {
+      "objectID": "49378768",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://danielvaughn.dev/posts/huzzah",
+      "domain": "danielvaughn.dev",
+      "points": 345,
+      "publishedAt": "2026-08-20T19:05:36.000Z"
     },
     {
       "objectID": "49331220",
@@ -139,36 +155,20 @@
       "publishedAt": "2026-08-18T17:24:53.000Z"
     },
     {
+      "objectID": "49385994",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "domain": "annas-archive.pk",
+      "points": 305,
+      "publishedAt": "2026-08-21T10:05:46.000Z"
+    },
+    {
       "objectID": "49359425",
       "title": "Air Theremin – A browser theremin you play by waving at your webcam",
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
-      "points": 298,
+      "points": 299,
       "publishedAt": "2026-08-19T10:15:00.000Z"
-    },
-    {
-      "objectID": "49383026",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "domain": "annas-archive.gl",
-      "points": 295,
-      "publishedAt": "2026-08-21T02:37:47.000Z"
-    },
-    {
-      "objectID": "49378768",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://danielvaughn.dev/posts/huzzah",
-      "domain": "danielvaughn.dev",
-      "points": 291,
-      "publishedAt": "2026-08-20T19:05:36.000Z"
-    },
-    {
-      "objectID": "49351330",
-      "title": "Norway should buy OpenAI",
-      "url": "https://onethousandmeans.com/p/norway-should-buy-openai",
-      "domain": "onethousandmeans.com",
-      "points": 259,
-      "publishedAt": "2026-08-18T19:30:29.000Z"
     }
   ]
 }
