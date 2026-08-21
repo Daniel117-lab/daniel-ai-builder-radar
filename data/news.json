@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-20T19:50:17.467Z",
-  "windowStart": "2026-08-13T19:50:17.467Z",
+  "fetchedAt": "2026-08-21T03:33:14.277Z",
+  "windowStart": "2026-08-14T03:33:14.277Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
       "domain": "responsiblestatecraft.org",
-      "points": 1051,
+      "points": 1052,
       "publishedAt": "2026-08-17T20:46:10.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
-      "points": 966,
+      "points": 997,
       "publishedAt": "2026-08-20T08:20:44.000Z"
     },
     {
@@ -43,6 +43,14 @@
       "publishedAt": "2026-08-16T21:53:43.000Z"
     },
     {
+      "objectID": "49337602",
+      "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "domain": "openrouter.ai",
+      "points": 632,
+      "publishedAt": "2026-08-17T21:03:18.000Z"
+    },
+    {
       "objectID": "49312845",
       "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
@@ -51,19 +59,11 @@
       "publishedAt": "2026-08-15T18:13:02.000Z"
     },
     {
-      "objectID": "49337602",
-      "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "domain": "openrouter.ai",
-      "points": 630,
-      "publishedAt": "2026-08-17T21:03:18.000Z"
-    },
-    {
       "objectID": "49343559",
       "title": "Google has acquired the data of failed US airline Spirit",
       "url": "https://theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
-      "points": 612,
+      "points": 614,
       "publishedAt": "2026-08-18T10:13:28.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6",
       "domain": "blog.roboflow.com",
-      "points": 364,
+      "points": 365,
       "publishedAt": "2026-08-17T12:09:42.000Z"
     },
     {
@@ -103,7 +103,7 @@
       "title": "Feature Request: Support AGENTS.md",
       "url": "https://github.com/anthropics/claude-code/issues/6235",
       "domain": "github.com",
-      "points": 342,
+      "points": 358,
       "publishedAt": "2026-08-19T21:19:50.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "domain": "asmedigitalcollection.asme.org",
-      "points": 312,
+      "points": 313,
       "publishedAt": "2026-08-18T17:24:53.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "Air Theremin – A browser theremin you play by waving at your webcam",
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
-      "points": 293,
+      "points": 297,
       "publishedAt": "2026-08-19T10:15:00.000Z"
     },
     {
@@ -151,7 +151,7 @@
       "title": "Norway should buy OpenAI",
       "url": "https://onethousandmeans.com/p/norway-should-buy-openai",
       "domain": "onethousandmeans.com",
-      "points": 258,
+      "points": 259,
       "publishedAt": "2026-08-18T19:30:29.000Z"
     },
     {
