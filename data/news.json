@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-21T03:33:14.277Z",
-  "windowStart": "2026-08-14T03:33:14.277Z",
+  "fetchedAt": "2026-08-21T08:09:13.915Z",
+  "windowStart": "2026-08-14T08:09:13.915Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
-      "points": 1097,
+      "points": 1099,
       "publishedAt": "2026-08-17T19:47:15.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
       "domain": "responsiblestatecraft.org",
-      "points": 1052,
+      "points": 1053,
       "publishedAt": "2026-08-17T20:46:10.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
-      "points": 997,
+      "points": 1010,
       "publishedAt": "2026-08-20T08:20:44.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "domain": "daringfireball.net",
-      "points": 821,
+      "points": 822,
       "publishedAt": "2026-08-16T21:53:43.000Z"
     },
     {
@@ -103,8 +103,16 @@
       "title": "Feature Request: Support AGENTS.md",
       "url": "https://github.com/anthropics/claude-code/issues/6235",
       "domain": "github.com",
-      "points": 358,
+      "points": 360,
       "publishedAt": "2026-08-19T21:19:50.000Z"
+    },
+    {
+      "objectID": "49331220",
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://librarian.net/notoai",
+      "domain": "librarian.net",
+      "points": 338,
+      "publishedAt": "2026-08-17T14:07:56.000Z"
     },
     {
       "objectID": "49309451",
@@ -113,14 +121,6 @@
       "domain": "allen.bargi.org",
       "points": 338,
       "publishedAt": "2026-08-15T10:39:41.000Z"
-    },
-    {
-      "objectID": "49331220",
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://librarian.net/notoai",
-      "domain": "librarian.net",
-      "points": 337,
-      "publishedAt": "2026-08-17T14:07:56.000Z"
     },
     {
       "objectID": "49320611",
@@ -143,8 +143,24 @@
       "title": "Air Theremin – A browser theremin you play by waving at your webcam",
       "url": "https://theremin.bizibah.com/",
       "domain": "theremin.bizibah.com",
-      "points": 297,
+      "points": 298,
       "publishedAt": "2026-08-19T10:15:00.000Z"
+    },
+    {
+      "objectID": "49383026",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "domain": "annas-archive.gl",
+      "points": 295,
+      "publishedAt": "2026-08-21T02:37:47.000Z"
+    },
+    {
+      "objectID": "49378768",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://danielvaughn.dev/posts/huzzah",
+      "domain": "danielvaughn.dev",
+      "points": 291,
+      "publishedAt": "2026-08-20T19:05:36.000Z"
     },
     {
       "objectID": "49351330",
@@ -153,22 +169,6 @@
       "domain": "onethousandmeans.com",
       "points": 259,
       "publishedAt": "2026-08-18T19:30:29.000Z"
-    },
-    {
-      "objectID": "49323686",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "domain": "reuters.com",
-      "points": 251,
-      "publishedAt": "2026-08-16T21:07:10.000Z"
-    },
-    {
-      "objectID": "49325789",
-      "title": "On AI regulation and messaging",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "domain": "twitter.com",
-      "points": 250,
-      "publishedAt": "2026-08-17T01:59:56.000Z"
     }
   ]
 }
