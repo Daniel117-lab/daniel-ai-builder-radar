@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-22T07:49:22.657Z",
-  "windowStart": "2026-08-15T07:49:22.657Z",
+  "fetchedAt": "2026-08-22T13:46:33.343Z",
+  "windowStart": "2026-08-15T13:46:33.343Z",
   "queries": [
     "AI",
     "LLM",
@@ -31,7 +31,7 @@
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
-      "points": 1036,
+      "points": 1039,
       "publishedAt": "2026-08-20T08:20:44.000Z"
     },
     {
@@ -41,14 +41,6 @@
       "domain": "daringfireball.net",
       "points": 822,
       "publishedAt": "2026-08-16T21:53:43.000Z"
-    },
-    {
-      "objectID": "49385994",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "domain": "annas-archive.pk",
-      "points": 703,
-      "publishedAt": "2026-08-21T10:05:46.000Z"
     },
     {
       "objectID": "49337602",
@@ -79,7 +71,7 @@
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
-      "points": 554,
+      "points": 578,
       "publishedAt": "2026-08-21T02:37:47.000Z"
     },
     {
@@ -91,60 +83,60 @@
       "publishedAt": "2026-08-17T14:18:38.000Z"
     },
     {
-      "objectID": "49367350",
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "domain": "github.com",
-      "points": 371,
-      "publishedAt": "2026-08-19T21:19:50.000Z"
+      "objectID": "49386699",
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "domain": "cymerys.com",
+      "points": 418,
+      "publishedAt": "2026-08-21T11:48:05.000Z"
     },
     {
       "objectID": "49378768",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://danielvaughn.dev/posts/huzzah",
       "domain": "danielvaughn.dev",
-      "points": 369,
+      "points": 372,
       "publishedAt": "2026-08-20T19:05:36.000Z"
+    },
+    {
+      "objectID": "49367350",
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "domain": "github.com",
+      "points": 372,
+      "publishedAt": "2026-08-19T21:19:50.000Z"
     },
     {
       "objectID": "49329575",
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6",
       "domain": "blog.roboflow.com",
-      "points": 365,
+      "points": 366,
       "publishedAt": "2026-08-17T12:09:42.000Z"
-    },
-    {
-      "objectID": "49386699",
-      "title": "I'm becoming AI-blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "domain": "cymerys.com",
-      "points": 343,
-      "publishedAt": "2026-08-21T11:48:05.000Z"
     },
     {
       "objectID": "49331220",
       "title": "How to disable or avoid intrusive AI",
       "url": "https://librarian.net/notoai",
       "domain": "librarian.net",
-      "points": 338,
+      "points": 339,
       "publishedAt": "2026-08-17T14:07:56.000Z"
-    },
-    {
-      "objectID": "49309451",
-      "title": "Working with AI feels more like leadership than coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-      "domain": "allen.bargi.org",
-      "points": 338,
-      "publishedAt": "2026-08-15T10:39:41.000Z"
     },
     {
       "objectID": "49320611",
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
-      "points": 332,
+      "points": 333,
       "publishedAt": "2026-08-16T14:44:55.000Z"
+    },
+    {
+      "objectID": "49357530",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "domain": "economist.com",
+      "points": 332,
+      "publishedAt": "2026-08-19T06:13:31.000Z"
     },
     {
       "objectID": "49349147",
@@ -167,8 +159,16 @@
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
       "url": "https://github.com/zachahn/vomit",
       "domain": "github.com",
-      "points": 297,
+      "points": 300,
       "publishedAt": "2026-08-20T15:26:02.000Z"
+    },
+    {
+      "objectID": "49360140",
+      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
+      "url": "https://arxiv.org/abs/2504.09762",
+      "domain": "arxiv.org",
+      "points": 292,
+      "publishedAt": "2026-08-19T11:35:26.000Z"
     }
   ]
 }
