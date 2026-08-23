@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-23T13:48:45.637Z",
-  "windowStart": "2026-08-16T13:48:45.637Z",
+  "fetchedAt": "2026-08-23T19:11:31.098Z",
+  "windowStart": "2026-08-16T19:11:31.098Z",
   "queries": [
     "AI",
     "LLM",
@@ -55,7 +55,7 @@
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
-      "points": 622,
+      "points": 623,
       "publishedAt": "2026-08-21T02:37:47.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "domain": "forum.level1techs.com",
-      "points": 398,
+      "points": 417,
       "publishedAt": "2026-08-22T18:14:16.000Z"
     },
     {
@@ -131,14 +131,6 @@
       "publishedAt": "2026-08-17T14:07:56.000Z"
     },
     {
-      "objectID": "49320611",
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "domain": "vectoral.com",
-      "points": 334,
-      "publishedAt": "2026-08-16T14:44:55.000Z"
-    },
-    {
       "objectID": "49349147",
       "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
@@ -159,7 +151,7 @@
       "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
       "url": "https://arxiv.org/abs/2504.09762",
       "domain": "arxiv.org",
-      "points": 302,
+      "points": 303,
       "publishedAt": "2026-08-19T11:35:26.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "theremin.bizibah.com",
       "points": 301,
       "publishedAt": "2026-08-19T10:15:00.000Z"
+    },
+    {
+      "objectID": "49351330",
+      "title": "Norway should buy OpenAI",
+      "url": "https://onethousandmeans.com/p/norway-should-buy-openai",
+      "domain": "onethousandmeans.com",
+      "points": 259,
+      "publishedAt": "2026-08-18T19:30:29.000Z"
     }
   ]
 }
