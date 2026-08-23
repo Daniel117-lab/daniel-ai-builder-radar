@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-22T19:11:52.167Z",
-  "windowStart": "2026-08-15T19:11:52.167Z",
+  "fetchedAt": "2026-08-23T03:32:35.590Z",
+  "windowStart": "2026-08-16T03:32:35.590Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://rickmanelius.com/p/aidr-ai-didnt-read",
       "domain": "rickmanelius.com",
-      "points": 1107,
+      "points": 1109,
       "publishedAt": "2026-08-17T19:47:15.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
-      "points": 1040,
+      "points": 1041,
       "publishedAt": "2026-08-20T08:20:44.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "domain": "daringfireball.net",
-      "points": 822,
+      "points": 823,
       "publishedAt": "2026-08-16T21:53:43.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Google has acquired the data of failed US airline Spirit",
       "url": "https://theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "domain": "theregister.com",
-      "points": 615,
+      "points": 616,
       "publishedAt": "2026-08-18T10:13:28.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
-      "points": 592,
+      "points": 611,
       "publishedAt": "2026-08-21T02:37:47.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
-      "points": 467,
+      "points": 475,
       "publishedAt": "2026-08-21T11:48:05.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://danielvaughn.dev/posts/huzzah",
       "domain": "danielvaughn.dev",
-      "points": 374,
+      "points": 378,
       "publishedAt": "2026-08-20T19:05:36.000Z"
     },
     {
@@ -95,8 +95,16 @@
       "title": "Feature Request: Support AGENTS.md",
       "url": "https://github.com/anthropics/claude-code/issues/6235",
       "domain": "github.com",
-      "points": 373,
+      "points": 374,
       "publishedAt": "2026-08-19T21:19:50.000Z"
+    },
+    {
+      "objectID": "49357530",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "domain": "economist.com",
+      "points": 370,
+      "publishedAt": "2026-08-19T06:13:31.000Z"
     },
     {
       "objectID": "49329575",
@@ -105,14 +113,6 @@
       "domain": "blog.roboflow.com",
       "points": 366,
       "publishedAt": "2026-08-17T12:09:42.000Z"
-    },
-    {
-      "objectID": "49357530",
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "url": "https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "domain": "economist.com",
-      "points": 364,
-      "publishedAt": "2026-08-19T06:13:31.000Z"
     },
     {
       "objectID": "49331220",
@@ -127,7 +127,7 @@
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
       "domain": "vectoral.com",
-      "points": 333,
+      "points": 334,
       "publishedAt": "2026-08-16T14:44:55.000Z"
     },
     {
@@ -159,7 +159,7 @@
       "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
       "url": "https://arxiv.org/abs/2504.09762",
       "domain": "arxiv.org",
-      "points": 293,
+      "points": 298,
       "publishedAt": "2026-08-19T11:35:26.000Z"
     },
     {

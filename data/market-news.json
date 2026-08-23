@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-22T19:11:52.765Z",
-  "windowStart": "2026-08-19T19:11:52.765Z",
+  "fetchedAt": "2026-08-23T03:32:36.649Z",
+  "windowStart": "2026-08-20T03:32:36.649Z",
   "markets": [
     {
       "id": "hk",
@@ -249,70 +249,6 @@
       "source": "香港電台財經新聞",
       "market": "cn",
       "publishedAt": "2026-08-20T03:40:37.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866832-20260820.htm",
-      "title": "日股半日升1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866832-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-20T02:42:02.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866822-20260820.htm",
-      "title": "滬深股市初段上升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866822-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-20T02:08:59.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866821-20260820.htm",
-      "title": "恒指競價時段升284點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866821-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-20T01:25:42.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866814-20260820.htm",
-      "title": "台股初段升近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866814-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-20T01:08:11.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866811-20260820.htm",
-      "title": "韓股初段升逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866811-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-20T00:11:39.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866810-20260820.htm",
-      "title": "日股初段上升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866810-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-20T00:11:14.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866792-20260820.htm",
-      "title": "美股結束3日跌勢　道指高收119點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866792-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-08-19T21:39:05.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866790-20260820.htm",
-      "title": "歐股收市變動不大",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866790-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-19T21:38:11.000Z"
     }
   ]
 }
