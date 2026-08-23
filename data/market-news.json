@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-23T03:32:36.649Z",
-  "windowStart": "2026-08-20T03:32:36.649Z",
+  "fetchedAt": "2026-08-23T07:52:22.379Z",
+  "windowStart": "2026-08-20T07:52:22.379Z",
   "markets": [
     {
       "id": "hk",
@@ -193,62 +193,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-08-20T08:24:57.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866864-20260820.htm",
-      "title": "滬深股市反彈　上證指數升逾0.2%　宇樹科技跌近19%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866864-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-20T07:21:42.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866861-20260820.htm",
-      "title": "日股反彈約1.4%　結束兩日跌勢",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866861-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-20T07:07:39.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866863-20260820.htm",
-      "title": "韓股全日升約5.9%　結束兩連跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866863-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-20T07:06:53.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866857-20260820.htm",
-      "title": "台股高收約0.5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866857-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-20T05:40:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866853-20260820.htm",
-      "title": "恒指下午初段升逾300點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866853-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-20T05:22:13.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866842-20260820.htm",
-      "title": "恒指半日升291點　友邦業績後跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866842-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-20T04:20:03.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1866838-20260820.htm",
-      "title": "滬指半日升約0.3%　深證成指升近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1866838-20260820.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-20T03:40:37.000Z"
     }
   ]
 }

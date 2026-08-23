@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-23T03:32:35.590Z",
-  "windowStart": "2026-08-16T03:32:35.590Z",
+  "fetchedAt": "2026-08-23T07:52:21.555Z",
+  "windowStart": "2026-08-16T07:52:21.555Z",
   "queries": [
     "AI",
     "LLM",
@@ -51,6 +51,14 @@
       "publishedAt": "2026-08-17T21:03:18.000Z"
     },
     {
+      "objectID": "49383026",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "domain": "annas-archive.gl",
+      "points": 616,
+      "publishedAt": "2026-08-21T02:37:47.000Z"
+    },
+    {
       "objectID": "49343559",
       "title": "Google has acquired the data of failed US airline Spirit",
       "url": "https://theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
@@ -59,19 +67,11 @@
       "publishedAt": "2026-08-18T10:13:28.000Z"
     },
     {
-      "objectID": "49383026",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "domain": "annas-archive.gl",
-      "points": 611,
-      "publishedAt": "2026-08-21T02:37:47.000Z"
-    },
-    {
       "objectID": "49386699",
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
-      "points": 475,
+      "points": 478,
       "publishedAt": "2026-08-21T11:48:05.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "Feature Request: Support AGENTS.md",
       "url": "https://github.com/anthropics/claude-code/issues/6235",
       "domain": "github.com",
-      "points": 374,
+      "points": 375,
       "publishedAt": "2026-08-19T21:19:50.000Z"
     },
     {
@@ -103,7 +103,7 @@
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "domain": "economist.com",
-      "points": 370,
+      "points": 372,
       "publishedAt": "2026-08-19T06:13:31.000Z"
     },
     {
@@ -139,6 +139,14 @@
       "publishedAt": "2026-08-18T17:24:53.000Z"
     },
     {
+      "objectID": "49402232",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "domain": "forum.level1techs.com",
+      "points": 302,
+      "publishedAt": "2026-08-22T18:14:16.000Z"
+    },
+    {
       "objectID": "49375996",
       "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
       "url": "https://github.com/zachahn/vomit",
@@ -159,16 +167,8 @@
       "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
       "url": "https://arxiv.org/abs/2504.09762",
       "domain": "arxiv.org",
-      "points": 298,
+      "points": 300,
       "publishedAt": "2026-08-19T11:35:26.000Z"
-    },
-    {
-      "objectID": "49351330",
-      "title": "Norway should buy OpenAI",
-      "url": "https://onethousandmeans.com/p/norway-should-buy-openai",
-      "domain": "onethousandmeans.com",
-      "points": 259,
-      "publishedAt": "2026-08-18T19:30:29.000Z"
     }
   ]
 }
