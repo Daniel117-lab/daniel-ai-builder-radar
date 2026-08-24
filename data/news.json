@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-24T08:31:42.919Z",
-  "windowStart": "2026-08-17T08:31:42.919Z",
+  "fetchedAt": "2026-08-24T14:27:36.700Z",
+  "windowStart": "2026-08-17T14:27:36.700Z",
   "queries": [
     "AI",
     "LLM",
@@ -67,14 +67,6 @@
       "publishedAt": "2026-08-21T11:48:05.000Z"
     },
     {
-      "objectID": "49331423",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "domain": "wiz.io",
-      "points": 424,
-      "publishedAt": "2026-08-17T14:18:38.000Z"
-    },
-    {
       "objectID": "49402232",
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
@@ -105,22 +97,6 @@
       "domain": "economist.com",
       "points": 375,
       "publishedAt": "2026-08-19T06:13:31.000Z"
-    },
-    {
-      "objectID": "49329575",
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "domain": "blog.roboflow.com",
-      "points": 366,
-      "publishedAt": "2026-08-17T12:09:42.000Z"
-    },
-    {
-      "objectID": "49331220",
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://librarian.net/notoai",
-      "domain": "librarian.net",
-      "points": 339,
-      "publishedAt": "2026-08-17T14:07:56.000Z"
     },
     {
       "objectID": "49349147",
@@ -169,6 +145,30 @@
       "domain": "blog.yaros.ae",
       "points": 210,
       "publishedAt": "2026-08-20T15:06:53.000Z"
+    },
+    {
+      "objectID": "49362728",
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "domain": "arxiv.org",
+      "points": 208,
+      "publishedAt": "2026-08-19T15:14:25.000Z"
+    },
+    {
+      "objectID": "49353432",
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "domain": "linear.app",
+      "points": 199,
+      "publishedAt": "2026-08-18T22:08:07.000Z"
+    },
+    {
+      "objectID": "49401549",
+      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "domain": "twitter.com",
+      "points": 196,
+      "publishedAt": "2026-08-22T16:58:49.000Z"
     }
   ]
 }
