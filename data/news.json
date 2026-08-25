@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T07:09:04.916Z",
-  "windowStart": "2026-08-18T07:09:04.916Z",
+  "fetchedAt": "2026-08-25T13:11:57.884Z",
+  "windowStart": "2026-08-18T13:11:57.884Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
-      "points": 777,
+      "points": 789,
       "publishedAt": "2026-08-23T18:16:37.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "url": "https://ericpardee.github.io/fire-hd-ownership",
       "domain": "ericpardee.github.io",
-      "points": 686,
+      "points": 687,
       "publishedAt": "2026-08-23T14:23:09.000Z"
     },
     {
@@ -39,23 +39,15 @@
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
-      "points": 642,
+      "points": 644,
       "publishedAt": "2026-08-21T02:37:47.000Z"
-    },
-    {
-      "objectID": "49343559",
-      "title": "Google has acquired the data of failed US airline Spirit",
-      "url": "https://theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "domain": "theregister.com",
-      "points": 616,
-      "publishedAt": "2026-08-18T10:13:28.000Z"
     },
     {
       "objectID": "49412396",
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
       "domain": "twitter.com",
-      "points": 536,
+      "points": 569,
       "publishedAt": "2026-08-23T20:38:09.000Z"
     },
     {
@@ -63,7 +55,7 @@
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
-      "points": 508,
+      "points": 522,
       "publishedAt": "2026-08-24T15:52:33.000Z"
     },
     {
@@ -71,7 +63,7 @@
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
-      "points": 505,
+      "points": 508,
       "publishedAt": "2026-08-21T11:48:05.000Z"
     },
     {
@@ -79,7 +71,7 @@
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "domain": "forum.level1techs.com",
-      "points": 504,
+      "points": 505,
       "publishedAt": "2026-08-22T18:14:16.000Z"
     },
     {
@@ -87,7 +79,7 @@
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
       "domain": "fabiensanglard.net",
-      "points": 400,
+      "points": 406,
       "publishedAt": "2026-08-23T17:59:52.000Z"
     },
     {
@@ -103,7 +95,7 @@
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "domain": "economist.com",
-      "points": 381,
+      "points": 382,
       "publishedAt": "2026-08-19T06:13:31.000Z"
     },
     {
@@ -119,7 +111,7 @@
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion",
       "domain": "pantel.is",
-      "points": 352,
+      "points": 367,
       "publishedAt": "2026-08-23T23:18:17.000Z"
     },
     {
@@ -127,7 +119,7 @@
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
       "url": "https://developers.openai.com/api/docs/pricing",
       "domain": "developers.openai.com",
-      "points": 319,
+      "points": 329,
       "publishedAt": "2026-08-24T15:22:43.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "onethousandmeans.com",
       "points": 259,
       "publishedAt": "2026-08-18T19:30:29.000Z"
+    },
+    {
+      "objectID": "49410097",
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "url": "https://reinvently.co.uk/tools/ed-o-meter",
+      "domain": "reinvently.co.uk",
+      "points": 239,
+      "publishedAt": "2026-08-23T16:24:21.000Z"
     }
   ]
 }
