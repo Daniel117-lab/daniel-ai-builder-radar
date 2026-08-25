@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-24T18:59:44.386Z",
-  "windowStart": "2026-08-21T18:59:44.386Z",
+  "fetchedAt": "2026-08-25T01:52:59.596Z",
+  "windowStart": "2026-08-22T01:52:59.596Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,62 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867410-20260825.htm",
+      "title": "滬股初段跌逾0.4%　創業板指數跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867410-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-25T01:47:23.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867407-20260825.htm",
+      "title": "港股競價時段反彈116點　小鵬績後急挫逾8%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867407-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-25T01:26:21.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867404-20260825.htm",
+      "title": "台股初段跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867404-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-25T01:11:49.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867402-20260825.htm",
+      "title": "日股初段失守65000點　韓股急挫逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867402-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-25T00:12:03.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867390-20260825.htm",
+      "title": "港股美國預託證券普遍上升　阿里巴巴升逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867390-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-24T22:15:38.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867389-20260825.htm",
+      "title": "英股創兩星期新高　德法股市偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867389-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-24T22:15:03.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867388-20260825.htm",
+      "title": "道指高收140點　納指跌約0.8%　半導體及汽車股受壓",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867388-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-08-24T21:41:33.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1867363-20260824.htm",
       "title": "美股初段個別發展",
@@ -153,22 +209,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-08-23T22:20:40.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867076-20260822.htm",
-      "title": "港股美國預託證券較本港收市普遍下跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867076-20260822.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-21T22:24:30.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867073-20260822.htm",
-      "title": "美股道指升近1%收市　本周3大指數下跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867073-20260822.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-08-21T21:34:14.000Z"
     }
   ]
 }
