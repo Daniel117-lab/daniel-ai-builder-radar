@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T13:11:57.884Z",
-  "windowStart": "2026-08-18T13:11:57.884Z",
+  "fetchedAt": "2026-08-25T18:57:34.782Z",
+  "windowStart": "2026-08-18T18:57:34.782Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
-      "points": 1051,
+      "points": 1052,
       "publishedAt": "2026-08-20T08:20:44.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
-      "points": 789,
+      "points": 803,
       "publishedAt": "2026-08-23T18:16:37.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "url": "https://ericpardee.github.io/fire-hd-ownership",
       "domain": "ericpardee.github.io",
-      "points": 687,
+      "points": 690,
       "publishedAt": "2026-08-23T14:23:09.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
-      "points": 644,
+      "points": 645,
       "publishedAt": "2026-08-21T02:37:47.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
       "domain": "twitter.com",
-      "points": 569,
+      "points": 591,
       "publishedAt": "2026-08-23T20:38:09.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
-      "points": 522,
+      "points": 533,
       "publishedAt": "2026-08-24T15:52:33.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "domain": "forum.level1techs.com",
-      "points": 505,
+      "points": 506,
       "publishedAt": "2026-08-22T18:14:16.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
       "domain": "fabiensanglard.net",
-      "points": 406,
+      "points": 410,
       "publishedAt": "2026-08-23T17:59:52.000Z"
     },
     {
@@ -87,15 +87,23 @@
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://danielvaughn.dev/posts/huzzah",
       "domain": "danielvaughn.dev",
-      "points": 383,
+      "points": 384,
       "publishedAt": "2026-08-20T19:05:36.000Z"
+    },
+    {
+      "objectID": "49413561",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion",
+      "domain": "pantel.is",
+      "points": 383,
+      "publishedAt": "2026-08-23T23:18:17.000Z"
     },
     {
       "objectID": "49357530",
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "domain": "economist.com",
-      "points": 382,
+      "points": 383,
       "publishedAt": "2026-08-19T06:13:31.000Z"
     },
     {
@@ -107,19 +115,11 @@
       "publishedAt": "2026-08-19T21:19:50.000Z"
     },
     {
-      "objectID": "49413561",
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://pantel.is/projects/ai-gaming-companion",
-      "domain": "pantel.is",
-      "points": 367,
-      "publishedAt": "2026-08-23T23:18:17.000Z"
-    },
-    {
       "objectID": "49421074",
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
       "url": "https://developers.openai.com/api/docs/pricing",
       "domain": "developers.openai.com",
-      "points": 329,
+      "points": 331,
       "publishedAt": "2026-08-24T15:22:43.000Z"
     },
     {
@@ -129,14 +129,6 @@
       "domain": "arxiv.org",
       "points": 315,
       "publishedAt": "2026-08-19T11:35:26.000Z"
-    },
-    {
-      "objectID": "49349147",
-      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "domain": "asmedigitalcollection.asme.org",
-      "points": 313,
-      "publishedAt": "2026-08-18T17:24:53.000Z"
     },
     {
       "objectID": "49375996",
@@ -159,7 +151,7 @@
       "title": "Norway should buy OpenAI",
       "url": "https://onethousandmeans.com/p/norway-should-buy-openai",
       "domain": "onethousandmeans.com",
-      "points": 259,
+      "points": 260,
       "publishedAt": "2026-08-18T19:30:29.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "reinvently.co.uk",
       "points": 239,
       "publishedAt": "2026-08-23T16:24:21.000Z"
+    },
+    {
+      "objectID": "49401549",
+      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "domain": "twitter.com",
+      "points": 215,
+      "publishedAt": "2026-08-22T16:58:49.000Z"
     }
   ]
 }

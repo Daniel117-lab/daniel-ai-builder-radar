@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T13:11:58.425Z",
-  "windowStart": "2026-08-22T13:11:58.425Z",
+  "fetchedAt": "2026-08-25T18:57:35.314Z",
+  "windowStart": "2026-08-22T18:57:35.314Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867504-20260825.htm",
+      "title": "美股初段造好　納指升0.7%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867504-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-08-25T13:36:08.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1867461-20260825.htm",
       "title": "恒指窄幅波動　跌6點收市",
