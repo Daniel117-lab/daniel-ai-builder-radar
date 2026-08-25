@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T01:52:59.106Z",
-  "windowStart": "2026-08-18T01:52:59.106Z",
+  "fetchedAt": "2026-08-25T07:09:04.916Z",
+  "windowStart": "2026-08-18T07:09:04.916Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
-      "points": 1050,
+      "points": 1051,
       "publishedAt": "2026-08-20T08:20:44.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
-      "points": 764,
+      "points": 777,
       "publishedAt": "2026-08-23T18:16:37.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "url": "https://ericpardee.github.io/fire-hd-ownership",
       "domain": "ericpardee.github.io",
-      "points": 683,
+      "points": 686,
       "publishedAt": "2026-08-23T14:23:09.000Z"
     },
     {
@@ -55,15 +55,23 @@
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
       "domain": "twitter.com",
-      "points": 507,
+      "points": 536,
       "publishedAt": "2026-08-23T20:38:09.000Z"
+    },
+    {
+      "objectID": "49421554",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "domain": "larsfaye.com",
+      "points": 508,
+      "publishedAt": "2026-08-24T15:52:33.000Z"
     },
     {
       "objectID": "49386699",
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
-      "points": 504,
+      "points": 505,
       "publishedAt": "2026-08-21T11:48:05.000Z"
     },
     {
@@ -71,23 +79,15 @@
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "domain": "forum.level1techs.com",
-      "points": 501,
+      "points": 504,
       "publishedAt": "2026-08-22T18:14:16.000Z"
-    },
-    {
-      "objectID": "49421554",
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "domain": "larsfaye.com",
-      "points": 464,
-      "publishedAt": "2026-08-24T15:52:33.000Z"
     },
     {
       "objectID": "49410932",
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
       "domain": "fabiensanglard.net",
-      "points": 394,
+      "points": 400,
       "publishedAt": "2026-08-23T17:59:52.000Z"
     },
     {
@@ -119,8 +119,16 @@
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion",
       "domain": "pantel.is",
-      "points": 341,
+      "points": 352,
       "publishedAt": "2026-08-23T23:18:17.000Z"
+    },
+    {
+      "objectID": "49421074",
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "domain": "developers.openai.com",
+      "points": 319,
+      "publishedAt": "2026-08-24T15:22:43.000Z"
     },
     {
       "objectID": "49360140",
@@ -153,14 +161,6 @@
       "domain": "theremin.bizibah.com",
       "points": 302,
       "publishedAt": "2026-08-19T10:15:00.000Z"
-    },
-    {
-      "objectID": "49421074",
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "domain": "developers.openai.com",
-      "points": 297,
-      "publishedAt": "2026-08-24T15:22:43.000Z"
     },
     {
       "objectID": "49351330",

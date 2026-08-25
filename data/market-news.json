@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T01:52:59.596Z",
-  "windowStart": "2026-08-22T01:52:59.596Z",
+  "fetchedAt": "2026-08-25T07:09:05.520Z",
+  "windowStart": "2026-08-22T07:09:05.520Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,62 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867443-20260825.htm",
+      "title": "韓股收市升約0.7%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867443-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-25T06:43:52.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867442-20260825.htm",
+      "title": "日股收市升0.5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867442-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-25T06:43:10.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867440-20260825.htm",
+      "title": "台股倒升近1%收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867440-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-25T06:42:10.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867435-20260825.htm",
+      "title": "港股下午初段跌約百點　特步績後急升約5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867435-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-25T05:06:50.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867430-20260825.htm",
+      "title": "港股半日倒跌64點　美團及小鵬急挫",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867430-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-25T04:15:19.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867425-20260825.htm",
+      "title": "滬股半日跌逾0.1%　創業板指數跌逾1.4%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867425-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-25T03:40:00.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867418-20260825.htm",
+      "title": "日股收復早段失地　半日升70點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867418-20260825.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-25T02:47:51.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1867410-20260825.htm",
       "title": "滬股初段跌逾0.4%　創業板指數跌逾1%",
