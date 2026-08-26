@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T18:57:34.782Z",
-  "windowStart": "2026-08-18T18:57:34.782Z",
+  "fetchedAt": "2026-08-26T01:59:05.679Z",
+  "windowStart": "2026-08-19T01:59:05.679Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "domain": "dontpastetheai.com",
-      "points": 1052,
+      "points": 1054,
       "publishedAt": "2026-08-20T08:20:44.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
-      "points": 803,
+      "points": 807,
       "publishedAt": "2026-08-23T18:16:37.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "url": "https://ericpardee.github.io/fire-hd-ownership",
       "domain": "ericpardee.github.io",
-      "points": 690,
+      "points": 693,
       "publishedAt": "2026-08-23T14:23:09.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
       "domain": "twitter.com",
-      "points": 591,
+      "points": 592,
       "publishedAt": "2026-08-23T20:38:09.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
-      "points": 533,
+      "points": 541,
       "publishedAt": "2026-08-24T15:52:33.000Z"
     },
     {
@@ -79,8 +79,16 @@
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
       "domain": "fabiensanglard.net",
-      "points": 410,
+      "points": 413,
       "publishedAt": "2026-08-23T17:59:52.000Z"
+    },
+    {
+      "objectID": "49413561",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion",
+      "domain": "pantel.is",
+      "points": 388,
+      "publishedAt": "2026-08-23T23:18:17.000Z"
     },
     {
       "objectID": "49378768",
@@ -89,14 +97,6 @@
       "domain": "danielvaughn.dev",
       "points": 384,
       "publishedAt": "2026-08-20T19:05:36.000Z"
-    },
-    {
-      "objectID": "49413561",
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://pantel.is/projects/ai-gaming-companion",
-      "domain": "pantel.is",
-      "points": 383,
-      "publishedAt": "2026-08-23T23:18:17.000Z"
     },
     {
       "objectID": "49357530",
@@ -119,8 +119,16 @@
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
       "url": "https://developers.openai.com/api/docs/pricing",
       "domain": "developers.openai.com",
-      "points": 331,
+      "points": 334,
       "publishedAt": "2026-08-24T15:22:43.000Z"
+    },
+    {
+      "objectID": "49434378",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "domain": "newsletter.semianalysis.com",
+      "points": 331,
+      "publishedAt": "2026-08-25T14:06:02.000Z"
     },
     {
       "objectID": "49360140",
@@ -147,12 +155,12 @@
       "publishedAt": "2026-08-19T10:15:00.000Z"
     },
     {
-      "objectID": "49351330",
-      "title": "Norway should buy OpenAI",
-      "url": "https://onethousandmeans.com/p/norway-should-buy-openai",
-      "domain": "onethousandmeans.com",
-      "points": 260,
-      "publishedAt": "2026-08-18T19:30:29.000Z"
+      "objectID": "49435728",
+      "title": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "domain": "blog.coredump.cx",
+      "points": 248,
+      "publishedAt": "2026-08-25T15:23:41.000Z"
     },
     {
       "objectID": "49410097",
@@ -161,14 +169,6 @@
       "domain": "reinvently.co.uk",
       "points": 239,
       "publishedAt": "2026-08-23T16:24:21.000Z"
-    },
-    {
-      "objectID": "49401549",
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "domain": "twitter.com",
-      "points": 215,
-      "publishedAt": "2026-08-22T16:58:49.000Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-25T18:57:35.314Z",
-  "windowStart": "2026-08-22T18:57:35.314Z",
+  "fetchedAt": "2026-08-26T01:59:06.274Z",
+  "windowStart": "2026-08-23T01:59:06.274Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,62 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867565-20260826.htm",
+      "title": "恒指競價時段升124點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867565-20260826.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-26T01:26:38.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867562-20260826.htm",
+      "title": "台股初段偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867562-20260826.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-26T01:11:09.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867556-20260826.htm",
+      "title": "韓股初段靠穩",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867556-20260826.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-26T00:17:53.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867555-20260826.htm",
+      "title": "日股初段偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867555-20260826.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-26T00:17:43.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867543-20260826.htm",
+      "title": "港股ADR多數較本港收市上升",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867543-20260826.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-25T23:33:49.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867536-20260826.htm",
+      "title": "美股高收　油價及美長債息回落",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867536-20260826.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-08-25T21:50:29.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867534-20260826.htm",
+      "title": "歐股收市個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867534-20260826.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-25T21:20:18.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1867504-20260825.htm",
       "title": "美股初段造好　納指升0.7%",
