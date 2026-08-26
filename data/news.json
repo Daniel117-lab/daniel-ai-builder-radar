@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-26T07:09:21.664Z",
-  "windowStart": "2026-08-19T07:09:21.664Z",
+  "fetchedAt": "2026-08-26T13:16:53.553Z",
+  "windowStart": "2026-08-19T13:16:53.553Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
-      "points": 811,
+      "points": 813,
       "publishedAt": "2026-08-23T18:16:37.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
       "domain": "twitter.com",
-      "points": 598,
+      "points": 602,
       "publishedAt": "2026-08-23T20:38:09.000Z"
     },
     {
@@ -55,15 +55,23 @@
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
-      "points": 549,
+      "points": 552,
       "publishedAt": "2026-08-24T15:52:33.000Z"
+    },
+    {
+      "objectID": "49434378",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "domain": "newsletter.semianalysis.com",
+      "points": 531,
+      "publishedAt": "2026-08-25T14:06:02.000Z"
     },
     {
       "objectID": "49386699",
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
-      "points": 508,
+      "points": 509,
       "publishedAt": "2026-08-21T11:48:05.000Z"
     },
     {
@@ -71,16 +79,8 @@
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "domain": "forum.level1techs.com",
-      "points": 506,
+      "points": 507,
       "publishedAt": "2026-08-22T18:14:16.000Z"
-    },
-    {
-      "objectID": "49434378",
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "domain": "newsletter.semianalysis.com",
-      "points": 434,
-      "publishedAt": "2026-08-25T14:06:02.000Z"
     },
     {
       "objectID": "49410932",
@@ -95,7 +95,7 @@
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion",
       "domain": "pantel.is",
-      "points": 392,
+      "points": 394,
       "publishedAt": "2026-08-23T23:18:17.000Z"
     },
     {
@@ -119,16 +119,8 @@
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
       "url": "https://developers.openai.com/api/docs/pricing",
       "domain": "developers.openai.com",
-      "points": 335,
+      "points": 336,
       "publishedAt": "2026-08-24T15:22:43.000Z"
-    },
-    {
-      "objectID": "49360140",
-      "title": "Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces (2025)",
-      "url": "https://arxiv.org/abs/2504.09762",
-      "domain": "arxiv.org",
-      "points": 316,
-      "publishedAt": "2026-08-19T11:35:26.000Z"
     },
     {
       "objectID": "49375996",
@@ -139,19 +131,11 @@
       "publishedAt": "2026-08-20T15:26:02.000Z"
     },
     {
-      "objectID": "49359425",
-      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "domain": "theremin.bizibah.com",
-      "points": 302,
-      "publishedAt": "2026-08-19T10:15:00.000Z"
-    },
-    {
       "objectID": "49435728",
       "title": "How much of HN is AI?",
       "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "domain": "blog.coredump.cx",
-      "points": 259,
+      "points": 270,
       "publishedAt": "2026-08-25T15:23:41.000Z"
     },
     {
@@ -163,12 +147,28 @@
       "publishedAt": "2026-08-23T16:24:21.000Z"
     },
     {
+      "objectID": "49446422",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "domain": "bloomberg.com",
+      "points": 220,
+      "publishedAt": "2026-08-26T10:04:55.000Z"
+    },
+    {
       "objectID": "49401549",
       "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
       "url": "https://twitter.com/argofowl/status/2091150597374537729",
       "domain": "twitter.com",
       "points": 215,
       "publishedAt": "2026-08-22T16:58:49.000Z"
+    },
+    {
+      "objectID": "49375719",
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
+      "domain": "blog.yaros.ae",
+      "points": 212,
+      "publishedAt": "2026-08-20T15:06:53.000Z"
     }
   ]
 }
