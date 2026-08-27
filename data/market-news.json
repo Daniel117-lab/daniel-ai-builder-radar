@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-26T20:03:39.208Z",
-  "windowStart": "2026-08-23T20:03:39.208Z",
+  "fetchedAt": "2026-08-27T09:49:56.049Z",
+  "windowStart": "2026-08-24T09:49:56.049Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,78 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867787-20260827.htm",
+      "title": "港股低收87點　科指反覆偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867787-20260827.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-27T08:42:14.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867776-20260827.htm",
+      "title": "滬深股市高收逾1%　創業板指數升1.7%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867776-20260827.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-27T07:14:37.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867773-20260827.htm",
+      "title": "韓股高收逾1.5%　連升3日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867773-20260827.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-27T06:45:27.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867772-20260827.htm",
+      "title": "日股低收0.2%　結束兩連升",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867772-20260827.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-27T06:42:37.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867771-20260827.htm",
+      "title": "台股高收0.3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867771-20260827.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-27T06:37:20.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867762-20260827.htm",
+      "title": "恒指下午初段跌逾100點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867762-20260827.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-27T05:10:39.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867753-20260827.htm",
+      "title": "恒指半日跌108點　科指微升0.2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867753-20260827.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-27T04:48:44.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867751-20260827.htm",
+      "title": "滬指半日升0.6%　深證成指成逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867751-20260827.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-27T03:49:08.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867740-20260827.htm",
+      "title": "日股反覆偏軟　半日跌約百點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867740-20260827.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-27T02:44:42.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1867666-20260826.htm",
       "title": "美股初段偏軟",
@@ -305,126 +377,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-08-24T13:38:14.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867325-20260824.htm",
-      "title": "港股低收492點　阿里巴巴急挫近9%收市",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867325-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-24T08:49:42.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867315-20260824.htm",
-      "title": "內地股市下跌　深證成指及創業板指數分別跌逾2%及3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867315-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-24T07:21:41.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867312-20260824.htm",
-      "title": "韓股低收逾3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867312-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-24T06:44:13.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867311-20260824.htm",
-      "title": "日股低收逾0.7%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867311-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-24T06:40:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867308-20260824.htm",
-      "title": "台股低收逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867308-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-24T06:34:59.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867303-20260824.htm",
-      "title": "港股下午初段跌逾500點　科指跌近4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867303-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-24T05:16:25.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867292-20260824.htm",
-      "title": "港股半日跌544點　平台、晶片及AI大模型股捱沽",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867292-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-24T04:14:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867287-20260824.htm",
-      "title": "滬股半日跌0.7%　創業板指數跌逾3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867287-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-24T03:42:06.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867282-20260824.htm",
-      "title": "日股半日跌不足0.1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867282-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-24T02:43:03.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867273-20260824.htm",
-      "title": "港股跌幅擴大至逾500點　阿里巴巴急挫10%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867273-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-24T02:07:37.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867262-20260824.htm",
-      "title": "滬股初段變動不大　創業板指數跌約0.4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867262-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-24T01:37:14.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867259-20260824.htm",
-      "title": "港股競價時段跌229點　阿里巴巴低開8%守住配股價",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867259-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-24T01:27:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867254-20260824.htm",
-      "title": "台股初段變動不大",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867254-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-24T01:05:38.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867250-20260824.htm",
-      "title": "日股初段升約200點　韓股跌約0.5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867250-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-24T00:13:43.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867235-20260824.htm",
-      "title": "美股本周焦點：沃什首度亮相全球央行年會、Nvidia業績等",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867235-20260824.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-08-23T22:20:40.000Z"
     }
   ]
 }

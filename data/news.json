@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-26T20:03:38.015Z",
-  "windowStart": "2026-08-19T20:03:38.015Z",
+  "fetchedAt": "2026-08-27T09:49:55.193Z",
+  "windowStart": "2026-08-20T09:49:55.193Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,19 +11,11 @@
   ],
   "stories": [
     {
-      "objectID": "49371857",
-      "title": "Don't paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "domain": "dontpastetheai.com",
-      "points": 1054,
-      "publishedAt": "2026-08-20T08:20:44.000Z"
-    },
-    {
       "objectID": "49411102",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
-      "points": 813,
+      "points": 816,
       "publishedAt": "2026-08-23T18:16:37.000Z"
     },
     {
@@ -31,7 +23,7 @@
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "url": "https://ericpardee.github.io/fire-hd-ownership",
       "domain": "ericpardee.github.io",
-      "points": 696,
+      "points": 697,
       "publishedAt": "2026-08-23T14:23:09.000Z"
     },
     {
@@ -51,11 +43,19 @@
       "publishedAt": "2026-08-23T20:38:09.000Z"
     },
     {
+      "objectID": "49458418",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "domain": "github.com",
+      "points": 597,
+      "publishedAt": "2026-08-27T01:46:22.000Z"
+    },
+    {
       "objectID": "49434378",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "domain": "newsletter.semianalysis.com",
-      "points": 572,
+      "points": 579,
       "publishedAt": "2026-08-25T14:06:02.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
-      "points": 555,
+      "points": 558,
       "publishedAt": "2026-08-24T15:52:33.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "domain": "cymerys.com",
-      "points": 518,
+      "points": 521,
       "publishedAt": "2026-08-21T11:48:05.000Z"
     },
     {
@@ -83,6 +83,14 @@
       "publishedAt": "2026-08-22T18:14:16.000Z"
     },
     {
+      "objectID": "49446422",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "domain": "bloomberg.com",
+      "points": 425,
+      "publishedAt": "2026-08-26T10:04:55.000Z"
+    },
+    {
       "objectID": "49410932",
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
@@ -91,19 +99,11 @@
       "publishedAt": "2026-08-23T17:59:52.000Z"
     },
     {
-      "objectID": "49446422",
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "domain": "bloomberg.com",
-      "points": 395,
-      "publishedAt": "2026-08-26T10:04:55.000Z"
-    },
-    {
       "objectID": "49413561",
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion",
       "domain": "pantel.is",
-      "points": 394,
+      "points": 395,
       "publishedAt": "2026-08-23T23:18:17.000Z"
     },
     {
@@ -115,19 +115,11 @@
       "publishedAt": "2026-08-20T19:05:36.000Z"
     },
     {
-      "objectID": "49367350",
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "domain": "github.com",
-      "points": 377,
-      "publishedAt": "2026-08-19T21:19:50.000Z"
-    },
-    {
       "objectID": "49421074",
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
       "url": "https://developers.openai.com/api/docs/pricing",
       "domain": "developers.openai.com",
-      "points": 336,
+      "points": 337,
       "publishedAt": "2026-08-24T15:22:43.000Z"
     },
     {
@@ -143,8 +135,32 @@
       "title": "How much of HN is AI?",
       "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "domain": "blog.coredump.cx",
-      "points": 273,
+      "points": 274,
       "publishedAt": "2026-08-25T15:23:41.000Z"
+    },
+    {
+      "objectID": "49454314",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "domain": "openai.com",
+      "points": 260,
+      "publishedAt": "2026-08-26T19:15:23.000Z"
+    },
+    {
+      "objectID": "49451313",
+      "title": "The turbulent AI era is here",
+      "url": "https://gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "domain": "gatesnotes.com",
+      "points": 250,
+      "publishedAt": "2026-08-26T15:55:15.000Z"
+    },
+    {
+      "objectID": "49447600",
+      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+      "url": "https://theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "domain": "theguardian.com",
+      "points": 241,
+      "publishedAt": "2026-08-26T12:11:19.000Z"
     },
     {
       "objectID": "49410097",
@@ -153,22 +169,6 @@
       "domain": "reinvently.co.uk",
       "points": 239,
       "publishedAt": "2026-08-23T16:24:21.000Z"
-    },
-    {
-      "objectID": "49447600",
-      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-      "url": "https://theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "domain": "theguardian.com",
-      "points": 230,
-      "publishedAt": "2026-08-26T12:11:19.000Z"
-    },
-    {
-      "objectID": "49401549",
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "domain": "twitter.com",
-      "points": 216,
-      "publishedAt": "2026-08-22T16:58:49.000Z"
     }
   ]
 }
