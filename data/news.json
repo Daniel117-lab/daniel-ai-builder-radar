@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-27T09:49:55.193Z",
-  "windowStart": "2026-08-20T09:49:55.193Z",
+  "fetchedAt": "2026-08-27T22:16:22.860Z",
+  "windowStart": "2026-08-20T22:16:22.860Z",
   "queries": [
     "AI",
     "LLM",
@@ -10,6 +10,14 @@
     "Anthropic"
   ],
   "stories": [
+    {
+      "objectID": "49458418",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "domain": "github.com",
+      "points": 922,
+      "publishedAt": "2026-08-27T01:46:22.000Z"
+    },
     {
       "objectID": "49411102",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
@@ -31,7 +39,7 @@
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "domain": "annas-archive.gl",
-      "points": 646,
+      "points": 647,
       "publishedAt": "2026-08-21T02:37:47.000Z"
     },
     {
@@ -43,19 +51,11 @@
       "publishedAt": "2026-08-23T20:38:09.000Z"
     },
     {
-      "objectID": "49458418",
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "domain": "github.com",
-      "points": 597,
-      "publishedAt": "2026-08-27T01:46:22.000Z"
-    },
-    {
       "objectID": "49434378",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "domain": "newsletter.semianalysis.com",
-      "points": 579,
+      "points": 582,
       "publishedAt": "2026-08-25T14:06:02.000Z"
     },
     {
@@ -83,11 +83,19 @@
       "publishedAt": "2026-08-22T18:14:16.000Z"
     },
     {
+      "objectID": "49462253",
+      "title": "Tell HN: PayPal blocks GrapheneOS",
+      "url": "https://news.ycombinator.com/item?id=49462253",
+      "domain": "news.ycombinator.com",
+      "points": 437,
+      "publishedAt": "2026-08-27T09:56:54.000Z"
+    },
+    {
       "objectID": "49446422",
       "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
       "url": "https://bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "domain": "bloomberg.com",
-      "points": 425,
+      "points": 429,
       "publishedAt": "2026-08-26T10:04:55.000Z"
     },
     {
@@ -95,7 +103,7 @@
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
       "domain": "fabiensanglard.net",
-      "points": 414,
+      "points": 415,
       "publishedAt": "2026-08-23T17:59:52.000Z"
     },
     {
@@ -103,16 +111,16 @@
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion",
       "domain": "pantel.is",
-      "points": 395,
+      "points": 396,
       "publishedAt": "2026-08-23T23:18:17.000Z"
     },
     {
-      "objectID": "49378768",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://danielvaughn.dev/posts/huzzah",
-      "domain": "danielvaughn.dev",
-      "points": 384,
-      "publishedAt": "2026-08-20T19:05:36.000Z"
+      "objectID": "49451313",
+      "title": "The turbulent AI era is here",
+      "url": "https://gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "domain": "gatesnotes.com",
+      "points": 342,
+      "publishedAt": "2026-08-26T15:55:15.000Z"
     },
     {
       "objectID": "49421074",
@@ -123,12 +131,12 @@
       "publishedAt": "2026-08-24T15:22:43.000Z"
     },
     {
-      "objectID": "49375996",
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "domain": "github.com",
-      "points": 305,
-      "publishedAt": "2026-08-20T15:26:02.000Z"
+      "objectID": "49454314",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "domain": "openai.com",
+      "points": 328,
+      "publishedAt": "2026-08-26T19:15:23.000Z"
     },
     {
       "objectID": "49435728",
@@ -139,27 +147,19 @@
       "publishedAt": "2026-08-25T15:23:41.000Z"
     },
     {
-      "objectID": "49454314",
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "domain": "openai.com",
-      "points": 260,
-      "publishedAt": "2026-08-26T19:15:23.000Z"
-    },
-    {
-      "objectID": "49451313",
-      "title": "The turbulent AI era is here",
-      "url": "https://gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "domain": "gatesnotes.com",
-      "points": 250,
-      "publishedAt": "2026-08-26T15:55:15.000Z"
+      "objectID": "49450898",
+      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+      "url": "https://ssp.sh/brain/using-obsidian-with-ai",
+      "domain": "ssp.sh",
+      "points": 247,
+      "publishedAt": "2026-08-26T15:30:05.000Z"
     },
     {
       "objectID": "49447600",
       "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
       "url": "https://theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
       "domain": "theguardian.com",
-      "points": 241,
+      "points": 243,
       "publishedAt": "2026-08-26T12:11:19.000Z"
     },
     {
