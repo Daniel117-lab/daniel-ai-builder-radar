@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-27T22:16:22.860Z",
-  "windowStart": "2026-08-20T22:16:22.860Z",
+  "fetchedAt": "2026-08-28T11:24:21.361Z",
+  "windowStart": "2026-08-21T11:24:21.361Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
-      "points": 922,
+      "points": 978,
       "publishedAt": "2026-08-27T01:46:22.000Z"
     },
     {
@@ -35,14 +35,6 @@
       "publishedAt": "2026-08-23T14:23:09.000Z"
     },
     {
-      "objectID": "49383026",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "domain": "annas-archive.gl",
-      "points": 647,
-      "publishedAt": "2026-08-21T02:37:47.000Z"
-    },
-    {
       "objectID": "49412396",
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
@@ -55,7 +47,7 @@
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "domain": "newsletter.semianalysis.com",
-      "points": 582,
+      "points": 583,
       "publishedAt": "2026-08-25T14:06:02.000Z"
     },
     {
@@ -87,7 +79,7 @@
       "title": "Tell HN: PayPal blocks GrapheneOS",
       "url": "https://news.ycombinator.com/item?id=49462253",
       "domain": "news.ycombinator.com",
-      "points": 437,
+      "points": 489,
       "publishedAt": "2026-08-27T09:56:54.000Z"
     },
     {
@@ -95,7 +87,7 @@
       "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
       "url": "https://bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "domain": "bloomberg.com",
-      "points": 429,
+      "points": 433,
       "publishedAt": "2026-08-26T10:04:55.000Z"
     },
     {
@@ -111,7 +103,7 @@
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion",
       "domain": "pantel.is",
-      "points": 396,
+      "points": 398,
       "publishedAt": "2026-08-23T23:18:17.000Z"
     },
     {
@@ -119,7 +111,7 @@
       "title": "The turbulent AI era is here",
       "url": "https://gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
-      "points": 342,
+      "points": 359,
       "publishedAt": "2026-08-26T15:55:15.000Z"
     },
     {
@@ -127,7 +119,7 @@
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
       "url": "https://developers.openai.com/api/docs/pricing",
       "domain": "developers.openai.com",
-      "points": 337,
+      "points": 338,
       "publishedAt": "2026-08-24T15:22:43.000Z"
     },
     {
@@ -135,7 +127,7 @@
       "title": "The Hugging Face incident and the road ahead",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "domain": "openai.com",
-      "points": 328,
+      "points": 330,
       "publishedAt": "2026-08-26T19:15:23.000Z"
     },
     {
@@ -147,11 +139,19 @@
       "publishedAt": "2026-08-25T15:23:41.000Z"
     },
     {
+      "objectID": "49473522",
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "domain": "nytimes.com",
+      "points": 253,
+      "publishedAt": "2026-08-28T02:03:38.000Z"
+    },
+    {
       "objectID": "49450898",
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
       "url": "https://ssp.sh/brain/using-obsidian-with-ai",
       "domain": "ssp.sh",
-      "points": 247,
+      "points": 253,
       "publishedAt": "2026-08-26T15:30:05.000Z"
     },
     {
@@ -159,7 +159,7 @@
       "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
       "url": "https://theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
       "domain": "theguardian.com",
-      "points": 243,
+      "points": 244,
       "publishedAt": "2026-08-26T12:11:19.000Z"
     },
     {
