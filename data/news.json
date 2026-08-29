@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-29T07:05:33.184Z",
-  "windowStart": "2026-08-22T07:05:33.184Z",
+  "fetchedAt": "2026-08-29T16:43:33.965Z",
+  "windowStart": "2026-08-22T16:43:33.965Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
-      "points": 1010,
+      "points": 1013,
       "publishedAt": "2026-08-27T01:46:22.000Z"
     },
     {
@@ -23,15 +23,23 @@
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "domain": "ft.com",
-      "points": 818,
+      "points": 819,
       "publishedAt": "2026-08-23T18:16:37.000Z"
+    },
+    {
+      "objectID": "49486172",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "domain": "openai.com",
+      "points": 702,
+      "publishedAt": "2026-08-29T01:47:53.000Z"
     },
     {
       "objectID": "49409073",
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "url": "https://ericpardee.github.io/fire-hd-ownership",
       "domain": "ericpardee.github.io",
-      "points": 701,
+      "points": 702,
       "publishedAt": "2026-08-23T14:23:09.000Z"
     },
     {
@@ -43,20 +51,20 @@
       "publishedAt": "2026-08-23T20:38:09.000Z"
     },
     {
+      "objectID": "49473522",
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "domain": "nytimes.com",
+      "points": 594,
+      "publishedAt": "2026-08-28T02:03:38.000Z"
+    },
+    {
       "objectID": "49434378",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "domain": "newsletter.semianalysis.com",
       "points": 584,
       "publishedAt": "2026-08-25T14:06:02.000Z"
-    },
-    {
-      "objectID": "49473522",
-      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-      "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "domain": "nytimes.com",
-      "points": 570,
-      "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
       "objectID": "49421554",
@@ -67,6 +75,14 @@
       "publishedAt": "2026-08-24T15:52:33.000Z"
     },
     {
+      "objectID": "49462253",
+      "title": "Tell HN: PayPal blocks GrapheneOS",
+      "url": "https://news.ycombinator.com/item?id=49462253",
+      "domain": "news.ycombinator.com",
+      "points": 507,
+      "publishedAt": "2026-08-27T09:56:54.000Z"
+    },
+    {
       "objectID": "49402232",
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
@@ -75,19 +91,11 @@
       "publishedAt": "2026-08-22T18:14:16.000Z"
     },
     {
-      "objectID": "49462253",
-      "title": "Tell HN: PayPal blocks GrapheneOS",
-      "url": "https://news.ycombinator.com/item?id=49462253",
-      "domain": "news.ycombinator.com",
-      "points": 505,
-      "publishedAt": "2026-08-27T09:56:54.000Z"
-    },
-    {
       "objectID": "49475079",
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
       "domain": "blog.luanti.org",
-      "points": 479,
+      "points": 500,
       "publishedAt": "2026-08-28T06:33:57.000Z"
     },
     {
@@ -107,14 +115,6 @@
       "publishedAt": "2026-08-23T17:59:52.000Z"
     },
     {
-      "objectID": "49486172",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "domain": "openai.com",
-      "points": 412,
-      "publishedAt": "2026-08-29T01:47:53.000Z"
-    },
-    {
       "objectID": "49413561",
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion",
@@ -127,7 +127,7 @@
       "title": "The turbulent AI era is here",
       "url": "https://gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
-      "points": 360,
+      "points": 361,
       "publishedAt": "2026-08-26T15:55:15.000Z"
     },
     {
@@ -151,24 +151,24 @@
       "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
       "url": "https://reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28",
       "domain": "reuters.com",
-      "points": 324,
+      "points": 325,
       "publishedAt": "2026-08-28T11:25:30.000Z"
+    },
+    {
+      "objectID": "49489982",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231",
+      "domain": "lwn.net",
+      "points": 285,
+      "publishedAt": "2026-08-29T14:02:10.000Z"
     },
     {
       "objectID": "49435728",
       "title": "How much of HN is AI?",
       "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "domain": "blog.coredump.cx",
-      "points": 274,
+      "points": 275,
       "publishedAt": "2026-08-25T15:23:41.000Z"
-    },
-    {
-      "objectID": "49450898",
-      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "url": "https://ssp.sh/brain/using-obsidian-with-ai",
-      "domain": "ssp.sh",
-      "points": 258,
-      "publishedAt": "2026-08-26T15:30:05.000Z"
     }
   ]
 }
