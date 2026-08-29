@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-29T16:43:33.965Z",
-  "windowStart": "2026-08-22T16:43:33.965Z",
+  "fetchedAt": "2026-08-29T20:55:42.818Z",
+  "windowStart": "2026-08-22T20:55:42.818Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
-      "points": 1013,
+      "points": 1019,
       "publishedAt": "2026-08-27T01:46:22.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "domain": "openai.com",
-      "points": 702,
+      "points": 771,
       "publishedAt": "2026-08-29T01:47:53.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
       "domain": "nytimes.com",
-      "points": 594,
+      "points": 603,
       "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
@@ -79,24 +79,24 @@
       "title": "Tell HN: PayPal blocks GrapheneOS",
       "url": "https://news.ycombinator.com/item?id=49462253",
       "domain": "news.ycombinator.com",
-      "points": 507,
+      "points": 509,
       "publishedAt": "2026-08-27T09:56:54.000Z"
-    },
-    {
-      "objectID": "49402232",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "domain": "forum.level1techs.com",
-      "points": 507,
-      "publishedAt": "2026-08-22T18:14:16.000Z"
     },
     {
       "objectID": "49475079",
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
       "domain": "blog.luanti.org",
-      "points": 500,
+      "points": 508,
       "publishedAt": "2026-08-28T06:33:57.000Z"
+    },
+    {
+      "objectID": "49489982",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231",
+      "domain": "lwn.net",
+      "points": 456,
+      "publishedAt": "2026-08-29T14:02:10.000Z"
     },
     {
       "objectID": "49446422",
@@ -155,20 +155,20 @@
       "publishedAt": "2026-08-28T11:25:30.000Z"
     },
     {
-      "objectID": "49489982",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231",
-      "domain": "lwn.net",
-      "points": 285,
-      "publishedAt": "2026-08-29T14:02:10.000Z"
-    },
-    {
       "objectID": "49435728",
       "title": "How much of HN is AI?",
       "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "domain": "blog.coredump.cx",
       "points": 275,
       "publishedAt": "2026-08-25T15:23:41.000Z"
+    },
+    {
+      "objectID": "49485416",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis",
+      "domain": "pwning.systems",
+      "points": 263,
+      "publishedAt": "2026-08-28T23:27:45.000Z"
     }
   ]
 }
