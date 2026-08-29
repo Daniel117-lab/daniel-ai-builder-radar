@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-28T22:20:49.092Z",
-  "windowStart": "2026-08-21T22:20:49.092Z",
+  "fetchedAt": "2026-08-29T07:05:33.184Z",
+  "windowStart": "2026-08-22T07:05:33.184Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
-      "points": 1008,
+      "points": 1010,
       "publishedAt": "2026-08-27T01:46:22.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "url": "https://ericpardee.github.io/fire-hd-ownership",
       "domain": "ericpardee.github.io",
-      "points": 700,
+      "points": 701,
       "publishedAt": "2026-08-23T14:23:09.000Z"
     },
     {
@@ -49,6 +49,14 @@
       "domain": "newsletter.semianalysis.com",
       "points": 584,
       "publishedAt": "2026-08-25T14:06:02.000Z"
+    },
+    {
+      "objectID": "49473522",
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "domain": "nytimes.com",
+      "points": 570,
+      "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
       "objectID": "49421554",
@@ -71,16 +79,16 @@
       "title": "Tell HN: PayPal blocks GrapheneOS",
       "url": "https://news.ycombinator.com/item?id=49462253",
       "domain": "news.ycombinator.com",
-      "points": 499,
+      "points": 505,
       "publishedAt": "2026-08-27T09:56:54.000Z"
     },
     {
-      "objectID": "49473522",
-      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-      "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "domain": "nytimes.com",
-      "points": 454,
-      "publishedAt": "2026-08-28T02:03:38.000Z"
+      "objectID": "49475079",
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
+      "domain": "blog.luanti.org",
+      "points": 479,
+      "publishedAt": "2026-08-28T06:33:57.000Z"
     },
     {
       "objectID": "49446422",
@@ -99,12 +107,12 @@
       "publishedAt": "2026-08-23T17:59:52.000Z"
     },
     {
-      "objectID": "49475079",
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
-      "domain": "blog.luanti.org",
-      "points": 398,
-      "publishedAt": "2026-08-28T06:33:57.000Z"
+      "objectID": "49486172",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "domain": "openai.com",
+      "points": 412,
+      "publishedAt": "2026-08-29T01:47:53.000Z"
     },
     {
       "objectID": "49413561",
@@ -135,7 +143,7 @@
       "title": "The Hugging Face incident and the road ahead",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "domain": "openai.com",
-      "points": 332,
+      "points": 333,
       "publishedAt": "2026-08-26T19:15:23.000Z"
     },
     {
@@ -143,7 +151,7 @@
       "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
       "url": "https://reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28",
       "domain": "reuters.com",
-      "points": 321,
+      "points": 324,
       "publishedAt": "2026-08-28T11:25:30.000Z"
     },
     {
@@ -159,16 +167,8 @@
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
       "url": "https://ssp.sh/brain/using-obsidian-with-ai",
       "domain": "ssp.sh",
-      "points": 257,
+      "points": 258,
       "publishedAt": "2026-08-26T15:30:05.000Z"
-    },
-    {
-      "objectID": "49447600",
-      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-      "url": "https://theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "domain": "theguardian.com",
-      "points": 245,
-      "publishedAt": "2026-08-26T12:11:19.000Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-28T22:20:49.806Z",
-  "windowStart": "2026-08-25T22:20:49.806Z",
+  "fetchedAt": "2026-08-29T07:05:33.628Z",
+  "windowStart": "2026-08-26T07:05:33.628Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868022-20260829.htm",
+      "title": "港股ADR與本港收市比較個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868022-20260829.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-28T23:20:55.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1868017-20260829.htm",
       "title": "美股低收　沃什抗通脹言論增市場加息憂慮",
@@ -225,102 +233,6 @@
       "source": "香港電台財經新聞",
       "market": "cn",
       "publishedAt": "2026-08-26T07:13:05.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867604-20260826.htm",
-      "title": "日股高收逾0.6%　連升兩日",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867604-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-26T06:42:17.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867605-20260826.htm",
-      "title": "韓股高收近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867605-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-26T06:42:00.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867602-20260826.htm",
-      "title": "台股高收約1.5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867602-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-26T06:41:30.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867595-20260826.htm",
-      "title": "恒指下午初段升逾100點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867595-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-26T05:12:17.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867585-20260826.htm",
-      "title": "恒指半日升174點　科指升約1.6%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867585-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-26T04:16:58.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867581-20260826.htm",
-      "title": "滬指半日升0.7%　深證成指升逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867581-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-26T03:37:12.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867573-20260826.htm",
-      "title": "日股半日升近0.6%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867573-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-26T02:32:38.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867565-20260826.htm",
-      "title": "恒指競價時段升124點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867565-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-26T01:26:38.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867562-20260826.htm",
-      "title": "台股初段偏軟",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867562-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-26T01:11:09.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867556-20260826.htm",
-      "title": "韓股初段靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867556-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-26T00:17:53.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867555-20260826.htm",
-      "title": "日股初段偏軟",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867555-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-26T00:17:43.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867543-20260826.htm",
-      "title": "港股ADR多數較本港收市上升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867543-20260826.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-25T23:33:49.000Z"
     }
   ]
 }
