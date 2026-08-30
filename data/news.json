@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-30T05:25:05.955Z",
-  "windowStart": "2026-08-23T05:25:05.955Z",
+  "fetchedAt": "2026-08-30T11:55:19.912Z",
+  "windowStart": "2026-08-23T11:55:19.912Z",
   "queries": [
     "AI",
     "LLM",
@@ -31,7 +31,7 @@
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "domain": "openai.com",
-      "points": 808,
+      "points": 818,
       "publishedAt": "2026-08-29T01:47:53.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
       "domain": "nytimes.com",
-      "points": 614,
+      "points": 623,
       "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
       "domain": "blog.luanti.org",
-      "points": 516,
+      "points": 518,
       "publishedAt": "2026-08-28T06:33:57.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "Debian votes to allow \"responsible use of generative AI\"",
       "url": "https://lwn.net/Articles/1091231",
       "domain": "lwn.net",
-      "points": 475,
+      "points": 490,
       "publishedAt": "2026-08-29T14:02:10.000Z"
     },
     {
@@ -103,7 +103,7 @@
       "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
       "url": "https://bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "domain": "bloomberg.com",
-      "points": 433,
+      "points": 434,
       "publishedAt": "2026-08-26T10:04:55.000Z"
     },
     {
@@ -115,11 +115,19 @@
       "publishedAt": "2026-08-23T17:59:52.000Z"
     },
     {
+      "objectID": "49491568",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "domain": "newsletter.eng-leadership.com",
+      "points": 403,
+      "publishedAt": "2026-08-29T17:19:47.000Z"
+    },
+    {
       "objectID": "49413561",
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion",
       "domain": "pantel.is",
-      "points": 398,
+      "points": 399,
       "publishedAt": "2026-08-23T23:18:17.000Z"
     },
     {
@@ -155,19 +163,11 @@
       "publishedAt": "2026-08-28T11:25:30.000Z"
     },
     {
-      "objectID": "49491568",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "domain": "newsletter.eng-leadership.com",
-      "points": 317,
-      "publishedAt": "2026-08-29T17:19:47.000Z"
-    },
-    {
       "objectID": "49485416",
       "title": "I accidentally turned LLM memory into program analysis",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis",
       "domain": "pwning.systems",
-      "points": 283,
+      "points": 295,
       "publishedAt": "2026-08-28T23:27:45.000Z"
     }
   ]

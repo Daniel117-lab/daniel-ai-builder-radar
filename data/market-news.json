@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-30T05:25:06.603Z",
-  "windowStart": "2026-08-27T05:25:06.603Z",
+  "fetchedAt": "2026-08-30T11:55:20.593Z",
+  "windowStart": "2026-08-27T11:55:20.593Z",
   "markets": [
     {
       "id": "hk",
@@ -137,46 +137,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-08-27T13:45:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867787-20260827.htm",
-      "title": "港股低收87點　科指反覆偏軟",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867787-20260827.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-27T08:42:14.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867776-20260827.htm",
-      "title": "滬深股市高收逾1%　創業板指數升1.7%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867776-20260827.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-27T07:14:37.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867773-20260827.htm",
-      "title": "韓股高收逾1.5%　連升3日",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867773-20260827.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-27T06:45:27.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867772-20260827.htm",
-      "title": "日股低收0.2%　結束兩連升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867772-20260827.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-27T06:42:37.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867771-20260827.htm",
-      "title": "台股高收0.3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867771-20260827.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-27T06:37:20.000Z"
     }
   ]
 }
