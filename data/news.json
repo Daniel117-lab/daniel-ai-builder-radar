@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-30T11:55:19.912Z",
-  "windowStart": "2026-08-23T11:55:19.912Z",
+  "fetchedAt": "2026-08-30T16:41:26.327Z",
+  "windowStart": "2026-08-23T16:41:26.327Z",
   "queries": [
     "AI",
     "LLM",
@@ -19,6 +19,14 @@
       "publishedAt": "2026-08-27T01:46:22.000Z"
     },
     {
+      "objectID": "49486172",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "domain": "openai.com",
+      "points": 825,
+      "publishedAt": "2026-08-29T01:47:53.000Z"
+    },
+    {
       "objectID": "49411102",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
@@ -27,27 +35,11 @@
       "publishedAt": "2026-08-23T18:16:37.000Z"
     },
     {
-      "objectID": "49486172",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "domain": "openai.com",
-      "points": 818,
-      "publishedAt": "2026-08-29T01:47:53.000Z"
-    },
-    {
-      "objectID": "49409073",
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://ericpardee.github.io/fire-hd-ownership",
-      "domain": "ericpardee.github.io",
-      "points": 703,
-      "publishedAt": "2026-08-23T14:23:09.000Z"
-    },
-    {
       "objectID": "49473522",
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
       "domain": "nytimes.com",
-      "points": 623,
+      "points": 625,
       "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
@@ -55,7 +47,7 @@
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
       "domain": "twitter.com",
-      "points": 605,
+      "points": 606,
       "publishedAt": "2026-08-23T20:38:09.000Z"
     },
     {
@@ -79,7 +71,7 @@
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
       "domain": "blog.luanti.org",
-      "points": 518,
+      "points": 519,
       "publishedAt": "2026-08-28T06:33:57.000Z"
     },
     {
@@ -95,7 +87,7 @@
       "title": "Debian votes to allow \"responsible use of generative AI\"",
       "url": "https://lwn.net/Articles/1091231",
       "domain": "lwn.net",
-      "points": 490,
+      "points": 492,
       "publishedAt": "2026-08-29T14:02:10.000Z"
     },
     {
@@ -107,20 +99,20 @@
       "publishedAt": "2026-08-26T10:04:55.000Z"
     },
     {
+      "objectID": "49491568",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "domain": "newsletter.eng-leadership.com",
+      "points": 423,
+      "publishedAt": "2026-08-29T17:19:47.000Z"
+    },
+    {
       "objectID": "49410932",
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
       "domain": "fabiensanglard.net",
       "points": 415,
       "publishedAt": "2026-08-23T17:59:52.000Z"
-    },
-    {
-      "objectID": "49491568",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "domain": "newsletter.eng-leadership.com",
-      "points": 403,
-      "publishedAt": "2026-08-29T17:19:47.000Z"
     },
     {
       "objectID": "49413561",
@@ -167,8 +159,16 @@
       "title": "I accidentally turned LLM memory into program analysis",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis",
       "domain": "pwning.systems",
-      "points": 295,
+      "points": 298,
       "publishedAt": "2026-08-28T23:27:45.000Z"
+    },
+    {
+      "objectID": "49435728",
+      "title": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "domain": "blog.coredump.cx",
+      "points": 275,
+      "publishedAt": "2026-08-25T15:23:41.000Z"
     }
   ]
 }

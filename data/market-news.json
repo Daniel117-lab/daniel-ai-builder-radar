@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-30T11:55:20.593Z",
-  "windowStart": "2026-08-27T11:55:20.593Z",
+  "fetchedAt": "2026-08-30T16:41:27.068Z",
+  "windowStart": "2026-08-27T16:41:27.068Z",
   "markets": [
     {
       "id": "hk",
@@ -129,14 +129,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-08-27T21:35:01.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867822-20260827.htm",
-      "title": "美股初段造好　納指升近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867822-20260827.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-08-27T13:45:49.000Z"
     }
   ]
 }
