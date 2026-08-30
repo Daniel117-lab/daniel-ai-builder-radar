@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-29T20:55:43.696Z",
-  "windowStart": "2026-08-26T20:55:43.696Z",
+  "fetchedAt": "2026-08-30T05:25:06.603Z",
+  "windowStart": "2026-08-27T05:25:06.603Z",
   "markets": [
     {
       "id": "hk",
@@ -177,38 +177,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-08-27T06:37:20.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867762-20260827.htm",
-      "title": "恒指下午初段跌逾100點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867762-20260827.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-27T05:10:39.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867753-20260827.htm",
-      "title": "恒指半日跌108點　科指微升0.2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867753-20260827.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-27T04:48:44.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867751-20260827.htm",
-      "title": "滬指半日升0.6%　深證成指成逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867751-20260827.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-27T03:49:08.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867740-20260827.htm",
-      "title": "日股反覆偏軟　半日跌約百點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867740-20260827.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-27T02:44:42.000Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-29T20:55:42.818Z",
-  "windowStart": "2026-08-22T20:55:42.818Z",
+  "fetchedAt": "2026-08-30T05:25:05.955Z",
+  "windowStart": "2026-08-23T05:25:05.955Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
-      "points": 1019,
+      "points": 1023,
       "publishedAt": "2026-08-27T01:46:22.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "domain": "openai.com",
-      "points": 771,
+      "points": 808,
       "publishedAt": "2026-08-29T01:47:53.000Z"
     },
     {
@@ -39,8 +39,16 @@
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "url": "https://ericpardee.github.io/fire-hd-ownership",
       "domain": "ericpardee.github.io",
-      "points": 702,
+      "points": 703,
       "publishedAt": "2026-08-23T14:23:09.000Z"
+    },
+    {
+      "objectID": "49473522",
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "domain": "nytimes.com",
+      "points": 614,
+      "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
       "objectID": "49412396",
@@ -49,14 +57,6 @@
       "domain": "twitter.com",
       "points": 605,
       "publishedAt": "2026-08-23T20:38:09.000Z"
-    },
-    {
-      "objectID": "49473522",
-      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-      "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "domain": "nytimes.com",
-      "points": 603,
-      "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
       "objectID": "49434378",
@@ -75,27 +75,27 @@
       "publishedAt": "2026-08-24T15:52:33.000Z"
     },
     {
-      "objectID": "49462253",
-      "title": "Tell HN: PayPal blocks GrapheneOS",
-      "url": "https://news.ycombinator.com/item?id=49462253",
-      "domain": "news.ycombinator.com",
-      "points": 509,
-      "publishedAt": "2026-08-27T09:56:54.000Z"
-    },
-    {
       "objectID": "49475079",
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
       "domain": "blog.luanti.org",
-      "points": 508,
+      "points": 516,
       "publishedAt": "2026-08-28T06:33:57.000Z"
+    },
+    {
+      "objectID": "49462253",
+      "title": "Tell HN: PayPal blocks GrapheneOS",
+      "url": "https://news.ycombinator.com/item?id=49462253",
+      "domain": "news.ycombinator.com",
+      "points": 511,
+      "publishedAt": "2026-08-27T09:56:54.000Z"
     },
     {
       "objectID": "49489982",
       "title": "Debian votes to allow \"responsible use of generative AI\"",
       "url": "https://lwn.net/Articles/1091231",
       "domain": "lwn.net",
-      "points": 456,
+      "points": 475,
       "publishedAt": "2026-08-29T14:02:10.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "The turbulent AI era is here",
       "url": "https://gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
-      "points": 361,
+      "points": 363,
       "publishedAt": "2026-08-26T15:55:15.000Z"
     },
     {
@@ -155,19 +155,19 @@
       "publishedAt": "2026-08-28T11:25:30.000Z"
     },
     {
-      "objectID": "49435728",
-      "title": "How much of HN is AI?",
-      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-      "domain": "blog.coredump.cx",
-      "points": 275,
-      "publishedAt": "2026-08-25T15:23:41.000Z"
+      "objectID": "49491568",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "domain": "newsletter.eng-leadership.com",
+      "points": 317,
+      "publishedAt": "2026-08-29T17:19:47.000Z"
     },
     {
       "objectID": "49485416",
       "title": "I accidentally turned LLM memory into program analysis",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis",
       "domain": "pwning.systems",
-      "points": 263,
+      "points": 283,
       "publishedAt": "2026-08-28T23:27:45.000Z"
     }
   ]
