@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-30T16:41:26.327Z",
-  "windowStart": "2026-08-23T16:41:26.327Z",
+  "fetchedAt": "2026-08-30T21:06:50.429Z",
+  "windowStart": "2026-08-23T21:06:50.429Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
-      "points": 1023,
+      "points": 1026,
       "publishedAt": "2026-08-27T01:46:22.000Z"
     },
     {
@@ -23,32 +23,16 @@
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "domain": "openai.com",
-      "points": 825,
+      "points": 826,
       "publishedAt": "2026-08-29T01:47:53.000Z"
-    },
-    {
-      "objectID": "49411102",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "domain": "ft.com",
-      "points": 819,
-      "publishedAt": "2026-08-23T18:16:37.000Z"
     },
     {
       "objectID": "49473522",
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
       "domain": "nytimes.com",
-      "points": 625,
+      "points": 628,
       "publishedAt": "2026-08-28T02:03:38.000Z"
-    },
-    {
-      "objectID": "49412396",
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "domain": "twitter.com",
-      "points": 606,
-      "publishedAt": "2026-08-23T20:38:09.000Z"
     },
     {
       "objectID": "49434378",
@@ -63,7 +47,7 @@
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
-      "points": 558,
+      "points": 559,
       "publishedAt": "2026-08-24T15:52:33.000Z"
     },
     {
@@ -71,7 +55,7 @@
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
       "domain": "blog.luanti.org",
-      "points": 519,
+      "points": 520,
       "publishedAt": "2026-08-28T06:33:57.000Z"
     },
     {
@@ -79,7 +63,7 @@
       "title": "Tell HN: PayPal blocks GrapheneOS",
       "url": "https://news.ycombinator.com/item?id=49462253",
       "domain": "news.ycombinator.com",
-      "points": 511,
+      "points": 512,
       "publishedAt": "2026-08-27T09:56:54.000Z"
     },
     {
@@ -87,8 +71,16 @@
       "title": "Debian votes to allow \"responsible use of generative AI\"",
       "url": "https://lwn.net/Articles/1091231",
       "domain": "lwn.net",
-      "points": 492,
+      "points": 495,
       "publishedAt": "2026-08-29T14:02:10.000Z"
+    },
+    {
+      "objectID": "49491568",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "domain": "newsletter.eng-leadership.com",
+      "points": 441,
+      "publishedAt": "2026-08-29T17:19:47.000Z"
     },
     {
       "objectID": "49446422",
@@ -97,22 +89,6 @@
       "domain": "bloomberg.com",
       "points": 434,
       "publishedAt": "2026-08-26T10:04:55.000Z"
-    },
-    {
-      "objectID": "49491568",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "domain": "newsletter.eng-leadership.com",
-      "points": 423,
-      "publishedAt": "2026-08-29T17:19:47.000Z"
-    },
-    {
-      "objectID": "49410932",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "domain": "fabiensanglard.net",
-      "points": 415,
-      "publishedAt": "2026-08-23T17:59:52.000Z"
     },
     {
       "objectID": "49413561",
@@ -159,7 +135,7 @@
       "title": "I accidentally turned LLM memory into program analysis",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis",
       "domain": "pwning.systems",
-      "points": 298,
+      "points": 299,
       "publishedAt": "2026-08-28T23:27:45.000Z"
     },
     {
@@ -169,6 +145,30 @@
       "domain": "blog.coredump.cx",
       "points": 275,
       "publishedAt": "2026-08-25T15:23:41.000Z"
+    },
+    {
+      "objectID": "49450898",
+      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+      "url": "https://ssp.sh/brain/using-obsidian-with-ai",
+      "domain": "ssp.sh",
+      "points": 261,
+      "publishedAt": "2026-08-26T15:30:05.000Z"
+    },
+    {
+      "objectID": "49498095",
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "domain": "noaifridays.com",
+      "points": 255,
+      "publishedAt": "2026-08-30T12:31:05.000Z"
+    },
+    {
+      "objectID": "49447600",
+      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+      "url": "https://theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "domain": "theguardian.com",
+      "points": 247,
+      "publishedAt": "2026-08-26T12:11:19.000Z"
     }
   ]
 }
