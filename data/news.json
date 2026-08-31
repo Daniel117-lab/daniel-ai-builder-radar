@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-31T05:36:34.856Z",
-  "windowStart": "2026-08-24T05:36:34.856Z",
+  "fetchedAt": "2026-08-31T13:52:15.678Z",
+  "windowStart": "2026-08-24T13:52:15.678Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
-      "points": 1027,
+      "points": 1029,
       "publishedAt": "2026-08-27T01:46:22.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "domain": "openai.com",
-      "points": 834,
+      "points": 841,
       "publishedAt": "2026-08-29T01:47:53.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
       "domain": "nytimes.com",
-      "points": 633,
+      "points": 639,
       "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "domain": "larsfaye.com",
-      "points": 559,
+      "points": 560,
       "publishedAt": "2026-08-24T15:52:33.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
       "domain": "blog.luanti.org",
-      "points": 521,
+      "points": 522,
       "publishedAt": "2026-08-28T06:33:57.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Debian votes to allow \"responsible use of generative AI\"",
       "url": "https://lwn.net/Articles/1091231",
       "domain": "lwn.net",
-      "points": 500,
+      "points": 509,
       "publishedAt": "2026-08-29T14:02:10.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "domain": "newsletter.eng-leadership.com",
-      "points": 456,
+      "points": 467,
       "publishedAt": "2026-08-29T17:19:47.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
       "url": "https://reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28",
       "domain": "reuters.com",
-      "points": 325,
+      "points": 327,
       "publishedAt": "2026-08-28T11:25:30.000Z"
     },
     {
@@ -119,8 +119,16 @@
       "title": "I accidentally turned LLM memory into program analysis",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis",
       "domain": "pwning.systems",
-      "points": 300,
+      "points": 302,
       "publishedAt": "2026-08-28T23:27:45.000Z"
+    },
+    {
+      "objectID": "49498095",
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "domain": "noaifridays.com",
+      "points": 277,
+      "publishedAt": "2026-08-30T12:31:05.000Z"
     },
     {
       "objectID": "49435728",
@@ -131,20 +139,20 @@
       "publishedAt": "2026-08-25T15:23:41.000Z"
     },
     {
-      "objectID": "49498095",
-      "title": "No AI Fridays",
-      "url": "https://noaifridays.com/",
-      "domain": "noaifridays.com",
-      "points": 266,
-      "publishedAt": "2026-08-30T12:31:05.000Z"
-    },
-    {
       "objectID": "49450898",
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
       "url": "https://ssp.sh/brain/using-obsidian-with-ai",
       "domain": "ssp.sh",
-      "points": 261,
+      "points": 262,
       "publishedAt": "2026-08-26T15:30:05.000Z"
+    },
+    {
+      "objectID": "49494301",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://dwarkesh.com/p/openai-huggingface",
+      "domain": "dwarkesh.com",
+      "points": 247,
+      "publishedAt": "2026-08-29T23:43:24.000Z"
     },
     {
       "objectID": "49447600",
@@ -159,16 +167,8 @@
       "title": "StemDeck, a free, open-source and local AI stem separator",
       "url": "https://github.com/stemdeckapp/stemdeck",
       "domain": "github.com",
-      "points": 241,
+      "points": 243,
       "publishedAt": "2026-08-29T01:24:13.000Z"
-    },
-    {
-      "objectID": "49494301",
-      "title": "The Rise and Fall of Agent Civilizations",
-      "url": "https://dwarkesh.com/p/openai-huggingface",
-      "domain": "dwarkesh.com",
-      "points": 233,
-      "publishedAt": "2026-08-29T23:43:24.000Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-31T05:36:35.359Z",
-  "windowStart": "2026-08-28T05:36:35.359Z",
+  "fetchedAt": "2026-08-31T13:52:16.310Z",
+  "windowStart": "2026-08-28T13:52:16.310Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,54 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868295-20260831.htm",
+      "title": "美股初段下跌　市場關注中東局勢",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868295-20260831.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-08-31T13:44:32.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868254-20260831.htm",
+      "title": "恒指低收17點　主板成交重上3千億元　8月港股跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868254-20260831.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-08-31T08:34:29.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868246-20260831.htm",
+      "title": "滬指8月升逾4%　創業板指數及深證成指升近3%或以上",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868246-20260831.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-08-31T07:50:47.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868242-20260831.htm",
+      "title": "韓股先跌後升　8月累升逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868242-20260831.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-31T07:07:49.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868239-20260831.htm",
+      "title": "日股跌幅收窄至93點　8月累計升3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868239-20260831.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-31T07:05:33.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868235-20260831.htm",
+      "title": "台股跌逾200點　結束4連升　8月累升近7%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868235-20260831.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-08-31T05:58:11.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1868230-20260831.htm",
       "title": "恒指下午初段跌逾150點",
@@ -121,62 +169,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-08-28T21:15:16.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867994-20260828.htm",
-      "title": "美股初段個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867994-20260828.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-08-28T13:34:03.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867947-20260828.htm",
-      "title": "港股高收19點　恒指本周累跌逾1.6%　科指累跌逾3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867947-20260828.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-28T08:39:31.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867943-20260828.htm",
-      "title": "滬股本周累升逾1%　創業板指數累跌3.4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867943-20260828.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-28T07:56:34.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867932-20260828.htm",
-      "title": "財政部歡迎標普確認中國主權評級　充分肯定中國經濟韌性",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867932-20260828.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-08-28T07:07:53.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867933-20260828.htm",
-      "title": "韓股收市跌近2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867933-20260828.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-28T07:06:28.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867930-20260828.htm",
-      "title": "日股本周累升近0.6%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867930-20260828.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-28T06:51:44.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1867927-20260828.htm",
-      "title": "台股高收近1%　本周累計升逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1867927-20260828.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-28T06:06:48.000Z"
     }
   ]
 }
