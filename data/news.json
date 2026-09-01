@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-01T11:40:20.352Z",
-  "windowStart": "2026-08-25T11:40:20.352Z",
+  "fetchedAt": "2026-09-01T21:02:52.870Z",
+  "windowStart": "2026-08-25T21:02:52.870Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "domain": "github.com",
-      "points": 1030,
+      "points": 1031,
       "publishedAt": "2026-08-27T01:46:22.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "domain": "openai.com",
-      "points": 844,
+      "points": 845,
       "publishedAt": "2026-08-29T01:47:53.000Z"
     },
     {
@@ -31,23 +31,23 @@
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
       "domain": "nytimes.com",
-      "points": 645,
+      "points": 646,
       "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
-      "objectID": "49434378",
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "domain": "newsletter.semianalysis.com",
-      "points": 584,
-      "publishedAt": "2026-08-25T14:06:02.000Z"
+      "objectID": "49525378",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
+      "domain": "anthropic.com",
+      "points": 640,
+      "publishedAt": "2026-09-01T17:53:53.000Z"
     },
     {
       "objectID": "49475079",
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
       "domain": "blog.luanti.org",
-      "points": 524,
+      "points": 526,
       "publishedAt": "2026-08-28T06:33:57.000Z"
     },
     {
@@ -55,8 +55,24 @@
       "title": "Debian votes to allow \"responsible use of generative AI\"",
       "url": "https://lwn.net/Articles/1091231",
       "domain": "lwn.net",
-      "points": 513,
+      "points": 514,
       "publishedAt": "2026-08-29T14:02:10.000Z"
+    },
+    {
+      "objectID": "49508982",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "domain": "macrumors.com",
+      "points": 488,
+      "publishedAt": "2026-08-31T12:41:22.000Z"
+    },
+    {
+      "objectID": "49519939",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1",
+      "domain": "mvakde.github.io",
+      "points": 482,
+      "publishedAt": "2026-09-01T09:52:45.000Z"
     },
     {
       "objectID": "49491568",
@@ -71,16 +87,8 @@
       "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
       "url": "https://bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "domain": "bloomberg.com",
-      "points": 434,
+      "points": 435,
       "publishedAt": "2026-08-26T10:04:55.000Z"
-    },
-    {
-      "objectID": "49508982",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "domain": "macrumors.com",
-      "points": 423,
-      "publishedAt": "2026-08-31T12:41:22.000Z"
     },
     {
       "objectID": "49451313",
@@ -91,11 +99,19 @@
       "publishedAt": "2026-08-26T15:55:15.000Z"
     },
     {
+      "objectID": "49493468",
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years",
+      "domain": "simpleflying.com",
+      "points": 351,
+      "publishedAt": "2026-08-29T21:25:17.000Z"
+    },
+    {
       "objectID": "49454314",
       "title": "The Hugging Face incident and the road ahead",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
       "domain": "openai.com",
-      "points": 334,
+      "points": 335,
       "publishedAt": "2026-08-26T19:15:23.000Z"
     },
     {
@@ -119,23 +135,23 @@
       "title": "No AI Fridays",
       "url": "https://noaifridays.com/",
       "domain": "noaifridays.com",
-      "points": 286,
+      "points": 289,
       "publishedAt": "2026-08-30T12:31:05.000Z"
     },
     {
-      "objectID": "49435728",
-      "title": "How much of HN is AI?",
-      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-      "domain": "blog.coredump.cx",
-      "points": 275,
-      "publishedAt": "2026-08-25T15:23:41.000Z"
+      "objectID": "49496292",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ",
+      "domain": "chosun.com",
+      "points": 269,
+      "publishedAt": "2026-08-30T06:52:04.000Z"
     },
     {
       "objectID": "49494301",
       "title": "The Rise and Fall of Agent Civilizations",
       "url": "https://dwarkesh.com/p/openai-huggingface",
       "domain": "dwarkesh.com",
-      "points": 264,
+      "points": 269,
       "publishedAt": "2026-08-29T23:43:24.000Z"
     },
     {
@@ -143,7 +159,7 @@
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
       "url": "https://ssp.sh/brain/using-obsidian-with-ai",
       "domain": "ssp.sh",
-      "points": 262,
+      "points": 263,
       "publishedAt": "2026-08-26T15:30:05.000Z"
     },
     {
@@ -153,22 +169,6 @@
       "domain": "theguardian.com",
       "points": 247,
       "publishedAt": "2026-08-26T12:11:19.000Z"
-    },
-    {
-      "objectID": "49486081",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "url": "https://github.com/stemdeckapp/stemdeck",
-      "domain": "github.com",
-      "points": 244,
-      "publishedAt": "2026-08-29T01:24:13.000Z"
-    },
-    {
-      "objectID": "49496292",
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ",
-      "domain": "chosun.com",
-      "points": 223,
-      "publishedAt": "2026-08-30T06:52:04.000Z"
     }
   ]
 }

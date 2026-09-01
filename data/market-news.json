@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-01T11:40:20.967Z",
-  "windowStart": "2026-08-29T11:40:20.967Z",
+  "fetchedAt": "2026-09-01T21:02:53.455Z",
+  "windowStart": "2026-08-29T21:02:53.455Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868436-20260901.htm",
+      "title": "美股初段下跌　晶片股向下",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868436-20260901.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-01T13:42:14.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1868406-20260901.htm",
       "title": "恒指9月開局低收237點　科指跌約1.5%",
