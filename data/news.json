@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-08-31T22:51:20.837Z",
-  "windowStart": "2026-08-24T22:51:20.837Z",
+  "fetchedAt": "2026-09-01T05:09:37.061Z",
+  "windowStart": "2026-08-25T05:09:37.061Z",
   "queries": [
     "AI",
     "LLM",
@@ -55,7 +55,7 @@
       "title": "Debian votes to allow \"responsible use of generative AI\"",
       "url": "https://lwn.net/Articles/1091231",
       "domain": "lwn.net",
-      "points": 510,
+      "points": 512,
       "publishedAt": "2026-08-29T14:02:10.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "domain": "newsletter.eng-leadership.com",
-      "points": 475,
+      "points": 476,
       "publishedAt": "2026-08-29T17:19:47.000Z"
     },
     {
@@ -81,6 +81,14 @@
       "domain": "gatesnotes.com",
       "points": 364,
       "publishedAt": "2026-08-26T15:55:15.000Z"
+    },
+    {
+      "objectID": "49508982",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "domain": "macrumors.com",
+      "points": 358,
+      "publishedAt": "2026-08-31T12:41:22.000Z"
     },
     {
       "objectID": "49454314",
@@ -111,7 +119,7 @@
       "title": "No AI Fridays",
       "url": "https://noaifridays.com/",
       "domain": "noaifridays.com",
-      "points": 284,
+      "points": 285,
       "publishedAt": "2026-08-30T12:31:05.000Z"
     },
     {
@@ -135,16 +143,8 @@
       "title": "The Rise and Fall of Agent Civilizations",
       "url": "https://dwarkesh.com/p/openai-huggingface",
       "domain": "dwarkesh.com",
-      "points": 256,
+      "points": 258,
       "publishedAt": "2026-08-29T23:43:24.000Z"
-    },
-    {
-      "objectID": "49508982",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "domain": "macrumors.com",
-      "points": 251,
-      "publishedAt": "2026-08-31T12:41:22.000Z"
     },
     {
       "objectID": "49447600",
