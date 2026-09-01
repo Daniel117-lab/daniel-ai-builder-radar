@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-01T05:09:37.061Z",
-  "windowStart": "2026-08-25T05:09:37.061Z",
+  "fetchedAt": "2026-09-01T11:40:20.352Z",
+  "windowStart": "2026-08-25T11:40:20.352Z",
   "queries": [
     "AI",
     "LLM",
@@ -31,7 +31,7 @@
       "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
       "domain": "nytimes.com",
-      "points": 644,
+      "points": 645,
       "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
       "domain": "blog.luanti.org",
-      "points": 523,
+      "points": 524,
       "publishedAt": "2026-08-28T06:33:57.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Debian votes to allow \"responsible use of generative AI\"",
       "url": "https://lwn.net/Articles/1091231",
       "domain": "lwn.net",
-      "points": 512,
+      "points": 513,
       "publishedAt": "2026-08-29T14:02:10.000Z"
     },
     {
@@ -75,20 +75,20 @@
       "publishedAt": "2026-08-26T10:04:55.000Z"
     },
     {
+      "objectID": "49508982",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
+      "domain": "macrumors.com",
+      "points": 423,
+      "publishedAt": "2026-08-31T12:41:22.000Z"
+    },
+    {
       "objectID": "49451313",
       "title": "The turbulent AI era is here",
       "url": "https://gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
       "points": 364,
       "publishedAt": "2026-08-26T15:55:15.000Z"
-    },
-    {
-      "objectID": "49508982",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "domain": "macrumors.com",
-      "points": 358,
-      "publishedAt": "2026-08-31T12:41:22.000Z"
     },
     {
       "objectID": "49454314",
@@ -119,7 +119,7 @@
       "title": "No AI Fridays",
       "url": "https://noaifridays.com/",
       "domain": "noaifridays.com",
-      "points": 285,
+      "points": 286,
       "publishedAt": "2026-08-30T12:31:05.000Z"
     },
     {
@@ -131,20 +131,20 @@
       "publishedAt": "2026-08-25T15:23:41.000Z"
     },
     {
+      "objectID": "49494301",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://dwarkesh.com/p/openai-huggingface",
+      "domain": "dwarkesh.com",
+      "points": 264,
+      "publishedAt": "2026-08-29T23:43:24.000Z"
+    },
+    {
       "objectID": "49450898",
       "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
       "url": "https://ssp.sh/brain/using-obsidian-with-ai",
       "domain": "ssp.sh",
       "points": 262,
       "publishedAt": "2026-08-26T15:30:05.000Z"
-    },
-    {
-      "objectID": "49494301",
-      "title": "The Rise and Fall of Agent Civilizations",
-      "url": "https://dwarkesh.com/p/openai-huggingface",
-      "domain": "dwarkesh.com",
-      "points": 258,
-      "publishedAt": "2026-08-29T23:43:24.000Z"
     },
     {
       "objectID": "49447600",
@@ -163,12 +163,12 @@
       "publishedAt": "2026-08-29T01:24:13.000Z"
     },
     {
-      "objectID": "49474143",
-      "title": "Please stop flooding our projects with AI slop to furnish your CV",
-      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-      "domain": "neilalexander.dev",
-      "points": 213,
-      "publishedAt": "2026-08-28T03:49:33.000Z"
+      "objectID": "49496292",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ",
+      "domain": "chosun.com",
+      "points": 223,
+      "publishedAt": "2026-08-30T06:52:04.000Z"
     }
   ]
 }
