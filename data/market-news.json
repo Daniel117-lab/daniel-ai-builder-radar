@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-02T11:19:41.050Z",
-  "windowStart": "2026-08-30T11:19:41.050Z",
+  "fetchedAt": "2026-09-02T16:35:16.372Z",
+  "windowStart": "2026-08-30T16:35:16.372Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868581-20260902.htm",
+      "title": "美股初段上升　市場關注債息走勢",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868581-20260902.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-02T13:42:56.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1868544-20260902.htm",
       "title": "恒指力守25000點關口　最終低收18點",
