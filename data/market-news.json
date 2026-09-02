@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-01T21:02:53.455Z",
-  "windowStart": "2026-08-29T21:02:53.455Z",
+  "fetchedAt": "2026-09-02T04:35:18.886Z",
+  "windowStart": "2026-08-30T04:35:18.886Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,78 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868505-20260902.htm",
+      "title": "港股半日跌242點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868505-20260902.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-02T04:21:15.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868502-20260902.htm",
+      "title": "內地股市半日跌逾0.8%至2%以上",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868502-20260902.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-02T03:49:06.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868495-20260902.htm",
+      "title": "日股半日急挫逾1740點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868495-20260902.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-02T02:36:05.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868493-20260902.htm",
+      "title": "恒指跌逾300點　下試25000點關口",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868493-20260902.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-02T02:34:01.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868482-20260902.htm",
+      "title": "恒指低開48點　國泰跌近2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868482-20260902.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-02T01:27:55.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868477-20260902.htm",
+      "title": "台股初段跌逾200點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868477-20260902.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-02T01:06:46.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868472-20260902.htm",
+      "title": "韓股初段跌2.53%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868472-20260902.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-02T00:22:50.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868471-20260902.htm",
+      "title": "日股初段跌約2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868471-20260902.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-02T00:22:38.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868466-20260902.htm",
+      "title": "港股美國預託證券個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868466-20260902.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-01T22:26:31.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1868436-20260901.htm",
       "title": "美股初段下跌　晶片股向下",

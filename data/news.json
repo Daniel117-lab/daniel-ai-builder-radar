@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-01T21:02:52.870Z",
-  "windowStart": "2026-08-25T21:02:52.870Z",
+  "fetchedAt": "2026-09-02T04:35:18.322Z",
+  "windowStart": "2026-08-26T04:35:18.322Z",
   "queries": [
     "AI",
     "LLM",
@@ -19,6 +19,14 @@
       "publishedAt": "2026-08-27T01:46:22.000Z"
     },
     {
+      "objectID": "49525378",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
+      "domain": "anthropic.com",
+      "points": 1027,
+      "publishedAt": "2026-09-01T17:53:53.000Z"
+    },
+    {
       "objectID": "49486172",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
@@ -35,12 +43,20 @@
       "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
-      "objectID": "49525378",
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
-      "domain": "anthropic.com",
-      "points": 640,
-      "publishedAt": "2026-09-01T17:53:53.000Z"
+      "objectID": "49519939",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1",
+      "domain": "mvakde.github.io",
+      "points": 596,
+      "publishedAt": "2026-09-01T09:52:45.000Z"
+    },
+    {
+      "objectID": "49526069",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron",
+      "domain": "danluu.com",
+      "points": 528,
+      "publishedAt": "2026-09-01T18:35:15.000Z"
     },
     {
       "objectID": "49475079",
@@ -55,7 +71,7 @@
       "title": "Debian votes to allow \"responsible use of generative AI\"",
       "url": "https://lwn.net/Articles/1091231",
       "domain": "lwn.net",
-      "points": 514,
+      "points": 515,
       "publishedAt": "2026-08-29T14:02:10.000Z"
     },
     {
@@ -63,16 +79,8 @@
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
       "domain": "macrumors.com",
-      "points": 488,
+      "points": 492,
       "publishedAt": "2026-08-31T12:41:22.000Z"
-    },
-    {
-      "objectID": "49519939",
-      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-      "url": "https://mvakde.github.io/blog/44-on-arc-1",
-      "domain": "mvakde.github.io",
-      "points": 482,
-      "publishedAt": "2026-09-01T09:52:45.000Z"
     },
     {
       "objectID": "49491568",
@@ -91,20 +99,20 @@
       "publishedAt": "2026-08-26T10:04:55.000Z"
     },
     {
+      "objectID": "49493468",
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years",
+      "domain": "simpleflying.com",
+      "points": 375,
+      "publishedAt": "2026-08-29T21:25:17.000Z"
+    },
+    {
       "objectID": "49451313",
       "title": "The turbulent AI era is here",
       "url": "https://gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "domain": "gatesnotes.com",
       "points": 364,
       "publishedAt": "2026-08-26T15:55:15.000Z"
-    },
-    {
-      "objectID": "49493468",
-      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years",
-      "domain": "simpleflying.com",
-      "points": 351,
-      "publishedAt": "2026-08-29T21:25:17.000Z"
     },
     {
       "objectID": "49454314",
@@ -143,7 +151,7 @@
       "title": "Smartphone LED detects hidden cameras with AI",
       "url": "https://chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ",
       "domain": "chosun.com",
-      "points": 269,
+      "points": 273,
       "publishedAt": "2026-08-30T06:52:04.000Z"
     },
     {
@@ -151,7 +159,7 @@
       "title": "The Rise and Fall of Agent Civilizations",
       "url": "https://dwarkesh.com/p/openai-huggingface",
       "domain": "dwarkesh.com",
-      "points": 269,
+      "points": 270,
       "publishedAt": "2026-08-29T23:43:24.000Z"
     },
     {
@@ -161,14 +169,6 @@
       "domain": "ssp.sh",
       "points": 263,
       "publishedAt": "2026-08-26T15:30:05.000Z"
-    },
-    {
-      "objectID": "49447600",
-      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-      "url": "https://theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "domain": "theguardian.com",
-      "points": 247,
-      "publishedAt": "2026-08-26T12:11:19.000Z"
     }
   ]
 }
