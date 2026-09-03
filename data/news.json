@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-03T16:26:06.615Z",
-  "windowStart": "2026-08-27T16:26:06.615Z",
+  "fetchedAt": "2026-09-03T21:02:46.532Z",
+  "windowStart": "2026-08-27T21:02:46.532Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
       "domain": "anthropic.com",
-      "points": 1401,
+      "points": 1404,
       "publishedAt": "2026-09-01T17:53:53.000Z"
     },
     {
@@ -23,23 +23,23 @@
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron",
       "domain": "danluu.com",
-      "points": 858,
+      "points": 864,
       "publishedAt": "2026-09-01T18:35:15.000Z"
     },
     {
-      "objectID": "49486172",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "objectID": "49554643",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra",
       "domain": "openai.com",
-      "points": 848,
-      "publishedAt": "2026-08-29T01:47:53.000Z"
+      "points": 737,
+      "publishedAt": "2026-09-03T18:41:05.000Z"
     },
     {
       "objectID": "49519939",
       "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "url": "https://mvakde.github.io/blog/44-on-arc-1",
       "domain": "mvakde.github.io",
-      "points": 661,
+      "points": 662,
       "publishedAt": "2026-09-01T09:52:45.000Z"
     },
     {
@@ -63,8 +63,16 @@
       "title": "Debian votes to allow \"responsible use of generative AI\"",
       "url": "https://lwn.net/Articles/1091231",
       "domain": "lwn.net",
-      "points": 515,
+      "points": 516,
       "publishedAt": "2026-08-29T14:02:10.000Z"
+    },
+    {
+      "objectID": "49536375",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
+      "domain": "trellner.com",
+      "points": 503,
+      "publishedAt": "2026-09-02T13:59:59.000Z"
     },
     {
       "objectID": "49508982",
@@ -73,14 +81,6 @@
       "domain": "macrumors.com",
       "points": 499,
       "publishedAt": "2026-08-31T12:41:22.000Z"
-    },
-    {
-      "objectID": "49536375",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
-      "domain": "trellner.com",
-      "points": 494,
-      "publishedAt": "2026-09-02T13:59:59.000Z"
     },
     {
       "objectID": "49491568",
@@ -119,7 +119,7 @@
       "title": "No AI Fridays",
       "url": "https://noaifridays.com/",
       "domain": "noaifridays.com",
-      "points": 291,
+      "points": 292,
       "publishedAt": "2026-08-30T12:31:05.000Z"
     },
     {
@@ -127,16 +127,16 @@
       "title": "Smartphone LED detects hidden cameras with AI",
       "url": "https://chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ",
       "domain": "chosun.com",
-      "points": 282,
+      "points": 283,
       "publishedAt": "2026-08-30T06:52:04.000Z"
     },
     {
-      "objectID": "49494301",
-      "title": "The Rise and Fall of Agent Civilizations",
-      "url": "https://dwarkesh.com/p/openai-huggingface",
-      "domain": "dwarkesh.com",
-      "points": 273,
-      "publishedAt": "2026-08-29T23:43:24.000Z"
+      "objectID": "49551096",
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "domain": "news.ycombinator.com",
+      "points": 275,
+      "publishedAt": "2026-09-03T15:07:01.000Z"
     },
     {
       "objectID": "49486081",
@@ -163,12 +163,12 @@
       "publishedAt": "2026-09-01T15:53:42.000Z"
     },
     {
-      "objectID": "49474143",
-      "title": "Please stop flooding our projects with AI slop to furnish your CV",
-      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-      "domain": "neilalexander.dev",
-      "points": 213,
-      "publishedAt": "2026-08-28T03:49:33.000Z"
+      "objectID": "49554273",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "url": "https://cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "domain": "cnbc.com",
+      "points": 220,
+      "publishedAt": "2026-09-03T18:18:22.000Z"
     }
   ]
 }
