@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-03T04:34:10.323Z",
-  "windowStart": "2026-08-31T04:34:10.323Z",
+  "fetchedAt": "2026-09-03T11:15:27.874Z",
+  "windowStart": "2026-08-31T11:15:27.874Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,46 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868683-20260903.htm",
+      "title": "恒指低收97點　主板成交額不足2千億元",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868683-20260903.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-03T08:27:44.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868668-20260903.htm",
+      "title": "韓股收市靠穩",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868668-20260903.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-03T06:55:00.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868666-20260903.htm",
+      "title": "日股收市偏軟　連跌4日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868666-20260903.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-03T06:53:04.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868662-20260903.htm",
+      "title": "台股轉跌收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868662-20260903.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-03T05:55:04.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868659-20260903.htm",
+      "title": "港股下午初段轉跌逾40點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868659-20260903.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-03T05:15:02.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1868652-20260903.htm",
       "title": "恒指高開低走　半日升6點",
@@ -385,54 +425,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-08-31T13:44:32.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868254-20260831.htm",
-      "title": "恒指低收17點　主板成交重上3千億元　8月港股跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868254-20260831.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-31T08:34:29.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868246-20260831.htm",
-      "title": "滬指8月升逾4%　創業板指數及深證成指升近3%或以上",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868246-20260831.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-08-31T07:50:47.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868242-20260831.htm",
-      "title": "韓股先跌後升　8月累升逾3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868242-20260831.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-31T07:07:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868239-20260831.htm",
-      "title": "日股跌幅收窄至93點　8月累計升3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868239-20260831.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-31T07:05:33.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868235-20260831.htm",
-      "title": "台股跌逾200點　結束4連升　8月累升近7%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868235-20260831.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-08-31T05:58:11.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868230-20260831.htm",
-      "title": "恒指下午初段跌逾150點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868230-20260831.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-08-31T05:11:18.000Z"
     }
   ]
 }
