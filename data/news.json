@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-03T11:15:27.347Z",
-  "windowStart": "2026-08-27T11:15:27.347Z",
+  "fetchedAt": "2026-09-03T16:26:06.615Z",
+  "windowStart": "2026-08-27T16:26:06.615Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
       "domain": "anthropic.com",
-      "points": 1394,
+      "points": 1401,
       "publishedAt": "2026-09-01T17:53:53.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron",
       "domain": "danluu.com",
-      "points": 849,
+      "points": 858,
       "publishedAt": "2026-09-01T18:35:15.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "url": "https://mvakde.github.io/blog/44-on-arc-1",
       "domain": "mvakde.github.io",
-      "points": 657,
+      "points": 661,
       "publishedAt": "2026-09-01T09:52:45.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Luanti removed from Google Play due to baseless AI copyright notice",
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
       "domain": "blog.luanti.org",
-      "points": 528,
+      "points": 529,
       "publishedAt": "2026-08-28T06:33:57.000Z"
     },
     {
@@ -71,8 +71,16 @@
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
       "domain": "macrumors.com",
-      "points": 498,
+      "points": 499,
       "publishedAt": "2026-08-31T12:41:22.000Z"
+    },
+    {
+      "objectID": "49536375",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
+      "domain": "trellner.com",
+      "points": 494,
+      "publishedAt": "2026-09-02T13:59:59.000Z"
     },
     {
       "objectID": "49491568",
@@ -83,19 +91,11 @@
       "publishedAt": "2026-08-29T17:19:47.000Z"
     },
     {
-      "objectID": "49536375",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
-      "domain": "trellner.com",
-      "points": 437,
-      "publishedAt": "2026-09-02T13:59:59.000Z"
-    },
-    {
       "objectID": "49493468",
       "title": "American Airlines mechanic Azriel “Al” Blackman has died",
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years",
       "domain": "simpleflying.com",
-      "points": 382,
+      "points": 383,
       "publishedAt": "2026-08-29T21:25:17.000Z"
     },
     {
@@ -119,7 +119,7 @@
       "title": "No AI Fridays",
       "url": "https://noaifridays.com/",
       "domain": "noaifridays.com",
-      "points": 290,
+      "points": 291,
       "publishedAt": "2026-08-30T12:31:05.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "Smartphone LED detects hidden cameras with AI",
       "url": "https://chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ",
       "domain": "chosun.com",
-      "points": 280,
+      "points": 282,
       "publishedAt": "2026-08-30T06:52:04.000Z"
     },
     {
