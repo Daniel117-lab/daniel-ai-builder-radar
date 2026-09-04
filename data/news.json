@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-04T16:21:59.941Z",
-  "windowStart": "2026-08-28T16:21:59.941Z",
+  "fetchedAt": "2026-09-04T20:45:53.457Z",
+  "windowStart": "2026-08-28T20:45:53.457Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,31 +15,31 @@
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
       "domain": "anthropic.com",
-      "points": 1409,
+      "points": 1410,
       "publishedAt": "2026-09-01T17:53:53.000Z"
-    },
-    {
-      "objectID": "49526069",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron",
-      "domain": "danluu.com",
-      "points": 867,
-      "publishedAt": "2026-09-01T18:35:15.000Z"
     },
     {
       "objectID": "49563355",
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 723,
+      "points": 1267,
       "publishedAt": "2026-09-04T11:54:53.000Z"
+    },
+    {
+      "objectID": "49526069",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron",
+      "domain": "danluu.com",
+      "points": 871,
+      "publishedAt": "2026-09-01T18:35:15.000Z"
     },
     {
       "objectID": "49519939",
       "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "url": "https://mvakde.github.io/blog/44-on-arc-1",
       "domain": "mvakde.github.io",
-      "points": 665,
+      "points": 666,
       "publishedAt": "2026-09-01T09:52:45.000Z"
     },
     {
@@ -75,27 +75,27 @@
       "publishedAt": "2026-08-29T17:19:47.000Z"
     },
     {
-      "objectID": "49544762",
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "url": "https://kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "domain": "kedglobal.com",
-      "points": 424,
-      "publishedAt": "2026-09-03T01:11:22.000Z"
-    },
-    {
       "objectID": "49526453",
       "title": "The largest electric aircraft just flew [video]",
       "url": "https://youtube.com/watch?v=nM86DBOqgPM",
       "domain": "youtube.com",
-      "points": 419,
+      "points": 457,
       "publishedAt": "2026-09-01T19:02:34.000Z"
+    },
+    {
+      "objectID": "49544762",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "domain": "kedglobal.com",
+      "points": 454,
+      "publishedAt": "2026-09-03T01:11:22.000Z"
     },
     {
       "objectID": "49551096",
       "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
       "url": "https://news.ycombinator.com/item?id=49551096",
       "domain": "news.ycombinator.com",
-      "points": 385,
+      "points": 390,
       "publishedAt": "2026-09-03T15:07:01.000Z"
     },
     {
@@ -111,8 +111,16 @@
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
       "domain": "babyloniantwins.com",
-      "points": 342,
+      "points": 364,
       "publishedAt": "2026-09-03T14:28:18.000Z"
+    },
+    {
+      "objectID": "49563386",
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "domain": "productrise.app",
+      "points": 346,
+      "publishedAt": "2026-09-04T11:59:15.000Z"
     },
     {
       "objectID": "49485416",
@@ -143,16 +151,16 @@
       "title": "OpenAI begins rolling out GPT-6 Astra",
       "url": "https://cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
       "domain": "cnbc.com",
-      "points": 274,
+      "points": 275,
       "publishedAt": "2026-09-03T18:18:22.000Z"
     },
     {
-      "objectID": "49563386",
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "domain": "productrise.app",
-      "points": 258,
-      "publishedAt": "2026-09-04T11:59:15.000Z"
+      "objectID": "49568506",
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://anthropic.com/research/formalizing-fermats-last-theorem",
+      "domain": "anthropic.com",
+      "points": 250,
+      "publishedAt": "2026-09-04T18:42:56.000Z"
     },
     {
       "objectID": "49486081",
@@ -161,14 +169,6 @@
       "domain": "github.com",
       "points": 247,
       "publishedAt": "2026-08-29T01:24:13.000Z"
-    },
-    {
-      "objectID": "49527573",
-      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
-      "domain": "9to5mac.com",
-      "points": 245,
-      "publishedAt": "2026-09-01T20:19:11.000Z"
     }
   ]
 }
