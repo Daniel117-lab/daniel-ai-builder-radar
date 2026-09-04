@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-04T04:34:34.004Z",
-  "windowStart": "2026-08-28T04:34:34.004Z",
+  "fetchedAt": "2026-09-04T11:18:49.324Z",
+  "windowStart": "2026-08-28T11:18:49.324Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,19 +11,11 @@
   ],
   "stories": [
     {
-      "objectID": "49554643",
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "domain": "openai.com",
-      "points": 1481,
-      "publishedAt": "2026-09-03T18:41:05.000Z"
-    },
-    {
       "objectID": "49525378",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
       "domain": "anthropic.com",
-      "points": 1404,
+      "points": 1407,
       "publishedAt": "2026-09-01T17:53:53.000Z"
     },
     {
@@ -31,7 +23,7 @@
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron",
       "domain": "danluu.com",
-      "points": 864,
+      "points": 865,
       "publishedAt": "2026-09-01T18:35:15.000Z"
     },
     {
@@ -39,16 +31,8 @@
       "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "url": "https://mvakde.github.io/blog/44-on-arc-1",
       "domain": "mvakde.github.io",
-      "points": 662,
+      "points": 664,
       "publishedAt": "2026-09-01T09:52:45.000Z"
-    },
-    {
-      "objectID": "49475079",
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai",
-      "domain": "blog.luanti.org",
-      "points": 529,
-      "publishedAt": "2026-08-28T06:33:57.000Z"
     },
     {
       "objectID": "49489982",
@@ -63,7 +47,7 @@
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
       "domain": "trellner.com",
-      "points": 503,
+      "points": 508,
       "publishedAt": "2026-09-02T13:59:59.000Z"
     },
     {
@@ -95,8 +79,24 @@
       "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
       "url": "https://news.ycombinator.com/item?id=49551096",
       "domain": "news.ycombinator.com",
-      "points": 352,
+      "points": 375,
       "publishedAt": "2026-09-03T15:07:01.000Z"
+    },
+    {
+      "objectID": "49526453",
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://youtube.com/watch?v=nM86DBOqgPM",
+      "domain": "youtube.com",
+      "points": 350,
+      "publishedAt": "2026-09-01T19:02:34.000Z"
+    },
+    {
+      "objectID": "49544762",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "domain": "kedglobal.com",
+      "points": 331,
+      "publishedAt": "2026-09-03T01:11:22.000Z"
     },
     {
       "objectID": "49477055",
@@ -105,6 +105,14 @@
       "domain": "reuters.com",
       "points": 327,
       "publishedAt": "2026-08-28T11:25:30.000Z"
+    },
+    {
+      "objectID": "49550375",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+      "domain": "babyloniantwins.com",
+      "points": 306,
+      "publishedAt": "2026-09-03T14:28:18.000Z"
     },
     {
       "objectID": "49485416",
@@ -135,7 +143,7 @@
       "title": "OpenAI begins rolling out GPT-6 Astra",
       "url": "https://cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
       "domain": "cnbc.com",
-      "points": 252,
+      "points": 267,
       "publishedAt": "2026-09-03T18:18:22.000Z"
     },
     {
@@ -143,7 +151,7 @@
       "title": "StemDeck, a free, open-source and local AI stem separator",
       "url": "https://github.com/stemdeckapp/stemdeck",
       "domain": "github.com",
-      "points": 246,
+      "points": 247,
       "publishedAt": "2026-08-29T01:24:13.000Z"
     },
     {
@@ -153,14 +161,6 @@
       "domain": "9to5mac.com",
       "points": 244,
       "publishedAt": "2026-09-01T20:19:11.000Z"
-    },
-    {
-      "objectID": "49526453",
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://youtube.com/watch?v=nM86DBOqgPM",
-      "domain": "youtube.com",
-      "points": 239,
-      "publishedAt": "2026-09-01T19:02:34.000Z"
     },
     {
       "objectID": "49523720",
