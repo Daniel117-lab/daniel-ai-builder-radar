@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-04T11:18:49.940Z",
-  "windowStart": "2026-09-01T11:18:49.940Z",
+  "fetchedAt": "2026-09-04T16:22:00.559Z",
+  "windowStart": "2026-09-01T16:22:00.559Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868866-20260904.htm",
+      "title": "美股初段變動不大　非農就業報告勝預期",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868866-20260904.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-04T13:42:14.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1868826-20260904.htm",
       "title": "恒指高收437點　科指升逾2%",
@@ -409,14 +417,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-09-01T22:26:31.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868436-20260901.htm",
-      "title": "美股初段下跌　晶片股向下",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868436-20260901.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-01T13:42:14.000Z"
     }
   ]
 }
