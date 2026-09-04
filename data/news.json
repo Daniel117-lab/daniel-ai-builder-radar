@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-03T21:02:46.532Z",
-  "windowStart": "2026-08-27T21:02:46.532Z",
+  "fetchedAt": "2026-09-04T04:34:34.004Z",
+  "windowStart": "2026-08-28T04:34:34.004Z",
   "queries": [
     "AI",
     "LLM",
@@ -10,6 +10,14 @@
     "Anthropic"
   ],
   "stories": [
+    {
+      "objectID": "49554643",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "domain": "openai.com",
+      "points": 1481,
+      "publishedAt": "2026-09-03T18:41:05.000Z"
+    },
     {
       "objectID": "49525378",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
@@ -27,28 +35,12 @@
       "publishedAt": "2026-09-01T18:35:15.000Z"
     },
     {
-      "objectID": "49554643",
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "domain": "openai.com",
-      "points": 737,
-      "publishedAt": "2026-09-03T18:41:05.000Z"
-    },
-    {
       "objectID": "49519939",
       "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "url": "https://mvakde.github.io/blog/44-on-arc-1",
       "domain": "mvakde.github.io",
       "points": 662,
       "publishedAt": "2026-09-01T09:52:45.000Z"
-    },
-    {
-      "objectID": "49473522",
-      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-      "url": "https://nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "domain": "nytimes.com",
-      "points": 649,
-      "publishedAt": "2026-08-28T02:03:38.000Z"
     },
     {
       "objectID": "49475079",
@@ -79,7 +71,7 @@
       "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
       "url": "https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
       "domain": "macrumors.com",
-      "points": 499,
+      "points": 500,
       "publishedAt": "2026-08-31T12:41:22.000Z"
     },
     {
@@ -87,7 +79,7 @@
       "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "domain": "newsletter.eng-leadership.com",
-      "points": 478,
+      "points": 479,
       "publishedAt": "2026-08-29T17:19:47.000Z"
     },
     {
@@ -97,6 +89,14 @@
       "domain": "simpleflying.com",
       "points": 383,
       "publishedAt": "2026-08-29T21:25:17.000Z"
+    },
+    {
+      "objectID": "49551096",
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "domain": "news.ycombinator.com",
+      "points": 352,
+      "publishedAt": "2026-09-03T15:07:01.000Z"
     },
     {
       "objectID": "49477055",
@@ -131,12 +131,12 @@
       "publishedAt": "2026-08-30T06:52:04.000Z"
     },
     {
-      "objectID": "49551096",
-      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-      "url": "https://news.ycombinator.com/item?id=49551096",
-      "domain": "news.ycombinator.com",
-      "points": 275,
-      "publishedAt": "2026-09-03T15:07:01.000Z"
+      "objectID": "49554273",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "url": "https://cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "domain": "cnbc.com",
+      "points": 252,
+      "publishedAt": "2026-09-03T18:18:22.000Z"
     },
     {
       "objectID": "49486081",
@@ -151,8 +151,16 @@
       "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
       "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
       "domain": "9to5mac.com",
-      "points": 243,
+      "points": 244,
       "publishedAt": "2026-09-01T20:19:11.000Z"
+    },
+    {
+      "objectID": "49526453",
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://youtube.com/watch?v=nM86DBOqgPM",
+      "domain": "youtube.com",
+      "points": 239,
+      "publishedAt": "2026-09-01T19:02:34.000Z"
     },
     {
       "objectID": "49523720",
@@ -161,14 +169,6 @@
       "domain": "pcgamer.com",
       "points": 239,
       "publishedAt": "2026-09-01T15:53:42.000Z"
-    },
-    {
-      "objectID": "49554273",
-      "title": "OpenAI begins rolling out GPT-6 Astra",
-      "url": "https://cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "domain": "cnbc.com",
-      "points": 220,
-      "publishedAt": "2026-09-03T18:18:22.000Z"
     }
   ]
 }
