@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-06T15:28:47.359Z",
-  "windowStart": "2026-08-30T15:28:47.359Z",
+  "fetchedAt": "2026-09-06T20:24:53.622Z",
+  "windowStart": "2026-08-30T20:24:53.622Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2231,
+      "points": 2259,
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Formalizing Fermat's Last Theorem",
       "url": "https://anthropic.com/research/formalizing-fermats-last-theorem",
       "domain": "anthropic.com",
-      "points": 759,
+      "points": 763,
       "publishedAt": "2026-09-04T18:42:56.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
       "domain": "trellner.com",
-      "points": 516,
+      "points": 517,
       "publishedAt": "2026-09-02T13:59:59.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
       "domain": "eebench.org",
-      "points": 413,
+      "points": 414,
       "publishedAt": "2026-09-04T19:48:29.000Z"
     },
     {
@@ -99,20 +99,20 @@
       "publishedAt": "2026-09-03T15:07:01.000Z"
     },
     {
+      "objectID": "49574167",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "domain": "sylvainkalache.com",
+      "points": 398,
+      "publishedAt": "2026-09-05T07:52:50.000Z"
+    },
+    {
       "objectID": "49563386",
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
       "points": 396,
       "publishedAt": "2026-09-04T11:59:15.000Z"
-    },
-    {
-      "objectID": "49574167",
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "domain": "sylvainkalache.com",
-      "points": 393,
-      "publishedAt": "2026-09-05T07:52:50.000Z"
     },
     {
       "objectID": "49550375",
@@ -127,7 +127,7 @@
       "title": "LLMs as a Cognitive Virus",
       "url": "https://arxiv.org/abs/2609.03344",
       "domain": "arxiv.org",
-      "points": 340,
+      "points": 362,
       "publishedAt": "2026-09-05T20:02:35.000Z"
     },
     {
