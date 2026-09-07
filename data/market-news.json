@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-06T20:24:54.424Z",
-  "windowStart": "2026-09-03T20:24:54.424Z",
+  "fetchedAt": "2026-09-07T04:42:52.242Z",
+  "windowStart": "2026-09-04T04:42:52.242Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,70 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869103-20260907.htm",
+      "title": "恒指半日跌近1%　6隻內銀及內險股跌近2%至逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869103-20260907.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-07T04:19:51.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869098-20260907.htm",
+      "title": "滬深股市半日個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869098-20260907.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-07T03:55:40.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869090-20260907.htm",
+      "title": "日股半日升逾2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869090-20260907.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-07T02:50:37.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869081-20260907.htm",
+      "title": "滬指初段升逾0.2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869081-20260907.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-07T01:44:48.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869077-20260907.htm",
+      "title": "恒指競價時段升2點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869077-20260907.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-07T01:26:50.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869074-20260907.htm",
+      "title": "台股初段升逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869074-20260907.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-07T01:14:11.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869070-20260907.htm",
+      "title": "韓股初段升逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869070-20260907.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-07T00:08:07.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869069-20260907.htm",
+      "title": "日股初段升逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869069-20260907.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-07T00:07:56.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1868886-20260905.htm",
       "title": "港股美國預託證券個別發展",
@@ -97,94 +161,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-09-04T05:16:14.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868791-20260904.htm",
-      "title": "港股半日升524點　科指升逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868791-20260904.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-04T04:17:28.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868788-20260904.htm",
-      "title": "滬深股市半日靠穩　創業板指數升幅收窄至不足0.5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868788-20260904.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-04T03:47:16.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868781-20260904.htm",
-      "title": "日股半日升555點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868781-20260904.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-04T02:43:25.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868776-20260904.htm",
-      "title": "恒指升幅擴大至逾500點　升至25700點以上",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868776-20260904.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-04T01:52:32.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868770-20260904.htm",
-      "title": "內地股市早段上升　創業板指數升逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868770-20260904.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-04T01:48:24.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868769-20260904.htm",
-      "title": "恒指高開302點　科指升逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868769-20260904.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-04T01:25:24.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868766-20260904.htm",
-      "title": "台股初段升逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868766-20260904.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-04T01:14:52.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868762-20260904.htm",
-      "title": "韓股初段升逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868762-20260904.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-04T00:12:17.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868761-20260904.htm",
-      "title": "日股初段靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868761-20260904.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-04T00:12:07.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868756-20260904.htm",
-      "title": "港股美國預託證券普遍上升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868756-20260904.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-03T23:00:35.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868751-20260904.htm",
-      "title": "道指大升624點　納指升1.4%　沃勒言論緩和加息憂慮",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868751-20260904.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-03T21:53:32.000Z"
     }
   ]
 }

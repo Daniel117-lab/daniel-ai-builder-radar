@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-06T20:24:53.622Z",
-  "windowStart": "2026-08-30T20:24:53.622Z",
+  "fetchedAt": "2026-09-07T04:42:51.759Z",
+  "windowStart": "2026-08-31T04:42:51.759Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2259,
+      "points": 2270,
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron",
       "domain": "danluu.com",
-      "points": 873,
+      "points": 874,
       "publishedAt": "2026-09-01T18:35:15.000Z"
     },
     {
@@ -49,6 +49,14 @@
       "domain": "mvakde.github.io",
       "points": 668,
       "publishedAt": "2026-09-01T09:52:45.000Z"
+    },
+    {
+      "objectID": "49585644",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+      "domain": "bcantrill.dtrace.org",
+      "points": 600,
+      "publishedAt": "2026-09-06T11:56:43.000Z"
     },
     {
       "objectID": "49536375",
@@ -87,24 +95,24 @@
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
       "domain": "eebench.org",
-      "points": 414,
+      "points": 418,
       "publishedAt": "2026-09-04T19:48:29.000Z"
-    },
-    {
-      "objectID": "49551096",
-      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-      "url": "https://news.ycombinator.com/item?id=49551096",
-      "domain": "news.ycombinator.com",
-      "points": 400,
-      "publishedAt": "2026-09-03T15:07:01.000Z"
     },
     {
       "objectID": "49574167",
       "title": "AI handles incidents, engineers lose touch with their systems",
       "url": "https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
-      "points": 398,
+      "points": 408,
       "publishedAt": "2026-09-05T07:52:50.000Z"
+    },
+    {
+      "objectID": "49551096",
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "domain": "news.ycombinator.com",
+      "points": 401,
+      "publishedAt": "2026-09-03T15:07:01.000Z"
     },
     {
       "objectID": "49563386",
@@ -115,6 +123,14 @@
       "publishedAt": "2026-09-04T11:59:15.000Z"
     },
     {
+      "objectID": "49580164",
+      "title": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "domain": "arxiv.org",
+      "points": 382,
+      "publishedAt": "2026-09-05T20:02:35.000Z"
+    },
+    {
       "objectID": "49550375",
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
@@ -123,19 +139,11 @@
       "publishedAt": "2026-09-03T14:28:18.000Z"
     },
     {
-      "objectID": "49580164",
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "domain": "arxiv.org",
-      "points": 362,
-      "publishedAt": "2026-09-05T20:02:35.000Z"
-    },
-    {
       "objectID": "49566137",
       "title": "Corporate America is getting hooked on open-source AI",
       "url": "https://nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "domain": "nytimes.com",
-      "points": 329,
+      "points": 330,
       "publishedAt": "2026-09-04T15:33:45.000Z"
     },
     {
@@ -161,14 +169,6 @@
       "domain": "pcgamer.com",
       "points": 241,
       "publishedAt": "2026-09-01T15:53:42.000Z"
-    },
-    {
-      "objectID": "49555691",
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "url": "https://arcprize.org/blog/astra",
-      "domain": "arcprize.org",
-      "points": 236,
-      "publishedAt": "2026-09-03T19:45:00.000Z"
     }
   ]
 }
