@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-07T12:33:53.431Z",
-  "windowStart": "2026-08-31T12:33:53.431Z",
+  "fetchedAt": "2026-09-07T21:31:28.728Z",
+  "windowStart": "2026-08-31T21:31:28.728Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2278,
+      "points": 2285,
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron",
       "domain": "danluu.com",
-      "points": 875,
+      "points": 876,
       "publishedAt": "2026-09-01T18:35:15.000Z"
     },
     {
@@ -43,6 +43,14 @@
       "publishedAt": "2026-09-04T18:42:56.000Z"
     },
     {
+      "objectID": "49585644",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+      "domain": "bcantrill.dtrace.org",
+      "points": 702,
+      "publishedAt": "2026-09-06T11:56:43.000Z"
+    },
+    {
       "objectID": "49519939",
       "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "url": "https://mvakde.github.io/blog/44-on-arc-1",
@@ -51,28 +59,12 @@
       "publishedAt": "2026-09-01T09:52:45.000Z"
     },
     {
-      "objectID": "49585644",
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
-      "domain": "bcantrill.dtrace.org",
-      "points": 667,
-      "publishedAt": "2026-09-06T11:56:43.000Z"
-    },
-    {
       "objectID": "49536375",
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
       "domain": "trellner.com",
       "points": 517,
       "publishedAt": "2026-09-02T13:59:59.000Z"
-    },
-    {
-      "objectID": "49508982",
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "domain": "macrumors.com",
-      "points": 501,
-      "publishedAt": "2026-08-31T12:41:22.000Z"
     },
     {
       "objectID": "49526453",
@@ -103,7 +95,7 @@
       "title": "AI handles incidents, engineers lose touch with their systems",
       "url": "https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
-      "points": 411,
+      "points": 412,
       "publishedAt": "2026-09-05T07:52:50.000Z"
     },
     {
@@ -111,7 +103,7 @@
       "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
       "url": "https://news.ycombinator.com/item?id=49551096",
       "domain": "news.ycombinator.com",
-      "points": 403,
+      "points": 404,
       "publishedAt": "2026-09-03T15:07:01.000Z"
     },
     {
@@ -119,7 +111,7 @@
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
-      "points": 396,
+      "points": 398,
       "publishedAt": "2026-09-04T11:59:15.000Z"
     },
     {
@@ -127,7 +119,7 @@
       "title": "LLMs as a Cognitive Virus",
       "url": "https://arxiv.org/abs/2609.03344",
       "domain": "arxiv.org",
-      "points": 389,
+      "points": 391,
       "publishedAt": "2026-09-05T20:02:35.000Z"
     },
     {
@@ -143,7 +135,7 @@
       "title": "Corporate America is getting hooked on open-source AI",
       "url": "https://nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "domain": "nytimes.com",
-      "points": 330,
+      "points": 331,
       "publishedAt": "2026-09-04T15:33:45.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "pcgamer.com",
       "points": 241,
       "publishedAt": "2026-09-01T15:53:42.000Z"
+    },
+    {
+      "objectID": "49555691",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "domain": "arcprize.org",
+      "points": 238,
+      "publishedAt": "2026-09-03T19:45:00.000Z"
     }
   ]
 }
