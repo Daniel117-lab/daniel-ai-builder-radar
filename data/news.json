@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-08T11:20:09.084Z",
-  "windowStart": "2026-09-01T11:20:09.084Z",
+  "fetchedAt": "2026-09-08T16:39:11.841Z",
+  "windowStart": "2026-09-01T16:39:11.841Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2289,
+      "points": 2291,
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
       "domain": "anthropic.com",
-      "points": 1415,
+      "points": 1416,
       "publishedAt": "2026-09-01T17:53:53.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Formalizing Fermat's Last Theorem",
       "url": "https://anthropic.com/research/formalizing-fermats-last-theorem",
       "domain": "anthropic.com",
-      "points": 769,
+      "points": 770,
       "publishedAt": "2026-09-04T18:42:56.000Z"
     },
     {
@@ -49,6 +49,14 @@
       "domain": "bcantrill.dtrace.org",
       "points": 723,
       "publishedAt": "2026-09-06T11:56:43.000Z"
+    },
+    {
+      "objectID": "49610538",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+      "domain": "manualdousuario.net",
+      "points": 519,
+      "publishedAt": "2026-09-08T14:05:57.000Z"
     },
     {
       "objectID": "49536375",
@@ -103,7 +111,7 @@
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
-      "points": 400,
+      "points": 402,
       "publishedAt": "2026-09-04T11:59:15.000Z"
     },
     {
@@ -127,8 +135,16 @@
       "title": "Corporate America is getting hooked on open-source AI",
       "url": "https://nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "domain": "nytimes.com",
-      "points": 331,
+      "points": 332,
       "publishedAt": "2026-09-04T15:33:45.000Z"
+    },
+    {
+      "objectID": "49610229",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "domain": "mcsweeneys.net",
+      "points": 308,
+      "publishedAt": "2026-09-08T13:41:25.000Z"
     },
     {
       "objectID": "49554273",
@@ -147,28 +163,12 @@
       "publishedAt": "2026-09-01T20:19:11.000Z"
     },
     {
-      "objectID": "49523720",
-      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "url": "https://pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis",
-      "domain": "pcgamer.com",
-      "points": 241,
-      "publishedAt": "2026-09-01T15:53:42.000Z"
-    },
-    {
       "objectID": "49555691",
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
       "url": "https://arcprize.org/blog/astra",
       "domain": "arcprize.org",
       "points": 238,
       "publishedAt": "2026-09-03T19:45:00.000Z"
-    },
-    {
-      "objectID": "49542443",
-      "title": "Mamdani bans AI in NYC schools",
-      "url": "https://nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-      "domain": "nytimes.com",
-      "points": 220,
-      "publishedAt": "2026-09-02T20:57:04.000Z"
     }
   ]
 }
