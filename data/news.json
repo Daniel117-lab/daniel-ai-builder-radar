@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-07T21:31:28.728Z",
-  "windowStart": "2026-08-31T21:31:28.728Z",
+  "fetchedAt": "2026-09-08T04:37:26.891Z",
+  "windowStart": "2026-09-01T04:37:26.891Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2285,
+      "points": 2288,
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
       "domain": "bcantrill.dtrace.org",
-      "points": 702,
+      "points": 715,
       "publishedAt": "2026-09-06T11:56:43.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
       "url": "https://mvakde.github.io/blog/44-on-arc-1",
       "domain": "mvakde.github.io",
-      "points": 668,
+      "points": 669,
       "publishedAt": "2026-09-01T09:52:45.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
       "domain": "eebench.org",
-      "points": 419,
+      "points": 420,
       "publishedAt": "2026-09-04T19:48:29.000Z"
     },
     {
@@ -119,7 +119,7 @@
       "title": "LLMs as a Cognitive Virus",
       "url": "https://arxiv.org/abs/2609.03344",
       "domain": "arxiv.org",
-      "points": 391,
+      "points": 392,
       "publishedAt": "2026-09-05T20:02:35.000Z"
     },
     {

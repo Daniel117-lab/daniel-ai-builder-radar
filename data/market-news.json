@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-07T21:31:29.297Z",
-  "windowStart": "2026-09-04T21:31:29.297Z",
+  "fetchedAt": "2026-09-08T04:37:27.447Z",
+  "windowStart": "2026-09-05T04:37:27.447Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,70 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869229-20260908.htm",
+      "title": "恒指半日跌67點　科指跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869229-20260908.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-08T04:13:46.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869226-20260908.htm",
+      "title": "內地股市半日變動不大",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869226-20260908.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-08T03:55:58.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869219-20260908.htm",
+      "title": "日股半日升45點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869219-20260908.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-08T03:06:15.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869202-20260908.htm",
+      "title": "內地股市初段變動不大",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869202-20260908.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-08T01:38:36.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869200-20260908.htm",
+      "title": "恒指競價時段跌161點　江波龍掛牌與招股價持平",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869200-20260908.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-08T01:28:38.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869198-20260908.htm",
+      "title": "台股初段變動不大",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869198-20260908.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-08T01:08:15.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869195-20260908.htm",
+      "title": "韓股初段上升",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869195-20260908.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-08T00:15:06.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869194-20260908.htm",
+      "title": "日股初段下跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869194-20260908.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-08T00:14:56.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1869161-20260907.htm",
       "title": "美股因假期休市",
@@ -145,22 +209,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-09-07T00:07:56.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868886-20260905.htm",
-      "title": "港股美國預託證券個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868886-20260905.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-04T22:27:06.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1868882-20260905.htm",
-      "title": "道指低收271點　就業數據強勁加息預期升溫",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1868882-20260905.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-04T21:54:30.000Z"
     }
   ]
 }
