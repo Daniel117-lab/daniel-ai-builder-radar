@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-08T16:39:11.841Z",
-  "windowStart": "2026-09-01T16:39:11.841Z",
+  "fetchedAt": "2026-09-08T21:10:04.428Z",
+  "windowStart": "2026-09-01T21:10:04.428Z",
   "queries": [
     "AI",
     "LLM",
@@ -19,22 +19,6 @@
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
-      "objectID": "49525378",
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-1",
-      "domain": "anthropic.com",
-      "points": 1416,
-      "publishedAt": "2026-09-01T17:53:53.000Z"
-    },
-    {
-      "objectID": "49526069",
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron",
-      "domain": "danluu.com",
-      "points": 876,
-      "publishedAt": "2026-09-01T18:35:15.000Z"
-    },
-    {
       "objectID": "49568506",
       "title": "Formalizing Fermat's Last Theorem",
       "url": "https://anthropic.com/research/formalizing-fermats-last-theorem",
@@ -47,7 +31,7 @@
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
       "domain": "bcantrill.dtrace.org",
-      "points": 723,
+      "points": 725,
       "publishedAt": "2026-09-06T11:56:43.000Z"
     },
     {
@@ -55,7 +39,7 @@
       "title": "LibreOffice breaks download records after declaring it has no AI features",
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
       "domain": "manualdousuario.net",
-      "points": 519,
+      "points": 632,
       "publishedAt": "2026-09-08T14:05:57.000Z"
     },
     {
@@ -65,14 +49,6 @@
       "domain": "trellner.com",
       "points": 517,
       "publishedAt": "2026-09-02T13:59:59.000Z"
-    },
-    {
-      "objectID": "49526453",
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://youtube.com/watch?v=nM86DBOqgPM",
-      "domain": "youtube.com",
-      "points": 471,
-      "publishedAt": "2026-09-01T19:02:34.000Z"
     },
     {
       "objectID": "49544762",
@@ -111,7 +87,7 @@
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
-      "points": 402,
+      "points": 403,
       "publishedAt": "2026-09-04T11:59:15.000Z"
     },
     {
@@ -131,6 +107,14 @@
       "publishedAt": "2026-09-03T14:28:18.000Z"
     },
     {
+      "objectID": "49610229",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "domain": "mcsweeneys.net",
+      "points": 351,
+      "publishedAt": "2026-09-08T13:41:25.000Z"
+    },
+    {
       "objectID": "49566137",
       "title": "Corporate America is getting hooked on open-source AI",
       "url": "https://nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
@@ -139,36 +123,52 @@
       "publishedAt": "2026-09-04T15:33:45.000Z"
     },
     {
-      "objectID": "49610229",
-      "title": "We Must Return to the Office to Use AI in Person",
-      "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-      "domain": "mcsweeneys.net",
-      "points": 308,
-      "publishedAt": "2026-09-08T13:41:25.000Z"
-    },
-    {
       "objectID": "49554273",
       "title": "OpenAI begins rolling out GPT-6 Astra",
       "url": "https://cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
       "domain": "cnbc.com",
-      "points": 277,
+      "points": 278,
       "publishedAt": "2026-09-03T18:18:22.000Z"
-    },
-    {
-      "objectID": "49527573",
-      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence",
-      "domain": "9to5mac.com",
-      "points": 246,
-      "publishedAt": "2026-09-01T20:19:11.000Z"
     },
     {
       "objectID": "49555691",
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
       "url": "https://arcprize.org/blog/astra",
       "domain": "arcprize.org",
-      "points": 238,
+      "points": 239,
       "publishedAt": "2026-09-03T19:45:00.000Z"
+    },
+    {
+      "objectID": "49562219",
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "domain": "github.com",
+      "points": 220,
+      "publishedAt": "2026-09-04T09:03:00.000Z"
+    },
+    {
+      "objectID": "49542443",
+      "title": "Mamdani bans AI in NYC schools",
+      "url": "https://nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "domain": "nytimes.com",
+      "points": 220,
+      "publishedAt": "2026-09-02T20:57:04.000Z"
+    },
+    {
+      "objectID": "49587217",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "domain": "openai.com",
+      "points": 209,
+      "publishedAt": "2026-09-06T15:08:44.000Z"
+    },
+    {
+      "objectID": "49567594",
+      "title": "Nobody is saying why OpenAI and Anthropic had outages",
+      "url": "https://wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
+      "domain": "wired.com",
+      "points": 207,
+      "publishedAt": "2026-09-04T17:29:22.000Z"
     }
   ]
 }
