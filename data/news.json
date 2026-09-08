@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-08T04:37:26.891Z",
-  "windowStart": "2026-09-01T04:37:26.891Z",
+  "fetchedAt": "2026-09-08T11:20:09.084Z",
+  "windowStart": "2026-09-01T11:20:09.084Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2288,
+      "points": 2289,
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Formalizing Fermat's Last Theorem",
       "url": "https://anthropic.com/research/formalizing-fermats-last-theorem",
       "domain": "anthropic.com",
-      "points": 766,
+      "points": 769,
       "publishedAt": "2026-09-04T18:42:56.000Z"
     },
     {
@@ -47,16 +47,8 @@
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
       "domain": "bcantrill.dtrace.org",
-      "points": 715,
+      "points": 723,
       "publishedAt": "2026-09-06T11:56:43.000Z"
-    },
-    {
-      "objectID": "49519939",
-      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-      "url": "https://mvakde.github.io/blog/44-on-arc-1",
-      "domain": "mvakde.github.io",
-      "points": 669,
-      "publishedAt": "2026-09-01T09:52:45.000Z"
     },
     {
       "objectID": "49536375",
@@ -87,7 +79,7 @@
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
       "domain": "eebench.org",
-      "points": 420,
+      "points": 421,
       "publishedAt": "2026-09-04T19:48:29.000Z"
     },
     {
@@ -95,7 +87,7 @@
       "title": "AI handles incidents, engineers lose touch with their systems",
       "url": "https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
-      "points": 412,
+      "points": 415,
       "publishedAt": "2026-09-05T07:52:50.000Z"
     },
     {
@@ -111,7 +103,7 @@
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
-      "points": 398,
+      "points": 400,
       "publishedAt": "2026-09-04T11:59:15.000Z"
     },
     {
@@ -119,7 +111,7 @@
       "title": "LLMs as a Cognitive Virus",
       "url": "https://arxiv.org/abs/2609.03344",
       "domain": "arxiv.org",
-      "points": 392,
+      "points": 393,
       "publishedAt": "2026-09-05T20:02:35.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "arcprize.org",
       "points": 238,
       "publishedAt": "2026-09-03T19:45:00.000Z"
+    },
+    {
+      "objectID": "49542443",
+      "title": "Mamdani bans AI in NYC schools",
+      "url": "https://nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "domain": "nytimes.com",
+      "points": 220,
+      "publishedAt": "2026-09-02T20:57:04.000Z"
     }
   ]
 }
