@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-09T11:24:31.523Z",
-  "windowStart": "2026-09-02T11:24:31.523Z",
+  "fetchedAt": "2026-09-09T16:39:02.312Z",
+  "windowStart": "2026-09-02T16:39:02.312Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2293,
+      "points": 2294,
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
       "domain": "bcantrill.dtrace.org",
-      "points": 727,
+      "points": 728,
       "publishedAt": "2026-09-06T11:56:43.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "LibreOffice breaks download records after declaring it has no AI features",
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
       "domain": "manualdousuario.net",
-      "points": 685,
+      "points": 697,
       "publishedAt": "2026-09-08T14:05:57.000Z"
     },
     {
@@ -47,16 +47,8 @@
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse",
       "domain": "ai.meta.com",
-      "points": 533,
+      "points": 598,
       "publishedAt": "2026-09-08T19:25:00.000Z"
-    },
-    {
-      "objectID": "49536375",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations",
-      "domain": "trellner.com",
-      "points": 517,
-      "publishedAt": "2026-09-02T13:59:59.000Z"
     },
     {
       "objectID": "49544762",
@@ -67,11 +59,19 @@
       "publishedAt": "2026-09-03T01:11:22.000Z"
     },
     {
+      "objectID": "49616968",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "domain": "mathstodon.xyz",
+      "points": 444,
+      "publishedAt": "2026-09-08T21:00:52.000Z"
+    },
+    {
       "objectID": "49569366",
       "title": "Can AI design circuit boards yet?",
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
       "domain": "eebench.org",
-      "points": 421,
+      "points": 422,
       "publishedAt": "2026-09-04T19:48:29.000Z"
     },
     {
@@ -111,16 +111,8 @@
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
-      "points": 379,
+      "points": 387,
       "publishedAt": "2026-09-08T13:41:25.000Z"
-    },
-    {
-      "objectID": "49616968",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "domain": "mathstodon.xyz",
-      "points": 378,
-      "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
       "objectID": "49550375",
@@ -159,7 +151,7 @@
       "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
       "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
       "domain": "github.com",
-      "points": 221,
+      "points": 224,
       "publishedAt": "2026-09-04T09:03:00.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "nytimes.com",
       "points": 220,
       "publishedAt": "2026-09-02T20:57:04.000Z"
+    },
+    {
+      "objectID": "49587217",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "domain": "openai.com",
+      "points": 211,
+      "publishedAt": "2026-09-06T15:08:44.000Z"
     }
   ]
 }

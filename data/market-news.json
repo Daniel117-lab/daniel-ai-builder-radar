@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-09T11:24:32.200Z",
-  "windowStart": "2026-09-06T11:24:32.200Z",
+  "fetchedAt": "2026-09-09T16:39:02.828Z",
+  "windowStart": "2026-09-06T16:39:02.828Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869459-20260909.htm",
+      "title": "美股3大指數初段下跌　Meta逆市升近5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869459-20260909.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-09T13:39:46.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1869412-20260909.htm",
       "title": "恒指跌42點　ATMXJ走勢不一",
