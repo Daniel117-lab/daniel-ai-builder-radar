@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-08T21:10:04.428Z",
-  "windowStart": "2026-09-01T21:10:04.428Z",
+  "fetchedAt": "2026-09-09T04:43:21.803Z",
+  "windowStart": "2026-09-02T04:43:21.803Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2291,
+      "points": 2293,
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
       "domain": "bcantrill.dtrace.org",
-      "points": 725,
+      "points": 727,
       "publishedAt": "2026-09-06T11:56:43.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "LibreOffice breaks download records after declaring it has no AI features",
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
       "domain": "manualdousuario.net",
-      "points": 632,
+      "points": 658,
       "publishedAt": "2026-09-08T14:05:57.000Z"
     },
     {
@@ -95,8 +95,16 @@
       "title": "LLMs as a Cognitive Virus",
       "url": "https://arxiv.org/abs/2609.03344",
       "domain": "arxiv.org",
-      "points": 393,
+      "points": 394,
       "publishedAt": "2026-09-05T20:02:35.000Z"
+    },
+    {
+      "objectID": "49615537",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse",
+      "domain": "ai.meta.com",
+      "points": 390,
+      "publishedAt": "2026-09-08T19:25:00.000Z"
     },
     {
       "objectID": "49550375",
@@ -111,7 +119,7 @@
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
-      "points": 351,
+      "points": 372,
       "publishedAt": "2026-09-08T13:41:25.000Z"
     },
     {
@@ -131,6 +139,14 @@
       "publishedAt": "2026-09-03T18:18:22.000Z"
     },
     {
+      "objectID": "49616968",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "domain": "mathstodon.xyz",
+      "points": 246,
+      "publishedAt": "2026-09-08T21:00:52.000Z"
+    },
+    {
       "objectID": "49555691",
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
       "url": "https://arcprize.org/blog/astra",
@@ -143,7 +159,7 @@
       "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
       "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
       "domain": "github.com",
-      "points": 220,
+      "points": 221,
       "publishedAt": "2026-09-04T09:03:00.000Z"
     },
     {
@@ -153,22 +169,6 @@
       "domain": "nytimes.com",
       "points": 220,
       "publishedAt": "2026-09-02T20:57:04.000Z"
-    },
-    {
-      "objectID": "49587217",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "domain": "openai.com",
-      "points": 209,
-      "publishedAt": "2026-09-06T15:08:44.000Z"
-    },
-    {
-      "objectID": "49567594",
-      "title": "Nobody is saying why OpenAI and Anthropic had outages",
-      "url": "https://wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today",
-      "domain": "wired.com",
-      "points": 207,
-      "publishedAt": "2026-09-04T17:29:22.000Z"
     }
   ]
 }
