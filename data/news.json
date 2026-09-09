@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-09T16:39:02.312Z",
-  "windowStart": "2026-09-02T16:39:02.312Z",
+  "fetchedAt": "2026-09-09T20:56:29.767Z",
+  "windowStart": "2026-09-02T20:56:29.767Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "domain": "collusion.wiki",
-      "points": 2294,
+      "points": 2295,
       "publishedAt": "2026-09-04T11:54:53.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Formalizing Fermat's Last Theorem",
       "url": "https://anthropic.com/research/formalizing-fermats-last-theorem",
       "domain": "anthropic.com",
-      "points": 770,
+      "points": 771,
       "publishedAt": "2026-09-04T18:42:56.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "LibreOffice breaks download records after declaring it has no AI features",
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
       "domain": "manualdousuario.net",
-      "points": 697,
+      "points": 701,
       "publishedAt": "2026-09-08T14:05:57.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse",
       "domain": "ai.meta.com",
-      "points": 598,
+      "points": 622,
       "publishedAt": "2026-09-08T19:25:00.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
-      "points": 444,
+      "points": 463,
       "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "AI handles incidents, engineers lose touch with their systems",
       "url": "https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
       "domain": "sylvainkalache.com",
-      "points": 415,
+      "points": 416,
       "publishedAt": "2026-09-05T07:52:50.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
-      "points": 387,
+      "points": 388,
       "publishedAt": "2026-09-08T13:41:25.000Z"
     },
     {
@@ -139,11 +139,27 @@
       "publishedAt": "2026-09-03T18:18:22.000Z"
     },
     {
+      "objectID": "49628704",
+      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
+      "domain": "prospect.org",
+      "points": 255,
+      "publishedAt": "2026-09-09T16:01:41.000Z"
+    },
+    {
+      "objectID": "49630253",
+      "title": "AirPods 5",
+      "url": "https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
+      "domain": "apple.com",
+      "points": 250,
+      "publishedAt": "2026-09-09T17:39:24.000Z"
+    },
+    {
       "objectID": "49555691",
       "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
       "url": "https://arcprize.org/blog/astra",
       "domain": "arcprize.org",
-      "points": 239,
+      "points": 240,
       "publishedAt": "2026-09-03T19:45:00.000Z"
     },
     {
@@ -151,24 +167,8 @@
       "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
       "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
       "domain": "github.com",
-      "points": 224,
+      "points": 225,
       "publishedAt": "2026-09-04T09:03:00.000Z"
-    },
-    {
-      "objectID": "49542443",
-      "title": "Mamdani bans AI in NYC schools",
-      "url": "https://nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-      "domain": "nytimes.com",
-      "points": 220,
-      "publishedAt": "2026-09-02T20:57:04.000Z"
-    },
-    {
-      "objectID": "49587217",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "domain": "openai.com",
-      "points": 211,
-      "publishedAt": "2026-09-06T15:08:44.000Z"
     }
   ]
 }
