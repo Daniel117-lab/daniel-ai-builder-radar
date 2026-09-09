@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-09T04:43:21.803Z",
-  "windowStart": "2026-09-02T04:43:21.803Z",
+  "fetchedAt": "2026-09-09T11:24:31.523Z",
+  "windowStart": "2026-09-02T11:24:31.523Z",
   "queries": [
     "AI",
     "LLM",
@@ -39,8 +39,16 @@
       "title": "LibreOffice breaks download records after declaring it has no AI features",
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
       "domain": "manualdousuario.net",
-      "points": 658,
+      "points": 685,
       "publishedAt": "2026-09-08T14:05:57.000Z"
+    },
+    {
+      "objectID": "49615537",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse",
+      "domain": "ai.meta.com",
+      "points": 533,
+      "publishedAt": "2026-09-08T19:25:00.000Z"
     },
     {
       "objectID": "49536375",
@@ -99,28 +107,28 @@
       "publishedAt": "2026-09-05T20:02:35.000Z"
     },
     {
-      "objectID": "49615537",
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse",
-      "domain": "ai.meta.com",
-      "points": 390,
-      "publishedAt": "2026-09-08T19:25:00.000Z"
+      "objectID": "49610229",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "domain": "mcsweeneys.net",
+      "points": 379,
+      "publishedAt": "2026-09-08T13:41:25.000Z"
+    },
+    {
+      "objectID": "49616968",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "domain": "mathstodon.xyz",
+      "points": 378,
+      "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
       "objectID": "49550375",
       "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
       "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
       "domain": "babyloniantwins.com",
-      "points": 377,
+      "points": 378,
       "publishedAt": "2026-09-03T14:28:18.000Z"
-    },
-    {
-      "objectID": "49610229",
-      "title": "We Must Return to the Office to Use AI in Person",
-      "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-      "domain": "mcsweeneys.net",
-      "points": 372,
-      "publishedAt": "2026-09-08T13:41:25.000Z"
     },
     {
       "objectID": "49566137",
@@ -137,14 +145,6 @@
       "domain": "cnbc.com",
       "points": 278,
       "publishedAt": "2026-09-03T18:18:22.000Z"
-    },
-    {
-      "objectID": "49616968",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "domain": "mathstodon.xyz",
-      "points": 246,
-      "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
       "objectID": "49555691",

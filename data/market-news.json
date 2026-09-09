@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-09T04:43:22.419Z",
-  "windowStart": "2026-09-06T04:43:22.419Z",
+  "fetchedAt": "2026-09-09T11:24:32.200Z",
+  "windowStart": "2026-09-06T11:24:32.200Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,54 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869412-20260909.htm",
+      "title": "恒指跌42點　ATMXJ走勢不一",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869412-20260909.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-09T08:34:42.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869400-20260909.htm",
+      "title": "滬深股市個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869400-20260909.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-09T07:15:45.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869396-20260909.htm",
+      "title": "韓股高收1.4%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869396-20260909.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-09T06:50:13.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869395-20260909.htm",
+      "title": "日股倒跌約0.2%收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869395-20260909.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-09T06:49:00.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869392-20260909.htm",
+      "title": "台股收市升幅收窄至約0.2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869392-20260909.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-09T06:23:12.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869385-20260909.htm",
+      "title": "恒指下午初段走勢偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869385-20260909.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-09T05:10:19.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1869376-20260909.htm",
       "title": "恒指半日跌不足1點",
