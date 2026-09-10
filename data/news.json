@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-10T04:43:47.965Z",
-  "windowStart": "2026-09-03T04:43:47.965Z",
+  "fetchedAt": "2026-09-10T11:20:51.348Z",
+  "windowStart": "2026-09-03T11:20:51.348Z",
   "queries": [
     "AI",
     "LLM",
@@ -39,7 +39,7 @@
       "title": "LibreOffice breaks download records after declaring it has no AI features",
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
       "domain": "manualdousuario.net",
-      "points": 704,
+      "points": 710,
       "publishedAt": "2026-09-08T14:05:57.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse",
       "domain": "ai.meta.com",
-      "points": 639,
+      "points": 645,
       "publishedAt": "2026-09-08T19:25:00.000Z"
     },
     {
@@ -55,8 +55,16 @@
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
-      "points": 470,
+      "points": 476,
       "publishedAt": "2026-09-08T21:00:52.000Z"
+    },
+    {
+      "objectID": "49630253",
+      "title": "AirPods 5",
+      "url": "https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
+      "domain": "apple.com",
+      "points": 461,
+      "publishedAt": "2026-09-09T17:39:24.000Z"
     },
     {
       "objectID": "49569366",
@@ -73,14 +81,6 @@
       "domain": "sylvainkalache.com",
       "points": 416,
       "publishedAt": "2026-09-05T07:52:50.000Z"
-    },
-    {
-      "objectID": "49630253",
-      "title": "AirPods 5",
-      "url": "https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
-      "domain": "apple.com",
-      "points": 413,
-      "publishedAt": "2026-09-09T17:39:24.000Z"
     },
     {
       "objectID": "49551096",
@@ -111,7 +111,7 @@
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
-      "points": 391,
+      "points": 392,
       "publishedAt": "2026-09-08T13:41:25.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
       "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
       "domain": "prospect.org",
-      "points": 284,
+      "points": 293,
       "publishedAt": "2026-09-09T16:01:41.000Z"
     },
     {
@@ -145,6 +145,14 @@
       "domain": "cnbc.com",
       "points": 278,
       "publishedAt": "2026-09-03T18:18:22.000Z"
+    },
+    {
+      "objectID": "49638353",
+      "title": "OpenAI might have stolen another major proof",
+      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "domain": "twitter.com",
+      "points": 242,
+      "publishedAt": "2026-09-10T04:19:48.000Z"
     },
     {
       "objectID": "49555691",
@@ -161,14 +169,6 @@
       "domain": "github.com",
       "points": 225,
       "publishedAt": "2026-09-04T09:03:00.000Z"
-    },
-    {
-      "objectID": "49624163",
-      "title": "How An AI math breakthrough ignited a controversy",
-      "url": "https://science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-      "domain": "science.org",
-      "points": 213,
-      "publishedAt": "2026-09-09T10:25:41.000Z"
     }
   ]
 }
