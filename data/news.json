@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-10T11:20:51.348Z",
-  "windowStart": "2026-09-03T11:20:51.348Z",
+  "fetchedAt": "2026-09-10T16:24:59.993Z",
+  "windowStart": "2026-09-03T16:24:59.993Z",
   "queries": [
     "AI",
     "LLM",
@@ -47,24 +47,24 @@
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse",
       "domain": "ai.meta.com",
-      "points": 645,
+      "points": 648,
       "publishedAt": "2026-09-08T19:25:00.000Z"
-    },
-    {
-      "objectID": "49616968",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "domain": "mathstodon.xyz",
-      "points": 476,
-      "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
       "objectID": "49630253",
       "title": "AirPods 5",
       "url": "https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
       "domain": "apple.com",
-      "points": 461,
+      "points": 498,
       "publishedAt": "2026-09-09T17:39:24.000Z"
+    },
+    {
+      "objectID": "49616968",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "domain": "mathstodon.xyz",
+      "points": 479,
+      "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
       "objectID": "49569366",
@@ -83,20 +83,20 @@
       "publishedAt": "2026-09-05T07:52:50.000Z"
     },
     {
-      "objectID": "49551096",
-      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-      "url": "https://news.ycombinator.com/item?id=49551096",
-      "domain": "news.ycombinator.com",
-      "points": 404,
-      "publishedAt": "2026-09-03T15:07:01.000Z"
-    },
-    {
       "objectID": "49563386",
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
       "domain": "productrise.app",
       "points": 403,
       "publishedAt": "2026-09-04T11:59:15.000Z"
+    },
+    {
+      "objectID": "49610229",
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "domain": "mcsweeneys.net",
+      "points": 394,
+      "publishedAt": "2026-09-08T13:41:25.000Z"
     },
     {
       "objectID": "49580164",
@@ -107,20 +107,12 @@
       "publishedAt": "2026-09-05T20:02:35.000Z"
     },
     {
-      "objectID": "49610229",
-      "title": "We Must Return to the Office to Use AI in Person",
-      "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-      "domain": "mcsweeneys.net",
-      "points": 392,
-      "publishedAt": "2026-09-08T13:41:25.000Z"
-    },
-    {
-      "objectID": "49550375",
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-      "domain": "babyloniantwins.com",
-      "points": 378,
-      "publishedAt": "2026-09-03T14:28:18.000Z"
+      "objectID": "49643556",
+      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+      "url": "https://news.ycombinator.com/item?id=49643556",
+      "domain": "news.ycombinator.com",
+      "points": 345,
+      "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
       "objectID": "49566137",
@@ -135,8 +127,16 @@
       "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
       "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
       "domain": "prospect.org",
-      "points": 293,
+      "points": 300,
       "publishedAt": "2026-09-09T16:01:41.000Z"
+    },
+    {
+      "objectID": "49638353",
+      "title": "OpenAI might have stolen another major proof",
+      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "domain": "twitter.com",
+      "points": 283,
+      "publishedAt": "2026-09-10T04:19:48.000Z"
     },
     {
       "objectID": "49554273",
@@ -147,12 +147,12 @@
       "publishedAt": "2026-09-03T18:18:22.000Z"
     },
     {
-      "objectID": "49638353",
-      "title": "OpenAI might have stolen another major proof",
-      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
-      "domain": "twitter.com",
-      "points": 242,
-      "publishedAt": "2026-09-10T04:19:48.000Z"
+      "objectID": "49643112",
+      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+      "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+      "domain": "bsky.app",
+      "points": 245,
+      "publishedAt": "2026-09-10T13:07:14.000Z"
     },
     {
       "objectID": "49555691",
