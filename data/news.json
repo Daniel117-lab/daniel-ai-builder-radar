@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-10T16:24:59.993Z",
-  "windowStart": "2026-09-03T16:24:59.993Z",
+  "fetchedAt": "2026-09-10T20:53:02.317Z",
+  "windowStart": "2026-09-03T20:53:02.317Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "Formalizing Fermat's Last Theorem",
       "url": "https://anthropic.com/research/formalizing-fermats-last-theorem",
       "domain": "anthropic.com",
-      "points": 771,
+      "points": 772,
       "publishedAt": "2026-09-04T18:42:56.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse",
       "domain": "ai.meta.com",
-      "points": 648,
+      "points": 650,
       "publishedAt": "2026-09-08T19:25:00.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "AirPods 5",
       "url": "https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
       "domain": "apple.com",
-      "points": 498,
+      "points": 500,
       "publishedAt": "2026-09-09T17:39:24.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
-      "points": 479,
+      "points": 483,
       "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
@@ -81,6 +81,14 @@
       "domain": "sylvainkalache.com",
       "points": 416,
       "publishedAt": "2026-09-05T07:52:50.000Z"
+    },
+    {
+      "objectID": "49643556",
+      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+      "url": "https://news.ycombinator.com/item?id=49643556",
+      "domain": "news.ycombinator.com",
+      "points": 411,
+      "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
       "objectID": "49563386",
@@ -107,12 +115,12 @@
       "publishedAt": "2026-09-05T20:02:35.000Z"
     },
     {
-      "objectID": "49643556",
-      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-      "url": "https://news.ycombinator.com/item?id=49643556",
-      "domain": "news.ycombinator.com",
-      "points": 345,
-      "publishedAt": "2026-09-10T13:39:53.000Z"
+      "objectID": "49639408",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "domain": "mathstodon.xyz",
+      "points": 389,
+      "publishedAt": "2026-09-10T06:49:43.000Z"
     },
     {
       "objectID": "49566137",
@@ -127,7 +135,7 @@
       "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
       "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
       "domain": "prospect.org",
-      "points": 300,
+      "points": 307,
       "publishedAt": "2026-09-09T16:01:41.000Z"
     },
     {
@@ -135,32 +143,24 @@
       "title": "OpenAI might have stolen another major proof",
       "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
       "domain": "twitter.com",
-      "points": 283,
+      "points": 288,
       "publishedAt": "2026-09-10T04:19:48.000Z"
-    },
-    {
-      "objectID": "49554273",
-      "title": "OpenAI begins rolling out GPT-6 Astra",
-      "url": "https://cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "domain": "cnbc.com",
-      "points": 278,
-      "publishedAt": "2026-09-03T18:18:22.000Z"
     },
     {
       "objectID": "49643112",
       "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
       "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
       "domain": "bsky.app",
-      "points": 245,
+      "points": 254,
       "publishedAt": "2026-09-10T13:07:14.000Z"
     },
     {
-      "objectID": "49555691",
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "url": "https://arcprize.org/blog/astra",
-      "domain": "arcprize.org",
-      "points": 240,
-      "publishedAt": "2026-09-03T19:45:00.000Z"
+      "objectID": "49626373",
+      "title": "What will our economic future look like?",
+      "url": "https://anthropic.com/institute/econ-scenarios",
+      "domain": "anthropic.com",
+      "points": 229,
+      "publishedAt": "2026-09-09T13:38:23.000Z"
     },
     {
       "objectID": "49562219",
