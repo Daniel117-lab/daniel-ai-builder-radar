@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-10T20:53:02.317Z",
-  "windowStart": "2026-09-03T20:53:02.317Z",
+  "fetchedAt": "2026-09-11T04:41:49.038Z",
+  "windowStart": "2026-09-04T04:41:49.038Z",
   "queries": [
     "AI",
     "LLM",
@@ -27,6 +27,14 @@
       "publishedAt": "2026-09-04T18:42:56.000Z"
     },
     {
+      "objectID": "49639408",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "domain": "mathstodon.xyz",
+      "points": 754,
+      "publishedAt": "2026-09-10T06:49:43.000Z"
+    },
+    {
       "objectID": "49585644",
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
@@ -39,7 +47,7 @@
       "title": "LibreOffice breaks download records after declaring it has no AI features",
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
       "domain": "manualdousuario.net",
-      "points": 710,
+      "points": 711,
       "publishedAt": "2026-09-08T14:05:57.000Z"
     },
     {
@@ -47,7 +55,7 @@
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse",
       "domain": "ai.meta.com",
-      "points": 650,
+      "points": 652,
       "publishedAt": "2026-09-08T19:25:00.000Z"
     },
     {
@@ -55,7 +63,7 @@
       "title": "AirPods 5",
       "url": "https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
       "domain": "apple.com",
-      "points": 500,
+      "points": 503,
       "publishedAt": "2026-09-09T17:39:24.000Z"
     },
     {
@@ -63,8 +71,16 @@
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
-      "points": 483,
+      "points": 485,
       "publishedAt": "2026-09-08T21:00:52.000Z"
+    },
+    {
+      "objectID": "49643556",
+      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+      "url": "https://news.ycombinator.com/item?id=49643556",
+      "domain": "news.ycombinator.com",
+      "points": 441,
+      "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
       "objectID": "49569366",
@@ -83,14 +99,6 @@
       "publishedAt": "2026-09-05T07:52:50.000Z"
     },
     {
-      "objectID": "49643556",
-      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-      "url": "https://news.ycombinator.com/item?id=49643556",
-      "domain": "news.ycombinator.com",
-      "points": 411,
-      "publishedAt": "2026-09-10T13:39:53.000Z"
-    },
-    {
       "objectID": "49563386",
       "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
@@ -103,7 +111,7 @@
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
-      "points": 394,
+      "points": 395,
       "publishedAt": "2026-09-08T13:41:25.000Z"
     },
     {
@@ -113,14 +121,6 @@
       "domain": "arxiv.org",
       "points": 394,
       "publishedAt": "2026-09-05T20:02:35.000Z"
-    },
-    {
-      "objectID": "49639408",
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "domain": "mathstodon.xyz",
-      "points": 389,
-      "publishedAt": "2026-09-10T06:49:43.000Z"
     },
     {
       "objectID": "49566137",
@@ -143,7 +143,7 @@
       "title": "OpenAI might have stolen another major proof",
       "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
       "domain": "twitter.com",
-      "points": 288,
+      "points": 290,
       "publishedAt": "2026-09-10T04:19:48.000Z"
     },
     {
@@ -151,7 +151,7 @@
       "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
       "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
       "domain": "bsky.app",
-      "points": 254,
+      "points": 256,
       "publishedAt": "2026-09-10T13:07:14.000Z"
     },
     {
@@ -159,7 +159,7 @@
       "title": "What will our economic future look like?",
       "url": "https://anthropic.com/institute/econ-scenarios",
       "domain": "anthropic.com",
-      "points": 229,
+      "points": 233,
       "publishedAt": "2026-09-09T13:38:23.000Z"
     },
     {
