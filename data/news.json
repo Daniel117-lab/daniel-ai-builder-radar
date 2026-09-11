@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-11T16:29:06.978Z",
-  "windowStart": "2026-09-04T16:29:06.978Z",
+  "fetchedAt": "2026-09-11T20:58:20.979Z",
+  "windowStart": "2026-09-04T20:58:20.979Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,16 +15,8 @@
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "domain": "mathstodon.xyz",
-      "points": 850,
+      "points": 854,
       "publishedAt": "2026-09-10T06:49:43.000Z"
-    },
-    {
-      "objectID": "49568506",
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://anthropic.com/research/formalizing-fermats-last-theorem",
-      "domain": "anthropic.com",
-      "points": 772,
-      "publishedAt": "2026-09-04T18:42:56.000Z"
     },
     {
       "objectID": "49585644",
@@ -39,8 +31,16 @@
       "title": "LibreOffice breaks download records after declaring it has no AI features",
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
       "domain": "manualdousuario.net",
-      "points": 713,
+      "points": 714,
       "publishedAt": "2026-09-08T14:05:57.000Z"
+    },
+    {
+      "objectID": "49657850",
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "domain": "news.ycombinator.com",
+      "points": 712,
+      "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
       "objectID": "49615537",
@@ -49,14 +49,6 @@
       "domain": "ai.meta.com",
       "points": 655,
       "publishedAt": "2026-09-08T19:25:00.000Z"
-    },
-    {
-      "objectID": "49657850",
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "url": "https://news.ycombinator.com/item?id=49657850",
-      "domain": "news.ycombinator.com",
-      "points": 633,
-      "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
       "objectID": "49630253",
@@ -71,7 +63,7 @@
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
-      "points": 488,
+      "points": 489,
       "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
@@ -79,16 +71,8 @@
       "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
       "url": "https://news.ycombinator.com/item?id=49643556",
       "domain": "news.ycombinator.com",
-      "points": 466,
+      "points": 469,
       "publishedAt": "2026-09-10T13:39:53.000Z"
-    },
-    {
-      "objectID": "49569366",
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-      "domain": "eebench.org",
-      "points": 422,
-      "publishedAt": "2026-09-04T19:48:29.000Z"
     },
     {
       "objectID": "49574167",
@@ -119,8 +103,16 @@
       "title": "OpenAI Agents API",
       "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "domain": "developers.openai.com",
-      "points": 320,
+      "points": 337,
       "publishedAt": "2026-09-10T19:43:22.000Z"
+    },
+    {
+      "objectID": "49656496",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://researchagenda.news/articles/the-waymo-effect.html",
+      "domain": "researchagenda.news",
+      "points": 315,
+      "publishedAt": "2026-09-11T11:17:50.000Z"
     },
     {
       "objectID": "49628704",
@@ -131,12 +123,12 @@
       "publishedAt": "2026-09-09T16:01:41.000Z"
     },
     {
-      "objectID": "49656496",
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "url": "https://researchagenda.news/articles/the-waymo-effect.html",
-      "domain": "researchagenda.news",
-      "points": 305,
-      "publishedAt": "2026-09-11T11:17:50.000Z"
+      "objectID": "49662371",
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "domain": "mathandai.org",
+      "points": 296,
+      "publishedAt": "2026-09-11T17:45:12.000Z"
     },
     {
       "objectID": "49638353",
@@ -159,7 +151,7 @@
       "title": "What will our economic future look like?",
       "url": "https://anthropic.com/institute/econ-scenarios",
       "domain": "anthropic.com",
-      "points": 235,
+      "points": 236,
       "publishedAt": "2026-09-09T13:38:23.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "science.org",
       "points": 220,
       "publishedAt": "2026-09-09T10:25:41.000Z"
+    },
+    {
+      "objectID": "49587217",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "domain": "openai.com",
+      "points": 212,
+      "publishedAt": "2026-09-06T15:08:44.000Z"
     }
   ]
 }
