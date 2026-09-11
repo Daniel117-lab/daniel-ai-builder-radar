@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-11T11:22:10.772Z",
-  "windowStart": "2026-09-04T11:22:10.772Z",
+  "fetchedAt": "2026-09-11T16:29:06.978Z",
+  "windowStart": "2026-09-04T16:29:06.978Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,19 +11,11 @@
   ],
   "stories": [
     {
-      "objectID": "49563355",
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "domain": "collusion.wiki",
-      "points": 2298,
-      "publishedAt": "2026-09-04T11:54:53.000Z"
-    },
-    {
       "objectID": "49639408",
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "domain": "mathstodon.xyz",
-      "points": 823,
+      "points": 850,
       "publishedAt": "2026-09-10T06:49:43.000Z"
     },
     {
@@ -47,7 +39,7 @@
       "title": "LibreOffice breaks download records after declaring it has no AI features",
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
       "domain": "manualdousuario.net",
-      "points": 711,
+      "points": 713,
       "publishedAt": "2026-09-08T14:05:57.000Z"
     },
     {
@@ -55,15 +47,23 @@
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse",
       "domain": "ai.meta.com",
-      "points": 654,
+      "points": 655,
       "publishedAt": "2026-09-08T19:25:00.000Z"
+    },
+    {
+      "objectID": "49657850",
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "domain": "news.ycombinator.com",
+      "points": 633,
+      "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
       "objectID": "49630253",
       "title": "AirPods 5",
       "url": "https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
       "domain": "apple.com",
-      "points": 506,
+      "points": 507,
       "publishedAt": "2026-09-09T17:39:24.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
-      "points": 487,
+      "points": 488,
       "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
       "url": "https://news.ycombinator.com/item?id=49643556",
       "domain": "news.ycombinator.com",
-      "points": 457,
+      "points": 466,
       "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
@@ -99,19 +99,11 @@
       "publishedAt": "2026-09-05T07:52:50.000Z"
     },
     {
-      "objectID": "49563386",
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "domain": "productrise.app",
-      "points": 403,
-      "publishedAt": "2026-09-04T11:59:15.000Z"
-    },
-    {
       "objectID": "49610229",
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
-      "points": 395,
+      "points": 396,
       "publishedAt": "2026-09-08T13:41:25.000Z"
     },
     {
@@ -123,20 +115,28 @@
       "publishedAt": "2026-09-05T20:02:35.000Z"
     },
     {
-      "objectID": "49566137",
-      "title": "Corporate America is getting hooked on open-source AI",
-      "url": "https://nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "domain": "nytimes.com",
-      "points": 333,
-      "publishedAt": "2026-09-04T15:33:45.000Z"
+      "objectID": "49649213",
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "domain": "developers.openai.com",
+      "points": 320,
+      "publishedAt": "2026-09-10T19:43:22.000Z"
     },
     {
       "objectID": "49628704",
       "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
       "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
       "domain": "prospect.org",
-      "points": 311,
+      "points": 312,
       "publishedAt": "2026-09-09T16:01:41.000Z"
+    },
+    {
+      "objectID": "49656496",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://researchagenda.news/articles/the-waymo-effect.html",
+      "domain": "researchagenda.news",
+      "points": 305,
+      "publishedAt": "2026-09-11T11:17:50.000Z"
     },
     {
       "objectID": "49638353",
@@ -147,19 +147,11 @@
       "publishedAt": "2026-09-10T04:19:48.000Z"
     },
     {
-      "objectID": "49649213",
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "domain": "developers.openai.com",
-      "points": 273,
-      "publishedAt": "2026-09-10T19:43:22.000Z"
-    },
-    {
       "objectID": "49643112",
       "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
       "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
       "domain": "bsky.app",
-      "points": 257,
+      "points": 259,
       "publishedAt": "2026-09-10T13:07:14.000Z"
     },
     {
@@ -167,8 +159,16 @@
       "title": "What will our economic future look like?",
       "url": "https://anthropic.com/institute/econ-scenarios",
       "domain": "anthropic.com",
-      "points": 233,
+      "points": 235,
       "publishedAt": "2026-09-09T13:38:23.000Z"
+    },
+    {
+      "objectID": "49624163",
+      "title": "How An AI math breakthrough ignited a controversy",
+      "url": "https://science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "domain": "science.org",
+      "points": 220,
+      "publishedAt": "2026-09-09T10:25:41.000Z"
     }
   ]
 }

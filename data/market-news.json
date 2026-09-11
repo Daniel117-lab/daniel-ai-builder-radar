@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-11T11:22:11.308Z",
-  "windowStart": "2026-09-08T11:22:11.308Z",
+  "fetchedAt": "2026-09-11T16:29:08.032Z",
+  "windowStart": "2026-09-08T16:29:08.032Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869723-20260911.htm",
+      "title": "美股初段升1%或以上",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869723-20260911.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-11T13:41:38.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1869685-20260911.htm",
       "title": "恒指低收148點　5日累跌845點",
@@ -433,14 +441,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-09-08T22:33:39.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869297-20260908.htm",
-      "title": "美股初段個別發展　道指挫逾500點　納指靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869297-20260908.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-08T13:35:22.000Z"
     }
   ]
 }
