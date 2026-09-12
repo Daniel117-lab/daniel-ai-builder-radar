@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-11T20:58:20.979Z",
-  "windowStart": "2026-09-04T20:58:20.979Z",
+  "fetchedAt": "2026-09-12T04:35:33.778Z",
+  "windowStart": "2026-09-05T04:35:33.778Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,8 +15,24 @@
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "domain": "mathstodon.xyz",
-      "points": 854,
+      "points": 857,
       "publishedAt": "2026-09-10T06:49:43.000Z"
+    },
+    {
+      "objectID": "49662371",
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "domain": "mathandai.org",
+      "points": 766,
+      "publishedAt": "2026-09-11T17:45:12.000Z"
+    },
+    {
+      "objectID": "49657850",
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "domain": "news.ycombinator.com",
+      "points": 761,
+      "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
       "objectID": "49585644",
@@ -31,23 +47,15 @@
       "title": "LibreOffice breaks download records after declaring it has no AI features",
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
       "domain": "manualdousuario.net",
-      "points": 714,
+      "points": 715,
       "publishedAt": "2026-09-08T14:05:57.000Z"
-    },
-    {
-      "objectID": "49657850",
-      "title": "Ask HN: Can we please limit the AI news flood?",
-      "url": "https://news.ycombinator.com/item?id=49657850",
-      "domain": "news.ycombinator.com",
-      "points": 712,
-      "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
       "objectID": "49615537",
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse",
       "domain": "ai.meta.com",
-      "points": 655,
+      "points": 657,
       "publishedAt": "2026-09-08T19:25:00.000Z"
     },
     {
@@ -55,7 +63,7 @@
       "title": "AirPods 5",
       "url": "https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
       "domain": "apple.com",
-      "points": 507,
+      "points": 508,
       "publishedAt": "2026-09-09T17:39:24.000Z"
     },
     {
@@ -63,15 +71,23 @@
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
-      "points": 489,
+      "points": 490,
       "publishedAt": "2026-09-08T21:00:52.000Z"
+    },
+    {
+      "objectID": "49666735",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://rubyhack.ai/",
+      "domain": "rubyhack.ai",
+      "points": 486,
+      "publishedAt": "2026-09-11T23:17:42.000Z"
     },
     {
       "objectID": "49643556",
       "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
       "url": "https://news.ycombinator.com/item?id=49643556",
       "domain": "news.ycombinator.com",
-      "points": 469,
+      "points": 474,
       "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
@@ -103,7 +119,7 @@
       "title": "OpenAI Agents API",
       "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "domain": "developers.openai.com",
-      "points": 337,
+      "points": 338,
       "publishedAt": "2026-09-10T19:43:22.000Z"
     },
     {
@@ -111,7 +127,7 @@
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
       "url": "https://researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
-      "points": 315,
+      "points": 322,
       "publishedAt": "2026-09-11T11:17:50.000Z"
     },
     {
@@ -123,19 +139,11 @@
       "publishedAt": "2026-09-09T16:01:41.000Z"
     },
     {
-      "objectID": "49662371",
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "domain": "mathandai.org",
-      "points": 296,
-      "publishedAt": "2026-09-11T17:45:12.000Z"
-    },
-    {
       "objectID": "49638353",
       "title": "OpenAI might have stolen another major proof",
       "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
       "domain": "twitter.com",
-      "points": 294,
+      "points": 295,
       "publishedAt": "2026-09-10T04:19:48.000Z"
     },
     {
@@ -143,16 +151,8 @@
       "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
       "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
       "domain": "bsky.app",
-      "points": 259,
+      "points": 261,
       "publishedAt": "2026-09-10T13:07:14.000Z"
-    },
-    {
-      "objectID": "49626373",
-      "title": "What will our economic future look like?",
-      "url": "https://anthropic.com/institute/econ-scenarios",
-      "domain": "anthropic.com",
-      "points": 236,
-      "publishedAt": "2026-09-09T13:38:23.000Z"
     },
     {
       "objectID": "49624163",

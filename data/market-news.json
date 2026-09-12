@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-11T20:58:21.530Z",
-  "windowStart": "2026-09-08T20:58:21.530Z",
+  "fetchedAt": "2026-09-12T04:35:34.356Z",
+  "windowStart": "2026-09-09T04:35:34.356Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869745-20260912.htm",
+      "title": "港股ADR多數較本港收市下跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869745-20260912.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-11T22:58:33.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869740-20260912.htm",
+      "title": "美股結束4日跌勢　道指高收509點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869740-20260912.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-11T21:47:42.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869738-20260912.htm",
+      "title": "歐股收市上升　本周累跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869738-20260912.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-11T21:16:32.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1869723-20260911.htm",
       "title": "美股初段升1%或以上",
@@ -369,78 +393,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-09-09T05:10:19.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869376-20260909.htm",
-      "title": "恒指半日跌不足1點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869376-20260909.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-09T04:20:08.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869374-20260909.htm",
-      "title": "內地股市半日個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869374-20260909.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-09T03:47:16.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869360-20260909.htm",
-      "title": "日股半日靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869360-20260909.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-09T02:54:05.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869350-20260909.htm",
-      "title": "內地股市初段個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869350-20260909.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-09T01:40:00.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869347-20260909.htm",
-      "title": "恒指競價時段升10點　優地機器人掛牌高開逾1.4倍",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869347-20260909.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-09T01:26:52.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869343-20260909.htm",
-      "title": "台股初段升逾0.5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869343-20260909.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-09T01:07:18.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869341-20260909.htm",
-      "title": "韓股初段升近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869341-20260909.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-09T00:15:41.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869340-20260909.htm",
-      "title": "日股初段靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869340-20260909.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-09T00:15:26.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869327-20260909.htm",
-      "title": "港股ADR與本港收市比較個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869327-20260909.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-08T22:33:39.000Z"
     }
   ]
 }
