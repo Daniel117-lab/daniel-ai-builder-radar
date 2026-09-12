@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-12T15:32:24.231Z",
-  "windowStart": "2026-09-05T15:32:24.231Z",
+  "fetchedAt": "2026-09-12T20:34:04.780Z",
+  "windowStart": "2026-09-05T20:34:04.780Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,8 +15,16 @@
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
-      "points": 1091,
+      "points": 1162,
       "publishedAt": "2026-09-11T17:45:12.000Z"
+    },
+    {
+      "objectID": "49666735",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://rubyhack.ai/",
+      "domain": "rubyhack.ai",
+      "points": 911,
+      "publishedAt": "2026-09-11T23:17:42.000Z"
     },
     {
       "objectID": "49639408",
@@ -27,19 +35,11 @@
       "publishedAt": "2026-09-10T06:49:43.000Z"
     },
     {
-      "objectID": "49666735",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://rubyhack.ai/",
-      "domain": "rubyhack.ai",
-      "points": 845,
-      "publishedAt": "2026-09-11T23:17:42.000Z"
-    },
-    {
       "objectID": "49657850",
       "title": "Ask HN: Can we please limit the AI news flood?",
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
-      "points": 807,
+      "points": 815,
       "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "LibreOffice breaks download records after declaring it has no AI features",
       "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
       "domain": "manualdousuario.net",
-      "points": 716,
+      "points": 717,
       "publishedAt": "2026-09-08T14:05:57.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
       "url": "https://news.ycombinator.com/item?id=49643556",
       "domain": "news.ycombinator.com",
-      "points": 480,
+      "points": 481,
       "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
@@ -99,19 +99,11 @@
       "publishedAt": "2026-09-08T13:41:25.000Z"
     },
     {
-      "objectID": "49580164",
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "domain": "arxiv.org",
-      "points": 394,
-      "publishedAt": "2026-09-05T20:02:35.000Z"
-    },
-    {
       "objectID": "49649213",
       "title": "OpenAI Agents API",
       "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "domain": "developers.openai.com",
-      "points": 344,
+      "points": 345,
       "publishedAt": "2026-09-10T19:43:22.000Z"
     },
     {
@@ -119,7 +111,7 @@
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
       "url": "https://researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
-      "points": 327,
+      "points": 329,
       "publishedAt": "2026-09-11T11:17:50.000Z"
     },
     {
@@ -147,6 +139,14 @@
       "publishedAt": "2026-09-10T13:07:14.000Z"
     },
     {
+      "objectID": "49673098",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "domain": "economist.com",
+      "points": 248,
+      "publishedAt": "2026-09-12T15:08:27.000Z"
+    },
+    {
       "objectID": "49624163",
       "title": "How An AI math breakthrough ignited a controversy",
       "url": "https://science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
@@ -167,7 +167,7 @@
       "title": "Show HN: Hacker News, without AI",
       "url": "https://hcker.news/?ai=exclude",
       "domain": "hcker.news",
-      "points": 195,
+      "points": 197,
       "publishedAt": "2026-09-11T15:01:19.000Z"
     }
   ]
