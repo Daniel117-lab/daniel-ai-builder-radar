@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-13T04:48:59.438Z",
-  "windowStart": "2026-09-06T04:48:59.438Z",
+  "fetchedAt": "2026-09-13T11:53:30.824Z",
+  "windowStart": "2026-09-06T11:53:30.824Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
-      "points": 1184,
+      "points": 1199,
       "publishedAt": "2026-09-11T17:45:12.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://rubyhack.ai/",
       "domain": "rubyhack.ai",
-      "points": 928,
+      "points": 935,
       "publishedAt": "2026-09-11T23:17:42.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "domain": "mathstodon.xyz",
-      "points": 865,
+      "points": 866,
       "publishedAt": "2026-09-10T06:49:43.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Ask HN: Can we please limit the AI news flood?",
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
-      "points": 821,
+      "points": 835,
       "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
@@ -63,8 +63,16 @@
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse",
       "domain": "ai.meta.com",
-      "points": 657,
+      "points": 658,
       "publishedAt": "2026-09-08T19:25:00.000Z"
+    },
+    {
+      "objectID": "49678683",
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+      "domain": "xeiaso.net",
+      "points": 545,
+      "publishedAt": "2026-09-13T00:30:44.000Z"
     },
     {
       "objectID": "49630253",
@@ -73,6 +81,14 @@
       "domain": "apple.com",
       "points": 508,
       "publishedAt": "2026-09-09T17:39:24.000Z"
+    },
+    {
+      "objectID": "49673098",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "domain": "economist.com",
+      "points": 502,
+      "publishedAt": "2026-09-12T15:08:27.000Z"
     },
     {
       "objectID": "49616968",
@@ -91,19 +107,11 @@
       "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
-      "objectID": "49673098",
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "domain": "economist.com",
-      "points": 427,
-      "publishedAt": "2026-09-12T15:08:27.000Z"
-    },
-    {
       "objectID": "49610229",
       "title": "We Must Return to the Office to Use AI in Person",
       "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
       "domain": "mcsweeneys.net",
-      "points": 396,
+      "points": 397,
       "publishedAt": "2026-09-08T13:41:25.000Z"
     },
     {
@@ -119,7 +127,7 @@
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
       "url": "https://researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
-      "points": 331,
+      "points": 332,
       "publishedAt": "2026-09-11T11:17:50.000Z"
     },
     {
@@ -139,12 +147,12 @@
       "publishedAt": "2026-09-10T04:19:48.000Z"
     },
     {
-      "objectID": "49678683",
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "domain": "xeiaso.net",
-      "points": 274,
-      "publishedAt": "2026-09-13T00:30:44.000Z"
+      "objectID": "49678969",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "domain": "yoshuabengio.org",
+      "points": 285,
+      "publishedAt": "2026-09-13T01:22:31.000Z"
     },
     {
       "objectID": "49643112",
@@ -155,20 +163,12 @@
       "publishedAt": "2026-09-10T13:07:14.000Z"
     },
     {
-      "objectID": "49624163",
-      "title": "How An AI math breakthrough ignited a controversy",
-      "url": "https://science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-      "domain": "science.org",
-      "points": 220,
-      "publishedAt": "2026-09-09T10:25:41.000Z"
-    },
-    {
-      "objectID": "49587217",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "domain": "openai.com",
-      "points": 212,
-      "publishedAt": "2026-09-06T15:08:44.000Z"
+      "objectID": "49676820",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "domain": "withspecific.com",
+      "points": 248,
+      "publishedAt": "2026-09-12T20:25:48.000Z"
     }
   ]
 }
