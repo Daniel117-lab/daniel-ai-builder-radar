@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-12T20:34:04.780Z",
-  "windowStart": "2026-09-05T20:34:04.780Z",
+  "fetchedAt": "2026-09-13T04:48:59.438Z",
+  "windowStart": "2026-09-06T04:48:59.438Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
-      "points": 1162,
+      "points": 1184,
       "publishedAt": "2026-09-11T17:45:12.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://rubyhack.ai/",
       "domain": "rubyhack.ai",
-      "points": 911,
+      "points": 928,
       "publishedAt": "2026-09-11T23:17:42.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "domain": "mathstodon.xyz",
-      "points": 863,
+      "points": 865,
       "publishedAt": "2026-09-10T06:49:43.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Ask HN: Can we please limit the AI news flood?",
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
-      "points": 815,
+      "points": 821,
       "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
       "domain": "bcantrill.dtrace.org",
-      "points": 728,
+      "points": 729,
       "publishedAt": "2026-09-06T11:56:43.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "domain": "mathstodon.xyz",
-      "points": 490,
+      "points": 491,
       "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
@@ -89,6 +89,14 @@
       "domain": "news.ycombinator.com",
       "points": 481,
       "publishedAt": "2026-09-10T13:39:53.000Z"
+    },
+    {
+      "objectID": "49673098",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "domain": "economist.com",
+      "points": 427,
+      "publishedAt": "2026-09-12T15:08:27.000Z"
     },
     {
       "objectID": "49610229",
@@ -111,7 +119,7 @@
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
       "url": "https://researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
-      "points": 329,
+      "points": 331,
       "publishedAt": "2026-09-11T11:17:50.000Z"
     },
     {
@@ -131,20 +139,20 @@
       "publishedAt": "2026-09-10T04:19:48.000Z"
     },
     {
+      "objectID": "49678683",
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+      "domain": "xeiaso.net",
+      "points": 274,
+      "publishedAt": "2026-09-13T00:30:44.000Z"
+    },
+    {
       "objectID": "49643112",
       "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
       "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
       "domain": "bsky.app",
       "points": 262,
       "publishedAt": "2026-09-10T13:07:14.000Z"
-    },
-    {
-      "objectID": "49673098",
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "domain": "economist.com",
-      "points": 248,
-      "publishedAt": "2026-09-12T15:08:27.000Z"
     },
     {
       "objectID": "49624163",
@@ -161,14 +169,6 @@
       "domain": "openai.com",
       "points": 212,
       "publishedAt": "2026-09-06T15:08:44.000Z"
-    },
-    {
-      "objectID": "49659647",
-      "title": "Show HN: Hacker News, without AI",
-      "url": "https://hcker.news/?ai=exclude",
-      "domain": "hcker.news",
-      "points": 197,
-      "publishedAt": "2026-09-11T15:01:19.000Z"
     }
   ]
 }
