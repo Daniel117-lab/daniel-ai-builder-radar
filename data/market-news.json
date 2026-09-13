@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-13T11:53:31.493Z",
-  "windowStart": "2026-09-10T11:53:31.493Z",
+  "fetchedAt": "2026-09-13T16:17:58.199Z",
+  "windowStart": "2026-09-10T16:17:58.199Z",
   "markets": [
     {
       "id": "hk",
@@ -193,14 +193,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-09-10T21:26:41.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869594-20260910.htm",
-      "title": "美股初段向下　納指跌1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869594-20260910.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-10T13:39:46.000Z"
     }
   ]
 }
