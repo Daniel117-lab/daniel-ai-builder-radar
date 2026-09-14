@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-13T20:50:42.735Z",
-  "windowStart": "2026-09-10T20:50:42.735Z",
+  "fetchedAt": "2026-09-14T04:57:49.801Z",
+  "windowStart": "2026-09-11T04:57:49.801Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,62 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869926-20260914.htm",
+      "title": "港股半日反彈87點　智譜曾失守配股價　晶片股受壓",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869926-20260914.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-14T04:18:16.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869922-20260914.htm",
+      "title": "滬股半日反彈約0.2%　創業板指數跌幅收窄",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869922-20260914.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-14T03:47:20.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869919-20260914.htm",
+      "title": "日股半日跌0.8%　於63000點失而復得",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869919-20260914.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-14T02:40:46.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869912-20260914.htm",
+      "title": "內地股市初段偏軟　創業板指數跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869912-20260914.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-14T01:49:37.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869908-20260914.htm",
+      "title": "港股低開104點　智譜跌近6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869908-20260914.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-14T01:25:06.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869904-20260914.htm",
+      "title": "台股初段跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869904-20260914.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-14T01:06:19.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869899-20260914.htm",
+      "title": "日韓股市初段下挫　晶片股沽壓大",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869899-20260914.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-14T00:13:16.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1869745-20260912.htm",
       "title": "港股ADR多數較本港收市下跌",
@@ -105,94 +161,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-09-11T05:18:55.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869661-20260911.htm",
-      "title": "恒指半日跌211點　地產股向下",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869661-20260911.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-11T04:15:15.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869659-20260911.htm",
-      "title": "內地股市半日跌近2%或以上",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869659-20260911.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-11T03:58:58.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869650-20260911.htm",
-      "title": "日股半日跌近3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869650-20260911.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-11T02:38:30.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869642-20260911.htm",
-      "title": "上證指數及深證成指初段跌1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869642-20260911.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-11T01:37:26.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869638-20260911.htm",
-      "title": "港股競價時段跌236點　科指跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869638-20260911.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-11T01:27:02.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869632-20260911.htm",
-      "title": "台股開市後下跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869632-20260911.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-11T01:04:51.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869629-20260911.htm",
-      "title": "韓股初段跌逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869629-20260911.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-11T00:26:31.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869628-20260911.htm",
-      "title": "日股初段跌3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869628-20260911.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-11T00:25:44.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869622-20260911.htm",
-      "title": "港股ADR普遍較本港收市下跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869622-20260911.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-10T22:40:50.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869617-20260911.htm",
-      "title": "美股連跌4日　油價上升推高加息預期",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869617-20260911.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-10T21:27:19.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869616-20260911.htm",
-      "title": "歐股收市下跌　歐央行加息推高收緊政策預期",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869616-20260911.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-10T21:26:41.000Z"
     }
   ]
 }
