@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-15T04:56:03.046Z",
-  "windowStart": "2026-09-08T04:56:03.046Z",
+  "fetchedAt": "2026-09-15T11:45:07.616Z",
+  "windowStart": "2026-09-08T11:45:07.616Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
-      "points": 1229,
+      "points": 1231,
       "publishedAt": "2026-09-11T17:45:12.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Everyone should slow down AI development except for me",
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
       "domain": "xeiaso.net",
-      "points": 803,
+      "points": 806,
       "publishedAt": "2026-09-13T00:30:44.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
-      "points": 647,
+      "points": 649,
       "publishedAt": "2026-09-13T01:22:31.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "Nvidia is the central bank of AI",
       "url": "https://economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "domain": "economist.com",
-      "points": 577,
+      "points": 580,
       "publishedAt": "2026-09-12T15:08:27.000Z"
     },
     {
@@ -103,7 +103,7 @@
       "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
       "url": "https://news.ycombinator.com/item?id=49643556",
       "domain": "news.ycombinator.com",
-      "points": 483,
+      "points": 484,
       "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
       "domain": "tenderlovemaking.com",
-      "points": 410,
+      "points": 472,
       "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
@@ -119,7 +119,7 @@
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
       "domain": "techcrunch.com",
-      "points": 408,
+      "points": 409,
       "publishedAt": "2026-09-13T15:44:38.000Z"
     },
     {
@@ -151,7 +151,7 @@
       "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
       "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "domain": "twitter.com",
-      "points": 323,
+      "points": 324,
       "publishedAt": "2026-09-13T16:52:33.000Z"
     },
     {
