@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-15T16:59:49.572Z",
-  "windowStart": "2026-09-08T16:59:49.572Z",
+  "fetchedAt": "2026-09-15T21:21:38.699Z",
+  "windowStart": "2026-09-08T21:21:38.699Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
-      "points": 1233,
+      "points": 1237,
       "publishedAt": "2026-09-11T17:45:12.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Ask HN: Can we please limit the AI news flood?",
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
-      "points": 858,
+      "points": 859,
       "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
@@ -49,14 +49,6 @@
       "domain": "xeiaso.net",
       "points": 809,
       "publishedAt": "2026-09-13T00:30:44.000Z"
-    },
-    {
-      "objectID": "49615537",
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse",
-      "domain": "ai.meta.com",
-      "points": 658,
-      "publishedAt": "2026-09-08T19:25:00.000Z"
     },
     {
       "objectID": "49678969",
@@ -87,23 +79,15 @@
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
       "domain": "tenderlovemaking.com",
-      "points": 499,
+      "points": 501,
       "publishedAt": "2026-09-14T12:40:57.000Z"
-    },
-    {
-      "objectID": "49616968",
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "domain": "mathstodon.xyz",
-      "points": 491,
-      "publishedAt": "2026-09-08T21:00:52.000Z"
     },
     {
       "objectID": "49643556",
       "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
       "url": "https://news.ycombinator.com/item?id=49643556",
       "domain": "news.ycombinator.com",
-      "points": 484,
+      "points": 485,
       "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
@@ -111,7 +95,7 @@
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
       "domain": "techcrunch.com",
-      "points": 411,
+      "points": 412,
       "publishedAt": "2026-09-13T15:44:38.000Z"
     },
     {
@@ -121,6 +105,14 @@
       "domain": "developers.openai.com",
       "points": 346,
       "publishedAt": "2026-09-10T19:43:22.000Z"
+    },
+    {
+      "objectID": "49704132",
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "url": "https://effort.news/irregular",
+      "domain": "effort.news",
+      "points": 344,
+      "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
       "objectID": "49656496",
@@ -135,7 +127,7 @@
       "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
       "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "domain": "twitter.com",
-      "points": 327,
+      "points": 328,
       "publishedAt": "2026-09-13T16:52:33.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "bsky.app",
       "points": 263,
       "publishedAt": "2026-09-10T13:07:14.000Z"
+    },
+    {
+      "objectID": "49695409",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+      "domain": "macrumors.com",
+      "points": 224,
+      "publishedAt": "2026-09-14T12:01:32.000Z"
     }
   ]
 }
