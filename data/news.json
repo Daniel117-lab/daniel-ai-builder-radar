@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-15T11:45:07.616Z",
-  "windowStart": "2026-09-08T11:45:07.616Z",
+  "fetchedAt": "2026-09-15T16:59:49.572Z",
+  "windowStart": "2026-09-08T16:59:49.572Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
       "domain": "mathandai.org",
-      "points": 1231,
+      "points": 1233,
       "publishedAt": "2026-09-11T17:45:12.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://rubyhack.ai/",
       "domain": "rubyhack.ai",
-      "points": 964,
+      "points": 965,
       "publishedAt": "2026-09-11T23:17:42.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Ask HN: Can we please limit the AI news flood?",
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
-      "points": 857,
+      "points": 858,
       "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
@@ -47,16 +47,8 @@
       "title": "Everyone should slow down AI development except for me",
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
       "domain": "xeiaso.net",
-      "points": 806,
+      "points": 809,
       "publishedAt": "2026-09-13T00:30:44.000Z"
-    },
-    {
-      "objectID": "49610538",
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
-      "domain": "manualdousuario.net",
-      "points": 721,
-      "publishedAt": "2026-09-08T14:05:57.000Z"
     },
     {
       "objectID": "49615537",
@@ -71,7 +63,7 @@
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
-      "points": 649,
+      "points": 652,
       "publishedAt": "2026-09-13T01:22:31.000Z"
     },
     {
@@ -79,7 +71,7 @@
       "title": "Nvidia is the central bank of AI",
       "url": "https://economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "domain": "economist.com",
-      "points": 580,
+      "points": 581,
       "publishedAt": "2026-09-12T15:08:27.000Z"
     },
     {
@@ -89,6 +81,14 @@
       "domain": "apple.com",
       "points": 508,
       "publishedAt": "2026-09-09T17:39:24.000Z"
+    },
+    {
+      "objectID": "49695876",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+      "domain": "tenderlovemaking.com",
+      "points": 499,
+      "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
       "objectID": "49616968",
@@ -107,28 +107,12 @@
       "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
-      "objectID": "49695876",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "domain": "tenderlovemaking.com",
-      "points": 472,
-      "publishedAt": "2026-09-14T12:40:57.000Z"
-    },
-    {
       "objectID": "49685253",
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
       "domain": "techcrunch.com",
-      "points": 409,
+      "points": 411,
       "publishedAt": "2026-09-13T15:44:38.000Z"
-    },
-    {
-      "objectID": "49610229",
-      "title": "We Must Return to the Office to Use AI in Person",
-      "url": "https://mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-      "domain": "mcsweeneys.net",
-      "points": 400,
-      "publishedAt": "2026-09-08T13:41:25.000Z"
     },
     {
       "objectID": "49649213",
@@ -151,7 +135,7 @@
       "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
       "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "domain": "twitter.com",
-      "points": 324,
+      "points": 327,
       "publishedAt": "2026-09-13T16:52:33.000Z"
     },
     {
@@ -169,6 +153,22 @@
       "domain": "twitter.com",
       "points": 295,
       "publishedAt": "2026-09-10T04:19:48.000Z"
+    },
+    {
+      "objectID": "49676820",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "domain": "withspecific.com",
+      "points": 274,
+      "publishedAt": "2026-09-12T20:25:48.000Z"
+    },
+    {
+      "objectID": "49643112",
+      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+      "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+      "domain": "bsky.app",
+      "points": 263,
+      "publishedAt": "2026-09-10T13:07:14.000Z"
     }
   ]
 }
