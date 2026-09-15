@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-14T21:49:56.724Z",
-  "windowStart": "2026-09-11T21:49:56.724Z",
+  "fetchedAt": "2026-09-15T04:56:03.999Z",
+  "windowStart": "2026-09-12T04:56:03.999Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,62 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870062-20260915.htm",
+      "title": "港股半日跌58點　金融及地產股向下",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870062-20260915.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-15T04:15:53.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870057-20260915.htm",
+      "title": "內地股市表現反覆　滬股半日跌3點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870057-20260915.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-15T03:45:36.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870044-20260915.htm",
+      "title": "日股半日反彈近1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870044-20260915.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-15T02:41:33.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870033-20260915.htm",
+      "title": "內地股市初段窄幅上落",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870033-20260915.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-15T01:39:49.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870027-20260915.htm",
+      "title": "港股競價時段升16點　廣汽復牌升逾8%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870027-20260915.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-15T01:27:24.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870025-20260915.htm",
+      "title": "台股初段偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870025-20260915.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-15T01:08:35.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870023-20260915.htm",
+      "title": "日韓股市初段跌約0.6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870023-20260915.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-15T00:07:45.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1869988-20260914.htm",
       "title": "美股初段向下　納指跌逾1%",
@@ -137,14 +193,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-09-14T00:13:16.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869745-20260912.htm",
-      "title": "港股ADR多數較本港收市下跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869745-20260912.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-11T22:58:33.000Z"
     }
   ]
 }
