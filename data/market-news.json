@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-16T16:56:32.177Z",
-  "windowStart": "2026-09-13T16:56:32.177Z",
+  "fetchedAt": "2026-09-16T21:18:44.252Z",
+  "windowStart": "2026-09-13T21:18:44.252Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,22 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870363-20260917.htm",
+      "title": "美股三連跌　道指低收631點　聯儲局10月加息預期升溫",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870363-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-16T20:56:44.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870353-20260917.htm",
+      "title": "歐洲股市靠穩　受惠於油價轉跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870353-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-16T17:33:34.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1870333-20260916.htm",
       "title": "美股初段靠穩",

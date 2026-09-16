@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-16T16:56:30.459Z",
-  "windowStart": "2026-09-09T16:56:30.459Z",
+  "fetchedAt": "2026-09-16T21:18:43.709Z",
+  "windowStart": "2026-09-09T21:18:43.709Z",
   "queries": [
     "AI",
     "LLM",
@@ -55,7 +55,7 @@
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://effort.news/irregular",
       "domain": "effort.news",
-      "points": 654,
+      "points": 664,
       "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
@@ -83,12 +83,12 @@
       "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
-      "objectID": "49630253",
-      "title": "AirPods 5",
-      "url": "https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
-      "domain": "apple.com",
-      "points": 508,
-      "publishedAt": "2026-09-09T17:39:24.000Z"
+      "objectID": "49723408",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla",
+      "domain": "mistral.ai",
+      "points": 490,
+      "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
       "objectID": "49643556",
@@ -99,28 +99,20 @@
       "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
+      "objectID": "49715927",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "domain": "dank.systems",
+      "points": 442,
+      "publishedAt": "2026-09-15T17:37:12.000Z"
+    },
+    {
       "objectID": "49685253",
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
       "domain": "techcrunch.com",
       "points": 413,
       "publishedAt": "2026-09-13T15:44:38.000Z"
-    },
-    {
-      "objectID": "49715927",
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "domain": "dank.systems",
-      "points": 382,
-      "publishedAt": "2026-09-15T17:37:12.000Z"
-    },
-    {
-      "objectID": "49723408",
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "url": "https://mistral.ai/news/mistral-x-mozilla",
-      "domain": "mistral.ai",
-      "points": 358,
-      "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
       "objectID": "49649213",
@@ -153,6 +145,14 @@
       "domain": "twitter.com",
       "points": 295,
       "publishedAt": "2026-09-10T04:19:48.000Z"
+    },
+    {
+      "objectID": "49727627",
+      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+      "domain": "frvr.com",
+      "points": 290,
+      "publishedAt": "2026-09-16T14:30:36.000Z"
     },
     {
       "objectID": "49676820",
