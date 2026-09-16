@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-16T04:50:16.524Z",
-  "windowStart": "2026-09-09T04:50:16.524Z",
+  "fetchedAt": "2026-09-16T11:35:32.186Z",
+  "windowStart": "2026-09-09T11:35:32.186Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://rubyhack.ai/",
       "domain": "rubyhack.ai",
-      "points": 966,
+      "points": 968,
       "publishedAt": "2026-09-11T23:17:42.000Z"
     },
     {
@@ -59,20 +59,20 @@
       "publishedAt": "2026-09-13T01:22:31.000Z"
     },
     {
+      "objectID": "49704132",
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "url": "https://effort.news/irregular",
+      "domain": "effort.news",
+      "points": 625,
+      "publishedAt": "2026-09-14T21:15:01.000Z"
+    },
+    {
       "objectID": "49673098",
       "title": "Nvidia is the central bank of AI",
       "url": "https://economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "domain": "economist.com",
       "points": 581,
       "publishedAt": "2026-09-12T15:08:27.000Z"
-    },
-    {
-      "objectID": "49704132",
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "url": "https://effort.news/irregular",
-      "domain": "effort.news",
-      "points": 542,
-      "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
       "objectID": "49630253",
@@ -95,7 +95,7 @@
       "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
       "url": "https://news.ycombinator.com/item?id=49643556",
       "domain": "news.ycombinator.com",
-      "points": 485,
+      "points": 486,
       "publishedAt": "2026-09-10T13:39:53.000Z"
     },
     {
@@ -163,12 +163,12 @@
       "publishedAt": "2026-09-10T13:07:14.000Z"
     },
     {
-      "objectID": "49695409",
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "url": "https://macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
-      "domain": "macrumors.com",
-      "points": 224,
-      "publishedAt": "2026-09-14T12:01:32.000Z"
+      "objectID": "49715927",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "domain": "dank.systems",
+      "points": 253,
+      "publishedAt": "2026-09-15T17:37:12.000Z"
     }
   ]
 }

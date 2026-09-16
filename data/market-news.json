@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-16T04:50:17.087Z",
-  "windowStart": "2026-09-13T04:50:17.087Z",
+  "fetchedAt": "2026-09-16T11:35:32.838Z",
+  "windowStart": "2026-09-13T11:35:32.838Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870277-20260916.htm",
+      "title": "港股高收46點　晶片及AI相關股份造好",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870277-20260916.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-16T08:26:29.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1870208-20260916.htm",
       "title": "港股缺乏方向　半日升30點　智譜結束11日跌勢",
