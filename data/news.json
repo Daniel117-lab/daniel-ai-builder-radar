@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-16T11:35:32.186Z",
-  "windowStart": "2026-09-09T11:35:32.186Z",
+  "fetchedAt": "2026-09-16T16:56:30.459Z",
+  "windowStart": "2026-09-09T16:56:30.459Z",
   "queries": [
     "AI",
     "LLM",
@@ -51,28 +51,36 @@
       "publishedAt": "2026-09-13T00:30:44.000Z"
     },
     {
-      "objectID": "49678969",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "domain": "yoshuabengio.org",
-      "points": 653,
-      "publishedAt": "2026-09-13T01:22:31.000Z"
-    },
-    {
       "objectID": "49704132",
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://effort.news/irregular",
       "domain": "effort.news",
-      "points": 625,
+      "points": 654,
       "publishedAt": "2026-09-14T21:15:01.000Z"
+    },
+    {
+      "objectID": "49678969",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "domain": "yoshuabengio.org",
+      "points": 654,
+      "publishedAt": "2026-09-13T01:22:31.000Z"
     },
     {
       "objectID": "49673098",
       "title": "Nvidia is the central bank of AI",
       "url": "https://economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "domain": "economist.com",
-      "points": 581,
+      "points": 582,
       "publishedAt": "2026-09-12T15:08:27.000Z"
+    },
+    {
+      "objectID": "49695876",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+      "domain": "tenderlovemaking.com",
+      "points": 508,
+      "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
       "objectID": "49630253",
@@ -81,14 +89,6 @@
       "domain": "apple.com",
       "points": 508,
       "publishedAt": "2026-09-09T17:39:24.000Z"
-    },
-    {
-      "objectID": "49695876",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "domain": "tenderlovemaking.com",
-      "points": 507,
-      "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
       "objectID": "49643556",
@@ -103,15 +103,31 @@
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
       "domain": "techcrunch.com",
-      "points": 412,
+      "points": 413,
       "publishedAt": "2026-09-13T15:44:38.000Z"
+    },
+    {
+      "objectID": "49715927",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "domain": "dank.systems",
+      "points": 382,
+      "publishedAt": "2026-09-15T17:37:12.000Z"
+    },
+    {
+      "objectID": "49723408",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla",
+      "domain": "mistral.ai",
+      "points": 358,
+      "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
       "objectID": "49649213",
       "title": "OpenAI Agents API",
       "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "domain": "developers.openai.com",
-      "points": 346,
+      "points": 347,
       "publishedAt": "2026-09-10T19:43:22.000Z"
     },
     {
@@ -127,16 +143,8 @@
       "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
       "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "domain": "twitter.com",
-      "points": 329,
+      "points": 330,
       "publishedAt": "2026-09-13T16:52:33.000Z"
-    },
-    {
-      "objectID": "49628704",
-      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
-      "domain": "prospect.org",
-      "points": 313,
-      "publishedAt": "2026-09-09T16:01:41.000Z"
     },
     {
       "objectID": "49638353",
@@ -161,14 +169,6 @@
       "domain": "bsky.app",
       "points": 263,
       "publishedAt": "2026-09-10T13:07:14.000Z"
-    },
-    {
-      "objectID": "49715927",
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "domain": "dank.systems",
-      "points": 253,
-      "publishedAt": "2026-09-15T17:37:12.000Z"
     }
   ]
 }
