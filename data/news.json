@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-15T21:21:38.699Z",
-  "windowStart": "2026-09-08T21:21:38.699Z",
+  "fetchedAt": "2026-09-16T04:50:16.524Z",
+  "windowStart": "2026-09-09T04:50:16.524Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://rubyhack.ai/",
       "domain": "rubyhack.ai",
-      "points": 965,
+      "points": 966,
       "publishedAt": "2026-09-11T23:17:42.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Ask HN: Can we please limit the AI news flood?",
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
-      "points": 859,
+      "points": 860,
       "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Everyone should slow down AI development except for me",
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
       "domain": "xeiaso.net",
-      "points": 809,
+      "points": 810,
       "publishedAt": "2026-09-13T00:30:44.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
-      "points": 652,
+      "points": 653,
       "publishedAt": "2026-09-13T01:22:31.000Z"
     },
     {
@@ -65,6 +65,14 @@
       "domain": "economist.com",
       "points": 581,
       "publishedAt": "2026-09-12T15:08:27.000Z"
+    },
+    {
+      "objectID": "49704132",
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "url": "https://effort.news/irregular",
+      "domain": "effort.news",
+      "points": 542,
+      "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
       "objectID": "49630253",
@@ -79,7 +87,7 @@
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
       "domain": "tenderlovemaking.com",
-      "points": 501,
+      "points": 507,
       "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
@@ -107,19 +115,11 @@
       "publishedAt": "2026-09-10T19:43:22.000Z"
     },
     {
-      "objectID": "49704132",
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "url": "https://effort.news/irregular",
-      "domain": "effort.news",
-      "points": 344,
-      "publishedAt": "2026-09-14T21:15:01.000Z"
-    },
-    {
       "objectID": "49656496",
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
       "url": "https://researchagenda.news/articles/the-waymo-effect.html",
       "domain": "researchagenda.news",
-      "points": 334,
+      "points": 335,
       "publishedAt": "2026-09-11T11:17:50.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
       "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "domain": "twitter.com",
-      "points": 328,
+      "points": 329,
       "publishedAt": "2026-09-13T16:52:33.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
       "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists",
       "domain": "prospect.org",
-      "points": 312,
+      "points": 313,
       "publishedAt": "2026-09-09T16:01:41.000Z"
     },
     {
@@ -151,7 +151,7 @@
       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
       "url": "https://withspecific.com/benchmarks/real-swe",
       "domain": "withspecific.com",
-      "points": 274,
+      "points": 275,
       "publishedAt": "2026-09-12T20:25:48.000Z"
     },
     {
