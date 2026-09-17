@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-17T17:00:27.757Z",
-  "windowStart": "2026-09-10T17:00:27.757Z",
+  "fetchedAt": "2026-09-17T21:23:17.544Z",
+  "windowStart": "2026-09-10T21:23:17.544Z",
   "queries": [
     "AI",
     "LLM",
@@ -31,7 +31,7 @@
       "title": "Ask HN: Can we please limit the AI news flood?",
       "url": "https://news.ycombinator.com/item?id=49657850",
       "domain": "news.ycombinator.com",
-      "points": 860,
+      "points": 861,
       "publishedAt": "2026-09-11T13:11:04.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://effort.news/irregular",
       "domain": "effort.news",
-      "points": 676,
+      "points": 678,
       "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla",
       "domain": "mistral.ai",
-      "points": 577,
+      "points": 578,
       "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Why I'm still bearish on LLMs after Navier-Stokes",
       "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
       "domain": "dank.systems",
-      "points": 481,
+      "points": 482,
       "publishedAt": "2026-09-15T17:37:12.000Z"
     },
     {
@@ -97,14 +97,6 @@
       "domain": "techcrunch.com",
       "points": 415,
       "publishedAt": "2026-09-13T15:44:38.000Z"
-    },
-    {
-      "objectID": "49649213",
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "domain": "developers.openai.com",
-      "points": 347,
-      "publishedAt": "2026-09-10T19:43:22.000Z"
     },
     {
       "objectID": "49656496",
@@ -127,7 +119,7 @@
       "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
       "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
       "domain": "frvr.com",
-      "points": 321,
+      "points": 323,
       "publishedAt": "2026-09-16T14:30:36.000Z"
     },
     {
@@ -143,15 +135,23 @@
       "title": "Learning Programming in an Age of LLMs",
       "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
       "domain": "blog.ploeh.dk",
-      "points": 250,
+      "points": 251,
       "publishedAt": "2026-09-16T09:12:34.000Z"
+    },
+    {
+      "objectID": "49737985",
+      "title": "AI safety is mostly a sex cult",
+      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "domain": "skywriter.blue",
+      "points": 247,
+      "publishedAt": "2026-09-17T08:36:37.000Z"
     },
     {
       "objectID": "49732931",
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
       "domain": "arxiv.org",
-      "points": 233,
+      "points": 234,
       "publishedAt": "2026-09-16T20:59:24.000Z"
     },
     {
