@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-17T04:54:02.501Z",
-  "windowStart": "2026-09-14T04:54:02.501Z",
+  "fetchedAt": "2026-09-17T11:42:28.690Z",
+  "windowStart": "2026-09-14T11:42:28.690Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,54 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870449-20260917.htm",
+      "title": "港股低收109點　黃金及石油股向下",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870449-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-17T08:33:31.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870440-20260917.htm",
+      "title": "內地股市收市偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870440-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-17T07:28:41.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870438-20260917.htm",
+      "title": "韓股偏軟收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870438-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-17T06:45:22.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870437-20260917.htm",
+      "title": "日股收市靠穩",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870437-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-17T06:44:03.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870431-20260917.htm",
+      "title": "台股高收近1%　連升兩日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870431-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-17T06:21:37.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870421-20260917.htm",
+      "title": "恒指下午初段跌0.7%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870421-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-17T05:09:33.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1870414-20260917.htm",
       "title": "港股半日跌逾0.7%　公用及地產股受壓",
@@ -241,54 +289,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-09-14T13:36:25.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869957-20260914.htm",
-      "title": "港股高收111點　智譜低收9%　晶片股捱沽",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869957-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-14T08:29:52.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869947-20260914.htm",
-      "title": "內地股市下跌　創業板指數跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869947-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-14T07:28:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869945-20260914.htm",
-      "title": "韓股低收逾3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869945-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-14T06:45:19.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869944-20260914.htm",
-      "title": "日股低收0.8%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869944-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-14T06:36:50.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869943-20260914.htm",
-      "title": "台股低收0.7%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869943-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-14T06:36:03.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869935-20260914.htm",
-      "title": "港股下午初段升約百點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869935-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-14T05:06:27.000Z"
     }
   ]
 }
