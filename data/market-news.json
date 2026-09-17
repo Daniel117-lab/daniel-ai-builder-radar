@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-17T11:42:28.690Z",
-  "windowStart": "2026-09-14T11:42:28.690Z",
+  "fetchedAt": "2026-09-17T17:00:28.820Z",
+  "windowStart": "2026-09-14T17:00:28.820Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870494-20260917.htm",
+      "title": "美股三大指數初段升近1%或以上",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870494-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-17T13:35:46.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1870449-20260917.htm",
       "title": "港股低收109點　黃金及石油股向下",
@@ -281,14 +289,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-09-15T00:07:45.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869988-20260914.htm",
-      "title": "美股初段向下　納指跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869988-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-14T13:36:25.000Z"
     }
   ]
 }

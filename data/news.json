@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-17T11:42:27.924Z",
-  "windowStart": "2026-09-10T11:42:27.924Z",
+  "fetchedAt": "2026-09-17T17:00:27.757Z",
+  "windowStart": "2026-09-10T17:00:27.757Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://rubyhack.ai/",
       "domain": "rubyhack.ai",
-      "points": 969,
+      "points": 970,
       "publishedAt": "2026-09-11T23:17:42.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://effort.news/irregular",
       "domain": "effort.news",
-      "points": 674,
+      "points": 676,
       "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla",
       "domain": "mistral.ai",
-      "points": 567,
+      "points": 577,
       "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
@@ -83,19 +83,11 @@
       "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
-      "objectID": "49643556",
-      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-      "url": "https://news.ycombinator.com/item?id=49643556",
-      "domain": "news.ycombinator.com",
-      "points": 486,
-      "publishedAt": "2026-09-10T13:39:53.000Z"
-    },
-    {
       "objectID": "49715927",
       "title": "Why I'm still bearish on LLMs after Navier-Stokes",
       "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
       "domain": "dank.systems",
-      "points": 475,
+      "points": 481,
       "publishedAt": "2026-09-15T17:37:12.000Z"
     },
     {
@@ -135,7 +127,7 @@
       "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
       "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
       "domain": "frvr.com",
-      "points": 318,
+      "points": 321,
       "publishedAt": "2026-09-16T14:30:36.000Z"
     },
     {
@@ -147,28 +139,36 @@
       "publishedAt": "2026-09-12T20:25:48.000Z"
     },
     {
-      "objectID": "49643112",
-      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
-      "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
-      "domain": "bsky.app",
-      "points": 263,
-      "publishedAt": "2026-09-10T13:07:14.000Z"
-    },
-    {
       "objectID": "49723873",
       "title": "Learning Programming in an Age of LLMs",
       "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
       "domain": "blog.ploeh.dk",
-      "points": 243,
+      "points": 250,
       "publishedAt": "2026-09-16T09:12:34.000Z"
+    },
+    {
+      "objectID": "49732931",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "domain": "arxiv.org",
+      "points": 233,
+      "publishedAt": "2026-09-16T20:59:24.000Z"
     },
     {
       "objectID": "49715113",
       "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
       "url": "https://404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet",
       "domain": "404media.co",
-      "points": 229,
+      "points": 230,
       "publishedAt": "2026-09-15T16:38:45.000Z"
+    },
+    {
+      "objectID": "49706223",
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "url": "https://theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "domain": "theregister.com",
+      "points": 229,
+      "publishedAt": "2026-09-15T00:40:14.000Z"
     }
   ]
 }
