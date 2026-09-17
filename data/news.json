@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-16T21:18:43.709Z",
-  "windowStart": "2026-09-09T21:18:43.709Z",
+  "fetchedAt": "2026-09-17T04:54:01.719Z",
+  "windowStart": "2026-09-10T04:54:01.719Z",
   "queries": [
     "AI",
     "LLM",
@@ -47,7 +47,7 @@
       "title": "Everyone should slow down AI development except for me",
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
       "domain": "xeiaso.net",
-      "points": 810,
+      "points": 811,
       "publishedAt": "2026-09-13T00:30:44.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://effort.news/irregular",
       "domain": "effort.news",
-      "points": 664,
+      "points": 671,
       "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
-      "points": 654,
+      "points": 655,
       "publishedAt": "2026-09-13T01:22:31.000Z"
     },
     {
@@ -75,20 +75,20 @@
       "publishedAt": "2026-09-12T15:08:27.000Z"
     },
     {
-      "objectID": "49695876",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "domain": "tenderlovemaking.com",
-      "points": 508,
-      "publishedAt": "2026-09-14T12:40:57.000Z"
-    },
-    {
       "objectID": "49723408",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla",
       "domain": "mistral.ai",
-      "points": 490,
+      "points": 548,
       "publishedAt": "2026-09-16T08:08:57.000Z"
+    },
+    {
+      "objectID": "49695876",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+      "domain": "tenderlovemaking.com",
+      "points": 509,
+      "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
       "objectID": "49643556",
@@ -103,7 +103,7 @@
       "title": "Why I'm still bearish on LLMs after Navier-Stokes",
       "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
       "domain": "dank.systems",
-      "points": 442,
+      "points": 463,
       "publishedAt": "2026-09-15T17:37:12.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
       "domain": "techcrunch.com",
-      "points": 413,
+      "points": 415,
       "publishedAt": "2026-09-13T15:44:38.000Z"
     },
     {
@@ -139,19 +139,11 @@
       "publishedAt": "2026-09-13T16:52:33.000Z"
     },
     {
-      "objectID": "49638353",
-      "title": "OpenAI might have stolen another major proof",
-      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
-      "domain": "twitter.com",
-      "points": 295,
-      "publishedAt": "2026-09-10T04:19:48.000Z"
-    },
-    {
       "objectID": "49727627",
       "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
       "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
       "domain": "frvr.com",
-      "points": 290,
+      "points": 310,
       "publishedAt": "2026-09-16T14:30:36.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "bsky.app",
       "points": 263,
       "publishedAt": "2026-09-10T13:07:14.000Z"
+    },
+    {
+      "objectID": "49723873",
+      "title": "Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "domain": "blog.ploeh.dk",
+      "points": 234,
+      "publishedAt": "2026-09-16T09:12:34.000Z"
     }
   ]
 }

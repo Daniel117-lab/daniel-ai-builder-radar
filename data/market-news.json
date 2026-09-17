@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-16T21:18:44.252Z",
-  "windowStart": "2026-09-13T21:18:44.252Z",
+  "fetchedAt": "2026-09-17T04:54:02.501Z",
+  "windowStart": "2026-09-14T04:54:02.501Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,62 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870414-20260917.htm",
+      "title": "港股半日跌逾0.7%　公用及地產股受壓",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870414-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-17T04:18:37.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870406-20260917.htm",
+      "title": "滬深股市半日下跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870406-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-17T03:47:47.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870399-20260917.htm",
+      "title": "日股半日升43點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870399-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-17T02:51:59.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870389-20260917.htm",
+      "title": "港股競價時段跌233點　科指跌1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870389-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-17T01:27:33.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870383-20260917.htm",
+      "title": "台股初段升逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870383-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-17T01:04:41.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870379-20260917.htm",
+      "title": "日股初段曾升逾700點　韓股靠穩",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870379-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-17T00:19:33.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870369-20260917.htm",
+      "title": "港股美國預託證券下挫　多隻藍籌股跌近1%或以上",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870369-20260917.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-16T21:22:18.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1870363-20260917.htm",
       "title": "美股三連跌　道指低收631點　聯儲局10月加息預期升溫",
@@ -233,62 +289,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-09-14T05:06:27.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869926-20260914.htm",
-      "title": "港股半日反彈87點　智譜曾失守配股價　晶片股受壓",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869926-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-14T04:18:16.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869922-20260914.htm",
-      "title": "滬股半日反彈約0.2%　創業板指數跌幅收窄",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869922-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-14T03:47:20.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869919-20260914.htm",
-      "title": "日股半日跌0.8%　於63000點失而復得",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869919-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-14T02:40:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869912-20260914.htm",
-      "title": "內地股市初段偏軟　創業板指數跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869912-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-14T01:49:37.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869908-20260914.htm",
-      "title": "港股低開104點　智譜跌近6%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869908-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-14T01:25:06.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869904-20260914.htm",
-      "title": "台股初段跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869904-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-14T01:06:19.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1869899-20260914.htm",
-      "title": "日韓股市初段下挫　晶片股沽壓大",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1869899-20260914.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-14T00:13:16.000Z"
     }
   ]
 }
