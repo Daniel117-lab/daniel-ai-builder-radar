@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-17T21:23:18.147Z",
-  "windowStart": "2026-09-14T21:23:18.147Z",
+  "fetchedAt": "2026-09-18T04:44:30.084Z",
+  "windowStart": "2026-09-15T04:44:30.084Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,70 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870581-20260918.htm",
+      "title": "恒指半日升164點　科指升逾1.7%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870581-20260918.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-18T04:16:27.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870580-20260918.htm",
+      "title": "日圓跌穿157兌1美元　日股升幅擴大至約2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870580-20260918.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-18T04:11:22.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870577-20260918.htm",
+      "title": "內地股市半日升1%至逾2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870577-20260918.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-18T04:02:57.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870563-20260918.htm",
+      "title": "日股半日升逾0.8%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870563-20260918.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-18T02:50:27.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870554-20260918.htm",
+      "title": "內地股市初段造好　上證指數3900點水平有阻力",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870554-20260918.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-18T01:47:21.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870550-20260918.htm",
+      "title": "港股競價時段升119點　科指升逾0.4%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870550-20260918.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-18T01:27:01.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870545-20260918.htm",
+      "title": "台股初段升穿47000點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870545-20260918.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-18T01:08:38.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870540-20260918.htm",
+      "title": "日股初段升逾500點　韓股升逾2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870540-20260918.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-18T00:08:57.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1870494-20260917.htm",
       "title": "美股三大指數初段升近1%或以上",
@@ -233,62 +297,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-09-15T05:13:33.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870062-20260915.htm",
-      "title": "港股半日跌58點　金融及地產股向下",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870062-20260915.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-15T04:15:53.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870057-20260915.htm",
-      "title": "內地股市表現反覆　滬股半日跌3點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870057-20260915.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-15T03:45:36.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870044-20260915.htm",
-      "title": "日股半日反彈近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870044-20260915.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-15T02:41:33.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870033-20260915.htm",
-      "title": "內地股市初段窄幅上落",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870033-20260915.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-15T01:39:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870027-20260915.htm",
-      "title": "港股競價時段升16點　廣汽復牌升逾8%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870027-20260915.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-15T01:27:24.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870025-20260915.htm",
-      "title": "台股初段偏軟",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870025-20260915.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-15T01:08:35.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870023-20260915.htm",
-      "title": "日韓股市初段跌約0.6%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870023-20260915.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-15T00:07:45.000Z"
     }
   ]
 }

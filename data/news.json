@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-17T21:23:17.544Z",
-  "windowStart": "2026-09-10T21:23:17.544Z",
+  "fetchedAt": "2026-09-18T04:44:29.138Z",
+  "windowStart": "2026-09-11T04:44:29.138Z",
   "queries": [
     "AI",
     "LLM",
@@ -55,7 +55,7 @@
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
-      "points": 656,
+      "points": 657,
       "publishedAt": "2026-09-13T01:22:31.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla",
       "domain": "mistral.ai",
-      "points": 578,
+      "points": 581,
       "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Why I'm still bearish on LLMs after Navier-Stokes",
       "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
       "domain": "dank.systems",
-      "points": 482,
+      "points": 485,
       "publishedAt": "2026-09-15T17:37:12.000Z"
     },
     {
@@ -97,6 +97,14 @@
       "domain": "techcrunch.com",
       "points": 415,
       "publishedAt": "2026-09-13T15:44:38.000Z"
+    },
+    {
+      "objectID": "49746163",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "domain": "bend-lang.com",
+      "points": 362,
+      "publishedAt": "2026-09-17T20:36:13.000Z"
     },
     {
       "objectID": "49656496",
@@ -119,8 +127,16 @@
       "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
       "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
       "domain": "frvr.com",
-      "points": 323,
+      "points": 324,
       "publishedAt": "2026-09-16T14:30:36.000Z"
+    },
+    {
+      "objectID": "49737985",
+      "title": "AI safety is mostly a sex cult",
+      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "domain": "skywriter.blue",
+      "points": 285,
+      "publishedAt": "2026-09-17T08:36:37.000Z"
     },
     {
       "objectID": "49676820",
@@ -139,19 +155,11 @@
       "publishedAt": "2026-09-16T09:12:34.000Z"
     },
     {
-      "objectID": "49737985",
-      "title": "AI safety is mostly a sex cult",
-      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-      "domain": "skywriter.blue",
-      "points": 247,
-      "publishedAt": "2026-09-17T08:36:37.000Z"
-    },
-    {
       "objectID": "49732931",
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
       "domain": "arxiv.org",
-      "points": 234,
+      "points": 239,
       "publishedAt": "2026-09-16T20:59:24.000Z"
     },
     {
@@ -161,14 +169,6 @@
       "domain": "404media.co",
       "points": 230,
       "publishedAt": "2026-09-15T16:38:45.000Z"
-    },
-    {
-      "objectID": "49706223",
-      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "url": "https://theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-      "domain": "theregister.com",
-      "points": 229,
-      "publishedAt": "2026-09-15T00:40:14.000Z"
     }
   ]
 }
