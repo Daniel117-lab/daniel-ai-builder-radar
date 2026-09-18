@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-18T16:24:40.052Z",
-  "windowStart": "2026-09-11T16:24:40.052Z",
+  "fetchedAt": "2026-09-18T20:54:48.954Z",
+  "windowStart": "2026-09-11T20:54:48.954Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,20 +11,20 @@
   ],
   "stories": [
     {
-      "objectID": "49662371",
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "domain": "mathandai.org",
-      "points": 1239,
-      "publishedAt": "2026-09-11T17:45:12.000Z"
-    },
-    {
       "objectID": "49666735",
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://rubyhack.ai/",
       "domain": "rubyhack.ai",
       "points": 972,
       "publishedAt": "2026-09-11T23:17:42.000Z"
+    },
+    {
+      "objectID": "49752056",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+      "domain": "techcrunch.com",
+      "points": 820,
+      "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
       "objectID": "49678683",
@@ -43,20 +43,20 @@
       "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
-      "objectID": "49752056",
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "domain": "techcrunch.com",
-      "points": 674,
-      "publishedAt": "2026-09-18T09:45:07.000Z"
-    },
-    {
       "objectID": "49678969",
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "domain": "yoshuabengio.org",
       "points": 657,
       "publishedAt": "2026-09-13T01:22:31.000Z"
+    },
+    {
+      "objectID": "49746163",
+      "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
+      "url": "https://bend-lang.com/",
+      "domain": "bend-lang.com",
+      "points": 588,
+      "publishedAt": "2026-09-17T20:36:13.000Z"
     },
     {
       "objectID": "49723408",
@@ -75,14 +75,6 @@
       "publishedAt": "2026-09-12T15:08:27.000Z"
     },
     {
-      "objectID": "49746163",
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "domain": "bend-lang.com",
-      "points": 569,
-      "publishedAt": "2026-09-17T20:36:13.000Z"
-    },
-    {
       "objectID": "49695876",
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
@@ -99,20 +91,20 @@
       "publishedAt": "2026-09-15T17:37:12.000Z"
     },
     {
+      "objectID": "49749656",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://hacktron.ai/blog/hacking-openai",
+      "domain": "hacktron.ai",
+      "points": 458,
+      "publishedAt": "2026-09-18T02:47:24.000Z"
+    },
+    {
       "objectID": "49685253",
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
       "domain": "techcrunch.com",
       "points": 416,
       "publishedAt": "2026-09-13T15:44:38.000Z"
-    },
-    {
-      "objectID": "49749656",
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "url": "https://hacktron.ai/blog/hacking-openai",
-      "domain": "hacktron.ai",
-      "points": 411,
-      "publishedAt": "2026-09-18T02:47:24.000Z"
     },
     {
       "objectID": "49685991",
@@ -135,8 +127,24 @@
       "title": "AI safety is mostly a sex cult",
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
-      "points": 308,
+      "points": 311,
       "publishedAt": "2026-09-17T08:36:37.000Z"
+    },
+    {
+      "objectID": "49747070",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
+      "domain": "sockpuppet.org",
+      "points": 308,
+      "publishedAt": "2026-09-17T21:48:38.000Z"
+    },
+    {
+      "objectID": "49757520",
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "domain": "cnn.com",
+      "points": 282,
+      "publishedAt": "2026-09-18T17:28:01.000Z"
     },
     {
       "objectID": "49676820",
@@ -145,14 +153,6 @@
       "domain": "withspecific.com",
       "points": 275,
       "publishedAt": "2026-09-12T20:25:48.000Z"
-    },
-    {
-      "objectID": "49747070",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
-      "domain": "sockpuppet.org",
-      "points": 265,
-      "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
       "objectID": "49723873",
