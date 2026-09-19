@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-18T20:54:48.954Z",
-  "windowStart": "2026-09-11T20:54:48.954Z",
+  "fetchedAt": "2026-09-19T04:38:31.962Z",
+  "windowStart": "2026-09-12T04:38:31.962Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,19 +11,11 @@
   ],
   "stories": [
     {
-      "objectID": "49666735",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://rubyhack.ai/",
-      "domain": "rubyhack.ai",
-      "points": 972,
-      "publishedAt": "2026-09-11T23:17:42.000Z"
-    },
-    {
       "objectID": "49752056",
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 820,
+      "points": 868,
       "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
@@ -39,7 +31,7 @@
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://effort.news/irregular",
       "domain": "effort.news",
-      "points": 682,
+      "points": 683,
       "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
@@ -55,7 +47,7 @@
       "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
-      "points": 588,
+      "points": 593,
       "publishedAt": "2026-09-17T20:36:13.000Z"
     },
     {
@@ -95,8 +87,24 @@
       "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
       "url": "https://hacktron.ai/blog/hacking-openai",
       "domain": "hacktron.ai",
-      "points": 458,
+      "points": 474,
       "publishedAt": "2026-09-18T02:47:24.000Z"
+    },
+    {
+      "objectID": "49747070",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
+      "domain": "sockpuppet.org",
+      "points": 434,
+      "publishedAt": "2026-09-17T21:48:38.000Z"
+    },
+    {
+      "objectID": "49757520",
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "domain": "cnn.com",
+      "points": 421,
+      "publishedAt": "2026-09-18T17:28:01.000Z"
     },
     {
       "objectID": "49685253",
@@ -127,24 +135,8 @@
       "title": "AI safety is mostly a sex cult",
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
-      "points": 311,
+      "points": 312,
       "publishedAt": "2026-09-17T08:36:37.000Z"
-    },
-    {
-      "objectID": "49747070",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
-      "domain": "sockpuppet.org",
-      "points": 308,
-      "publishedAt": "2026-09-17T21:48:38.000Z"
-    },
-    {
-      "objectID": "49757520",
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "domain": "cnn.com",
-      "points": 282,
-      "publishedAt": "2026-09-18T17:28:01.000Z"
     },
     {
       "objectID": "49676820",
@@ -167,8 +159,16 @@
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
       "domain": "arxiv.org",
-      "points": 241,
+      "points": 242,
       "publishedAt": "2026-09-16T20:59:24.000Z"
+    },
+    {
+      "objectID": "49740834",
+      "title": "I Don't Like LLMs",
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "domain": "martinfowler.com",
+      "points": 232,
+      "publishedAt": "2026-09-17T13:57:07.000Z"
     }
   ]
 }

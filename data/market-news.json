@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-18T20:54:49.661Z",
-  "windowStart": "2026-09-15T20:54:49.661Z",
+  "fetchedAt": "2026-09-19T04:38:33.033Z",
+  "windowStart": "2026-09-16T04:38:33.033Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870686-20260919.htm",
+      "title": "港股美國預託證券個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870686-20260919.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-18T23:20:36.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870684-20260919.htm",
+      "title": "英法德股市回吐1%以上　大眾汽車急挫近6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870684-20260919.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-18T22:14:39.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870683-20260919.htm",
+      "title": "道指低收95點　納指升近0.4%　美股本周個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870683-20260919.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-18T22:14:13.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1870664-20260918.htm",
       "title": "美股初段變動不大",
@@ -289,14 +313,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-09-16T08:26:29.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870208-20260916.htm",
-      "title": "港股缺乏方向　半日升30點　智譜結束11日跌勢",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870208-20260916.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-16T04:27:17.000Z"
     }
   ]
 }
