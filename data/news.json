@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-19T15:53:24.087Z",
-  "windowStart": "2026-09-12T15:53:24.087Z",
+  "fetchedAt": "2026-09-19T20:41:12.843Z",
+  "windowStart": "2026-09-12T20:41:12.843Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,11 +11,19 @@
   ],
   "stories": [
     {
+      "objectID": "49764791",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "domain": "john.hartnup.uk",
+      "points": 1125,
+      "publishedAt": "2026-09-19T09:20:58.000Z"
+    },
+    {
       "objectID": "49752056",
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 906,
+      "points": 912,
       "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
@@ -31,16 +39,8 @@
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://effort.news/irregular",
       "domain": "effort.news",
-      "points": 687,
+      "points": 688,
       "publishedAt": "2026-09-14T21:15:01.000Z"
-    },
-    {
-      "objectID": "49764791",
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "domain": "john.hartnup.uk",
-      "points": 667,
-      "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
       "objectID": "49678969",
@@ -55,8 +55,16 @@
       "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
-      "points": 601,
+      "points": 603,
       "publishedAt": "2026-09-17T20:36:13.000Z"
+    },
+    {
+      "objectID": "49747070",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
+      "domain": "sockpuppet.org",
+      "points": 598,
+      "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
       "objectID": "49723408",
@@ -67,20 +75,20 @@
       "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
-      "objectID": "49747070",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
-      "domain": "sockpuppet.org",
-      "points": 550,
-      "publishedAt": "2026-09-17T21:48:38.000Z"
-    },
-    {
       "objectID": "49695876",
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
       "domain": "tenderlovemaking.com",
       "points": 510,
       "publishedAt": "2026-09-14T12:40:57.000Z"
+    },
+    {
+      "objectID": "49757520",
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "domain": "cnn.com",
+      "points": 493,
+      "publishedAt": "2026-09-18T17:28:01.000Z"
     },
     {
       "objectID": "49715927",
@@ -91,19 +99,11 @@
       "publishedAt": "2026-09-15T17:37:12.000Z"
     },
     {
-      "objectID": "49757520",
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "domain": "cnn.com",
-      "points": 480,
-      "publishedAt": "2026-09-18T17:28:01.000Z"
-    },
-    {
       "objectID": "49749656",
       "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
       "url": "https://hacktron.ai/blog/hacking-openai",
       "domain": "hacktron.ai",
-      "points": 479,
+      "points": 481,
       "publishedAt": "2026-09-18T02:47:24.000Z"
     },
     {
@@ -135,16 +135,8 @@
       "title": "AI safety is mostly a sex cult",
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
-      "points": 321,
+      "points": 324,
       "publishedAt": "2026-09-17T08:36:37.000Z"
-    },
-    {
-      "objectID": "49676820",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "domain": "withspecific.com",
-      "points": 275,
-      "publishedAt": "2026-09-12T20:25:48.000Z"
     },
     {
       "objectID": "49723873",
@@ -167,8 +159,16 @@
       "title": "I Don't Like LLMs",
       "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
       "domain": "martinfowler.com",
-      "points": 236,
+      "points": 237,
       "publishedAt": "2026-09-17T13:57:07.000Z"
+    },
+    {
+      "objectID": "49740105",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "domain": "mysetup.ai",
+      "points": 237,
+      "publishedAt": "2026-09-17T13:01:44.000Z"
     }
   ]
 }

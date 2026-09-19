@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-19T15:53:24.729Z",
-  "windowStart": "2026-09-16T15:53:24.729Z",
+  "fetchedAt": "2026-09-19T20:41:13.459Z",
+  "windowStart": "2026-09-16T20:41:13.459Z",
   "markets": [
     {
       "id": "hk",
@@ -289,14 +289,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-09-16T20:56:44.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870353-20260917.htm",
-      "title": "歐洲股市靠穩　受惠於油價轉跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870353-20260917.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-16T17:33:34.000Z"
     }
   ]
 }
