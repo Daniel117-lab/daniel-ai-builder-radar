@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-19T11:00:09.031Z",
-  "windowStart": "2026-09-16T11:00:09.031Z",
+  "fetchedAt": "2026-09-19T15:53:24.729Z",
+  "windowStart": "2026-09-16T15:53:24.729Z",
   "markets": [
     {
       "id": "hk",
@@ -297,14 +297,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-09-16T17:33:34.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870333-20260916.htm",
-      "title": "美股初段靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870333-20260916.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-16T13:34:52.000Z"
     }
   ]
 }

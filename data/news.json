@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-19T11:00:05.207Z",
-  "windowStart": "2026-09-12T11:00:05.207Z",
+  "fetchedAt": "2026-09-19T15:53:24.087Z",
+  "windowStart": "2026-09-12T15:53:24.087Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 893,
+      "points": 906,
       "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
@@ -31,8 +31,16 @@
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://effort.news/irregular",
       "domain": "effort.news",
-      "points": 686,
+      "points": 687,
       "publishedAt": "2026-09-14T21:15:01.000Z"
+    },
+    {
+      "objectID": "49764791",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "domain": "john.hartnup.uk",
+      "points": 667,
+      "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
       "objectID": "49678969",
@@ -47,7 +55,7 @@
       "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
-      "points": 599,
+      "points": 601,
       "publishedAt": "2026-09-17T20:36:13.000Z"
     },
     {
@@ -55,16 +63,16 @@
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla",
       "domain": "mistral.ai",
-      "points": 583,
+      "points": 584,
       "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
-      "objectID": "49673098",
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "domain": "economist.com",
-      "points": 582,
-      "publishedAt": "2026-09-12T15:08:27.000Z"
+      "objectID": "49747070",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
+      "domain": "sockpuppet.org",
+      "points": 550,
+      "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
       "objectID": "49695876",
@@ -75,36 +83,28 @@
       "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
-      "objectID": "49747070",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
-      "domain": "sockpuppet.org",
-      "points": 496,
-      "publishedAt": "2026-09-17T21:48:38.000Z"
-    },
-    {
       "objectID": "49715927",
       "title": "Why I'm still bearish on LLMs after Navier-Stokes",
       "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
       "domain": "dank.systems",
-      "points": 487,
+      "points": 488,
       "publishedAt": "2026-09-15T17:37:12.000Z"
-    },
-    {
-      "objectID": "49749656",
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "url": "https://hacktron.ai/blog/hacking-openai",
-      "domain": "hacktron.ai",
-      "points": 477,
-      "publishedAt": "2026-09-18T02:47:24.000Z"
     },
     {
       "objectID": "49757520",
       "title": "US Military had close call after using AI for hallucinated intelligence report",
       "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "domain": "cnn.com",
-      "points": 458,
+      "points": 480,
       "publishedAt": "2026-09-18T17:28:01.000Z"
+    },
+    {
+      "objectID": "49749656",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://hacktron.ai/blog/hacking-openai",
+      "domain": "hacktron.ai",
+      "points": 479,
+      "publishedAt": "2026-09-18T02:47:24.000Z"
     },
     {
       "objectID": "49685253",
@@ -135,7 +135,7 @@
       "title": "AI safety is mostly a sex cult",
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
-      "points": 316,
+      "points": 321,
       "publishedAt": "2026-09-17T08:36:37.000Z"
     },
     {
@@ -167,7 +167,7 @@
       "title": "I Don't Like LLMs",
       "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
       "domain": "martinfowler.com",
-      "points": 234,
+      "points": 236,
       "publishedAt": "2026-09-17T13:57:07.000Z"
     }
   ]
