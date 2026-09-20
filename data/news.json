@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-19T20:41:12.843Z",
-  "windowStart": "2026-09-12T20:41:12.843Z",
+  "fetchedAt": "2026-09-20T04:54:44.613Z",
+  "windowStart": "2026-09-13T04:54:44.613Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1125,
+      "points": 1464,
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
@@ -23,32 +23,24 @@
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 912,
+      "points": 920,
       "publishedAt": "2026-09-18T09:45:07.000Z"
-    },
-    {
-      "objectID": "49678683",
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
-      "domain": "xeiaso.net",
-      "points": 811,
-      "publishedAt": "2026-09-13T00:30:44.000Z"
     },
     {
       "objectID": "49704132",
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://effort.news/irregular",
       "domain": "effort.news",
-      "points": 688,
+      "points": 689,
       "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
-      "objectID": "49678969",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "domain": "yoshuabengio.org",
-      "points": 657,
-      "publishedAt": "2026-09-13T01:22:31.000Z"
+      "objectID": "49747070",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
+      "domain": "sockpuppet.org",
+      "points": 650,
+      "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
       "objectID": "49746163",
@@ -57,14 +49,6 @@
       "domain": "bend-lang.com",
       "points": 603,
       "publishedAt": "2026-09-17T20:36:13.000Z"
-    },
-    {
-      "objectID": "49747070",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
-      "domain": "sockpuppet.org",
-      "points": 598,
-      "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
       "objectID": "49723408",
@@ -87,7 +71,7 @@
       "title": "US Military had close call after using AI for hallucinated intelligence report",
       "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "domain": "cnn.com",
-      "points": 493,
+      "points": 499,
       "publishedAt": "2026-09-18T17:28:01.000Z"
     },
     {
@@ -95,7 +79,7 @@
       "title": "Why I'm still bearish on LLMs after Navier-Stokes",
       "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
       "domain": "dank.systems",
-      "points": 488,
+      "points": 490,
       "publishedAt": "2026-09-15T17:37:12.000Z"
     },
     {
@@ -103,7 +87,7 @@
       "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
       "url": "https://hacktron.ai/blog/hacking-openai",
       "domain": "hacktron.ai",
-      "points": 481,
+      "points": 484,
       "publishedAt": "2026-09-18T02:47:24.000Z"
     },
     {
@@ -135,8 +119,16 @@
       "title": "AI safety is mostly a sex cult",
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
-      "points": 324,
+      "points": 325,
       "publishedAt": "2026-09-17T08:36:37.000Z"
+    },
+    {
+      "objectID": "49767937",
+      "title": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "domain": "erichgrunewald.substack.com",
+      "points": 267,
+      "publishedAt": "2026-09-19T16:35:24.000Z"
     },
     {
       "objectID": "49723873",
@@ -155,6 +147,14 @@
       "publishedAt": "2026-09-16T20:59:24.000Z"
     },
     {
+      "objectID": "49740105",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "domain": "mysetup.ai",
+      "points": 241,
+      "publishedAt": "2026-09-17T13:01:44.000Z"
+    },
+    {
       "objectID": "49740834",
       "title": "I Don't Like LLMs",
       "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
@@ -163,12 +163,12 @@
       "publishedAt": "2026-09-17T13:57:07.000Z"
     },
     {
-      "objectID": "49740105",
-      "title": "Show HN: Share your AI Setup, Learn from others",
-      "url": "https://mysetup.ai/",
-      "domain": "mysetup.ai",
-      "points": 237,
-      "publishedAt": "2026-09-17T13:01:44.000Z"
+      "objectID": "49715113",
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "url": "https://404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet",
+      "domain": "404media.co",
+      "points": 230,
+      "publishedAt": "2026-09-15T16:38:45.000Z"
     }
   ]
 }
