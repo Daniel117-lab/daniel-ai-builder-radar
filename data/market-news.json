@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-20T11:25:17.061Z",
-  "windowStart": "2026-09-17T11:25:17.061Z",
+  "fetchedAt": "2026-09-20T16:06:50.747Z",
+  "windowStart": "2026-09-17T16:06:50.747Z",
   "markets": [
     {
       "id": "hk",
@@ -169,14 +169,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-09-18T00:08:57.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870494-20260917.htm",
-      "title": "美股三大指數初段升近1%或以上",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870494-20260917.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-17T13:35:46.000Z"
     }
   ]
 }
