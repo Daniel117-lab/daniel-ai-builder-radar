@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-20T16:06:50.231Z",
-  "windowStart": "2026-09-13T16:06:50.231Z",
+  "fetchedAt": "2026-09-20T20:49:53.891Z",
+  "windowStart": "2026-09-13T20:49:53.891Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1715,
+      "points": 1758,
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 932,
+      "points": 934,
       "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
       "domain": "sockpuppet.org",
-      "points": 697,
+      "points": 711,
       "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
-      "points": 607,
+      "points": 608,
       "publishedAt": "2026-09-17T20:36:13.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "US Military had close call after using AI for hallucinated intelligence report",
       "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "domain": "cnn.com",
-      "points": 509,
+      "points": 510,
       "publishedAt": "2026-09-18T17:28:01.000Z"
     },
     {
@@ -87,16 +87,24 @@
       "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
       "url": "https://hacktron.ai/blog/hacking-openai",
       "domain": "hacktron.ai",
-      "points": 485,
+      "points": 486,
       "publishedAt": "2026-09-18T02:47:24.000Z"
     },
     {
-      "objectID": "49685991",
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "domain": "twitter.com",
+      "objectID": "49767937",
+      "title": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "domain": "erichgrunewald.substack.com",
+      "points": 333,
+      "publishedAt": "2026-09-19T16:35:24.000Z"
+    },
+    {
+      "objectID": "49776699",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "domain": "pirateface.co",
       "points": 332,
-      "publishedAt": "2026-09-13T16:52:33.000Z"
+      "publishedAt": "2026-09-20T15:16:07.000Z"
     },
     {
       "objectID": "49727627",
@@ -115,14 +123,6 @@
       "publishedAt": "2026-09-17T08:36:37.000Z"
     },
     {
-      "objectID": "49767937",
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "domain": "erichgrunewald.substack.com",
-      "points": 321,
-      "publishedAt": "2026-09-19T16:35:24.000Z"
-    },
-    {
       "objectID": "49723873",
       "title": "Learning Programming in an Age of LLMs",
       "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
@@ -135,7 +135,7 @@
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
       "domain": "mysetup.ai",
-      "points": 244,
+      "points": 245,
       "publishedAt": "2026-09-17T13:01:44.000Z"
     },
     {
