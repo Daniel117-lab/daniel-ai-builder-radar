@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-20T20:49:53.891Z",
-  "windowStart": "2026-09-13T20:49:53.891Z",
+  "fetchedAt": "2026-09-21T04:56:59.138Z",
+  "windowStart": "2026-09-14T04:56:59.138Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1758,
+      "points": 1793,
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 934,
+      "points": 936,
       "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
       "domain": "sockpuppet.org",
-      "points": 711,
+      "points": 724,
       "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://effort.news/irregular",
       "domain": "effort.news",
-      "points": 691,
+      "points": 692,
       "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
-      "points": 608,
+      "points": 609,
       "publishedAt": "2026-09-17T20:36:13.000Z"
     },
     {
@@ -59,6 +59,14 @@
       "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
+      "objectID": "49757520",
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "domain": "cnn.com",
+      "points": 513,
+      "publishedAt": "2026-09-18T17:28:01.000Z"
+    },
+    {
       "objectID": "49695876",
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
@@ -67,19 +75,19 @@
       "publishedAt": "2026-09-14T12:40:57.000Z"
     },
     {
-      "objectID": "49757520",
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "domain": "cnn.com",
-      "points": 510,
-      "publishedAt": "2026-09-18T17:28:01.000Z"
+      "objectID": "49776699",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "domain": "pirateface.co",
+      "points": 493,
+      "publishedAt": "2026-09-20T15:16:07.000Z"
     },
     {
       "objectID": "49715927",
       "title": "Why I'm still bearish on LLMs after Navier-Stokes",
       "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
       "domain": "dank.systems",
-      "points": 491,
+      "points": 492,
       "publishedAt": "2026-09-15T17:37:12.000Z"
     },
     {
@@ -95,16 +103,8 @@
       "title": "I think you should almost never use AI to write",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "domain": "erichgrunewald.substack.com",
-      "points": 333,
+      "points": 344,
       "publishedAt": "2026-09-19T16:35:24.000Z"
-    },
-    {
-      "objectID": "49776699",
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "domain": "pirateface.co",
-      "points": 332,
-      "publishedAt": "2026-09-20T15:16:07.000Z"
     },
     {
       "objectID": "49727627",
@@ -151,7 +151,7 @@
       "title": "I Don't Like LLMs",
       "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
       "domain": "martinfowler.com",
-      "points": 238,
+      "points": 239,
       "publishedAt": "2026-09-17T13:57:07.000Z"
     },
     {
