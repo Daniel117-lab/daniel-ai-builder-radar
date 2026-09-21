@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-21T04:56:59.138Z",
-  "windowStart": "2026-09-14T04:56:59.138Z",
+  "fetchedAt": "2026-09-21T12:49:34.410Z",
+  "windowStart": "2026-09-14T12:49:34.410Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1793,
+      "points": 1831,
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 936,
+      "points": 940,
       "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
       "domain": "sockpuppet.org",
-      "points": 724,
+      "points": 728,
       "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
       "url": "https://effort.news/irregular",
       "domain": "effort.news",
-      "points": 692,
+      "points": 693,
       "publishedAt": "2026-09-14T21:15:01.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
-      "points": 609,
+      "points": 611,
       "publishedAt": "2026-09-17T20:36:13.000Z"
     },
     {
@@ -59,28 +59,20 @@
       "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
+      "objectID": "49776699",
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "domain": "pirateface.co",
+      "points": 541,
+      "publishedAt": "2026-09-20T15:16:07.000Z"
+    },
+    {
       "objectID": "49757520",
       "title": "US Military had close call after using AI for hallucinated intelligence report",
       "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "domain": "cnn.com",
       "points": 513,
       "publishedAt": "2026-09-18T17:28:01.000Z"
-    },
-    {
-      "objectID": "49695876",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "domain": "tenderlovemaking.com",
-      "points": 511,
-      "publishedAt": "2026-09-14T12:40:57.000Z"
-    },
-    {
-      "objectID": "49776699",
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "domain": "pirateface.co",
-      "points": 493,
-      "publishedAt": "2026-09-20T15:16:07.000Z"
     },
     {
       "objectID": "49715927",
@@ -103,7 +95,7 @@
       "title": "I think you should almost never use AI to write",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "domain": "erichgrunewald.substack.com",
-      "points": 344,
+      "points": 353,
       "publishedAt": "2026-09-19T16:35:24.000Z"
     },
     {
@@ -111,7 +103,7 @@
       "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
       "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
       "domain": "frvr.com",
-      "points": 329,
+      "points": 330,
       "publishedAt": "2026-09-16T14:30:36.000Z"
     },
     {
@@ -119,7 +111,7 @@
       "title": "AI safety is mostly a sex cult",
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "domain": "skywriter.blue",
-      "points": 327,
+      "points": 328,
       "publishedAt": "2026-09-17T08:36:37.000Z"
     },
     {
@@ -135,7 +127,7 @@
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
       "domain": "mysetup.ai",
-      "points": 245,
+      "points": 249,
       "publishedAt": "2026-09-17T13:01:44.000Z"
     },
     {
@@ -143,7 +135,7 @@
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
       "domain": "arxiv.org",
-      "points": 243,
+      "points": 244,
       "publishedAt": "2026-09-16T20:59:24.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "404media.co",
       "points": 231,
       "publishedAt": "2026-09-15T16:38:45.000Z"
+    },
+    {
+      "objectID": "49774329",
+      "title": "AI and the Destruction of the Creative Commons",
+      "url": "https://chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "domain": "chesterwisniewski.com",
+      "points": 230,
+      "publishedAt": "2026-09-20T10:07:51.000Z"
     }
   ]
 }

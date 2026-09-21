@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-21T04:56:59.608Z",
-  "windowStart": "2026-09-18T04:56:59.608Z",
+  "fetchedAt": "2026-09-21T12:49:34.967Z",
+  "windowStart": "2026-09-18T12:49:34.967Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,46 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870954-20260921.htm",
+      "title": "港股重返25000點關口　恒指升291點　全日高位收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870954-20260921.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-21T08:44:53.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870941-20260921.htm",
+      "title": "內地股市3大指數高收近1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870941-20260921.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-21T07:43:28.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870937-20260921.htm",
+      "title": "韓股高收近2%　重上7000點大關",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870937-20260921.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-21T06:45:28.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870934-20260921.htm",
+      "title": "台股高收逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870934-20260921.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-21T06:09:03.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870928-20260921.htm",
+      "title": "恒指下午初段升逾0.5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870928-20260921.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-21T05:16:57.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1870919-20260921.htm",
       "title": "恒指半日升140點　醫藥相關股份造好",
@@ -113,54 +153,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-09-18T13:36:53.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870621-20260918.htm",
-      "title": "港股高收146點　AI相關股份顯著造好",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870621-20260918.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-18T08:45:30.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870605-20260918.htm",
-      "title": "滬深股市高收近1%至逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870605-20260918.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-18T07:45:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870592-20260918.htm",
-      "title": "韓股高收近3%　本周微跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870592-20260918.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-18T06:47:26.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870591-20260918.htm",
-      "title": "日股本周累升近1.6%　結束兩星期連跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870591-20260918.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-18T06:38:19.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870590-20260918.htm",
-      "title": "台股高收近2%　本周累升逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870590-20260918.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-18T06:31:48.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870586-20260918.htm",
-      "title": "港股下午初段升近200點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870586-20260918.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-18T05:14:02.000Z"
     }
   ]
 }
