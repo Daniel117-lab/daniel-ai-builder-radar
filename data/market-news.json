@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-22T11:39:38.491Z",
-  "windowStart": "2026-09-19T11:39:38.491Z",
+  "fetchedAt": "2026-09-22T16:57:59.915Z",
+  "windowStart": "2026-09-19T16:57:59.915Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871134-20260922.htm",
+      "title": "美股初段造好　納指創新高",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871134-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-22T13:43:42.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1871103-20260922.htm",
       "title": "港股收市升45點　連升3日",
