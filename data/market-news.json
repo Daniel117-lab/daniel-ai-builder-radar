@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-22T04:57:36.176Z",
-  "windowStart": "2026-09-19T04:57:36.176Z",
+  "fetchedAt": "2026-09-22T11:39:38.491Z",
+  "windowStart": "2026-09-19T11:39:38.491Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,46 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871103-20260922.htm",
+      "title": "港股收市升45點　連升3日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871103-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-22T08:38:10.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871089-20260922.htm",
+      "title": "滬深股市收市變動不大",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871089-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-22T07:26:32.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871085-20260922.htm",
+      "title": "韓股收市微升　連升3個交易日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871085-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-22T06:38:03.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871080-20260922.htm",
+      "title": "台股收市升81點　一度升逾880點創新高",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871080-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-22T06:02:29.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871077-20260922.htm",
+      "title": "恒指下午初段升幅收窄至約70點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871077-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-22T05:23:53.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1871056-20260922.htm",
       "title": "恒指曾升逾200點　半日升89點　騰訊及阿里巴巴造好",

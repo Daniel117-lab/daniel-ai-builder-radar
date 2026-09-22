@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-22T04:57:35.556Z",
-  "windowStart": "2026-09-15T04:57:35.556Z",
+  "fetchedAt": "2026-09-22T11:39:37.778Z",
+  "windowStart": "2026-09-15T11:39:37.778Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1860,
+      "points": 1867,
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 943,
+      "points": 945,
       "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
       "domain": "sockpuppet.org",
-      "points": 744,
+      "points": 746,
       "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Pirate Face Rescues LLM Models from Deletion",
       "url": "https://pirateface.co/",
       "domain": "pirateface.co",
-      "points": 548,
+      "points": 551,
       "publishedAt": "2026-09-20T15:16:07.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "US Military had close call after using AI for hallucinated intelligence report",
       "url": "https://cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "domain": "cnn.com",
-      "points": 514,
+      "points": 515,
       "publishedAt": "2026-09-18T17:28:01.000Z"
     },
     {
@@ -115,6 +115,14 @@
       "publishedAt": "2026-09-16T09:12:34.000Z"
     },
     {
+      "objectID": "49792067",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "domain": "linear.app",
+      "points": 255,
+      "publishedAt": "2026-09-21T19:23:33.000Z"
+    },
+    {
       "objectID": "49740105",
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
@@ -161,14 +169,6 @@
       "domain": "iankduncan.com",
       "points": 231,
       "publishedAt": "2026-09-17T21:15:52.000Z"
-    },
-    {
-      "objectID": "49775104",
-      "title": "The LLMentalist Effect (2023)",
-      "url": "https://softwarecrisis.dev/letters/llmentalist",
-      "domain": "softwarecrisis.dev",
-      "points": 224,
-      "publishedAt": "2026-09-20T12:20:13.000Z"
     }
   ]
 }
