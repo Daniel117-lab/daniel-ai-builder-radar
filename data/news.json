@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-21T21:59:19.353Z",
-  "windowStart": "2026-09-14T21:59:19.353Z",
+  "fetchedAt": "2026-09-22T04:57:35.556Z",
+  "windowStart": "2026-09-15T04:57:35.556Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1854,
+      "points": 1860,
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 942,
+      "points": 943,
       "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
       "domain": "sockpuppet.org",
-      "points": 741,
+      "points": 744,
       "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
-      "points": 612,
+      "points": 613,
       "publishedAt": "2026-09-17T20:36:13.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla",
       "domain": "mistral.ai",
-      "points": 588,
+      "points": 589,
       "publishedAt": "2026-09-16T08:08:57.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Pirate Face Rescues LLM Models from Deletion",
       "url": "https://pirateface.co/",
       "domain": "pirateface.co",
-      "points": 545,
+      "points": 548,
       "publishedAt": "2026-09-20T15:16:07.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Why I'm still bearish on LLMs after Navier-Stokes",
       "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
       "domain": "dank.systems",
-      "points": 492,
+      "points": 494,
       "publishedAt": "2026-09-15T17:37:12.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "I think you should almost never use AI to write",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "domain": "erichgrunewald.substack.com",
-      "points": 358,
+      "points": 360,
       "publishedAt": "2026-09-19T16:35:24.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "Learning Programming in an Age of LLMs",
       "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
       "domain": "blog.ploeh.dk",
-      "points": 256,
+      "points": 257,
       "publishedAt": "2026-09-16T09:12:34.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
       "domain": "arxiv.org",
-      "points": 244,
+      "points": 245,
       "publishedAt": "2026-09-16T20:59:24.000Z"
     },
     {
@@ -163,12 +163,12 @@
       "publishedAt": "2026-09-17T21:15:52.000Z"
     },
     {
-      "objectID": "49706223",
-      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-      "url": "https://theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-      "domain": "theregister.com",
-      "points": 230,
-      "publishedAt": "2026-09-15T00:40:14.000Z"
+      "objectID": "49775104",
+      "title": "The LLMentalist Effect (2023)",
+      "url": "https://softwarecrisis.dev/letters/llmentalist",
+      "domain": "softwarecrisis.dev",
+      "points": 224,
+      "publishedAt": "2026-09-20T12:20:13.000Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-21T21:59:19.845Z",
-  "windowStart": "2026-09-18T21:59:19.845Z",
+  "fetchedAt": "2026-09-22T04:57:36.176Z",
+  "windowStart": "2026-09-19T04:57:36.176Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,70 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871056-20260922.htm",
+      "title": "恒指曾升逾200點　半日升89點　騰訊及阿里巴巴造好",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871056-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-22T04:17:57.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871063-20260922.htm",
+      "title": "滬深股市半日升逾0.2%至近1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871063-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-22T03:52:34.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871042-20260922.htm",
+      "title": "滬指初段升近0.2%　創業板指數升逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871042-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-22T01:35:41.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871040-20260922.htm",
+      "title": "恒指高開128點　報25170點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871040-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-22T01:27:42.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871036-20260922.htm",
+      "title": "台股初段創新高",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871036-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-22T01:11:05.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871033-20260922.htm",
+      "title": "韓股初段升逾2%　重上7100點以上",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871033-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-22T00:13:27.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871025-20260922.htm",
+      "title": "港股美國預託證券普遍靠穩",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871025-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-21T23:02:54.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871020-20260922.htm",
+      "title": "美股造好　納指創收市新高　AMD市值突破1萬億美元",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871020-20260922.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-21T21:56:59.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1870992-20260921.htm",
       "title": "美股初段造好　納指升近1%",
@@ -129,30 +193,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-09-20T21:49:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870686-20260919.htm",
-      "title": "港股美國預託證券個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870686-20260919.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-18T23:20:36.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870684-20260919.htm",
-      "title": "英法德股市回吐1%以上　大眾汽車急挫近6%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870684-20260919.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-18T22:14:39.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870683-20260919.htm",
-      "title": "道指低收95點　納指升近0.4%　美股本周個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870683-20260919.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-18T22:14:13.000Z"
     }
   ]
 }
