@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-23T11:37:57.651Z",
-  "windowStart": "2026-09-20T11:37:57.651Z",
+  "fetchedAt": "2026-09-23T16:59:57.473Z",
+  "windowStart": "2026-09-20T16:59:57.473Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871277-20260923.htm",
+      "title": "美股初段偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871277-20260923.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-23T13:37:23.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1871248-20260923.htm",
       "title": "證監會：人民幣櫃台納入港股通目標明年7月1日前落地",
