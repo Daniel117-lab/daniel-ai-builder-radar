@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-22T21:19:53.557Z",
-  "windowStart": "2026-09-15T21:19:53.557Z",
+  "fetchedAt": "2026-09-23T04:45:56.746Z",
+  "windowStart": "2026-09-16T04:45:56.746Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1870,
+      "points": 1874,
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 948,
+      "points": 950,
       "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
       "domain": "sockpuppet.org",
-      "points": 752,
+      "points": 754,
       "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
@@ -39,8 +39,16 @@
       "title": "Bend – a language that blocks AI mistakes via proof and runs on GPUs",
       "url": "https://bend-lang.com/",
       "domain": "bend-lang.com",
-      "points": 614,
+      "points": 615,
       "publishedAt": "2026-09-17T20:36:13.000Z"
+    },
+    {
+      "objectID": "49801324",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://cryptocellar.org/bgac/the-mvueh-break.html",
+      "domain": "cryptocellar.org",
+      "points": 606,
+      "publishedAt": "2026-09-22T13:52:15.000Z"
     },
     {
       "objectID": "49723408",
@@ -55,8 +63,16 @@
       "title": "Pirate Face Rescues LLM Models from Deletion",
       "url": "https://pirateface.co/",
       "domain": "pirateface.co",
-      "points": 555,
+      "points": 559,
       "publishedAt": "2026-09-20T15:16:07.000Z"
+    },
+    {
+      "objectID": "49806430",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://bloomberg.com/graphics/2026-iran-school-attack",
+      "domain": "bloomberg.com",
+      "points": 518,
+      "publishedAt": "2026-09-22T19:03:38.000Z"
     },
     {
       "objectID": "49757520",
@@ -67,14 +83,6 @@
       "publishedAt": "2026-09-18T17:28:01.000Z"
     },
     {
-      "objectID": "49801324",
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://cryptocellar.org/bgac/the-mvueh-break.html",
-      "domain": "cryptocellar.org",
-      "points": 493,
-      "publishedAt": "2026-09-22T13:52:15.000Z"
-    },
-    {
       "objectID": "49749656",
       "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
       "url": "https://hacktron.ai/blog/hacking-openai",
@@ -83,20 +91,20 @@
       "publishedAt": "2026-09-18T02:47:24.000Z"
     },
     {
-      "objectID": "49767937",
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "domain": "erichgrunewald.substack.com",
-      "points": 360,
-      "publishedAt": "2026-09-19T16:35:24.000Z"
-    },
-    {
       "objectID": "49799965",
       "title": "AI Has No Wisdom and Neither Will You",
       "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you",
       "domain": "alexn.org",
-      "points": 355,
+      "points": 372,
       "publishedAt": "2026-09-22T12:11:09.000Z"
+    },
+    {
+      "objectID": "49767937",
+      "title": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "domain": "erichgrunewald.substack.com",
+      "points": 362,
+      "publishedAt": "2026-09-19T16:35:24.000Z"
     },
     {
       "objectID": "49727627",
@@ -119,7 +127,7 @@
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked",
       "domain": "linear.app",
-      "points": 306,
+      "points": 311,
       "publishedAt": "2026-09-21T19:23:33.000Z"
     },
     {
@@ -129,6 +137,14 @@
       "domain": "anthropic.com",
       "points": 273,
       "publishedAt": "2026-09-22T16:27:30.000Z"
+    },
+    {
+      "objectID": "49802161",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
+      "domain": "arcturus-labs.com",
+      "points": 273,
+      "publishedAt": "2026-09-22T14:42:59.000Z"
     },
     {
       "objectID": "49723873",
@@ -143,7 +159,7 @@
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
       "domain": "mysetup.ai",
-      "points": 249,
+      "points": 250,
       "publishedAt": "2026-09-17T13:01:44.000Z"
     },
     {
@@ -153,22 +169,6 @@
       "domain": "arxiv.org",
       "points": 245,
       "publishedAt": "2026-09-16T20:59:24.000Z"
-    },
-    {
-      "objectID": "49806430",
-      "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-      "url": "https://bloomberg.com/graphics/2026-iran-school-attack",
-      "domain": "bloomberg.com",
-      "points": 242,
-      "publishedAt": "2026-09-22T19:03:38.000Z"
-    },
-    {
-      "objectID": "49740834",
-      "title": "I Don't Like LLMs",
-      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-      "domain": "martinfowler.com",
-      "points": 240,
-      "publishedAt": "2026-09-17T13:57:07.000Z"
     }
   ]
 }
