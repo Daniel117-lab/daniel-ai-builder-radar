@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-23T04:45:56.746Z",
-  "windowStart": "2026-09-16T04:45:56.746Z",
+  "fetchedAt": "2026-09-23T11:37:57.048Z",
+  "windowStart": "2026-09-16T11:37:57.048Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1874,
+      "points": 1878,
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
@@ -31,8 +31,24 @@
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
       "domain": "sockpuppet.org",
-      "points": 754,
+      "points": 757,
       "publishedAt": "2026-09-17T21:48:38.000Z"
+    },
+    {
+      "objectID": "49806430",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://bloomberg.com/graphics/2026-iran-school-attack",
+      "domain": "bloomberg.com",
+      "points": 690,
+      "publishedAt": "2026-09-22T19:03:38.000Z"
+    },
+    {
+      "objectID": "49801324",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://cryptocellar.org/bgac/the-mvueh-break.html",
+      "domain": "cryptocellar.org",
+      "points": 675,
+      "publishedAt": "2026-09-22T13:52:15.000Z"
     },
     {
       "objectID": "49746163",
@@ -43,36 +59,12 @@
       "publishedAt": "2026-09-17T20:36:13.000Z"
     },
     {
-      "objectID": "49801324",
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://cryptocellar.org/bgac/the-mvueh-break.html",
-      "domain": "cryptocellar.org",
-      "points": 606,
-      "publishedAt": "2026-09-22T13:52:15.000Z"
-    },
-    {
-      "objectID": "49723408",
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "url": "https://mistral.ai/news/mistral-x-mozilla",
-      "domain": "mistral.ai",
-      "points": 590,
-      "publishedAt": "2026-09-16T08:08:57.000Z"
-    },
-    {
       "objectID": "49776699",
       "title": "Pirate Face Rescues LLM Models from Deletion",
       "url": "https://pirateface.co/",
       "domain": "pirateface.co",
-      "points": 559,
+      "points": 564,
       "publishedAt": "2026-09-20T15:16:07.000Z"
-    },
-    {
-      "objectID": "49806430",
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "url": "https://bloomberg.com/graphics/2026-iran-school-attack",
-      "domain": "bloomberg.com",
-      "points": 518,
-      "publishedAt": "2026-09-22T19:03:38.000Z"
     },
     {
       "objectID": "49757520",
@@ -87,7 +79,7 @@
       "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
       "url": "https://hacktron.ai/blog/hacking-openai",
       "domain": "hacktron.ai",
-      "points": 490,
+      "points": 491,
       "publishedAt": "2026-09-18T02:47:24.000Z"
     },
     {
@@ -95,7 +87,7 @@
       "title": "AI Has No Wisdom and Neither Will You",
       "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you",
       "domain": "alexn.org",
-      "points": 372,
+      "points": 380,
       "publishedAt": "2026-09-22T12:11:09.000Z"
     },
     {
@@ -111,7 +103,7 @@
       "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
       "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
       "domain": "frvr.com",
-      "points": 330,
+      "points": 331,
       "publishedAt": "2026-09-16T14:30:36.000Z"
     },
     {
@@ -131,28 +123,20 @@
       "publishedAt": "2026-09-21T19:23:33.000Z"
     },
     {
+      "objectID": "49802161",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
+      "domain": "arcturus-labs.com",
+      "points": 297,
+      "publishedAt": "2026-09-22T14:42:59.000Z"
+    },
+    {
       "objectID": "49803863",
       "title": "Claude Opus 5.5",
       "url": "https://anthropic.com/claude-opus-5-5",
       "domain": "anthropic.com",
       "points": 273,
       "publishedAt": "2026-09-22T16:27:30.000Z"
-    },
-    {
-      "objectID": "49802161",
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
-      "domain": "arcturus-labs.com",
-      "points": 273,
-      "publishedAt": "2026-09-22T14:42:59.000Z"
-    },
-    {
-      "objectID": "49723873",
-      "title": "Learning Programming in an Age of LLMs",
-      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-      "domain": "blog.ploeh.dk",
-      "points": 261,
-      "publishedAt": "2026-09-16T09:12:34.000Z"
     },
     {
       "objectID": "49740105",
@@ -163,12 +147,28 @@
       "publishedAt": "2026-09-17T13:01:44.000Z"
     },
     {
+      "objectID": "49740834",
+      "title": "I Don't Like LLMs",
+      "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "domain": "martinfowler.com",
+      "points": 245,
+      "publishedAt": "2026-09-17T13:57:07.000Z"
+    },
+    {
       "objectID": "49732931",
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
       "domain": "arxiv.org",
       "points": 245,
       "publishedAt": "2026-09-16T20:59:24.000Z"
+    },
+    {
+      "objectID": "49791509",
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21",
+      "domain": "reuters.com",
+      "points": 236,
+      "publishedAt": "2026-09-21T18:41:59.000Z"
     }
   ]
 }
