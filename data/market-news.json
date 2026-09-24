@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-24T04:52:05.742Z",
-  "windowStart": "2026-09-21T04:52:05.742Z",
+  "fetchedAt": "2026-09-24T11:46:54.354Z",
+  "windowStart": "2026-09-21T11:46:54.354Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,46 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871400-20260924.htm",
+      "title": "港股低收72點　主板成交創5月初以來最少",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871400-20260924.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-24T08:37:54.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871383-20260924.htm",
+      "title": "滬深股市低收逾1%至近3%　本周累計下跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871383-20260924.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-24T07:26:07.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871377-20260924.htm",
+      "title": "台股收市跌約0.3%　明日中秋假期",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871377-20260924.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-24T06:50:38.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871378-20260924.htm",
+      "title": "日股高收495點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871378-20260924.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-24T06:50:07.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871369-20260924.htm",
+      "title": "恒指下午初段向下",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871369-20260924.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-24T05:10:18.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1871364-20260924.htm",
       "title": "恒指半日跌129點",
@@ -337,46 +377,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-09-21T13:37:20.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870954-20260921.htm",
-      "title": "港股重返25000點關口　恒指升291點　全日高位收市",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870954-20260921.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-21T08:44:53.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870941-20260921.htm",
-      "title": "內地股市3大指數高收近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870941-20260921.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-21T07:43:28.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870937-20260921.htm",
-      "title": "韓股高收近2%　重上7000點大關",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870937-20260921.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-21T06:45:28.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870934-20260921.htm",
-      "title": "台股高收逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870934-20260921.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-21T06:09:03.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1870928-20260921.htm",
-      "title": "恒指下午初段升逾0.5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1870928-20260921.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-21T05:16:57.000Z"
     }
   ]
 }

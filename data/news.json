@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-24T04:52:05.218Z",
-  "windowStart": "2026-09-17T04:52:05.218Z",
+  "fetchedAt": "2026-09-24T11:46:53.749Z",
+  "windowStart": "2026-09-17T11:46:53.749Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1884,
+      "points": 1885,
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 951,
+      "points": 952,
       "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://bloomberg.com/graphics/2026-iran-school-attack",
       "domain": "bloomberg.com",
-      "points": 900,
+      "points": 918,
       "publishedAt": "2026-09-22T19:03:38.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "How to Write with an LLM",
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
       "domain": "sockpuppet.org",
-      "points": 761,
+      "points": 762,
       "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
@@ -47,8 +47,16 @@
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://cryptocellar.org/bgac/the-mvueh-break.html",
       "domain": "cryptocellar.org",
-      "points": 726,
+      "points": 729,
       "publishedAt": "2026-09-22T13:52:15.000Z"
+    },
+    {
+      "objectID": "49820134",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "domain": "anthropic.com",
+      "points": 676,
+      "publishedAt": "2026-09-23T18:06:47.000Z"
     },
     {
       "objectID": "49746163",
@@ -65,14 +73,6 @@
       "domain": "pirateface.co",
       "points": 568,
       "publishedAt": "2026-09-20T15:16:07.000Z"
-    },
-    {
-      "objectID": "49820134",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "domain": "anthropic.com",
-      "points": 565,
-      "publishedAt": "2026-09-23T18:06:47.000Z"
     },
     {
       "objectID": "49757520",
@@ -107,19 +107,11 @@
       "publishedAt": "2026-09-19T16:35:24.000Z"
     },
     {
-      "objectID": "49737985",
-      "title": "AI safety is mostly a sex cult",
-      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-      "domain": "skywriter.blue",
-      "points": 329,
-      "publishedAt": "2026-09-17T08:36:37.000Z"
-    },
-    {
       "objectID": "49802161",
       "title": "OpenAI is well positioned to fast-follow Jev",
       "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
       "domain": "arcturus-labs.com",
-      "points": 318,
+      "points": 321,
       "publishedAt": "2026-09-22T14:42:59.000Z"
     },
     {
@@ -129,6 +121,14 @@
       "domain": "linear.app",
       "points": 313,
       "publishedAt": "2026-09-21T19:23:33.000Z"
+    },
+    {
+      "objectID": "49824686",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "domain": "kenklippenstein.com",
+      "points": 301,
+      "publishedAt": "2026-09-24T00:41:31.000Z"
     },
     {
       "objectID": "49803863",
@@ -159,7 +159,7 @@
       "title": "US halts flights at busy East Coast airports, says fiber line cut",
       "url": "https://reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21",
       "domain": "reuters.com",
-      "points": 237,
+      "points": 238,
       "publishedAt": "2026-09-21T18:41:59.000Z"
     },
     {
@@ -167,7 +167,7 @@
       "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
       "url": "https://reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
       "domain": "reddit.com",
-      "points": 237,
+      "points": 238,
       "publishedAt": "2026-09-21T14:10:49.000Z"
     }
   ]
