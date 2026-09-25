@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-24T21:31:36.132Z",
-  "windowStart": "2026-09-17T21:31:36.132Z",
+  "fetchedAt": "2026-09-25T04:58:24.937Z",
+  "windowStart": "2026-09-18T04:58:24.937Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "domain": "john.hartnup.uk",
-      "points": 1886,
+      "points": 1887,
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
       "domain": "techcrunch.com",
-      "points": 953,
+      "points": 954,
       "publishedAt": "2026-09-18T09:45:07.000Z"
     },
     {
@@ -31,23 +31,15 @@
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://bloomberg.com/graphics/2026-iran-school-attack",
       "domain": "bloomberg.com",
-      "points": 945,
+      "points": 950,
       "publishedAt": "2026-09-22T19:03:38.000Z"
-    },
-    {
-      "objectID": "49747070",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm",
-      "domain": "sockpuppet.org",
-      "points": 763,
-      "publishedAt": "2026-09-17T21:48:38.000Z"
     },
     {
       "objectID": "49820134",
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://anthropic.com/news/claude-discovers-novel-enzyme-system",
       "domain": "anthropic.com",
-      "points": 755,
+      "points": 761,
       "publishedAt": "2026-09-23T18:06:47.000Z"
     },
     {
@@ -63,7 +55,7 @@
       "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
       "url": "https://reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai",
       "domain": "reddit.com",
-      "points": 583,
+      "points": 604,
       "publishedAt": "2026-09-24T08:23:03.000Z"
     },
     {
@@ -83,14 +75,6 @@
       "publishedAt": "2026-09-18T17:28:01.000Z"
     },
     {
-      "objectID": "49749656",
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "url": "https://hacktron.ai/blog/hacking-openai",
-      "domain": "hacktron.ai",
-      "points": 491,
-      "publishedAt": "2026-09-18T02:47:24.000Z"
-    },
-    {
       "objectID": "49799965",
       "title": "AI Has No Wisdom and Neither Will You",
       "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you",
@@ -103,7 +87,7 @@
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
       "url": "https://kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "domain": "kenklippenstein.com",
-      "points": 368,
+      "points": 375,
       "publishedAt": "2026-09-24T00:41:31.000Z"
     },
     {
@@ -119,7 +103,7 @@
       "title": "OpenAI is well positioned to fast-follow Jev",
       "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
       "domain": "arcturus-labs.com",
-      "points": 323,
+      "points": 324,
       "publishedAt": "2026-09-22T14:42:59.000Z"
     },
     {
@@ -139,11 +123,19 @@
       "publishedAt": "2026-09-22T16:27:30.000Z"
     },
     {
+      "objectID": "49826565",
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "domain": "transluce.org",
+      "points": 254,
+      "publishedAt": "2026-09-24T05:21:10.000Z"
+    },
+    {
       "objectID": "49825580",
       "title": "OpenAI agent hacked Australian government website, PM says",
       "url": "https://bbc.com/news/live/cvgl73pxgndwt",
       "domain": "bbc.com",
-      "points": 247,
+      "points": 251,
       "publishedAt": "2026-09-24T02:44:48.000Z"
     },
     {
@@ -151,8 +143,16 @@
       "title": "OpenAI breaches Medicare, Albanese reveals",
       "url": "https://smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
       "domain": "smh.com.au",
-      "points": 245,
+      "points": 251,
       "publishedAt": "2026-09-23T21:01:48.000Z"
+    },
+    {
+      "objectID": "49787535",
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+      "domain": "reddit.com",
+      "points": 240,
+      "publishedAt": "2026-09-21T14:10:49.000Z"
     },
     {
       "objectID": "49791509",
@@ -163,12 +163,12 @@
       "publishedAt": "2026-09-21T18:41:59.000Z"
     },
     {
-      "objectID": "49787535",
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
-      "domain": "reddit.com",
-      "points": 239,
-      "publishedAt": "2026-09-21T14:10:49.000Z"
+      "objectID": "49774329",
+      "title": "AI and the Destruction of the Creative Commons",
+      "url": "https://chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "domain": "chesterwisniewski.com",
+      "points": 236,
+      "publishedAt": "2026-09-20T10:07:51.000Z"
     }
   ]
 }
