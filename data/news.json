@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-25T04:58:24.937Z",
-  "windowStart": "2026-09-18T04:58:24.937Z",
+  "fetchedAt": "2026-09-25T11:51:46.393Z",
+  "windowStart": "2026-09-18T11:51:46.393Z",
   "queries": [
     "AI",
     "LLM",
@@ -19,19 +19,19 @@
       "publishedAt": "2026-09-19T09:20:58.000Z"
     },
     {
-      "objectID": "49752056",
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
-      "domain": "techcrunch.com",
-      "points": 954,
-      "publishedAt": "2026-09-18T09:45:07.000Z"
+      "objectID": "49805509",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "domain": "openai.com",
+      "points": 1766,
+      "publishedAt": "2026-09-22T18:00:34.000Z"
     },
     {
       "objectID": "49806430",
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://bloomberg.com/graphics/2026-iran-school-attack",
       "domain": "bloomberg.com",
-      "points": 950,
+      "points": 953,
       "publishedAt": "2026-09-22T19:03:38.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://anthropic.com/news/claude-discovers-novel-enzyme-system",
       "domain": "anthropic.com",
-      "points": 761,
+      "points": 767,
       "publishedAt": "2026-09-23T18:06:47.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://cryptocellar.org/bgac/the-mvueh-break.html",
       "domain": "cryptocellar.org",
-      "points": 733,
+      "points": 734,
       "publishedAt": "2026-09-22T13:52:15.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
       "url": "https://reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai",
       "domain": "reddit.com",
-      "points": 604,
+      "points": 613,
       "publishedAt": "2026-09-24T08:23:03.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
       "url": "https://kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "domain": "kenklippenstein.com",
-      "points": 375,
+      "points": 380,
       "publishedAt": "2026-09-24T00:41:31.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked",
       "domain": "linear.app",
-      "points": 313,
+      "points": 314,
       "publishedAt": "2026-09-21T19:23:33.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "url": "https://transluce.org/agent-activity",
       "domain": "transluce.org",
-      "points": 254,
+      "points": 259,
       "publishedAt": "2026-09-24T05:21:10.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "OpenAI agent hacked Australian government website, PM says",
       "url": "https://bbc.com/news/live/cvgl73pxgndwt",
       "domain": "bbc.com",
-      "points": 251,
+      "points": 253,
       "publishedAt": "2026-09-24T02:44:48.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "OpenAI breaches Medicare, Albanese reveals",
       "url": "https://smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
       "domain": "smh.com.au",
-      "points": 251,
+      "points": 252,
       "publishedAt": "2026-09-23T21:01:48.000Z"
     },
     {
