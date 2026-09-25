@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-25T11:51:47.523Z",
-  "windowStart": "2026-09-22T11:51:47.523Z",
+  "fetchedAt": "2026-09-25T17:12:03.085Z",
+  "windowStart": "2026-09-22T17:12:03.085Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871589-20260925.htm",
+      "title": "美股初段造好",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871589-20260925.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-25T13:43:35.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1871548-20260925.htm",
       "title": "港股低收251點　成交額縮減至1022億元",
@@ -361,14 +369,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-09-22T22:50:09.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871134-20260922.htm",
-      "title": "美股初段造好　納指創新高",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871134-20260922.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-22T13:43:42.000Z"
     }
   ]
 }
