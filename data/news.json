@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-26T16:24:29.849Z",
-  "windowStart": "2026-09-19T16:24:29.849Z",
+  "fetchedAt": "2026-09-26T21:11:17.362Z",
+  "windowStart": "2026-09-19T21:11:17.362Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://anthropic.com/news/claude-discovers-novel-enzyme-system",
       "domain": "anthropic.com",
-      "points": 775,
+      "points": 776,
       "publishedAt": "2026-09-23T18:06:47.000Z"
     },
     {
@@ -35,20 +35,20 @@
       "publishedAt": "2026-09-22T13:52:15.000Z"
     },
     {
-      "objectID": "49827794",
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai",
-      "domain": "reddit.com",
-      "points": 627,
-      "publishedAt": "2026-09-24T08:23:03.000Z"
-    },
-    {
       "objectID": "49849985",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
       "domain": "swarmtraces.org",
-      "points": 609,
+      "points": 681,
       "publishedAt": "2026-09-25T21:09:27.000Z"
+    },
+    {
+      "objectID": "49827794",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai",
+      "domain": "reddit.com",
+      "points": 628,
+      "publishedAt": "2026-09-24T08:23:03.000Z"
     },
     {
       "objectID": "49776699",
@@ -63,7 +63,7 @@
       "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
       "url": "https://cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "domain": "cnbc.com",
-      "points": 471,
+      "points": 482,
       "publishedAt": "2026-09-25T15:29:25.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
       "url": "https://kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "domain": "kenklippenstein.com",
-      "points": 387,
+      "points": 390,
       "publishedAt": "2026-09-24T00:41:31.000Z"
     },
     {
@@ -83,19 +83,11 @@
       "publishedAt": "2026-09-22T12:11:09.000Z"
     },
     {
-      "objectID": "49767937",
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "domain": "erichgrunewald.substack.com",
-      "points": 362,
-      "publishedAt": "2026-09-19T16:35:24.000Z"
-    },
-    {
       "objectID": "49802161",
       "title": "OpenAI is well positioned to fast-follow Jev",
       "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
       "domain": "arcturus-labs.com",
-      "points": 325,
+      "points": 326,
       "publishedAt": "2026-09-22T14:42:59.000Z"
     },
     {
@@ -119,8 +111,16 @@
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "url": "https://transluce.org/agent-activity",
       "domain": "transluce.org",
-      "points": 264,
+      "points": 265,
       "publishedAt": "2026-09-24T05:21:10.000Z"
+    },
+    {
+      "objectID": "49822556",
+      "title": "OpenAI breaches Medicare, Albanese reveals",
+      "url": "https://smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "domain": "smh.com.au",
+      "points": 255,
+      "publishedAt": "2026-09-23T21:01:48.000Z"
     },
     {
       "objectID": "49825580",
@@ -129,14 +129,6 @@
       "domain": "bbc.com",
       "points": 254,
       "publishedAt": "2026-09-24T02:44:48.000Z"
-    },
-    {
-      "objectID": "49822556",
-      "title": "OpenAI breaches Medicare, Albanese reveals",
-      "url": "https://smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "domain": "smh.com.au",
-      "points": 254,
-      "publishedAt": "2026-09-23T21:01:48.000Z"
     },
     {
       "objectID": "49787535",
@@ -169,6 +161,14 @@
       "domain": "softwarecrisis.dev",
       "points": 235,
       "publishedAt": "2026-09-20T12:20:13.000Z"
+    },
+    {
+      "objectID": "49815127",
+      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+      "url": "https://businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "domain": "businessinsider.com",
+      "points": 220,
+      "publishedAt": "2026-09-23T12:32:00.000Z"
     }
   ]
 }
