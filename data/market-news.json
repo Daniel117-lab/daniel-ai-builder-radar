@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-26T11:25:58.593Z",
-  "windowStart": "2026-09-23T11:25:58.593Z",
+  "fetchedAt": "2026-09-26T16:24:30.683Z",
+  "windowStart": "2026-09-23T16:24:30.683Z",
   "markets": [
     {
       "id": "hk",
@@ -273,14 +273,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-09-23T22:30:31.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871277-20260923.htm",
-      "title": "美股初段偏軟",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871277-20260923.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-23T13:37:23.000Z"
     }
   ]
 }
