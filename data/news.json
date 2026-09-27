@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-27T16:58:41.984Z",
-  "windowStart": "2026-09-20T16:58:41.984Z",
+  "fetchedAt": "2026-09-27T21:21:33.056Z",
+  "windowStart": "2026-09-20T21:21:33.056Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://bloomberg.com/graphics/2026-iran-school-attack",
       "domain": "bloomberg.com",
-      "points": 967,
+      "points": 969,
       "publishedAt": "2026-09-22T19:03:38.000Z"
     },
     {
@@ -27,6 +27,14 @@
       "publishedAt": "2026-09-23T18:06:47.000Z"
     },
     {
+      "objectID": "49849985",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "domain": "swarmtraces.org",
+      "points": 736,
+      "publishedAt": "2026-09-25T21:09:27.000Z"
+    },
+    {
       "objectID": "49801324",
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://cryptocellar.org/bgac/the-mvueh-break.html",
@@ -35,19 +43,11 @@
       "publishedAt": "2026-09-22T13:52:15.000Z"
     },
     {
-      "objectID": "49849985",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "domain": "swarmtraces.org",
-      "points": 732,
-      "publishedAt": "2026-09-25T21:09:27.000Z"
-    },
-    {
       "objectID": "49827794",
       "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
       "url": "https://reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai",
       "domain": "reddit.com",
-      "points": 629,
+      "points": 631,
       "publishedAt": "2026-09-24T08:23:03.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
       "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
       "domain": "authorsguild.org",
-      "points": 548,
+      "points": 587,
       "publishedAt": "2026-09-27T06:19:33.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
       "url": "https://cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "domain": "cnbc.com",
-      "points": 493,
+      "points": 495,
       "publishedAt": "2026-09-25T15:29:25.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
       "url": "https://kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "domain": "kenklippenstein.com",
-      "points": 392,
+      "points": 393,
       "publishedAt": "2026-09-24T00:41:31.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "AI Has No Wisdom and Neither Will You",
       "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you",
       "domain": "alexn.org",
-      "points": 385,
+      "points": 386,
       "publishedAt": "2026-09-22T12:11:09.000Z"
     },
     {
@@ -91,6 +91,14 @@
       "publishedAt": "2026-09-22T14:42:59.000Z"
     },
     {
+      "objectID": "49854875",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "domain": "discourse.haskell.org",
+      "points": 317,
+      "publishedAt": "2026-09-26T09:41:58.000Z"
+    },
+    {
       "objectID": "49792067",
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked",
@@ -99,12 +107,20 @@
       "publishedAt": "2026-09-21T19:23:33.000Z"
     },
     {
-      "objectID": "49854875",
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "domain": "discourse.haskell.org",
-      "points": 300,
-      "publishedAt": "2026-09-26T09:41:58.000Z"
+      "objectID": "49868083",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "domain": "eoinhiggins.substack.com",
+      "points": 297,
+      "publishedAt": "2026-09-27T16:19:46.000Z"
+    },
+    {
+      "objectID": "49836579",
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "domain": "thelastsoftwareengineer.substack.com",
+      "points": 279,
+      "publishedAt": "2026-09-24T20:51:50.000Z"
     },
     {
       "objectID": "49803863",
@@ -115,14 +131,6 @@
       "publishedAt": "2026-09-22T16:27:30.000Z"
     },
     {
-      "objectID": "49836579",
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "domain": "thelastsoftwareengineer.substack.com",
-      "points": 271,
-      "publishedAt": "2026-09-24T20:51:50.000Z"
-    },
-    {
       "objectID": "49826565",
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "url": "https://transluce.org/agent-activity",
@@ -131,20 +139,20 @@
       "publishedAt": "2026-09-24T05:21:10.000Z"
     },
     {
+      "objectID": "49825580",
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "url": "https://bbc.com/news/live/cvgl73pxgndwt",
+      "domain": "bbc.com",
+      "points": 255,
+      "publishedAt": "2026-09-24T02:44:48.000Z"
+    },
+    {
       "objectID": "49822556",
       "title": "OpenAI breaches Medicare, Albanese reveals",
       "url": "https://smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
       "domain": "smh.com.au",
       "points": 255,
       "publishedAt": "2026-09-23T21:01:48.000Z"
-    },
-    {
-      "objectID": "49825580",
-      "title": "OpenAI agent hacked Australian government website, PM says",
-      "url": "https://bbc.com/news/live/cvgl73pxgndwt",
-      "domain": "bbc.com",
-      "points": 254,
-      "publishedAt": "2026-09-24T02:44:48.000Z"
     },
     {
       "objectID": "49787535",
@@ -161,14 +169,6 @@
       "domain": "reuters.com",
       "points": 239,
       "publishedAt": "2026-09-21T18:41:59.000Z"
-    },
-    {
-      "objectID": "49815127",
-      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-      "url": "https://businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
-      "domain": "businessinsider.com",
-      "points": 221,
-      "publishedAt": "2026-09-23T12:32:00.000Z"
     }
   ]
 }
