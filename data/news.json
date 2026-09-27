@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-27T05:19:32.424Z",
-  "windowStart": "2026-09-20T05:19:32.424Z",
+  "fetchedAt": "2026-09-27T12:03:42.666Z",
+  "windowStart": "2026-09-20T12:03:42.666Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://anthropic.com/news/claude-discovers-novel-enzyme-system",
       "domain": "anthropic.com",
-      "points": 778,
+      "points": 780,
       "publishedAt": "2026-09-23T18:06:47.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
       "domain": "swarmtraces.org",
-      "points": 707,
+      "points": 723,
       "publishedAt": "2026-09-25T21:09:27.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
       "url": "https://cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "domain": "cnbc.com",
-      "points": 489,
+      "points": 492,
       "publishedAt": "2026-09-25T15:29:25.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
       "url": "https://kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "domain": "kenklippenstein.com",
-      "points": 391,
+      "points": 392,
       "publishedAt": "2026-09-24T00:41:31.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "AI Has No Wisdom and Neither Will You",
       "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you",
       "domain": "alexn.org",
-      "points": 384,
+      "points": 385,
       "publishedAt": "2026-09-22T12:11:09.000Z"
     },
     {
@@ -97,6 +97,14 @@
       "domain": "linear.app",
       "points": 316,
       "publishedAt": "2026-09-21T19:23:33.000Z"
+    },
+    {
+      "objectID": "49863864",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+      "domain": "authorsguild.org",
+      "points": 280,
+      "publishedAt": "2026-09-27T06:19:33.000Z"
     },
     {
       "objectID": "49803863",
@@ -131,6 +139,14 @@
       "publishedAt": "2026-09-24T02:44:48.000Z"
     },
     {
+      "objectID": "49854875",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "domain": "discourse.haskell.org",
+      "points": 246,
+      "publishedAt": "2026-09-26T09:41:58.000Z"
+    },
+    {
       "objectID": "49787535",
       "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
       "url": "https://reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
@@ -147,28 +163,12 @@
       "publishedAt": "2026-09-21T18:41:59.000Z"
     },
     {
-      "objectID": "49774329",
-      "title": "AI and the Destruction of the Creative Commons",
-      "url": "https://chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-      "domain": "chesterwisniewski.com",
-      "points": 236,
-      "publishedAt": "2026-09-20T10:07:51.000Z"
-    },
-    {
       "objectID": "49775104",
       "title": "The LLMentalist Effect (2023)",
       "url": "https://softwarecrisis.dev/letters/llmentalist",
       "domain": "softwarecrisis.dev",
       "points": 235,
       "publishedAt": "2026-09-20T12:20:13.000Z"
-    },
-    {
-      "objectID": "49815127",
-      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-      "url": "https://businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
-      "domain": "businessinsider.com",
-      "points": 220,
-      "publishedAt": "2026-09-23T12:32:00.000Z"
     }
   ]
 }
