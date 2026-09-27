@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-26T21:11:18.475Z",
-  "windowStart": "2026-09-23T21:11:18.475Z",
+  "fetchedAt": "2026-09-27T05:19:32.961Z",
+  "windowStart": "2026-09-24T05:19:32.961Z",
   "markets": [
     {
       "id": "hk",
@@ -193,86 +193,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-09-24T06:50:07.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871369-20260924.htm",
-      "title": "恒指下午初段向下",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871369-20260924.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-24T05:10:18.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871364-20260924.htm",
-      "title": "恒指半日跌129點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871364-20260924.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-24T04:15:45.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871359-20260924.htm",
-      "title": "內地股市半日低收近1%或以上",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871359-20260924.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-24T03:46:43.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871345-20260924.htm",
-      "title": "日股半日升逾1.3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871345-20260924.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-24T02:43:01.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871340-20260924.htm",
-      "title": "內地股市初段偏軟",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871340-20260924.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-24T01:46:16.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871336-20260924.htm",
-      "title": "恒指競價時段報24649點　跌184點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871336-20260924.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-24T01:25:09.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871330-20260924.htm",
-      "title": "台股初段跌逾200點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871330-20260924.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-24T01:06:51.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871323-20260924.htm",
-      "title": "日股初段升近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871323-20260924.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-24T00:12:21.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871324-20260924.htm",
-      "title": "韓股初段升近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871324-20260924.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-24T00:12:09.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871312-20260924.htm",
-      "title": "港股ADR普遍向下　滙控跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871312-20260924.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-23T22:30:31.000Z"
     }
   ]
 }
