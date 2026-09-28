@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-28T05:24:52.159Z",
-  "windowStart": "2026-09-21T05:24:52.159Z",
+  "fetchedAt": "2026-09-28T13:56:22.234Z",
+  "windowStart": "2026-09-21T13:56:22.234Z",
   "queries": [
     "AI",
     "LLM",
@@ -31,7 +31,7 @@
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
       "domain": "swarmtraces.org",
-      "points": 741,
+      "points": 745,
       "publishedAt": "2026-09-25T21:09:27.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
       "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
       "domain": "authorsguild.org",
-      "points": 610,
+      "points": 619,
       "publishedAt": "2026-09-27T06:19:33.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "There are no \"rogue\" AI agents",
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "domain": "eoinhiggins.substack.com",
-      "points": 351,
+      "points": 374,
       "publishedAt": "2026-09-27T16:19:46.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "How to keep enjoying programming in a world of LLMs",
       "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
       "domain": "discourse.haskell.org",
-      "points": 328,
+      "points": 334,
       "publishedAt": "2026-09-26T09:41:58.000Z"
     },
     {
@@ -115,11 +115,19 @@
       "publishedAt": "2026-09-21T19:23:33.000Z"
     },
     {
+      "objectID": "49875148",
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity",
+      "domain": "thecivilian.co.nz",
+      "points": 309,
+      "publishedAt": "2026-09-28T08:35:40.000Z"
+    },
+    {
       "objectID": "49836579",
       "title": "How I changed teaching after AI managed to do all my homework assignments",
       "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
       "domain": "thelastsoftwareengineer.substack.com",
-      "points": 288,
+      "points": 295,
       "publishedAt": "2026-09-24T20:51:50.000Z"
     },
     {
@@ -161,14 +169,6 @@
       "domain": "reddit.com",
       "points": 240,
       "publishedAt": "2026-09-21T14:10:49.000Z"
-    },
-    {
-      "objectID": "49791509",
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "url": "https://reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21",
-      "domain": "reuters.com",
-      "points": 239,
-      "publishedAt": "2026-09-21T18:41:59.000Z"
     }
   ]
 }
