@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-28T13:56:22.780Z",
-  "windowStart": "2026-09-25T13:56:22.780Z",
+  "fetchedAt": "2026-09-28T23:16:56.899Z",
+  "windowStart": "2026-09-25T23:16:56.899Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871925-20260929.htm",
+      "title": "港股美國預託證券個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871925-20260929.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-28T22:27:40.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871924-20260929.htm",
+      "title": "英股尾市轉跌　德股反覆向下",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871924-20260929.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-28T22:27:26.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871923-20260929.htm",
+      "title": "美股低收約1%　多隻科技股捱沽　波音急挫約7%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871923-20260929.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-28T22:27:05.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1871905-20260928.htm",
       "title": "美股初段向下　三大指數跌近1%",
@@ -121,30 +145,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-09-28T01:07:31.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871610-20260926.htm",
-      "title": "港股ADR走勢不一　友邦跌約0.6%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871610-20260926.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-25T23:01:59.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871606-20260926.htm",
-      "title": "道指反彈478點　納指高收近0.5%　3大指數全周上升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871606-20260926.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-25T22:13:12.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871604-20260926.htm",
-      "title": "英德股市升逾0.1%至近0.6%　法股微跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871604-20260926.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-25T21:57:04.000Z"
     }
   ]
 }
