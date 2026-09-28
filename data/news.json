@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-27T21:21:33.056Z",
-  "windowStart": "2026-09-20T21:21:33.056Z",
+  "fetchedAt": "2026-09-28T05:24:52.159Z",
+  "windowStart": "2026-09-21T05:24:52.159Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://bloomberg.com/graphics/2026-iran-school-attack",
       "domain": "bloomberg.com",
-      "points": 969,
+      "points": 970,
       "publishedAt": "2026-09-22T19:03:38.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
       "domain": "swarmtraces.org",
-      "points": 736,
+      "points": 741,
       "publishedAt": "2026-09-25T21:09:27.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
       "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
       "domain": "authorsguild.org",
-      "points": 587,
+      "points": 610,
       "publishedAt": "2026-09-27T06:19:33.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
       "url": "https://cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "domain": "cnbc.com",
-      "points": 495,
+      "points": 496,
       "publishedAt": "2026-09-25T15:29:25.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Feds Target AI Critics as \"Foreign Agents\"",
       "url": "https://kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "domain": "kenklippenstein.com",
-      "points": 393,
+      "points": 394,
       "publishedAt": "2026-09-24T00:41:31.000Z"
     },
     {
@@ -83,20 +83,28 @@
       "publishedAt": "2026-09-22T12:11:09.000Z"
     },
     {
-      "objectID": "49802161",
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
-      "domain": "arcturus-labs.com",
-      "points": 327,
-      "publishedAt": "2026-09-22T14:42:59.000Z"
+      "objectID": "49868083",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "domain": "eoinhiggins.substack.com",
+      "points": 351,
+      "publishedAt": "2026-09-27T16:19:46.000Z"
     },
     {
       "objectID": "49854875",
       "title": "How to keep enjoying programming in a world of LLMs",
       "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
       "domain": "discourse.haskell.org",
-      "points": 317,
+      "points": 328,
       "publishedAt": "2026-09-26T09:41:58.000Z"
+    },
+    {
+      "objectID": "49802161",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch",
+      "domain": "arcturus-labs.com",
+      "points": 327,
+      "publishedAt": "2026-09-22T14:42:59.000Z"
     },
     {
       "objectID": "49792067",
@@ -107,19 +115,11 @@
       "publishedAt": "2026-09-21T19:23:33.000Z"
     },
     {
-      "objectID": "49868083",
-      "title": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "domain": "eoinhiggins.substack.com",
-      "points": 297,
-      "publishedAt": "2026-09-27T16:19:46.000Z"
-    },
-    {
       "objectID": "49836579",
       "title": "How I changed teaching after AI managed to do all my homework assignments",
       "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
       "domain": "thelastsoftwareengineer.substack.com",
-      "points": 279,
+      "points": 288,
       "publishedAt": "2026-09-24T20:51:50.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "url": "https://transluce.org/agent-activity",
       "domain": "transluce.org",
-      "points": 265,
+      "points": 266,
       "publishedAt": "2026-09-24T05:21:10.000Z"
     },
     {
