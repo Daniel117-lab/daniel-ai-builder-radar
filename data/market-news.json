@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-28T23:16:56.899Z",
-  "windowStart": "2026-09-25T23:16:56.899Z",
+  "fetchedAt": "2026-09-29T05:44:50.813Z",
+  "windowStart": "2026-09-26T05:44:50.813Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,70 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871989-20260929.htm",
+      "title": "港股下午初段跌幅擴大至近200點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871989-20260929.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-29T05:14:22.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871979-20260929.htm",
+      "title": "港股半日跌155點　科技及汽車股受壓　內房股造好",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871979-20260929.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-29T04:15:58.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871973-20260929.htm",
+      "title": "內地股市反覆向上　滬股半日升2點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871973-20260929.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-29T03:41:47.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871954-20260929.htm",
+      "title": "日股半日跌約0.9%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871954-20260929.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-29T02:51:22.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871950-20260929.htm",
+      "title": "滬深股市初段個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871950-20260929.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-09-29T01:55:42.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871941-20260929.htm",
+      "title": "期指結算日　港股競價時段升6點　4隻新股普遍下跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871941-20260929.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-09-29T01:29:05.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871937-20260929.htm",
+      "title": "台股初段偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871937-20260929.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-29T01:11:15.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871935-20260929.htm",
+      "title": "日韓股市初段偏軟　日經指數跌逾500點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871935-20260929.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-09-29T00:26:47.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1871925-20260929.htm",
       "title": "港股美國預託證券個別發展",
