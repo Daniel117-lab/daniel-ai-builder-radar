@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-30T05:33:32.141Z",
-  "windowStart": "2026-09-23T05:33:32.141Z",
+  "fetchedAt": "2026-09-30T12:35:55.472Z",
+  "windowStart": "2026-09-23T12:35:55.472Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sonnet 5.5",
       "url": "https://anthropic.com/claude-sonnet-5-5",
       "domain": "anthropic.com",
-      "points": 874,
+      "points": 878,
       "publishedAt": "2026-09-28T17:58:11.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
       "domain": "swarmtraces.org",
-      "points": 752,
+      "points": 753,
       "publishedAt": "2026-09-25T21:09:27.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
       "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
       "domain": "authorsguild.org",
-      "points": 626,
+      "points": 627,
       "publishedAt": "2026-09-27T06:19:33.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "It's Time to Investigate the AI Labs",
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
       "domain": "calnewport.com",
-      "points": 600,
+      "points": 610,
       "publishedAt": "2026-09-28T19:53:35.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "DraftKings is using AI to behaviorally target chronic gamblers",
       "url": "https://eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "domain": "eff.org",
-      "points": 535,
+      "points": 545,
       "publishedAt": "2026-09-29T16:30:48.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "AI companies in race to demonstrate their model most threatening to humanity",
       "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity",
       "domain": "thecivilian.co.nz",
-      "points": 437,
+      "points": 438,
       "publishedAt": "2026-09-28T08:35:40.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "domain": "jorgegarciaherrero.com",
-      "points": 414,
+      "points": 419,
       "publishedAt": "2026-09-29T09:03:41.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "There are no \"rogue\" AI agents",
       "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "domain": "eoinhiggins.substack.com",
-      "points": 394,
+      "points": 395,
       "publishedAt": "2026-09-27T16:19:46.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
       "url": "https://stateofutopia.com/experiments/microllmlab",
       "domain": "stateofutopia.com",
-      "points": 275,
+      "points": 277,
       "publishedAt": "2026-09-28T18:58:53.000Z"
     },
     {
@@ -163,12 +163,12 @@
       "publishedAt": "2026-09-23T21:01:48.000Z"
     },
     {
-      "objectID": "49879883",
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://cnbc.com/2026/09/28/nvidia-releases.html",
-      "domain": "cnbc.com",
-      "points": 223,
-      "publishedAt": "2026-09-28T15:46:36.000Z"
+      "objectID": "49897075",
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "url": "https://anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "domain": "anthropic.com",
+      "points": 232,
+      "publishedAt": "2026-09-29T17:31:26.000Z"
     }
   ]
 }
