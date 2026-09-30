@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-29T22:15:54.590Z",
-  "windowStart": "2026-09-22T22:15:54.590Z",
+  "fetchedAt": "2026-09-30T05:33:32.141Z",
+  "windowStart": "2026-09-23T05:33:32.141Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sonnet 5.5",
       "url": "https://anthropic.com/claude-sonnet-5-5",
       "domain": "anthropic.com",
-      "points": 866,
+      "points": 874,
       "publishedAt": "2026-09-28T17:58:11.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "It's Time to Investigate the AI Labs",
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
       "domain": "calnewport.com",
-      "points": 593,
+      "points": 600,
       "publishedAt": "2026-09-28T19:53:35.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "DraftKings is using AI to behaviorally target chronic gamblers",
       "url": "https://eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "domain": "eff.org",
-      "points": 511,
+      "points": 535,
       "publishedAt": "2026-09-29T16:30:48.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "AI companies in race to demonstrate their model most threatening to humanity",
       "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity",
       "domain": "thecivilian.co.nz",
-      "points": 436,
+      "points": 437,
       "publishedAt": "2026-09-28T08:35:40.000Z"
     },
     {
@@ -87,8 +87,16 @@
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "domain": "jorgegarciaherrero.com",
-      "points": 398,
+      "points": 414,
       "publishedAt": "2026-09-29T09:03:41.000Z"
+    },
+    {
+      "objectID": "49868083",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "domain": "eoinhiggins.substack.com",
+      "points": 394,
+      "publishedAt": "2026-09-27T16:19:46.000Z"
     },
     {
       "objectID": "49824686",
@@ -99,19 +107,11 @@
       "publishedAt": "2026-09-24T00:41:31.000Z"
     },
     {
-      "objectID": "49868083",
-      "title": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "domain": "eoinhiggins.substack.com",
-      "points": 393,
-      "publishedAt": "2026-09-27T16:19:46.000Z"
-    },
-    {
       "objectID": "49880312",
       "title": "The problem is not AI code, but not knowing about system architecture or intent",
       "url": "https://ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore",
       "domain": "ssp.sh",
-      "points": 380,
+      "points": 382,
       "publishedAt": "2026-09-28T16:11:42.000Z"
     },
     {
@@ -119,7 +119,7 @@
       "title": "How to keep enjoying programming in a world of LLMs",
       "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
       "domain": "discourse.haskell.org",
-      "points": 347,
+      "points": 348,
       "publishedAt": "2026-09-26T09:41:58.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
       "url": "https://stateofutopia.com/experiments/microllmlab",
       "domain": "stateofutopia.com",
-      "points": 274,
+      "points": 275,
       "publishedAt": "2026-09-28T18:58:53.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
       "url": "https://transluce.org/agent-activity",
       "domain": "transluce.org",
-      "points": 266,
+      "points": 267,
       "publishedAt": "2026-09-24T05:21:10.000Z"
     },
     {
@@ -167,7 +167,7 @@
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
       "url": "https://cnbc.com/2026/09/28/nvidia-releases.html",
       "domain": "cnbc.com",
-      "points": 222,
+      "points": 223,
       "publishedAt": "2026-09-28T15:46:36.000Z"
     }
   ]
