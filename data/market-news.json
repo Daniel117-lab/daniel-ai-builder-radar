@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-09-30T12:35:56.160Z",
-  "windowStart": "2026-09-27T12:35:56.160Z",
+  "fetchedAt": "2026-09-30T22:16:47.296Z",
+  "windowStart": "2026-09-27T22:16:47.296Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,22 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872228-20261001.htm",
+      "title": "道指低收443點　第3季跌近3%　標指納指連升兩季",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872228-20261001.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-30T21:52:01.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872206-20260930.htm",
+      "title": "美股造好　標指及納指升近1%或以上",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872206-20260930.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-09-30T14:57:36.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1872162-20260930.htm",
       "title": "港股收市升89點　9月累跌約4%　第3季升逾7%",
