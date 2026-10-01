@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-01T05:55:22.320Z",
-  "windowStart": "2026-09-28T05:55:22.320Z",
+  "fetchedAt": "2026-10-01T13:16:30.406Z",
+  "windowStart": "2026-09-28T13:16:30.406Z",
   "markets": [
     {
       "id": "hk",
@@ -27,6 +27,30 @@
   ],
   "stories": [
     {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872291-20261001.htm",
+      "title": "韓股高收近2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872291-20261001.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-01T07:25:26.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872290-20261001.htm",
+      "title": "日股高收逾3%　觸及6周新高",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872290-20261001.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-01T07:22:53.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872287-20261001.htm",
+      "title": "台股高收約0.9%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872287-20261001.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-01T06:26:17.000Z"
+    },
+    {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1872260-20261001.htm",
       "title": "日股創逾6星期新高　半日升逾2%",
       "url": "https://news.rthk.hk/rthk/ch/component/k2/1872260-20261001.htm",
@@ -44,7 +68,7 @@
     },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1872248-20261001.htm",
-      "title": "港股休市一天　內地股市開展國慶長假期休市至下周三",
+      "title": "國慶假期港股休市一天　內地股市下周四復市",
       "url": "https://news.rthk.hk/rthk/ch/component/k2/1872248-20261001.htm",
       "source": "香港電台財經新聞",
       "market": "hk",
@@ -329,38 +353,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-09-28T13:39:19.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871868-20260928.htm",
-      "title": "恒指全日升132點　成交回升至逾1770億元",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871868-20260928.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-28T08:24:00.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871853-20260928.htm",
-      "title": "內地股市下跌　創業板指數跌逾4.5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871853-20260928.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-28T07:13:53.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871849-20260928.htm",
-      "title": "韓股低收近3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871849-20260928.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-28T06:47:25.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871848-20260928.htm",
-      "title": "日股先升後跌　全日跌幅逾0.7%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871848-20260928.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-28T06:42:25.000Z"
     }
   ]
 }
