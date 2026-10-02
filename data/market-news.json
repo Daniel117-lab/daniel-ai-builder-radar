@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-02T12:36:05.830Z",
-  "windowStart": "2026-09-29T12:36:05.830Z",
+  "fetchedAt": "2026-10-02T22:14:42.199Z",
+  "windowStart": "2026-09-29T22:14:42.199Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872479-20261002.htm",
+      "title": "美股初段升近1%或以上　國際油價跌近3%或以上",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872479-20261002.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-02T13:49:18.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1872430-20261002.htm",
       "title": "港股低收640點　重磅金融股急挫",
@@ -313,22 +321,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-09-30T00:05:21.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872073-20260930.htm",
-      "title": "美股兩連跌　道指低收131點　債息持續攀升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872073-20260930.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-29T22:10:20.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872051-20260929.htm",
-      "title": "美股初段變動不大",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872051-20260929.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-29T13:38:59.000Z"
     }
   ]
 }
