@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-01T22:41:47.237Z",
-  "windowStart": "2026-09-24T22:41:47.237Z",
+  "fetchedAt": "2026-10-02T05:38:22.274Z",
+  "windowStart": "2026-09-25T05:38:22.274Z",
   "queries": [
     "AI",
     "LLM",
@@ -39,7 +39,7 @@
       "title": "It's Time to Investigate the AI Labs",
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
       "domain": "calnewport.com",
-      "points": 624,
+      "points": 625,
       "publishedAt": "2026-09-28T19:53:35.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "DraftKings is using AI to behaviorally target chronic gamblers",
       "url": "https://eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
       "domain": "eff.org",
-      "points": 565,
+      "points": 567,
       "publishedAt": "2026-09-29T16:30:48.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "The AI Race Just Got Awkward",
       "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
       "domain": "insufferable.dev",
-      "points": 406,
+      "points": 409,
       "publishedAt": "2026-09-30T15:50:11.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
       "url": "https://cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
       "domain": "cnbc.com",
-      "points": 197,
+      "points": 201,
       "publishedAt": "2026-10-01T13:00:55.000Z"
     },
     {
