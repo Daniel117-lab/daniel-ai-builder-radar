@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-02T05:38:22.274Z",
-  "windowStart": "2026-09-25T05:38:22.274Z",
+  "fetchedAt": "2026-10-02T12:36:05.109Z",
+  "windowStart": "2026-09-25T12:36:05.109Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sonnet 5.5",
       "url": "https://anthropic.com/claude-sonnet-5-5",
       "domain": "anthropic.com",
-      "points": 882,
+      "points": 883,
       "publishedAt": "2026-09-28T17:58:11.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
       "domain": "swarmtraces.org",
-      "points": 753,
+      "points": 754,
       "publishedAt": "2026-09-25T21:09:27.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "It's Time to Investigate the AI Labs",
       "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
       "domain": "calnewport.com",
-      "points": 625,
+      "points": 626,
       "publishedAt": "2026-09-28T19:53:35.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "The AI Race Just Got Awkward",
       "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
       "domain": "insufferable.dev",
-      "points": 409,
+      "points": 412,
       "publishedAt": "2026-09-30T15:50:11.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
       "url": "https://cnbc.com/2026/09/28/nvidia-releases.html",
       "domain": "cnbc.com",
-      "points": 227,
+      "points": 228,
       "publishedAt": "2026-09-28T15:46:36.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
       "url": "https://cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
       "domain": "cnbc.com",
-      "points": 201,
+      "points": 204,
       "publishedAt": "2026-10-01T13:00:55.000Z"
     },
     {

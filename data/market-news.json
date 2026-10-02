@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-02T05:38:22.855Z",
-  "windowStart": "2026-09-29T05:38:22.855Z",
+  "fetchedAt": "2026-10-02T12:36:05.830Z",
+  "windowStart": "2026-09-29T12:36:05.830Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,38 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872430-20261002.htm",
+      "title": "港股低收640點　重磅金融股急挫",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872430-20261002.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-02T08:36:19.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872420-20261002.htm",
+      "title": "韓股高收近0.5%　本周累跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872420-20261002.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-02T06:48:15.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872419-20261002.htm",
+      "title": "日股低收近1%　本周累升近3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872419-20261002.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-02T06:46:12.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872418-20261002.htm",
+      "title": "台股高收122點　本周累計升近1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872418-20261002.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-02T06:43:08.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1872409-20261002.htm",
       "title": "港股下午初段跌逾600點　科指跌逾2%",
@@ -297,38 +329,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-09-29T13:38:59.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872015-20260929.htm",
-      "title": "港股收市跌118點　科技股下跌　內房股逆市造好",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872015-20260929.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-29T08:45:54.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871996-20260929.htm",
-      "title": "韓股收市跌約0.3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871996-20260929.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-29T06:40:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871995-20260929.htm",
-      "title": "日股收市跌0.6%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871995-20260929.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-29T06:39:54.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1871993-20260929.htm",
-      "title": "台股收市跌約1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1871993-20260929.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-29T06:28:08.000Z"
     }
   ]
 }
