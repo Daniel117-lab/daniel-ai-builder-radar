@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-03T05:19:55.325Z",
-  "windowStart": "2026-09-30T05:19:55.325Z",
+  "fetchedAt": "2026-10-03T11:40:31.979Z",
+  "windowStart": "2026-09-30T11:40:31.979Z",
   "markets": [
     {
       "id": "hk",
@@ -241,46 +241,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-09-30T14:57:36.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872162-20260930.htm",
-      "title": "港股收市升89點　9月累跌約4%　第3季升逾7%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872162-20260930.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-09-30T09:06:38.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872147-20260930.htm",
-      "title": "滬股第3季累跌逾6%　創業板指數累跌近28%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872147-20260930.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-09-30T07:41:19.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872137-20260930.htm",
-      "title": "韓股低收近0.5%　第3季累跌逾19%　首3季累升62%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872137-20260930.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-30T06:57:59.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872134-20260930.htm",
-      "title": "日股高收1272點　第3季累跌近5%　首3季累升33%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872134-20260930.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-30T06:41:05.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872133-20260930.htm",
-      "title": "台股高收逾0.6%　9月及第3季累升約4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872133-20260930.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-30T06:32:34.000Z"
     }
   ]
 }
