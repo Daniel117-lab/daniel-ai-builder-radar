@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-03T21:14:59.223Z",
-  "windowStart": "2026-09-30T21:14:59.223Z",
+  "fetchedAt": "2026-10-04T05:54:14.213Z",
+  "windowStart": "2026-10-01T05:54:14.213Z",
   "markets": [
     {
       "id": "hk",
@@ -185,54 +185,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-10-01T06:26:17.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872260-20261001.htm",
-      "title": "日股創逾6星期新高　半日升逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872260-20261001.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-01T02:53:48.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872247-20261001.htm",
-      "title": "台股初段升逾百點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872247-20261001.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-01T01:15:39.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872248-20261001.htm",
-      "title": "國慶假期港股休市一天　內地股市下周四復市",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872248-20261001.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-01T01:15:13.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872241-20261001.htm",
-      "title": "日股初段升近1%　韓股偏軟",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872241-20261001.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-01T00:24:52.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872230-20261001.htm",
-      "title": "歐洲股市低收　英股第3季升1%　連升7季",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872230-20261001.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-09-30T22:13:04.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872228-20261001.htm",
-      "title": "道指低收443點　第3季跌近3%　標指納指連升兩季",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872228-20261001.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-09-30T21:52:01.000Z"
     }
   ]
 }
