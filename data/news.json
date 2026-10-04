@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-04T12:22:40.942Z",
-  "windowStart": "2026-09-27T12:22:40.942Z",
+  "fetchedAt": "2026-10-04T21:25:51.515Z",
+  "windowStart": "2026-09-27T21:25:51.515Z",
   "queries": [
     "AI",
     "LLM",
@@ -35,6 +35,14 @@
       "publishedAt": "2026-09-29T16:30:48.000Z"
     },
     {
+      "objectID": "49944227",
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "domain": "theatlantic.com",
+      "points": 446,
+      "publishedAt": "2026-10-03T13:46:34.000Z"
+    },
+    {
       "objectID": "49875148",
       "title": "AI companies in race to demonstrate their model most threatening to humanity",
       "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity",
@@ -55,7 +63,7 @@
       "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
       "url": "https://tej.as/blog/aleph-alpha-kolibri",
       "domain": "tej.as",
-      "points": 413,
+      "points": 417,
       "publishedAt": "2026-10-03T10:43:51.000Z"
     },
     {
@@ -67,14 +75,6 @@
       "publishedAt": "2026-09-30T15:50:11.000Z"
     },
     {
-      "objectID": "49868083",
-      "title": "There are no \"rogue\" AI agents",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "domain": "eoinhiggins.substack.com",
-      "points": 396,
-      "publishedAt": "2026-09-27T16:19:46.000Z"
-    },
-    {
       "objectID": "49880312",
       "title": "The problem is not AI code, but not knowing about system architecture or intent",
       "url": "https://ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore",
@@ -83,11 +83,19 @@
       "publishedAt": "2026-09-28T16:11:42.000Z"
     },
     {
+      "objectID": "49946228",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "domain": "fortune.com",
+      "points": 362,
+      "publishedAt": "2026-10-03T17:44:29.000Z"
+    },
+    {
       "objectID": "49936575",
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
       "domain": "dwarfstar.sh",
-      "points": 351,
+      "points": 358,
       "publishedAt": "2026-10-02T18:01:16.000Z"
     },
     {
@@ -95,8 +103,16 @@
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "url": "https://youtube.com/watch?v=NnV_cWeoo5Q",
       "domain": "youtube.com",
-      "points": 330,
+      "points": 336,
       "publishedAt": "2026-10-02T02:51:27.000Z"
+    },
+    {
+      "objectID": "49933740",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
+      "domain": "arstechnica.com",
+      "points": 284,
+      "publishedAt": "2026-10-02T14:11:24.000Z"
     },
     {
       "objectID": "49882781",
@@ -107,27 +123,11 @@
       "publishedAt": "2026-09-28T18:58:53.000Z"
     },
     {
-      "objectID": "49933740",
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
-      "domain": "arstechnica.com",
-      "points": 281,
-      "publishedAt": "2026-10-02T14:11:24.000Z"
-    },
-    {
-      "objectID": "49944227",
-      "title": "I quit OpenAI because its culture is broken",
-      "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "domain": "theatlantic.com",
-      "points": 271,
-      "publishedAt": "2026-10-03T13:46:34.000Z"
-    },
-    {
       "objectID": "49948332",
       "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "url": "https://theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "domain": "theguardian.com",
-      "points": 264,
+      "points": 267,
       "publishedAt": "2026-10-03T22:18:13.000Z"
     },
     {
@@ -167,7 +167,7 @@
       "title": "Vote on which of Hacker News' challenges for AI have been met",
       "url": "https://stoppels.ch/goalposts",
       "domain": "stoppels.ch",
-      "points": 201,
+      "points": 202,
       "publishedAt": "2026-10-01T17:32:43.000Z"
     }
   ]
