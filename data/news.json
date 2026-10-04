@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-04T05:54:13.684Z",
-  "windowStart": "2026-09-27T05:54:13.684Z",
+  "fetchedAt": "2026-10-04T12:22:40.942Z",
+  "windowStart": "2026-09-27T12:22:40.942Z",
   "queries": [
     "AI",
     "LLM",
@@ -17,14 +17,6 @@
       "domain": "anthropic.com",
       "points": 884,
       "publishedAt": "2026-09-28T17:58:11.000Z"
-    },
-    {
-      "objectID": "49863864",
-      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-      "domain": "authorsguild.org",
-      "points": 630,
-      "publishedAt": "2026-09-27T06:19:33.000Z"
     },
     {
       "objectID": "49883471",
@@ -59,20 +51,20 @@
       "publishedAt": "2026-09-29T09:03:41.000Z"
     },
     {
+      "objectID": "49943034",
+      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "domain": "tej.as",
+      "points": 413,
+      "publishedAt": "2026-10-03T10:43:51.000Z"
+    },
+    {
       "objectID": "49910553",
       "title": "The AI Race Just Got Awkward",
       "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
       "domain": "insufferable.dev",
       "points": 412,
       "publishedAt": "2026-09-30T15:50:11.000Z"
-    },
-    {
-      "objectID": "49943034",
-      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "domain": "tej.as",
-      "points": 410,
-      "publishedAt": "2026-10-03T10:43:51.000Z"
     },
     {
       "objectID": "49868083",
@@ -95,7 +87,7 @@
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
       "domain": "dwarfstar.sh",
-      "points": 345,
+      "points": 351,
       "publishedAt": "2026-10-02T18:01:16.000Z"
     },
     {
@@ -103,7 +95,7 @@
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "url": "https://youtube.com/watch?v=NnV_cWeoo5Q",
       "domain": "youtube.com",
-      "points": 328,
+      "points": 330,
       "publishedAt": "2026-10-02T02:51:27.000Z"
     },
     {
@@ -119,15 +111,23 @@
       "title": "With most information hidden, the game Stratego had stumped AI until now",
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
       "domain": "arstechnica.com",
-      "points": 280,
+      "points": 281,
       "publishedAt": "2026-10-02T14:11:24.000Z"
+    },
+    {
+      "objectID": "49944227",
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "domain": "theatlantic.com",
+      "points": 271,
+      "publishedAt": "2026-10-03T13:46:34.000Z"
     },
     {
       "objectID": "49948332",
       "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "url": "https://theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "domain": "theguardian.com",
-      "points": 256,
+      "points": 264,
       "publishedAt": "2026-10-03T22:18:13.000Z"
     },
     {
