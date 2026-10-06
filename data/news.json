@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-06T06:21:52.682Z",
-  "windowStart": "2026-09-29T06:21:52.682Z",
+  "fetchedAt": "2026-10-06T18:22:39.964Z",
+  "windowStart": "2026-09-29T18:22:39.964Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,40 +15,32 @@
       "title": "Anthropic reported diary entry to police, woman faces felony charge",
       "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "domain": "techspot.com",
-      "points": 669,
+      "points": 783,
       "publishedAt": "2026-10-05T05:37:40.000Z"
-    },
-    {
-      "objectID": "49896050",
-      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-      "url": "https://eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "domain": "eff.org",
-      "points": 570,
-      "publishedAt": "2026-09-29T16:30:48.000Z"
     },
     {
       "objectID": "49944227",
       "title": "I quit OpenAI because its culture is broken",
       "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
       "domain": "theatlantic.com",
-      "points": 487,
+      "points": 488,
       "publishedAt": "2026-10-03T13:46:34.000Z"
-    },
-    {
-      "objectID": "49890226",
-      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "domain": "jorgegarciaherrero.com",
-      "points": 426,
-      "publishedAt": "2026-09-29T09:03:41.000Z"
     },
     {
       "objectID": "49943034",
       "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
       "url": "https://tej.as/blog/aleph-alpha-kolibri",
       "domain": "tej.as",
-      "points": 420,
+      "points": 422,
       "publishedAt": "2026-10-03T10:43:51.000Z"
+    },
+    {
+      "objectID": "49946228",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "domain": "fortune.com",
+      "points": 414,
+      "publishedAt": "2026-10-03T17:44:29.000Z"
     },
     {
       "objectID": "49910553",
@@ -57,14 +49,6 @@
       "domain": "insufferable.dev",
       "points": 412,
       "publishedAt": "2026-09-30T15:50:11.000Z"
-    },
-    {
-      "objectID": "49946228",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "domain": "fortune.com",
-      "points": 411,
-      "publishedAt": "2026-10-03T17:44:29.000Z"
     },
     {
       "objectID": "49936575",
@@ -79,8 +63,16 @@
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "url": "https://youtube.com/watch?v=NnV_cWeoo5Q",
       "domain": "youtube.com",
-      "points": 338,
+      "points": 340,
       "publishedAt": "2026-10-02T02:51:27.000Z"
+    },
+    {
+      "objectID": "49968105",
+      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "domain": "diff.wikimedia.org",
+      "points": 299,
+      "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
       "objectID": "49933740",
@@ -91,28 +83,12 @@
       "publishedAt": "2026-10-02T14:11:24.000Z"
     },
     {
-      "objectID": "49968105",
-      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-      "domain": "diff.wikimedia.org",
-      "points": 271,
-      "publishedAt": "2026-10-05T17:53:35.000Z"
-    },
-    {
       "objectID": "49948332",
       "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "url": "https://theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "domain": "theguardian.com",
       "points": 268,
       "publishedAt": "2026-10-03T22:18:13.000Z"
-    },
-    {
-      "objectID": "49897075",
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-      "url": "https://anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "domain": "anthropic.com",
-      "points": 254,
-      "publishedAt": "2026-09-29T17:31:26.000Z"
     },
     {
       "objectID": "49898952",
@@ -151,8 +127,16 @@
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
       "url": "https://github.com/allenv0/SCM",
       "domain": "github.com",
-      "points": 165,
+      "points": 173,
       "publishedAt": "2026-10-04T09:24:52.000Z"
+    },
+    {
+      "objectID": "49937916",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "domain": "github.com",
+      "points": 166,
+      "publishedAt": "2026-10-02T20:00:15.000Z"
     },
     {
       "objectID": "49950052",
@@ -163,12 +147,28 @@
       "publishedAt": "2026-10-04T02:34:22.000Z"
     },
     {
-      "objectID": "49937916",
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
+      "objectID": "49933476",
+      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+      "domain": "developers.redhat.com",
+      "points": 160,
+      "publishedAt": "2026-10-02T13:47:41.000Z"
+    },
+    {
+      "objectID": "49903713",
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29",
+      "domain": "agmai.org",
+      "points": 123,
+      "publishedAt": "2026-09-30T02:36:12.000Z"
+    },
+    {
+      "objectID": "49980715",
+      "title": "AI is now capable of developing its own inference hardware",
+      "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
-      "points": 165,
-      "publishedAt": "2026-10-02T20:00:15.000Z"
+      "points": 122,
+      "publishedAt": "2026-10-06T16:23:25.000Z"
     }
   ]
 }
