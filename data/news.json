@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-06T00:03:49.341Z",
-  "windowStart": "2026-09-29T00:03:49.341Z",
+  "fetchedAt": "2026-10-06T06:21:52.682Z",
+  "windowStart": "2026-09-29T06:21:52.682Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,6 +11,14 @@
   ],
   "stories": [
     {
+      "objectID": "49961057",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "domain": "techspot.com",
+      "points": 669,
+      "publishedAt": "2026-10-05T05:37:40.000Z"
+    },
+    {
       "objectID": "49896050",
       "title": "DraftKings is using AI to behaviorally target chronic gamblers",
       "url": "https://eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
@@ -19,19 +27,11 @@
       "publishedAt": "2026-09-29T16:30:48.000Z"
     },
     {
-      "objectID": "49961057",
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "domain": "techspot.com",
-      "points": 492,
-      "publishedAt": "2026-10-05T05:37:40.000Z"
-    },
-    {
       "objectID": "49944227",
       "title": "I quit OpenAI because its culture is broken",
       "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
       "domain": "theatlantic.com",
-      "points": 486,
+      "points": 487,
       "publishedAt": "2026-10-03T13:46:34.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "domain": "jorgegarciaherrero.com",
-      "points": 425,
+      "points": 426,
       "publishedAt": "2026-09-29T09:03:41.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
       "domain": "fortune.com",
-      "points": 410,
+      "points": 411,
       "publishedAt": "2026-10-03T17:44:29.000Z"
     },
     {
@@ -91,20 +91,20 @@
       "publishedAt": "2026-10-02T14:11:24.000Z"
     },
     {
+      "objectID": "49968105",
+      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "domain": "diff.wikimedia.org",
+      "points": 271,
+      "publishedAt": "2026-10-05T17:53:35.000Z"
+    },
+    {
       "objectID": "49948332",
       "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "url": "https://theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "domain": "theguardian.com",
       "points": 268,
       "publishedAt": "2026-10-03T22:18:13.000Z"
-    },
-    {
-      "objectID": "49968105",
-      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-      "domain": "diff.wikimedia.org",
-      "points": 254,
-      "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
       "objectID": "49897075",
@@ -143,8 +143,16 @@
       "title": "AI Makes Me Sad",
       "url": "https://mondobe.com/ai-makes-me-sad",
       "domain": "mondobe.com",
-      "points": 196,
+      "points": 197,
       "publishedAt": "2026-10-02T15:18:00.000Z"
+    },
+    {
+      "objectID": "49952111",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "domain": "github.com",
+      "points": 165,
+      "publishedAt": "2026-10-04T09:24:52.000Z"
     },
     {
       "objectID": "49950052",
@@ -155,19 +163,11 @@
       "publishedAt": "2026-10-04T02:34:22.000Z"
     },
     {
-      "objectID": "49952111",
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "domain": "github.com",
-      "points": 163,
-      "publishedAt": "2026-10-04T09:24:52.000Z"
-    },
-    {
       "objectID": "49937916",
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://github.com/anteloc/ldraw-nova",
       "domain": "github.com",
-      "points": 163,
+      "points": 165,
       "publishedAt": "2026-10-02T20:00:15.000Z"
     }
   ]
