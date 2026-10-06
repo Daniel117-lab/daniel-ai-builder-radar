@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-05T14:41:09.420Z",
-  "windowStart": "2026-09-28T14:41:09.420Z",
+  "fetchedAt": "2026-10-06T00:03:49.341Z",
+  "windowStart": "2026-09-29T00:03:49.341Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,22 +11,6 @@
   ],
   "stories": [
     {
-      "objectID": "49881850",
-      "title": "Sonnet 5.5",
-      "url": "https://anthropic.com/claude-sonnet-5-5",
-      "domain": "anthropic.com",
-      "points": 884,
-      "publishedAt": "2026-09-28T17:58:11.000Z"
-    },
-    {
-      "objectID": "49883471",
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs",
-      "domain": "calnewport.com",
-      "points": 629,
-      "publishedAt": "2026-09-28T19:53:35.000Z"
-    },
-    {
       "objectID": "49896050",
       "title": "DraftKings is using AI to behaviorally target chronic gamblers",
       "url": "https://eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
@@ -35,11 +19,19 @@
       "publishedAt": "2026-09-29T16:30:48.000Z"
     },
     {
+      "objectID": "49961057",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "domain": "techspot.com",
+      "points": 492,
+      "publishedAt": "2026-10-05T05:37:40.000Z"
+    },
+    {
       "objectID": "49944227",
       "title": "I quit OpenAI because its culture is broken",
       "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
       "domain": "theatlantic.com",
-      "points": 479,
+      "points": 486,
       "publishedAt": "2026-10-03T13:46:34.000Z"
     },
     {
@@ -55,7 +47,7 @@
       "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
       "url": "https://tej.as/blog/aleph-alpha-kolibri",
       "domain": "tej.as",
-      "points": 419,
+      "points": 420,
       "publishedAt": "2026-10-03T10:43:51.000Z"
     },
     {
@@ -71,23 +63,15 @@
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
       "domain": "fortune.com",
-      "points": 405,
+      "points": 410,
       "publishedAt": "2026-10-03T17:44:29.000Z"
-    },
-    {
-      "objectID": "49880312",
-      "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "url": "https://ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore",
-      "domain": "ssp.sh",
-      "points": 387,
-      "publishedAt": "2026-09-28T16:11:42.000Z"
     },
     {
       "objectID": "49936575",
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
       "domain": "dwarfstar.sh",
-      "points": 359,
+      "points": 362,
       "publishedAt": "2026-10-02T18:01:16.000Z"
     },
     {
@@ -95,7 +79,7 @@
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "url": "https://youtube.com/watch?v=NnV_cWeoo5Q",
       "domain": "youtube.com",
-      "points": 337,
+      "points": 338,
       "publishedAt": "2026-10-02T02:51:27.000Z"
     },
     {
@@ -103,24 +87,24 @@
       "title": "With most information hidden, the game Stratego had stumped AI until now",
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
       "domain": "arstechnica.com",
-      "points": 288,
+      "points": 289,
       "publishedAt": "2026-10-02T14:11:24.000Z"
-    },
-    {
-      "objectID": "49882781",
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab",
-      "domain": "stateofutopia.com",
-      "points": 283,
-      "publishedAt": "2026-09-28T18:58:53.000Z"
     },
     {
       "objectID": "49948332",
       "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "url": "https://theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "domain": "theguardian.com",
-      "points": 267,
+      "points": 268,
       "publishedAt": "2026-10-03T22:18:13.000Z"
+    },
+    {
+      "objectID": "49968105",
+      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "domain": "diff.wikimedia.org",
+      "points": 254,
+      "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
       "objectID": "49897075",
@@ -129,14 +113,6 @@
       "domain": "anthropic.com",
       "points": 254,
       "publishedAt": "2026-09-29T17:31:26.000Z"
-    },
-    {
-      "objectID": "49879883",
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://cnbc.com/2026/09/28/nvidia-releases.html",
-      "domain": "cnbc.com",
-      "points": 230,
-      "publishedAt": "2026-09-28T15:46:36.000Z"
     },
     {
       "objectID": "49898952",
@@ -167,8 +143,32 @@
       "title": "AI Makes Me Sad",
       "url": "https://mondobe.com/ai-makes-me-sad",
       "domain": "mondobe.com",
-      "points": 195,
+      "points": 196,
       "publishedAt": "2026-10-02T15:18:00.000Z"
+    },
+    {
+      "objectID": "49950052",
+      "title": "Religious scholars met with Anthropic",
+      "url": "https://nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "domain": "nytimes.com",
+      "points": 165,
+      "publishedAt": "2026-10-04T02:34:22.000Z"
+    },
+    {
+      "objectID": "49952111",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "domain": "github.com",
+      "points": 163,
+      "publishedAt": "2026-10-04T09:24:52.000Z"
+    },
+    {
+      "objectID": "49937916",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "domain": "github.com",
+      "points": 163,
+      "publishedAt": "2026-10-02T20:00:15.000Z"
     }
   ]
 }
