@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-07T13:25:17.362Z",
-  "windowStart": "2026-09-30T13:25:17.362Z",
+  "fetchedAt": "2026-10-07T23:05:50.007Z",
+  "windowStart": "2026-09-30T23:05:50.007Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "domain": "openai.com",
-      "points": 1039,
+      "points": 1213,
       "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
@@ -23,63 +23,63 @@
       "title": "Anthropic reported diary entry to police, woman faces felony charge",
       "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "domain": "techspot.com",
-      "points": 820,
+      "points": 824,
       "publishedAt": "2026-10-05T05:37:40.000Z"
     },
     {
-      "objectID": "49944227",
-      "title": "I quit OpenAI because its culture is broken",
-      "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "domain": "theatlantic.com",
-      "points": 490,
-      "publishedAt": "2026-10-03T13:46:34.000Z"
-    },
-    {
-      "objectID": "49943034",
-      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "domain": "tej.as",
-      "points": 422,
-      "publishedAt": "2026-10-03T10:43:51.000Z"
-    },
-    {
-      "objectID": "49946228",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "domain": "fortune.com",
-      "points": 421,
-      "publishedAt": "2026-10-03T17:44:29.000Z"
-    },
-    {
-      "objectID": "49910553",
-      "title": "The AI Race Just Got Awkward",
-      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward",
-      "domain": "insufferable.dev",
-      "points": 412,
-      "publishedAt": "2026-09-30T15:50:11.000Z"
-    },
-    {
-      "objectID": "49936575",
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "domain": "dwarfstar.sh",
-      "points": 363,
-      "publishedAt": "2026-10-02T18:01:16.000Z"
+      "objectID": "49996437",
+      "title": "Claude Haiku 5.5",
+      "url": "https://anthropic.com/claude-haiku-5-5",
+      "domain": "anthropic.com",
+      "points": 598,
+      "publishedAt": "2026-10-07T18:01:32.000Z"
     },
     {
       "objectID": "49982498",
       "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
       "url": "https://news.ycombinator.com/item?id=49982498",
       "domain": "news.ycombinator.com",
-      "points": 360,
+      "points": 507,
       "publishedAt": "2026-10-06T18:54:01.000Z"
+    },
+    {
+      "objectID": "49944227",
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "domain": "theatlantic.com",
+      "points": 492,
+      "publishedAt": "2026-10-03T13:46:34.000Z"
+    },
+    {
+      "objectID": "49946228",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "domain": "fortune.com",
+      "points": 423,
+      "publishedAt": "2026-10-03T17:44:29.000Z"
+    },
+    {
+      "objectID": "49943034",
+      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "domain": "tej.as",
+      "points": 423,
+      "publishedAt": "2026-10-03T10:43:51.000Z"
+    },
+    {
+      "objectID": "49936575",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "domain": "dwarfstar.sh",
+      "points": 364,
+      "publishedAt": "2026-10-02T18:01:16.000Z"
     },
     {
       "objectID": "49929391",
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "url": "https://youtube.com/watch?v=NnV_cWeoo5Q",
       "domain": "youtube.com",
-      "points": 341,
+      "points": 342,
       "publishedAt": "2026-10-02T02:51:27.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
-      "points": 310,
+      "points": 334,
       "publishedAt": "2026-10-06T16:23:25.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
       "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
       "domain": "diff.wikimedia.org",
-      "points": 299,
+      "points": 300,
       "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
@@ -119,8 +119,16 @@
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
-      "points": 215,
+      "points": 230,
       "publishedAt": "2026-10-06T21:59:43.000Z"
+    },
+    {
+      "objectID": "49997161",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
+      "domain": "rswebsols.com",
+      "points": 227,
+      "publishedAt": "2026-10-07T18:49:40.000Z"
     },
     {
       "objectID": "49921050",
@@ -161,14 +169,6 @@
       "domain": "github.com",
       "points": 166,
       "publishedAt": "2026-10-02T20:00:15.000Z"
-    },
-    {
-      "objectID": "49950052",
-      "title": "Religious scholars met with Anthropic",
-      "url": "https://nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "domain": "nytimes.com",
-      "points": 165,
-      "publishedAt": "2026-10-04T02:34:22.000Z"
     }
   ]
 }
