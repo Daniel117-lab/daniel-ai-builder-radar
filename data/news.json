@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-06T18:22:39.964Z",
-  "windowStart": "2026-09-29T18:22:39.964Z",
+  "fetchedAt": "2026-10-07T06:01:28.657Z",
+  "windowStart": "2026-09-30T06:01:28.657Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,15 +15,23 @@
       "title": "Anthropic reported diary entry to police, woman faces felony charge",
       "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "domain": "techspot.com",
-      "points": 783,
+      "points": 814,
       "publishedAt": "2026-10-05T05:37:40.000Z"
+    },
+    {
+      "objectID": "49984923",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "domain": "openai.com",
+      "points": 702,
+      "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
       "objectID": "49944227",
       "title": "I quit OpenAI because its culture is broken",
       "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
       "domain": "theatlantic.com",
-      "points": 488,
+      "points": 489,
       "publishedAt": "2026-10-03T13:46:34.000Z"
     },
     {
@@ -39,7 +47,7 @@
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
       "domain": "fortune.com",
-      "points": 414,
+      "points": 419,
       "publishedAt": "2026-10-03T17:44:29.000Z"
     },
     {
@@ -55,7 +63,7 @@
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
       "domain": "dwarfstar.sh",
-      "points": 362,
+      "points": 363,
       "publishedAt": "2026-10-02T18:01:16.000Z"
     },
     {
@@ -63,7 +71,7 @@
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "url": "https://youtube.com/watch?v=NnV_cWeoo5Q",
       "domain": "youtube.com",
-      "points": 340,
+      "points": 341,
       "publishedAt": "2026-10-02T02:51:27.000Z"
     },
     {
@@ -91,12 +99,12 @@
       "publishedAt": "2026-10-03T22:18:13.000Z"
     },
     {
-      "objectID": "49898952",
-      "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "url": "https://thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres",
-      "domain": "thenationalnews.com",
-      "points": 222,
-      "publishedAt": "2026-09-29T19:21:25.000Z"
+      "objectID": "49980715",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "domain": "github.com",
+      "points": 267,
+      "publishedAt": "2026-10-06T16:23:25.000Z"
     },
     {
       "objectID": "49921050",
@@ -119,7 +127,7 @@
       "title": "AI Makes Me Sad",
       "url": "https://mondobe.com/ai-makes-me-sad",
       "domain": "mondobe.com",
-      "points": 197,
+      "points": 199,
       "publishedAt": "2026-10-02T15:18:00.000Z"
     },
     {
@@ -127,7 +135,7 @@
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
       "url": "https://github.com/allenv0/SCM",
       "domain": "github.com",
-      "points": 173,
+      "points": 177,
       "publishedAt": "2026-10-04T09:24:52.000Z"
     },
     {
@@ -151,24 +159,16 @@
       "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
       "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
       "domain": "developers.redhat.com",
-      "points": 160,
+      "points": 164,
       "publishedAt": "2026-10-02T13:47:41.000Z"
     },
     {
-      "objectID": "49903713",
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "url": "https://agmai.org/general-sep29",
-      "domain": "agmai.org",
-      "points": 123,
-      "publishedAt": "2026-09-30T02:36:12.000Z"
-    },
-    {
-      "objectID": "49980715",
-      "title": "AI is now capable of developing its own inference hardware",
-      "url": "https://github.com/FeSens/openTPU",
-      "domain": "github.com",
-      "points": 122,
-      "publishedAt": "2026-10-06T16:23:25.000Z"
+      "objectID": "49984716",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "domain": "penguin-mail.com",
+      "points": 141,
+      "publishedAt": "2026-10-06T21:59:43.000Z"
     }
   ]
 }
