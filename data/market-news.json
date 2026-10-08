@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-08T06:05:21.893Z",
-  "windowStart": "2026-10-05T06:05:21.893Z",
+  "fetchedAt": "2026-10-08T13:30:38.335Z",
+  "windowStart": "2026-10-05T13:30:38.335Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,38 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873162-20261008.htm",
+      "title": "港股低收344點　創3個月新低　金融及AI相關股份急挫",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873162-20261008.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-08T08:30:55.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873155-20261008.htm",
+      "title": "滬深股市復市低收近1%至逾3%　上證指數創逾兩個月新低",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873155-20261008.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-10-08T07:28:34.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873151-20261008.htm",
+      "title": "韓股低收近3%　本周3日市累計跌逾5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873151-20261008.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-08T06:46:30.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873149-20261008.htm",
+      "title": "日股低收1.4%　連跌兩日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873149-20261008.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-08T06:39:13.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1873144-20261008.htm",
       "title": "台股低收約1%",
@@ -393,22 +425,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-05T13:36:55.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872761-20261005.htm",
-      "title": "港股全日升68點　重上24000點關口　成交減至981億元",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872761-20261005.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-05T08:34:39.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872748-20261005.htm",
-      "title": "日股高收2.4%　未能企穩70000點關口",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872748-20261005.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-05T06:56:19.000Z"
     }
   ]
 }

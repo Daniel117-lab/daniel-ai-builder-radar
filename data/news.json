@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-08T06:05:21.041Z",
-  "windowStart": "2026-10-01T06:05:21.041Z",
+  "fetchedAt": "2026-10-08T13:30:35.865Z",
+  "windowStart": "2026-10-01T13:30:35.865Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,31 +15,31 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "domain": "openai.com",
-      "points": 1265,
+      "points": 1290,
       "publishedAt": "2026-10-06T22:17:21.000Z"
-    },
-    {
-      "objectID": "49961057",
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "domain": "techspot.com",
-      "points": 826,
-      "publishedAt": "2026-10-05T05:37:40.000Z"
     },
     {
       "objectID": "49996437",
       "title": "Claude Haiku 5.5",
       "url": "https://anthropic.com/claude-haiku-5-5",
       "domain": "anthropic.com",
-      "points": 791,
+      "points": 945,
       "publishedAt": "2026-10-07T18:01:32.000Z"
+    },
+    {
+      "objectID": "49961057",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "domain": "techspot.com",
+      "points": 829,
+      "publishedAt": "2026-10-05T05:37:40.000Z"
     },
     {
       "objectID": "49982498",
       "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
       "url": "https://news.ycombinator.com/item?id=49982498",
       "domain": "news.ycombinator.com",
-      "points": 528,
+      "points": 549,
       "publishedAt": "2026-10-06T18:54:01.000Z"
     },
     {
@@ -75,6 +75,14 @@
       "publishedAt": "2026-10-02T18:01:16.000Z"
     },
     {
+      "objectID": "49997161",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
+      "domain": "rswebsols.com",
+      "points": 349,
+      "publishedAt": "2026-10-07T18:49:40.000Z"
+    },
+    {
       "objectID": "49929391",
       "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
       "url": "https://youtube.com/watch?v=NnV_cWeoo5Q",
@@ -87,16 +95,8 @@
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
-      "points": 338,
+      "points": 339,
       "publishedAt": "2026-10-06T16:23:25.000Z"
-    },
-    {
-      "objectID": "49997161",
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "url": "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
-      "domain": "rswebsols.com",
-      "points": 331,
-      "publishedAt": "2026-10-07T18:49:40.000Z"
     },
     {
       "objectID": "49968105",
@@ -127,16 +127,8 @@
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
-      "points": 231,
+      "points": 235,
       "publishedAt": "2026-10-06T21:59:43.000Z"
-    },
-    {
-      "objectID": "49921050",
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "url": "https://cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "domain": "cnbc.com",
-      "points": 210,
-      "publishedAt": "2026-10-01T13:00:55.000Z"
     },
     {
       "objectID": "49924618",
@@ -169,6 +161,14 @@
       "domain": "github.com",
       "points": 167,
       "publishedAt": "2026-10-02T20:00:15.000Z"
+    },
+    {
+      "objectID": "49933476",
+      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+      "domain": "developers.redhat.com",
+      "points": 166,
+      "publishedAt": "2026-10-02T13:47:41.000Z"
     }
   ]
 }
