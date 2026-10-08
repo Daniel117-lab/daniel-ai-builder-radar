@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-07T23:05:50.007Z",
-  "windowStart": "2026-09-30T23:05:50.007Z",
+  "fetchedAt": "2026-10-08T06:05:21.041Z",
+  "windowStart": "2026-10-01T06:05:21.041Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "domain": "openai.com",
-      "points": 1213,
+      "points": 1265,
       "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Anthropic reported diary entry to police, woman faces felony charge",
       "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "domain": "techspot.com",
-      "points": 824,
+      "points": 826,
       "publishedAt": "2026-10-05T05:37:40.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Claude Haiku 5.5",
       "url": "https://anthropic.com/claude-haiku-5-5",
       "domain": "anthropic.com",
-      "points": 598,
+      "points": 791,
       "publishedAt": "2026-10-07T18:01:32.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
       "url": "https://news.ycombinator.com/item?id=49982498",
       "domain": "news.ycombinator.com",
-      "points": 507,
+      "points": 528,
       "publishedAt": "2026-10-06T18:54:01.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
       "domain": "dwarfstar.sh",
-      "points": 364,
+      "points": 365,
       "publishedAt": "2026-10-02T18:01:16.000Z"
     },
     {
@@ -87,15 +87,23 @@
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
-      "points": 334,
+      "points": 338,
       "publishedAt": "2026-10-06T16:23:25.000Z"
+    },
+    {
+      "objectID": "49997161",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
+      "domain": "rswebsols.com",
+      "points": 331,
+      "publishedAt": "2026-10-07T18:49:40.000Z"
     },
     {
       "objectID": "49968105",
       "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
       "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
       "domain": "diff.wikimedia.org",
-      "points": 300,
+      "points": 302,
       "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
@@ -119,16 +127,8 @@
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
-      "points": 230,
+      "points": 231,
       "publishedAt": "2026-10-06T21:59:43.000Z"
-    },
-    {
-      "objectID": "49997161",
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "url": "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
-      "domain": "rswebsols.com",
-      "points": 227,
-      "publishedAt": "2026-10-07T18:49:40.000Z"
     },
     {
       "objectID": "49921050",
@@ -159,7 +159,7 @@
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
       "url": "https://github.com/allenv0/SCM",
       "domain": "github.com",
-      "points": 177,
+      "points": 178,
       "publishedAt": "2026-10-04T09:24:52.000Z"
     },
     {
@@ -167,7 +167,7 @@
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://github.com/anteloc/ldraw-nova",
       "domain": "github.com",
-      "points": 166,
+      "points": 167,
       "publishedAt": "2026-10-02T20:00:15.000Z"
     }
   ]
