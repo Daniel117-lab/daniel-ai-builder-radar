@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-09T06:09:42.500Z",
-  "windowStart": "2026-10-02T06:09:42.500Z",
+  "fetchedAt": "2026-10-09T13:18:14.083Z",
+  "windowStart": "2026-10-02T13:18:14.083Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "domain": "openai.com",
-      "points": 1324,
+      "points": 1329,
       "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Claude Haiku 5.5",
       "url": "https://anthropic.com/claude-haiku-5-5",
       "domain": "anthropic.com",
-      "points": 1036,
+      "points": 1040,
       "publishedAt": "2026-10-07T18:01:32.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
       "url": "https://news.ycombinator.com/item?id=49982498",
       "domain": "news.ycombinator.com",
-      "points": 564,
+      "points": 567,
       "publishedAt": "2026-10-06T18:54:01.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "OpenAI annualised revenues $20B less than previously signalled",
       "url": "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
       "domain": "cnbc.com",
-      "points": 377,
+      "points": 406,
       "publishedAt": "2026-10-08T16:45:58.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
       "url": "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
       "domain": "rswebsols.com",
-      "points": 368,
+      "points": 371,
       "publishedAt": "2026-10-07T18:49:40.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
-      "points": 342,
+      "points": 343,
       "publishedAt": "2026-10-06T16:23:25.000Z"
     },
     {
@@ -103,15 +103,23 @@
       "title": "OpenAI Withdraws 3 Math Papers",
       "url": "https://github.com/openai/math/blob/main/history.md",
       "domain": "github.com",
-      "points": 338,
+      "points": 341,
       "publishedAt": "2026-10-08T08:08:37.000Z"
+    },
+    {
+      "objectID": "50002650",
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "domain": "twitter.com",
+      "points": 339,
+      "publishedAt": "2026-10-08T07:05:40.000Z"
     },
     {
       "objectID": "49968105",
       "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
       "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
       "domain": "diff.wikimedia.org",
-      "points": 304,
+      "points": 305,
       "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
@@ -121,14 +129,6 @@
       "domain": "arstechnica.com",
       "points": 289,
       "publishedAt": "2026-10-02T14:11:24.000Z"
-    },
-    {
-      "objectID": "50002650",
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "domain": "twitter.com",
-      "points": 279,
-      "publishedAt": "2026-10-08T07:05:40.000Z"
     },
     {
       "objectID": "49948332",
@@ -143,7 +143,7 @@
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
-      "points": 238,
+      "points": 239,
       "publishedAt": "2026-10-06T21:59:43.000Z"
     },
     {
@@ -159,7 +159,7 @@
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
       "url": "https://github.com/allenv0/SCM",
       "domain": "github.com",
-      "points": 180,
+      "points": 181,
       "publishedAt": "2026-10-04T09:24:52.000Z"
     },
     {

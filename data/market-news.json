@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-09T06:09:43.214Z",
-  "windowStart": "2026-10-06T06:09:43.214Z",
+  "fetchedAt": "2026-10-09T13:18:14.907Z",
+  "windowStart": "2026-10-06T13:18:14.907Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873316-20261009.htm",
+      "title": "港股高收425點　科指升逾3%支撐大市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873316-20261009.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-09T08:51:46.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873300-20261009.htm",
+      "title": "滬深股市尾市收復失地　創業板指數於3000點失而復得",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873300-20261009.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-10-09T07:20:10.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873294-20261009.htm",
+      "title": "日股收市跌11點　本周累計升約1.1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873294-20261009.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-09T06:54:04.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1873286-20261009.htm",
       "title": "恒指下午初段升逾1%",
@@ -393,38 +417,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-06T13:45:06.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872879-20261006.htm",
-      "title": "港股收市升1%　醫藥股升幅較大",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872879-20261006.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-06T08:38:02.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872870-20261006.htm",
-      "title": "韓股低收約1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872870-20261006.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-06T07:21:16.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872868-20261006.htm",
-      "title": "日股高收逾1%　企穩70000點收市",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872868-20261006.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-06T06:58:20.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1872869-20261006.htm",
-      "title": "台股連升5日　再創新高",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1872869-20261006.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-06T06:54:05.000Z"
     }
   ]
 }
