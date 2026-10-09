@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-08T23:21:20.995Z",
-  "windowStart": "2026-10-01T23:21:20.995Z",
+  "fetchedAt": "2026-10-09T06:09:42.500Z",
+  "windowStart": "2026-10-02T06:09:42.500Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "domain": "openai.com",
-      "points": 1321,
+      "points": 1324,
       "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Claude Haiku 5.5",
       "url": "https://anthropic.com/claude-haiku-5-5",
       "domain": "anthropic.com",
-      "points": 1031,
+      "points": 1036,
       "publishedAt": "2026-10-07T18:01:32.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Anthropic reported diary entry to police, woman faces felony charge",
       "url": "https://techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "domain": "techspot.com",
-      "points": 833,
+      "points": 834,
       "publishedAt": "2026-10-05T05:37:40.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
       "url": "https://news.ycombinator.com/item?id=49982498",
       "domain": "news.ycombinator.com",
-      "points": 561,
+      "points": 564,
       "publishedAt": "2026-10-06T18:54:01.000Z"
     },
     {
@@ -67,11 +67,19 @@
       "publishedAt": "2026-10-03T17:44:29.000Z"
     },
     {
+      "objectID": "50008187",
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "domain": "cnbc.com",
+      "points": 377,
+      "publishedAt": "2026-10-08T16:45:58.000Z"
+    },
+    {
       "objectID": "49997161",
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
       "url": "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
       "domain": "rswebsols.com",
-      "points": 367,
+      "points": 368,
       "publishedAt": "2026-10-07T18:49:40.000Z"
     },
     {
@@ -83,27 +91,11 @@
       "publishedAt": "2026-10-02T18:01:16.000Z"
     },
     {
-      "objectID": "50008187",
-      "title": "OpenAI annualised revenues $20B less than previously signalled",
-      "url": "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "domain": "cnbc.com",
-      "points": 343,
-      "publishedAt": "2026-10-08T16:45:58.000Z"
-    },
-    {
-      "objectID": "49929391",
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "url": "https://youtube.com/watch?v=NnV_cWeoo5Q",
-      "domain": "youtube.com",
-      "points": 343,
-      "publishedAt": "2026-10-02T02:51:27.000Z"
-    },
-    {
       "objectID": "49980715",
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
-      "points": 341,
+      "points": 342,
       "publishedAt": "2026-10-06T16:23:25.000Z"
     },
     {
@@ -119,7 +111,7 @@
       "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
       "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
       "domain": "diff.wikimedia.org",
-      "points": 303,
+      "points": 304,
       "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
@@ -131,20 +123,20 @@
       "publishedAt": "2026-10-02T14:11:24.000Z"
     },
     {
+      "objectID": "50002650",
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "domain": "twitter.com",
+      "points": 279,
+      "publishedAt": "2026-10-08T07:05:40.000Z"
+    },
+    {
       "objectID": "49948332",
       "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
       "url": "https://theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "domain": "theguardian.com",
       "points": 268,
       "publishedAt": "2026-10-03T22:18:13.000Z"
-    },
-    {
-      "objectID": "50002650",
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "domain": "twitter.com",
-      "points": 239,
-      "publishedAt": "2026-10-08T07:05:40.000Z"
     },
     {
       "objectID": "49984716",
@@ -169,6 +161,14 @@
       "domain": "github.com",
       "points": 180,
       "publishedAt": "2026-10-04T09:24:52.000Z"
+    },
+    {
+      "objectID": "49937916",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "domain": "github.com",
+      "points": 167,
+      "publishedAt": "2026-10-02T20:00:15.000Z"
     }
   ]
 }
