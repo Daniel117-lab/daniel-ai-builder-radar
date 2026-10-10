@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-10T12:33:07.743Z",
-  "windowStart": "2026-10-03T12:33:07.743Z",
+  "fetchedAt": "2026-10-10T21:45:04.156Z",
+  "windowStart": "2026-10-03T21:45:04.156Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "domain": "openai.com",
-      "points": 1345,
+      "points": 1348,
       "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Claude Haiku 5.5",
       "url": "https://anthropic.com/claude-haiku-5-5",
       "domain": "anthropic.com",
-      "points": 1044,
+      "points": 1045,
       "publishedAt": "2026-10-07T18:01:32.000Z"
     },
     {
@@ -43,51 +43,35 @@
       "publishedAt": "2026-10-06T18:54:01.000Z"
     },
     {
-      "objectID": "49944227",
-      "title": "I quit OpenAI because its culture is broken",
-      "url": "https://theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "domain": "theatlantic.com",
-      "points": 494,
-      "publishedAt": "2026-10-03T13:46:34.000Z"
-    },
-    {
       "objectID": "50008187",
       "title": "OpenAI annualised revenues $20B less than previously signalled",
       "url": "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
       "domain": "cnbc.com",
-      "points": 424,
+      "points": 429,
       "publishedAt": "2026-10-08T16:45:58.000Z"
-    },
-    {
-      "objectID": "49946228",
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "domain": "fortune.com",
-      "points": 423,
-      "publishedAt": "2026-10-03T17:44:29.000Z"
-    },
-    {
-      "objectID": "50018817",
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "domain": "github.com",
-      "points": 400,
-      "publishedAt": "2026-10-09T11:03:48.000Z"
     },
     {
       "objectID": "50023450",
       "title": "Typesafe AI raises $870M at $7.5B",
       "url": "https://typesafe.ai/blog/series-ai",
       "domain": "typesafe.ai",
-      "points": 384,
+      "points": 425,
       "publishedAt": "2026-10-09T17:02:31.000Z"
+    },
+    {
+      "objectID": "50018817",
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "domain": "github.com",
+      "points": 410,
+      "publishedAt": "2026-10-09T11:03:48.000Z"
     },
     {
       "objectID": "50002650",
       "title": "OpenAI withdraws three mathematical results",
       "url": "https://twitter.com/danintheory/status/2108065033070789090",
       "domain": "twitter.com",
-      "points": 376,
+      "points": 377,
       "publishedAt": "2026-10-08T07:05:40.000Z"
     },
     {
@@ -95,24 +79,24 @@
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
       "url": "https://rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai",
       "domain": "rswebsols.com",
-      "points": 375,
+      "points": 376,
       "publishedAt": "2026-10-07T18:49:40.000Z"
-    },
-    {
-      "objectID": "49980715",
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "domain": "github.com",
-      "points": 345,
-      "publishedAt": "2026-10-06T16:23:25.000Z"
     },
     {
       "objectID": "50018350",
       "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
       "domain": "techcrunch.com",
-      "points": 342,
+      "points": 354,
       "publishedAt": "2026-10-09T10:00:26.000Z"
+    },
+    {
+      "objectID": "49980715",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "domain": "github.com",
+      "points": 346,
+      "publishedAt": "2026-10-06T16:23:25.000Z"
     },
     {
       "objectID": "50003107",
@@ -147,12 +131,36 @@
       "publishedAt": "2026-10-06T21:59:43.000Z"
     },
     {
+      "objectID": "50031614",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "domain": "github.com",
+      "points": 217,
+      "publishedAt": "2026-10-10T10:52:09.000Z"
+    },
+    {
       "objectID": "50013902",
       "title": "OpenAI, the Partition Principle, and Mathematics",
       "url": "https://karagila.org/2026/openai-pp",
       "domain": "karagila.org",
-      "points": 204,
+      "points": 207,
       "publishedAt": "2026-10-08T23:29:43.000Z"
+    },
+    {
+      "objectID": "50027118",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "url": "https://nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+      "domain": "nbcphiladelphia.com",
+      "points": 206,
+      "publishedAt": "2026-10-09T22:00:35.000Z"
+    },
+    {
+      "objectID": "50024090",
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai",
+      "domain": "terrytao.wordpress.com",
+      "points": 189,
+      "publishedAt": "2026-10-09T17:42:12.000Z"
     },
     {
       "objectID": "49952111",
@@ -161,14 +169,6 @@
       "domain": "github.com",
       "points": 183,
       "publishedAt": "2026-10-04T09:24:52.000Z"
-    },
-    {
-      "objectID": "50027118",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "url": "https://nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-      "domain": "nbcphiladelphia.com",
-      "points": 176,
-      "publishedAt": "2026-10-09T22:00:35.000Z"
     }
   ]
 }

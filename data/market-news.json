@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-10T12:33:08.519Z",
-  "windowStart": "2026-10-07T12:33:08.519Z",
+  "fetchedAt": "2026-10-10T21:45:07.137Z",
+  "windowStart": "2026-10-07T21:45:07.137Z",
   "markets": [
     {
       "id": "hk",
@@ -297,30 +297,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-10-07T23:25:31.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873090-20261008.htm",
-      "title": "道指低收341點　美長債息上升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873090-20261008.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-07T21:42:29.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873087-20261008.htm",
-      "title": "歐股跌近1%或以上　因債息高企",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873087-20261008.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-07T21:10:09.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873067-20261007.htm",
-      "title": "道指初段跌逾400點　美國債息及油價上升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873067-20261007.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-07T13:43:35.000Z"
     }
   ]
 }
