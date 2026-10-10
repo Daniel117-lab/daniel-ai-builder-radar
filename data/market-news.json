@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-10T05:53:50.339Z",
-  "windowStart": "2026-10-07T05:53:50.339Z",
+  "fetchedAt": "2026-10-10T12:33:08.519Z",
+  "windowStart": "2026-10-07T12:33:08.519Z",
   "markets": [
     {
       "id": "hk",
@@ -321,54 +321,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-07T13:43:35.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873058-20261007.htm",
-      "title": "內地股市明日復市　分析料上證指數波幅較窄",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873058-20261007.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-10-07T12:32:04.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873053-20261007.htm",
-      "title": "安踏體育完成收購Puma股份　成為最大股東",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873053-20261007.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-10-07T12:14:06.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873036-20261007.htm",
-      "title": "恒指公司：科指編算方法修訂諮詢每項建議獲逾八成回應單位支持",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873036-20261007.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-07T10:14:41.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873022-20261007.htm",
-      "title": "港股低收150點　結束兩日升勢　地產股造好",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873022-20261007.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-07T08:36:59.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873010-20261007.htm",
-      "title": "韓股收市跌近2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873010-20261007.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-07T06:53:52.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873009-20261007.htm",
-      "title": "日股低收近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873009-20261007.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-07T06:51:46.000Z"
     }
   ]
 }

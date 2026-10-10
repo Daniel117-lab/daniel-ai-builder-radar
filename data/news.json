@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-10T05:53:49.673Z",
-  "windowStart": "2026-10-03T05:53:49.673Z",
+  "fetchedAt": "2026-10-10T12:33:07.743Z",
+  "windowStart": "2026-10-03T12:33:07.743Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "domain": "openai.com",
-      "points": 1341,
+      "points": 1345,
       "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
@@ -51,12 +51,12 @@
       "publishedAt": "2026-10-03T13:46:34.000Z"
     },
     {
-      "objectID": "49943034",
-      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "domain": "tej.as",
+      "objectID": "50008187",
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "domain": "cnbc.com",
       "points": 424,
-      "publishedAt": "2026-10-03T10:43:51.000Z"
+      "publishedAt": "2026-10-08T16:45:58.000Z"
     },
     {
       "objectID": "49946228",
@@ -67,20 +67,28 @@
       "publishedAt": "2026-10-03T17:44:29.000Z"
     },
     {
-      "objectID": "50008187",
-      "title": "OpenAI annualised revenues $20B less than previously signalled",
-      "url": "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "domain": "cnbc.com",
-      "points": 422,
-      "publishedAt": "2026-10-08T16:45:58.000Z"
-    },
-    {
       "objectID": "50018817",
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
-      "points": 391,
+      "points": 400,
       "publishedAt": "2026-10-09T11:03:48.000Z"
+    },
+    {
+      "objectID": "50023450",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "domain": "typesafe.ai",
+      "points": 384,
+      "publishedAt": "2026-10-09T17:02:31.000Z"
+    },
+    {
+      "objectID": "50002650",
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "domain": "twitter.com",
+      "points": 376,
+      "publishedAt": "2026-10-08T07:05:40.000Z"
     },
     {
       "objectID": "49997161",
@@ -91,14 +99,6 @@
       "publishedAt": "2026-10-07T18:49:40.000Z"
     },
     {
-      "objectID": "50002650",
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "domain": "twitter.com",
-      "points": 374,
-      "publishedAt": "2026-10-08T07:05:40.000Z"
-    },
-    {
       "objectID": "49980715",
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
@@ -107,28 +107,20 @@
       "publishedAt": "2026-10-06T16:23:25.000Z"
     },
     {
+      "objectID": "50018350",
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+      "domain": "techcrunch.com",
+      "points": 342,
+      "publishedAt": "2026-10-09T10:00:26.000Z"
+    },
+    {
       "objectID": "50003107",
       "title": "OpenAI Withdraws 3 Math Papers",
       "url": "https://github.com/openai/math/blob/main/history.md",
       "domain": "github.com",
       "points": 342,
       "publishedAt": "2026-10-08T08:08:37.000Z"
-    },
-    {
-      "objectID": "50023450",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "domain": "typesafe.ai",
-      "points": 327,
-      "publishedAt": "2026-10-09T17:02:31.000Z"
-    },
-    {
-      "objectID": "50018350",
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-      "domain": "techcrunch.com",
-      "points": 326,
-      "publishedAt": "2026-10-09T10:00:26.000Z"
     },
     {
       "objectID": "49968105",
@@ -159,7 +151,7 @@
       "title": "OpenAI, the Partition Principle, and Mathematics",
       "url": "https://karagila.org/2026/openai-pp",
       "domain": "karagila.org",
-      "points": 199,
+      "points": 204,
       "publishedAt": "2026-10-08T23:29:43.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "github.com",
       "points": 183,
       "publishedAt": "2026-10-04T09:24:52.000Z"
+    },
+    {
+      "objectID": "50027118",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "url": "https://nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+      "domain": "nbcphiladelphia.com",
+      "points": 176,
+      "publishedAt": "2026-10-09T22:00:35.000Z"
     }
   ]
 }
