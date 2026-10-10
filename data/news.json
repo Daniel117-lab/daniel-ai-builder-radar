@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-09T22:39:03.799Z",
-  "windowStart": "2026-10-02T22:39:03.799Z",
+  "fetchedAt": "2026-10-10T05:53:49.673Z",
+  "windowStart": "2026-10-03T05:53:49.673Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "domain": "openai.com",
-      "points": 1334,
+      "points": 1341,
       "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Claude Haiku 5.5",
       "url": "https://anthropic.com/claude-haiku-5-5",
       "domain": "anthropic.com",
-      "points": 1043,
+      "points": 1044,
       "publishedAt": "2026-10-07T18:01:32.000Z"
     },
     {
@@ -71,8 +71,16 @@
       "title": "OpenAI annualised revenues $20B less than previously signalled",
       "url": "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
       "domain": "cnbc.com",
-      "points": 421,
+      "points": 422,
       "publishedAt": "2026-10-08T16:45:58.000Z"
+    },
+    {
+      "objectID": "50018817",
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "domain": "github.com",
+      "points": 391,
+      "publishedAt": "2026-10-09T11:03:48.000Z"
     },
     {
       "objectID": "49997161",
@@ -87,16 +95,8 @@
       "title": "OpenAI withdraws three mathematical results",
       "url": "https://twitter.com/danintheory/status/2108065033070789090",
       "domain": "twitter.com",
-      "points": 369,
+      "points": 374,
       "publishedAt": "2026-10-08T07:05:40.000Z"
-    },
-    {
-      "objectID": "50018817",
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "domain": "github.com",
-      "points": 357,
-      "publishedAt": "2026-10-09T11:03:48.000Z"
     },
     {
       "objectID": "49980715",
@@ -115,20 +115,28 @@
       "publishedAt": "2026-10-08T08:08:37.000Z"
     },
     {
-      "objectID": "49968105",
-      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-      "domain": "diff.wikimedia.org",
-      "points": 306,
-      "publishedAt": "2026-10-05T17:53:35.000Z"
+      "objectID": "50023450",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "domain": "typesafe.ai",
+      "points": 327,
+      "publishedAt": "2026-10-09T17:02:31.000Z"
     },
     {
       "objectID": "50018350",
       "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
       "domain": "techcrunch.com",
-      "points": 296,
+      "points": 326,
       "publishedAt": "2026-10-09T10:00:26.000Z"
+    },
+    {
+      "objectID": "49968105",
+      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "domain": "diff.wikimedia.org",
+      "points": 306,
+      "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
       "objectID": "49948332",
@@ -143,23 +151,15 @@
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
-      "points": 240,
+      "points": 241,
       "publishedAt": "2026-10-06T21:59:43.000Z"
-    },
-    {
-      "objectID": "50023450",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "domain": "typesafe.ai",
-      "points": 208,
-      "publishedAt": "2026-10-09T17:02:31.000Z"
     },
     {
       "objectID": "50013902",
       "title": "OpenAI, the Partition Principle, and Mathematics",
       "url": "https://karagila.org/2026/openai-pp",
       "domain": "karagila.org",
-      "points": 193,
+      "points": 199,
       "publishedAt": "2026-10-08T23:29:43.000Z"
     },
     {
