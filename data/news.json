@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-10T21:45:04.156Z",
-  "windowStart": "2026-10-03T21:45:04.156Z",
+  "fetchedAt": "2026-10-11T05:47:52.264Z",
+  "windowStart": "2026-10-04T05:47:52.264Z",
   "queries": [
     "AI",
     "LLM",
@@ -43,6 +43,14 @@
       "publishedAt": "2026-10-06T18:54:01.000Z"
     },
     {
+      "objectID": "50023450",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "domain": "typesafe.ai",
+      "points": 433,
+      "publishedAt": "2026-10-09T17:02:31.000Z"
+    },
+    {
       "objectID": "50008187",
       "title": "OpenAI annualised revenues $20B less than previously signalled",
       "url": "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
@@ -51,19 +59,11 @@
       "publishedAt": "2026-10-08T16:45:58.000Z"
     },
     {
-      "objectID": "50023450",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "domain": "typesafe.ai",
-      "points": 425,
-      "publishedAt": "2026-10-09T17:02:31.000Z"
-    },
-    {
       "objectID": "50018817",
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
-      "points": 410,
+      "points": 412,
       "publishedAt": "2026-10-09T11:03:48.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
       "domain": "techcrunch.com",
-      "points": 354,
+      "points": 359,
       "publishedAt": "2026-10-09T10:00:26.000Z"
     },
     {
@@ -115,12 +115,12 @@
       "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
-      "objectID": "49948332",
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "domain": "theguardian.com",
-      "points": 268,
-      "publishedAt": "2026-10-03T22:18:13.000Z"
+      "objectID": "50031614",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "domain": "github.com",
+      "points": 274,
+      "publishedAt": "2026-10-10T10:52:09.000Z"
     },
     {
       "objectID": "49984716",
@@ -131,35 +131,27 @@
       "publishedAt": "2026-10-06T21:59:43.000Z"
     },
     {
-      "objectID": "50031614",
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "domain": "github.com",
-      "points": 217,
-      "publishedAt": "2026-10-10T10:52:09.000Z"
+      "objectID": "50027118",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "url": "https://nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+      "domain": "nbcphiladelphia.com",
+      "points": 208,
+      "publishedAt": "2026-10-09T22:00:35.000Z"
     },
     {
       "objectID": "50013902",
       "title": "OpenAI, the Partition Principle, and Mathematics",
       "url": "https://karagila.org/2026/openai-pp",
       "domain": "karagila.org",
-      "points": 207,
+      "points": 208,
       "publishedAt": "2026-10-08T23:29:43.000Z"
-    },
-    {
-      "objectID": "50027118",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "url": "https://nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-      "domain": "nbcphiladelphia.com",
-      "points": 206,
-      "publishedAt": "2026-10-09T22:00:35.000Z"
     },
     {
       "objectID": "50024090",
       "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
       "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai",
       "domain": "terrytao.wordpress.com",
-      "points": 189,
+      "points": 198,
       "publishedAt": "2026-10-09T17:42:12.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "github.com",
       "points": 183,
       "publishedAt": "2026-10-04T09:24:52.000Z"
+    },
+    {
+      "objectID": "50019056",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+      "domain": "jessewaites.com",
+      "points": 181,
+      "publishedAt": "2026-10-09T11:36:20.000Z"
     }
   ]
 }
