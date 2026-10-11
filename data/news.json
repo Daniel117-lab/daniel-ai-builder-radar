@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-11T12:51:19.240Z",
-  "windowStart": "2026-10-04T12:51:19.240Z",
+  "fetchedAt": "2026-10-11T21:58:42.129Z",
+  "windowStart": "2026-10-04T21:58:42.129Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "domain": "openai.com",
-      "points": 1348,
+      "points": 1352,
       "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
       "url": "https://news.ycombinator.com/item?id=49982498",
       "domain": "news.ycombinator.com",
-      "points": 569,
+      "points": 571,
       "publishedAt": "2026-10-06T18:54:01.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Typesafe AI raises $870M at $7.5B",
       "url": "https://typesafe.ai/blog/series-ai",
       "domain": "typesafe.ai",
-      "points": 439,
+      "points": 442,
       "publishedAt": "2026-10-09T17:02:31.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "OpenAI annualised revenues $20B less than previously signalled",
       "url": "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
       "domain": "cnbc.com",
-      "points": 429,
+      "points": 431,
       "publishedAt": "2026-10-08T16:45:58.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
-      "points": 413,
+      "points": 414,
       "publishedAt": "2026-10-09T11:03:48.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "OpenAI withdraws three mathematical results",
       "url": "https://twitter.com/danintheory/status/2108065033070789090",
       "domain": "twitter.com",
-      "points": 377,
+      "points": 379,
       "publishedAt": "2026-10-08T07:05:40.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
       "domain": "techcrunch.com",
-      "points": 361,
+      "points": 364,
       "publishedAt": "2026-10-09T10:00:26.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
       "domain": "github.com",
-      "points": 346,
+      "points": 347,
       "publishedAt": "2026-10-06T16:23:25.000Z"
     },
     {
@@ -107,6 +107,14 @@
       "publishedAt": "2026-10-08T08:08:37.000Z"
     },
     {
+      "objectID": "50031614",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "domain": "github.com",
+      "points": 320,
+      "publishedAt": "2026-10-10T10:52:09.000Z"
+    },
+    {
       "objectID": "49968105",
       "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
       "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
@@ -115,19 +123,11 @@
       "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
-      "objectID": "50031614",
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "domain": "github.com",
-      "points": 302,
-      "publishedAt": "2026-10-10T10:52:09.000Z"
-    },
-    {
       "objectID": "49984716",
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
-      "points": 241,
+      "points": 242,
       "publishedAt": "2026-10-06T21:59:43.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
       "url": "https://nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
       "domain": "nbcphiladelphia.com",
-      "points": 209,
+      "points": 212,
       "publishedAt": "2026-10-09T22:00:35.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "OpenAI, the Partition Principle, and Mathematics",
       "url": "https://karagila.org/2026/openai-pp",
       "domain": "karagila.org",
-      "points": 208,
+      "points": 210,
       "publishedAt": "2026-10-08T23:29:43.000Z"
     },
     {
@@ -151,7 +151,7 @@
       "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
       "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai",
       "domain": "terrytao.wordpress.com",
-      "points": 198,
+      "points": 205,
       "publishedAt": "2026-10-09T17:42:12.000Z"
     },
     {
@@ -159,7 +159,7 @@
       "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
       "domain": "jessewaites.com",
-      "points": 183,
+      "points": 184,
       "publishedAt": "2026-10-09T11:36:20.000Z"
     },
     {
@@ -167,7 +167,7 @@
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
       "url": "https://ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
       "domain": "ft.com",
-      "points": 168,
+      "points": 175,
       "publishedAt": "2026-10-10T18:48:35.000Z"
     }
   ]

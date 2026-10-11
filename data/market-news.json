@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-11T12:51:19.898Z",
-  "windowStart": "2026-10-08T12:51:19.898Z",
+  "fetchedAt": "2026-10-11T21:58:42.901Z",
+  "windowStart": "2026-10-08T21:58:42.901Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873533-20261012.htm",
+      "title": "美股本周關注9月通脹數據及沃什講話　多間金融機構公布業績",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873533-20261012.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-11T21:29:23.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1873389-20261010.htm",
       "title": "港股ADR普遍較本港收市上升",
@@ -161,22 +169,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-08T22:26:26.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873233-20261009.htm",
-      "title": "德股低收逾1%　法股創逾半年低位",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873233-20261009.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-08T21:16:56.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873206-20261008.htm",
-      "title": "美股初段偏軟　道指跌逾百點　百事績後靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873206-20261008.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-08T13:46:07.000Z"
     }
   ]
 }
