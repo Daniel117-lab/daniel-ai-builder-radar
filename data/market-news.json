@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-12T05:59:26.298Z",
-  "windowStart": "2026-10-09T05:59:26.298Z",
+  "fetchedAt": "2026-10-12T15:27:02.863Z",
+  "windowStart": "2026-10-09T15:27:02.863Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,46 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873652-20261012.htm",
+      "title": "美股初段變動不大",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873652-20261012.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-12T13:40:29.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873614-20261012.htm",
+      "title": "恒指高收59點　內銀股造好",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873614-20261012.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-12T08:33:04.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873601-20261012.htm",
+      "title": "滬指低收0.4%　深證成指及創指跌逾2%　多隻內銀股創新高",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873601-20261012.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-10-12T07:19:13.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873597-20261012.htm",
+      "title": "韓股低收近4%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873597-20261012.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-12T06:44:44.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873594-20261012.htm",
+      "title": "台股收市跌11點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873594-20261012.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-12T06:21:28.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1873586-20261012.htm",
       "title": "恒指下午初段轉跌",
@@ -113,38 +153,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-10-09T21:35:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873363-20261009.htm",
-      "title": "美股初段靠穩　道指曾升逾百點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873363-20261009.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-09T13:36:29.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873316-20261009.htm",
-      "title": "港股高收425點　科指升逾3%支撐大市",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873316-20261009.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-09T08:51:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873300-20261009.htm",
-      "title": "滬深股市尾市收復失地　創業板指數於3000點失而復得",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873300-20261009.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-10-09T07:20:10.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873294-20261009.htm",
-      "title": "日股收市跌11點　本周累計升約1.1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873294-20261009.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-09T06:54:04.000Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-12T05:59:25.443Z",
-  "windowStart": "2026-10-05T05:59:25.443Z",
+  "fetchedAt": "2026-10-12T15:27:01.640Z",
+  "windowStart": "2026-10-05T15:27:01.640Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "domain": "openai.com",
-      "points": 1353,
+      "points": 1356,
       "publishedAt": "2026-10-06T22:17:21.000Z"
     },
     {
@@ -27,11 +27,19 @@
       "publishedAt": "2026-10-07T18:01:32.000Z"
     },
     {
+      "objectID": "50047422",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "domain": "twitter.com",
+      "points": 578,
+      "publishedAt": "2026-10-11T20:20:52.000Z"
+    },
+    {
       "objectID": "49982498",
       "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
       "url": "https://news.ycombinator.com/item?id=49982498",
       "domain": "news.ycombinator.com",
-      "points": 572,
+      "points": 574,
       "publishedAt": "2026-10-06T18:54:01.000Z"
     },
     {
@@ -55,7 +63,7 @@
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
-      "points": 415,
+      "points": 417,
       "publishedAt": "2026-10-09T11:03:48.000Z"
     },
     {
@@ -63,16 +71,8 @@
       "title": "OpenAI withdraws three mathematical results",
       "url": "https://twitter.com/danintheory/status/2108065033070789090",
       "domain": "twitter.com",
-      "points": 379,
+      "points": 380,
       "publishedAt": "2026-10-08T07:05:40.000Z"
-    },
-    {
-      "objectID": "50047422",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "domain": "twitter.com",
-      "points": 377,
-      "publishedAt": "2026-10-11T20:20:52.000Z"
     },
     {
       "objectID": "49997161",
@@ -111,7 +111,7 @@
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
       "domain": "github.com",
-      "points": 323,
+      "points": 324,
       "publishedAt": "2026-10-10T10:52:09.000Z"
     },
     {
@@ -123,12 +123,28 @@
       "publishedAt": "2026-10-05T17:53:35.000Z"
     },
     {
+      "objectID": "50054751",
+      "title": "QGIS bans AI assisted contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "domain": "github.com",
+      "points": 272,
+      "publishedAt": "2026-10-12T11:22:24.000Z"
+    },
+    {
       "objectID": "49984716",
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "url": "https://penguin-mail.com/",
       "domain": "penguin-mail.com",
       "points": 242,
       "publishedAt": "2026-10-06T21:59:43.000Z"
+    },
+    {
+      "objectID": "50051583",
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "domain": "cnbc.com",
+      "points": 224,
+      "publishedAt": "2026-10-12T05:03:47.000Z"
     },
     {
       "objectID": "50027118",
@@ -151,24 +167,8 @@
       "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
       "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai",
       "domain": "terrytao.wordpress.com",
-      "points": 205,
+      "points": 206,
       "publishedAt": "2026-10-09T17:42:12.000Z"
-    },
-    {
-      "objectID": "50039092",
-      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
-      "domain": "momo5502.com",
-      "points": 188,
-      "publishedAt": "2026-10-11T02:02:38.000Z"
-    },
-    {
-      "objectID": "50019056",
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
-      "domain": "jessewaites.com",
-      "points": 184,
-      "publishedAt": "2026-10-09T11:36:20.000Z"
     }
   ]
 }
