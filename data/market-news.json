@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-13T00:40:45.917Z",
-  "windowStart": "2026-10-10T00:40:45.917Z",
+  "fetchedAt": "2026-10-13T14:12:56.320Z",
+  "windowStart": "2026-10-10T14:12:56.320Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,62 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873809-20261013.htm",
+      "title": "美股初段個別發展　市場關注企業業績",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873809-20261013.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-13T13:40:55.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873763-20261013.htm",
+      "title": "恒指倒升74點收市　金融和地產股向上",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873763-20261013.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-13T08:32:47.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873753-20261013.htm",
+      "title": "內地股市收市變動不大",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873753-20261013.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-10-13T07:17:30.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873748-20261013.htm",
+      "title": "韓股低收逾5%　創近兩個半月新低　晶片股急跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873748-20261013.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-13T06:45:16.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873747-20261013.htm",
+      "title": "日股低收約2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873747-20261013.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-13T06:36:21.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873738-20261013.htm",
+      "title": "台股低收近2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873738-20261013.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-13T05:49:40.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873735-20261013.htm",
+      "title": "恒指下午初段轉升",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873735-20261013.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-13T05:28:12.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1873691-20261013.htm",
       "title": "韓股初段急跌逾4%",
