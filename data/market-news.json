@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-13T14:12:56.320Z",
-  "windowStart": "2026-10-10T14:12:56.320Z",
+  "fetchedAt": "2026-10-13T22:45:28.458Z",
+  "windowStart": "2026-10-10T22:45:28.458Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873833-20261014.htm",
+      "title": "道指挫180點　納指連跌兩日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873833-20261014.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-13T21:43:31.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1873809-20261013.htm",
       "title": "美股初段個別發展　市場關注企業業績",
