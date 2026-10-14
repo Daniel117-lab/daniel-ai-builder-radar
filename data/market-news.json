@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-14T11:53:32.806Z",
-  "windowStart": "2026-10-11T11:53:32.806Z",
+  "fetchedAt": "2026-10-14T17:11:24.530Z",
+  "windowStart": "2026-10-11T17:11:24.530Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873968-20261014.htm",
+      "title": "美股初段個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873968-20261014.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-14T13:39:35.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1873928-20261014.htm",
       "title": "恒指低收31點　金融地產股下跌　科技股上升",

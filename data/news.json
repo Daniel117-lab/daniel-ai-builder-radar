@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-14T11:53:32.097Z",
-  "windowStart": "2026-10-07T11:53:32.097Z",
+  "fetchedAt": "2026-10-14T17:11:23.756Z",
+  "windowStart": "2026-10-07T17:11:23.756Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude Haiku 5.5",
       "url": "https://anthropic.com/claude-haiku-5-5",
       "domain": "anthropic.com",
-      "points": 1048,
+      "points": 1049,
       "publishedAt": "2026-10-07T18:01:32.000Z"
     },
     {
@@ -23,31 +23,31 @@
       "title": "Redesigning source control at Anthropic",
       "url": "https://anthropic.com/engineering/redesigning-source-control",
       "domain": "anthropic.com",
-      "points": 794,
+      "points": 844,
       "publishedAt": "2026-10-13T15:49:56.000Z"
-    },
-    {
-      "objectID": "50047422",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "domain": "twitter.com",
-      "points": 719,
-      "publishedAt": "2026-10-11T20:20:52.000Z"
     },
     {
       "objectID": "50063427",
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
       "domain": "yyhh.org",
-      "points": 710,
+      "points": 749,
       "publishedAt": "2026-10-12T21:40:18.000Z"
+    },
+    {
+      "objectID": "50047422",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "domain": "twitter.com",
+      "points": 720,
+      "publishedAt": "2026-10-11T20:20:52.000Z"
     },
     {
       "objectID": "50078141",
       "title": "OpenAI engineer arrested in bugging of executive conference room",
       "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room",
       "domain": "sfstandard.com",
-      "points": 604,
+      "points": 627,
       "publishedAt": "2026-10-13T20:23:55.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "QGIS enacts moratorium on AI contributions",
       "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
       "domain": "github.com",
-      "points": 391,
+      "points": 392,
       "publishedAt": "2026-10-12T11:22:24.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "AI coding agents generate more code, but not more software",
       "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
       "domain": "arstechnica.com",
-      "points": 362,
+      "points": 363,
       "publishedAt": "2026-10-12T17:14:01.000Z"
     },
     {
@@ -123,12 +123,28 @@
       "publishedAt": "2026-10-08T08:08:37.000Z"
     },
     {
+      "objectID": "50073221",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://sammystraus.com/",
+      "domain": "sammystraus.com",
+      "points": 336,
+      "publishedAt": "2026-10-13T15:25:50.000Z"
+    },
+    {
       "objectID": "50057278",
       "title": "Why aren't AI companies being charged for hacking?",
       "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking",
       "domain": "mortoray.com",
-      "points": 333,
+      "points": 335,
       "publishedAt": "2026-10-12T14:52:37.000Z"
+    },
+    {
+      "objectID": "50068036",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai",
+      "domain": "blog.character.ai",
+      "points": 329,
+      "publishedAt": "2026-10-13T07:28:34.000Z"
     },
     {
       "objectID": "50031614",
@@ -139,27 +155,11 @@
       "publishedAt": "2026-10-10T10:52:09.000Z"
     },
     {
-      "objectID": "50073221",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://sammystraus.com/",
-      "domain": "sammystraus.com",
-      "points": 327,
-      "publishedAt": "2026-10-13T15:25:50.000Z"
-    },
-    {
-      "objectID": "50068036",
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai",
-      "domain": "blog.character.ai",
-      "points": 325,
-      "publishedAt": "2026-10-13T07:28:34.000Z"
-    },
-    {
       "objectID": "50060269",
       "title": "'AI' Is Not a Tool by Rich Hickey",
       "url": "https://linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
-      "points": 305,
+      "points": 309,
       "publishedAt": "2026-10-12T18:00:25.000Z"
     },
     {
@@ -167,7 +167,7 @@
       "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
       "url": "https://intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
       "domain": "intel.com",
-      "points": 304,
+      "points": 306,
       "publishedAt": "2026-10-12T21:35:35.000Z"
     }
   ]
