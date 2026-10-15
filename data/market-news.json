@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-15T11:30:27.896Z",
-  "windowStart": "2026-10-12T11:30:27.896Z",
+  "fetchedAt": "2026-10-15T17:01:34.868Z",
+  "windowStart": "2026-10-12T17:01:34.868Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874103-20261015.htm",
+      "title": "美股初段個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874103-20261015.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-15T13:37:55.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1874066-20261015.htm",
       "title": "恒指低收251點　晶片和人工智能概念股受壓",
@@ -353,14 +361,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-12T21:43:53.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873652-20261012.htm",
-      "title": "美股初段變動不大",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873652-20261012.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-12T13:40:29.000Z"
     }
   ]
 }
