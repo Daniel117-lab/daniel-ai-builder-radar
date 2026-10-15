@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-14T21:41:43.792Z",
-  "windowStart": "2026-10-07T21:41:43.792Z",
+  "fetchedAt": "2026-10-15T04:40:14.805Z",
+  "windowStart": "2026-10-08T04:40:14.805Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Redesigning source control at Anthropic",
       "url": "https://anthropic.com/engineering/redesigning-source-control",
       "domain": "anthropic.com",
-      "points": 861,
+      "points": 873,
       "publishedAt": "2026-10-13T15:49:56.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
-      "points": 774,
+      "points": 854,
       "publishedAt": "2026-10-14T17:45:23.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
       "domain": "yyhh.org",
-      "points": 755,
+      "points": 765,
       "publishedAt": "2026-10-12T21:40:18.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "The gap in shared understanding of LLM capability is widening",
       "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "domain": "twitter.com",
-      "points": 720,
+      "points": 722,
       "publishedAt": "2026-10-11T20:20:52.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "OpenAI engineer arrested in bugging of executive conference room",
       "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room",
       "domain": "sfstandard.com",
-      "points": 640,
+      "points": 646,
       "publishedAt": "2026-10-13T20:23:55.000Z"
     },
     {
@@ -107,6 +107,14 @@
       "publishedAt": "2026-10-12T17:14:01.000Z"
     },
     {
+      "objectID": "50073221",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://sammystraus.com/",
+      "domain": "sammystraus.com",
+      "points": 344,
+      "publishedAt": "2026-10-13T15:25:50.000Z"
+    },
+    {
       "objectID": "50003107",
       "title": "OpenAI Withdraws 3 Math Papers",
       "url": "https://github.com/openai/math/blob/main/history.md",
@@ -115,12 +123,12 @@
       "publishedAt": "2026-10-08T08:08:37.000Z"
     },
     {
-      "objectID": "50073221",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://sammystraus.com/",
-      "domain": "sammystraus.com",
-      "points": 339,
-      "publishedAt": "2026-10-13T15:25:50.000Z"
+      "objectID": "50092664",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote",
+      "domain": "startupfortune.com",
+      "points": 340,
+      "publishedAt": "2026-10-14T18:32:52.000Z"
     },
     {
       "objectID": "50057278",
@@ -147,28 +155,20 @@
       "publishedAt": "2026-10-10T10:52:09.000Z"
     },
     {
+      "objectID": "50094694",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke",
+      "domain": "sunshowers.io",
+      "points": 314,
+      "publishedAt": "2026-10-14T20:30:54.000Z"
+    },
+    {
       "objectID": "50060269",
       "title": "'AI' Is Not a Tool by Rich Hickey",
       "url": "https://linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
-      "points": 310,
+      "points": 311,
       "publishedAt": "2026-10-12T18:00:25.000Z"
-    },
-    {
-      "objectID": "50063365",
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "domain": "intel.com",
-      "points": 306,
-      "publishedAt": "2026-10-12T21:35:35.000Z"
-    },
-    {
-      "objectID": "50065692",
-      "title": "AI models can provably hide arbitrary capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "domain": "arxiv.org",
-      "points": 279,
-      "publishedAt": "2026-10-13T02:07:08.000Z"
     }
   ]
 }
