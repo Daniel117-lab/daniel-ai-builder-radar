@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-15T04:40:15.596Z",
-  "windowStart": "2026-10-12T04:40:15.596Z",
+  "fetchedAt": "2026-10-15T11:30:27.896Z",
+  "windowStart": "2026-10-12T11:30:27.896Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,54 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874066-20261015.htm",
+      "title": "恒指低收251點　晶片和人工智能概念股受壓",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874066-20261015.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-15T08:27:52.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874059-20261015.htm",
+      "title": "滬指低收近2%　創業板指數跌近3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874059-20261015.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-10-15T07:14:19.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874058-20261015.htm",
+      "title": "日股低收近5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874058-20261015.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-15T07:05:53.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874057-20261015.htm",
+      "title": "韓股低收近8%　晶片股急跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874057-20261015.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-15T06:57:04.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874049-20261015.htm",
+      "title": "台股低收逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874049-20261015.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-15T06:00:03.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874048-20261015.htm",
+      "title": "恒指下午初段跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874048-20261015.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-15T05:07:41.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1874041-20261015.htm",
       "title": "恒指半日跌358點　失守24000點",
@@ -313,46 +361,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-12T13:40:29.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873614-20261012.htm",
-      "title": "恒指高收59點　內銀股造好",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873614-20261012.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-12T08:33:04.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873601-20261012.htm",
-      "title": "滬指低收0.4%　深證成指及創指跌逾2%　多隻內銀股創新高",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873601-20261012.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-10-12T07:19:13.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873597-20261012.htm",
-      "title": "韓股低收近4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873597-20261012.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-12T06:44:44.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873594-20261012.htm",
-      "title": "台股收市跌11點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873594-20261012.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-12T06:21:28.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873586-20261012.htm",
-      "title": "恒指下午初段轉跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873586-20261012.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-12T05:12:38.000Z"
     }
   ]
 }
