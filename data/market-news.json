@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-16T11:25:29.325Z",
-  "windowStart": "2026-10-13T11:25:29.325Z",
+  "fetchedAt": "2026-10-16T16:40:05.736Z",
+  "windowStart": "2026-10-13T16:40:05.736Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874242-20261016.htm",
+      "title": "美股初段個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874242-20261016.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-16T13:38:36.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1874219-20261016.htm",
       "title": "港交所擬實施港股T+1結算周期　2028年下半年完成過渡",
@@ -417,14 +425,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-13T21:43:31.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873809-20261013.htm",
-      "title": "美股初段個別發展　市場關注企業業績",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873809-20261013.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-13T13:40:55.000Z"
     }
   ]
 }
