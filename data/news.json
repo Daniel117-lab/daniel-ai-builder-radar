@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-15T21:23:19.005Z",
-  "windowStart": "2026-10-08T21:23:19.005Z",
+  "fetchedAt": "2026-10-16T04:33:01.151Z",
+  "windowStart": "2026-10-09T04:33:01.151Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
-      "points": 936,
+      "points": 940,
       "publishedAt": "2026-10-14T17:45:23.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
       "domain": "yyhh.org",
-      "points": 784,
+      "points": 786,
       "publishedAt": "2026-10-12T21:40:18.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "The gap in shared understanding of LLM capability is widening",
       "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "domain": "twitter.com",
-      "points": 722,
+      "points": 725,
       "publishedAt": "2026-10-11T20:20:52.000Z"
     },
     {
@@ -59,20 +59,20 @@
       "publishedAt": "2026-10-09T17:02:31.000Z"
     },
     {
+      "objectID": "50094694",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke",
+      "domain": "sunshowers.io",
+      "points": 419,
+      "publishedAt": "2026-10-14T20:30:54.000Z"
+    },
+    {
       "objectID": "50018817",
       "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "domain": "github.com",
       "points": 419,
       "publishedAt": "2026-10-09T11:03:48.000Z"
-    },
-    {
-      "objectID": "50094694",
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke",
-      "domain": "sunshowers.io",
-      "points": 414,
-      "publishedAt": "2026-10-14T20:30:54.000Z"
     },
     {
       "objectID": "50054751",
@@ -87,7 +87,7 @@
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote",
       "domain": "startupfortune.com",
-      "points": 377,
+      "points": 378,
       "publishedAt": "2026-10-14T18:32:52.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "url": "https://sammystraus.com/",
       "domain": "sammystraus.com",
-      "points": 345,
+      "points": 348,
       "publishedAt": "2026-10-13T15:25:50.000Z"
     },
     {
@@ -119,7 +119,7 @@
       "title": "Why aren't AI companies being charged for hacking?",
       "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking",
       "domain": "mortoray.com",
-      "points": 335,
+      "points": 336,
       "publishedAt": "2026-10-12T14:52:37.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
       "url": "https://blog.character.ai/an-update-on-character-ai",
       "domain": "blog.character.ai",
-      "points": 333,
+      "points": 334,
       "publishedAt": "2026-10-13T07:28:34.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "'AI' Is Not a Tool by Rich Hickey",
       "url": "https://linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
-      "points": 314,
+      "points": 315,
       "publishedAt": "2026-10-12T18:00:25.000Z"
     },
     {
