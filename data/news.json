@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-17T15:35:51.957Z",
-  "windowStart": "2026-10-10T15:35:51.957Z",
+  "fetchedAt": "2026-10-17T20:37:10.717Z",
+  "windowStart": "2026-10-10T20:37:10.717Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 961,
+      "points": 1008,
       "publishedAt": "2026-10-16T18:55:59.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
-      "points": 947,
+      "points": 948,
       "publishedAt": "2026-10-14T17:45:23.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Redesigning source control at Anthropic",
       "url": "https://anthropic.com/engineering/redesigning-source-control",
       "domain": "anthropic.com",
-      "points": 890,
+      "points": 892,
       "publishedAt": "2026-10-13T15:49:56.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "OpenAI engineer arrested in bugging of executive conference room",
       "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room",
       "domain": "sfstandard.com",
-      "points": 653,
+      "points": 654,
       "publishedAt": "2026-10-13T20:23:55.000Z"
     },
     {
@@ -63,24 +63,24 @@
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://mercor.com/research/labor-index/benchmark-map",
       "domain": "mercor.com",
-      "points": 558,
+      "points": 587,
       "publishedAt": "2026-10-16T17:08:38.000Z"
-    },
-    {
-      "objectID": "50094694",
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke",
-      "domain": "sunshowers.io",
-      "points": 425,
-      "publishedAt": "2026-10-14T20:30:54.000Z"
     },
     {
       "objectID": "50122951",
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
       "domain": "claude.dev",
-      "points": 419,
+      "points": 448,
       "publishedAt": "2026-10-16T19:04:47.000Z"
+    },
+    {
+      "objectID": "50094694",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke",
+      "domain": "sunshowers.io",
+      "points": 426,
+      "publishedAt": "2026-10-14T20:30:54.000Z"
     },
     {
       "objectID": "50054751",
@@ -95,7 +95,7 @@
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote",
       "domain": "startupfortune.com",
-      "points": 383,
+      "points": 384,
       "publishedAt": "2026-10-14T18:32:52.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "'AI' Is Not a Tool by Rich Hickey",
       "url": "https://linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
-      "points": 317,
+      "points": 318,
       "publishedAt": "2026-10-12T18:00:25.000Z"
     },
     {
@@ -147,6 +147,14 @@
       "publishedAt": "2026-10-12T21:35:35.000Z"
     },
     {
+      "objectID": "50122112",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "domain": "ft.com",
+      "points": 281,
+      "publishedAt": "2026-10-16T18:11:42.000Z"
+    },
+    {
       "objectID": "50065692",
       "title": "AI models can provably hide arbitrary capabilities",
       "url": "https://arxiv.org/abs/2610.13928",
@@ -155,19 +163,11 @@
       "publishedAt": "2026-10-13T02:07:08.000Z"
     },
     {
-      "objectID": "50122112",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "domain": "ft.com",
-      "points": 272,
-      "publishedAt": "2026-10-16T18:11:42.000Z"
-    },
-    {
       "objectID": "50108131",
       "title": "Why We're Banning AI",
       "url": "https://currentaffairs.org/news/why-were-banning-ai",
       "domain": "currentaffairs.org",
-      "points": 256,
+      "points": 257,
       "publishedAt": "2026-10-15T18:32:29.000Z"
     }
   ]
