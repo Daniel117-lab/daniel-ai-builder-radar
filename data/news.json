@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-17T10:45:00.455Z",
-  "windowStart": "2026-10-10T10:45:00.455Z",
+  "fetchedAt": "2026-10-17T15:35:51.957Z",
+  "windowStart": "2026-10-10T15:35:51.957Z",
   "queries": [
     "AI",
     "LLM",
@@ -10,6 +10,14 @@
     "Anthropic"
   ],
   "stories": [
+    {
+      "objectID": "50122800",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://anthropic.com/research/ecdsa-curve-origins",
+      "domain": "anthropic.com",
+      "points": 961,
+      "publishedAt": "2026-10-16T18:55:59.000Z"
+    },
     {
       "objectID": "50091788",
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
@@ -23,16 +31,8 @@
       "title": "Redesigning source control at Anthropic",
       "url": "https://anthropic.com/engineering/redesigning-source-control",
       "domain": "anthropic.com",
-      "points": 889,
+      "points": 890,
       "publishedAt": "2026-10-13T15:49:56.000Z"
-    },
-    {
-      "objectID": "50122800",
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://anthropic.com/research/ecdsa-curve-origins",
-      "domain": "anthropic.com",
-      "points": 880,
-      "publishedAt": "2026-10-16T18:55:59.000Z"
     },
     {
       "objectID": "50063427",
@@ -63,7 +63,7 @@
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://mercor.com/research/labor-index/benchmark-map",
       "domain": "mercor.com",
-      "points": 509,
+      "points": 558,
       "publishedAt": "2026-10-16T17:08:38.000Z"
     },
     {
@@ -73,6 +73,14 @@
       "domain": "sunshowers.io",
       "points": 425,
       "publishedAt": "2026-10-14T20:30:54.000Z"
+    },
+    {
+      "objectID": "50122951",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+      "domain": "claude.dev",
+      "points": 419,
+      "publishedAt": "2026-10-16T19:04:47.000Z"
     },
     {
       "objectID": "50054751",
@@ -99,14 +107,6 @@
       "publishedAt": "2026-10-12T17:14:01.000Z"
     },
     {
-      "objectID": "50122951",
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-      "domain": "claude.dev",
-      "points": 351,
-      "publishedAt": "2026-10-16T19:04:47.000Z"
-    },
-    {
       "objectID": "50073221",
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "url": "https://sammystraus.com/",
@@ -129,14 +129,6 @@
       "domain": "blog.character.ai",
       "points": 335,
       "publishedAt": "2026-10-13T07:28:34.000Z"
-    },
-    {
-      "objectID": "50031614",
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "domain": "github.com",
-      "points": 329,
-      "publishedAt": "2026-10-10T10:52:09.000Z"
     },
     {
       "objectID": "50060269",
@@ -167,8 +159,16 @@
       "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
       "domain": "ft.com",
-      "points": 259,
+      "points": 272,
       "publishedAt": "2026-10-16T18:11:42.000Z"
+    },
+    {
+      "objectID": "50108131",
+      "title": "Why We're Banning AI",
+      "url": "https://currentaffairs.org/news/why-were-banning-ai",
+      "domain": "currentaffairs.org",
+      "points": 256,
+      "publishedAt": "2026-10-15T18:32:29.000Z"
     }
   ]
 }
