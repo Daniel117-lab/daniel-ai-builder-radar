@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-17T04:27:20.360Z",
-  "windowStart": "2026-10-14T04:27:20.360Z",
+  "fetchedAt": "2026-10-17T10:45:01.057Z",
+  "windowStart": "2026-10-14T10:45:01.057Z",
   "markets": [
     {
       "id": "hk",
@@ -329,54 +329,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-14T13:39:35.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873928-20261014.htm",
-      "title": "恒指低收31點　金融地產股下跌　科技股上升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873928-20261014.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-14T08:36:40.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873920-20261014.htm",
-      "title": "內地股市低收近1%至逾3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873920-20261014.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-10-14T07:34:16.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873915-20261014.htm",
-      "title": "韓股低收0.4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873915-20261014.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-14T07:05:47.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873914-20261014.htm",
-      "title": "日股尾市倒跌　低收33點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873914-20261014.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-14T06:51:50.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873904-20261014.htm",
-      "title": "台股升約0.6%收市",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873904-20261014.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-14T05:45:31.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873898-20261014.htm",
-      "title": "恒指下午初段靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873898-20261014.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-14T05:20:27.000Z"
     }
   ]
 }

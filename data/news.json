@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-17T04:27:19.020Z",
-  "windowStart": "2026-10-10T04:27:19.020Z",
+  "fetchedAt": "2026-10-17T10:45:00.455Z",
+  "windowStart": "2026-10-10T10:45:00.455Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
-      "points": 946,
+      "points": 947,
       "publishedAt": "2026-10-14T17:45:23.000Z"
     },
     {
@@ -27,27 +27,27 @@
       "publishedAt": "2026-10-13T15:49:56.000Z"
     },
     {
-      "objectID": "50063427",
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
-      "domain": "yyhh.org",
-      "points": 801,
-      "publishedAt": "2026-10-12T21:40:18.000Z"
-    },
-    {
       "objectID": "50122800",
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 755,
+      "points": 880,
       "publishedAt": "2026-10-16T18:55:59.000Z"
+    },
+    {
+      "objectID": "50063427",
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+      "domain": "yyhh.org",
+      "points": 802,
+      "publishedAt": "2026-10-12T21:40:18.000Z"
     },
     {
       "objectID": "50047422",
       "title": "The gap in shared understanding of LLM capability is widening",
       "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "domain": "twitter.com",
-      "points": 725,
+      "points": 727,
       "publishedAt": "2026-10-11T20:20:52.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://mercor.com/research/labor-index/benchmark-map",
       "domain": "mercor.com",
-      "points": 441,
+      "points": 509,
       "publishedAt": "2026-10-16T17:08:38.000Z"
     },
     {
@@ -99,11 +99,19 @@
       "publishedAt": "2026-10-12T17:14:01.000Z"
     },
     {
+      "objectID": "50122951",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+      "domain": "claude.dev",
+      "points": 351,
+      "publishedAt": "2026-10-16T19:04:47.000Z"
+    },
+    {
       "objectID": "50073221",
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "url": "https://sammystraus.com/",
       "domain": "sammystraus.com",
-      "points": 350,
+      "points": 351,
       "publishedAt": "2026-10-13T15:25:50.000Z"
     },
     {
@@ -119,7 +127,7 @@
       "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
       "url": "https://blog.character.ai/an-update-on-character-ai",
       "domain": "blog.character.ai",
-      "points": 334,
+      "points": 335,
       "publishedAt": "2026-10-13T07:28:34.000Z"
     },
     {
@@ -135,7 +143,7 @@
       "title": "'AI' Is Not a Tool by Rich Hickey",
       "url": "https://linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
-      "points": 316,
+      "points": 317,
       "publishedAt": "2026-10-12T18:00:25.000Z"
     },
     {
@@ -151,24 +159,16 @@
       "title": "AI models can provably hide arbitrary capabilities",
       "url": "https://arxiv.org/abs/2610.13928",
       "domain": "arxiv.org",
-      "points": 279,
+      "points": 280,
       "publishedAt": "2026-10-13T02:07:08.000Z"
     },
     {
-      "objectID": "50122951",
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-      "domain": "claude.dev",
-      "points": 275,
-      "publishedAt": "2026-10-16T19:04:47.000Z"
-    },
-    {
-      "objectID": "50108131",
-      "title": "Why We're Banning AI",
-      "url": "https://currentaffairs.org/news/why-were-banning-ai",
-      "domain": "currentaffairs.org",
-      "points": 255,
-      "publishedAt": "2026-10-15T18:32:29.000Z"
+      "objectID": "50122112",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "domain": "ft.com",
+      "points": 259,
+      "publishedAt": "2026-10-16T18:11:42.000Z"
     }
   ]
 }
