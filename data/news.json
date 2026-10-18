@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-18T15:53:03.864Z",
-  "windowStart": "2026-10-11T15:53:03.864Z",
+  "fetchedAt": "2026-10-18T20:44:41.601Z",
+  "windowStart": "2026-10-11T20:44:41.601Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 1044,
+      "points": 1047,
       "publishedAt": "2026-10-16T18:55:59.000Z"
     },
     {
@@ -43,19 +43,11 @@
       "publishedAt": "2026-10-12T21:40:18.000Z"
     },
     {
-      "objectID": "50047422",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "domain": "twitter.com",
-      "points": 727,
-      "publishedAt": "2026-10-11T20:20:52.000Z"
-    },
-    {
       "objectID": "50078141",
       "title": "OpenAI engineer arrested in bugging of executive conference room",
       "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room",
       "domain": "sfstandard.com",
-      "points": 655,
+      "points": 656,
       "publishedAt": "2026-10-13T20:23:55.000Z"
     },
     {
@@ -63,7 +55,7 @@
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://mercor.com/research/labor-index/benchmark-map",
       "domain": "mercor.com",
-      "points": 611,
+      "points": 612,
       "publishedAt": "2026-10-16T17:08:38.000Z"
     },
     {
@@ -71,7 +63,7 @@
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
       "domain": "claude.dev",
-      "points": 466,
+      "points": 469,
       "publishedAt": "2026-10-16T19:04:47.000Z"
     },
     {
@@ -131,20 +123,20 @@
       "publishedAt": "2026-10-13T07:28:34.000Z"
     },
     {
+      "objectID": "50127979",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "domain": "llmspeed.dev",
+      "points": 319,
+      "publishedAt": "2026-10-17T04:36:53.000Z"
+    },
+    {
       "objectID": "50060269",
       "title": "'AI' Is Not a Tool by Rich Hickey",
       "url": "https://linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
       "domain": "linkedin.com",
       "points": 318,
       "publishedAt": "2026-10-12T18:00:25.000Z"
-    },
-    {
-      "objectID": "50127979",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "domain": "llmspeed.dev",
-      "points": 313,
-      "publishedAt": "2026-10-17T04:36:53.000Z"
     },
     {
       "objectID": "50063365",
@@ -159,7 +151,7 @@
       "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
       "domain": "ft.com",
-      "points": 292,
+      "points": 296,
       "publishedAt": "2026-10-16T18:11:42.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "arxiv.org",
       "points": 281,
       "publishedAt": "2026-10-13T02:07:08.000Z"
+    },
+    {
+      "objectID": "50108131",
+      "title": "Why We're Banning AI",
+      "url": "https://currentaffairs.org/news/why-were-banning-ai",
+      "domain": "currentaffairs.org",
+      "points": 261,
+      "publishedAt": "2026-10-15T18:32:29.000Z"
     }
   ]
 }
