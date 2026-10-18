@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-17T20:37:11.230Z",
-  "windowStart": "2026-10-14T20:37:11.230Z",
+  "fetchedAt": "2026-10-18T04:35:11.796Z",
+  "windowStart": "2026-10-15T04:35:11.796Z",
   "markets": [
     {
       "id": "hk",
@@ -257,70 +257,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-10-15T05:07:41.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874041-20261015.htm",
-      "title": "恒指半日跌358點　失守24000點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874041-20261015.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-15T04:16:05.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874032-20261015.htm",
-      "title": "內地3大股指半日跌近2%至逾3%　韓股跌8%觸發熔斷暫停交易",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874032-20261015.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-15T04:00:50.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874023-20261015.htm",
-      "title": "日股半日跌近5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874023-20261015.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-15T02:36:19.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874011-20261015.htm",
-      "title": "內地股市初段跌逾1%至2%以上",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874011-20261015.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-10-15T01:39:40.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874009-20261015.htm",
-      "title": "恒指競價時段跌0.8%　科指跌逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874009-20261015.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-15T01:25:32.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874007-20261015.htm",
-      "title": "台股初段下挫約3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874007-20261015.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-15T01:10:22.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874003-20261015.htm",
-      "title": "日股初段跌3%　韓股急挫逾5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874003-20261015.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-15T00:20:09.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1873997-20261015.htm",
-      "title": "港股ADR大多數向下　港交所跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1873997-20261015.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-14T22:55:59.000Z"
     }
   ]
 }
