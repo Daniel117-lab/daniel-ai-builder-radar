@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-18T04:35:10.605Z",
-  "windowStart": "2026-10-11T04:35:10.605Z",
+  "fetchedAt": "2026-10-18T11:06:34.487Z",
+  "windowStart": "2026-10-11T11:06:34.487Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 1027,
+      "points": 1037,
       "publishedAt": "2026-10-16T18:55:59.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "AI is a tool and using it well takes skill",
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
       "domain": "yyhh.org",
-      "points": 802,
+      "points": 803,
       "publishedAt": "2026-10-12T21:40:18.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://mercor.com/research/labor-index/benchmark-map",
       "domain": "mercor.com",
-      "points": 599,
+      "points": 610,
       "publishedAt": "2026-10-16T17:08:38.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
       "domain": "claude.dev",
-      "points": 457,
+      "points": 460,
       "publishedAt": "2026-10-16T19:04:47.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "Banks are now trying to offload the AI data center debt they just underwrote",
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote",
       "domain": "startupfortune.com",
-      "points": 384,
+      "points": 385,
       "publishedAt": "2026-10-14T18:32:52.000Z"
     },
     {
@@ -147,11 +147,19 @@
       "publishedAt": "2026-10-12T21:35:35.000Z"
     },
     {
+      "objectID": "50127979",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "domain": "llmspeed.dev",
+      "points": 297,
+      "publishedAt": "2026-10-17T04:36:53.000Z"
+    },
+    {
       "objectID": "50122112",
       "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
       "domain": "ft.com",
-      "points": 287,
+      "points": 291,
       "publishedAt": "2026-10-16T18:11:42.000Z"
     },
     {
@@ -159,16 +167,8 @@
       "title": "AI models can provably hide arbitrary capabilities",
       "url": "https://arxiv.org/abs/2610.13928",
       "domain": "arxiv.org",
-      "points": 280,
+      "points": 281,
       "publishedAt": "2026-10-13T02:07:08.000Z"
-    },
-    {
-      "objectID": "50127979",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "domain": "llmspeed.dev",
-      "points": 267,
-      "publishedAt": "2026-10-17T04:36:53.000Z"
     }
   ]
 }
