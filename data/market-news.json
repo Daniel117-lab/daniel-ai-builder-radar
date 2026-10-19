@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-19T04:41:52.629Z",
-  "windowStart": "2026-10-16T04:41:52.629Z",
+  "fetchedAt": "2026-10-19T13:17:26.922Z",
+  "windowStart": "2026-10-16T13:17:26.922Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874481-20261019.htm",
+      "title": "韓股收市升約1.8%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874481-20261019.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-19T06:50:19.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874480-20261019.htm",
+      "title": "日股收市跌逾0.6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874480-20261019.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-19T06:47:33.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874477-20261019.htm",
+      "title": "台股收市跌0.6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874477-20261019.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-19T06:29:27.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1874464-20261019.htm",
       "title": "內地股市半日個別發展",
@@ -113,62 +137,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-16T13:38:36.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874219-20261016.htm",
-      "title": "港交所擬實施港股T+1結算周期　2028年下半年完成過渡",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874219-20261016.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-16T11:18:56.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874205-20261016.htm",
-      "title": "恒指高收124點　本周變動不大",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874205-20261016.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-16T08:36:54.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874199-20261016.htm",
-      "title": "滬深股市收市個別發展　三大指數連跌4星期",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874199-20261016.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-10-16T07:53:50.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874193-20261016.htm",
-      "title": "韓股全星期跌逾14%　連跌3周",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874193-20261016.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-16T07:03:00.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874191-20261016.htm",
-      "title": "日股本周累跌逾5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874191-20261016.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-16T06:54:07.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874190-20261016.htm",
-      "title": "台股本周累跌逾4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874190-20261016.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-16T06:52:02.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874184-20261016.htm",
-      "title": "恒指下午初段升逾270點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874184-20261016.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-16T05:05:15.000Z"
     }
   ]
 }

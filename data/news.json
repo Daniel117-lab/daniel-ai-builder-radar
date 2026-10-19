@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-19T04:41:51.998Z",
-  "windowStart": "2026-10-12T04:41:51.998Z",
+  "fetchedAt": "2026-10-19T13:17:26.302Z",
+  "windowStart": "2026-10-12T13:17:26.302Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 1051,
+      "points": 1054,
       "publishedAt": "2026-10-16T18:55:59.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
-      "points": 948,
+      "points": 950,
       "publishedAt": "2026-10-14T17:45:23.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://mercor.com/research/labor-index/benchmark-map",
       "domain": "mercor.com",
-      "points": 618,
+      "points": 623,
       "publishedAt": "2026-10-16T17:08:38.000Z"
     },
     {
@@ -63,8 +63,16 @@
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
       "domain": "claude.dev",
-      "points": 472,
+      "points": 480,
       "publishedAt": "2026-10-16T19:04:47.000Z"
+    },
+    {
+      "objectID": "50145337",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "domain": "arxiv.org",
+      "points": 445,
+      "publishedAt": "2026-10-18T20:48:14.000Z"
     },
     {
       "objectID": "50094694",
@@ -73,14 +81,6 @@
       "domain": "sunshowers.io",
       "points": 426,
       "publishedAt": "2026-10-14T20:30:54.000Z"
-    },
-    {
-      "objectID": "50054751",
-      "title": "QGIS enacts moratorium on AI contributions",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-      "domain": "github.com",
-      "points": 392,
-      "publishedAt": "2026-10-12T11:22:24.000Z"
     },
     {
       "objectID": "50092664",
@@ -127,7 +127,7 @@
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "domain": "llmspeed.dev",
-      "points": 322,
+      "points": 325,
       "publishedAt": "2026-10-17T04:36:53.000Z"
     },
     {
@@ -151,16 +151,8 @@
       "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
       "domain": "ft.com",
-      "points": 297,
+      "points": 298,
       "publishedAt": "2026-10-16T18:11:42.000Z"
-    },
-    {
-      "objectID": "50145337",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "domain": "arxiv.org",
-      "points": 283,
-      "publishedAt": "2026-10-18T20:48:14.000Z"
     },
     {
       "objectID": "50065692",
@@ -169,6 +161,14 @@
       "domain": "arxiv.org",
       "points": 281,
       "publishedAt": "2026-10-13T02:07:08.000Z"
+    },
+    {
+      "objectID": "50108131",
+      "title": "Why We're Banning AI",
+      "url": "https://currentaffairs.org/news/why-were-banning-ai",
+      "domain": "currentaffairs.org",
+      "points": 261,
+      "publishedAt": "2026-10-15T18:32:29.000Z"
     }
   ]
 }
