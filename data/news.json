@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-19T13:17:26.302Z",
-  "windowStart": "2026-10-12T13:17:26.302Z",
+  "fetchedAt": "2026-10-19T22:21:41.250Z",
+  "windowStart": "2026-10-12T22:21:41.250Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 1054,
+      "points": 1060,
       "publishedAt": "2026-10-16T18:55:59.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "domain": "csoonline.com",
-      "points": 950,
+      "points": 951,
       "publishedAt": "2026-10-14T17:45:23.000Z"
     },
     {
@@ -33,14 +33,6 @@
       "domain": "anthropic.com",
       "points": 894,
       "publishedAt": "2026-10-13T15:49:56.000Z"
-    },
-    {
-      "objectID": "50063427",
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
-      "domain": "yyhh.org",
-      "points": 805,
-      "publishedAt": "2026-10-12T21:40:18.000Z"
     },
     {
       "objectID": "50078141",
@@ -55,24 +47,24 @@
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://mercor.com/research/labor-index/benchmark-map",
       "domain": "mercor.com",
-      "points": 623,
+      "points": 625,
       "publishedAt": "2026-10-16T17:08:38.000Z"
-    },
-    {
-      "objectID": "50122951",
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-      "domain": "claude.dev",
-      "points": 480,
-      "publishedAt": "2026-10-16T19:04:47.000Z"
     },
     {
       "objectID": "50145337",
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
       "domain": "arxiv.org",
-      "points": 445,
+      "points": 501,
       "publishedAt": "2026-10-18T20:48:14.000Z"
+    },
+    {
+      "objectID": "50122951",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
+      "domain": "claude.dev",
+      "points": 482,
+      "publishedAt": "2026-10-16T19:04:47.000Z"
     },
     {
       "objectID": "50094694",
@@ -91,28 +83,12 @@
       "publishedAt": "2026-10-14T18:32:52.000Z"
     },
     {
-      "objectID": "50059523",
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
-      "domain": "arstechnica.com",
-      "points": 364,
-      "publishedAt": "2026-10-12T17:14:01.000Z"
-    },
-    {
       "objectID": "50073221",
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "url": "https://sammystraus.com/",
       "domain": "sammystraus.com",
       "points": 351,
       "publishedAt": "2026-10-13T15:25:50.000Z"
-    },
-    {
-      "objectID": "50057278",
-      "title": "Why aren't AI companies being charged for hacking?",
-      "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking",
-      "domain": "mortoray.com",
-      "points": 336,
-      "publishedAt": "2026-10-12T14:52:37.000Z"
     },
     {
       "objectID": "50068036",
@@ -127,32 +103,24 @@
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "domain": "llmspeed.dev",
-      "points": 325,
+      "points": 328,
       "publishedAt": "2026-10-17T04:36:53.000Z"
-    },
-    {
-      "objectID": "50060269",
-      "title": "'AI' Is Not a Tool by Rich Hickey",
-      "url": "https://linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "domain": "linkedin.com",
-      "points": 318,
-      "publishedAt": "2026-10-12T18:00:25.000Z"
-    },
-    {
-      "objectID": "50063365",
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "domain": "intel.com",
-      "points": 308,
-      "publishedAt": "2026-10-12T21:35:35.000Z"
     },
     {
       "objectID": "50122112",
       "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
       "domain": "ft.com",
-      "points": 298,
+      "points": 300,
       "publishedAt": "2026-10-16T18:11:42.000Z"
+    },
+    {
+      "objectID": "50145507",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+      "domain": "jrdsgl.com",
+      "points": 292,
+      "publishedAt": "2026-10-18T21:09:12.000Z"
     },
     {
       "objectID": "50065692",
@@ -163,12 +131,44 @@
       "publishedAt": "2026-10-13T02:07:08.000Z"
     },
     {
+      "objectID": "50135762",
+      "title": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang",
+      "domain": "blog.picheta.me",
+      "points": 269,
+      "publishedAt": "2026-10-17T22:26:47.000Z"
+    },
+    {
       "objectID": "50108131",
       "title": "Why We're Banning AI",
       "url": "https://currentaffairs.org/news/why-were-banning-ai",
       "domain": "currentaffairs.org",
       "points": 261,
       "publishedAt": "2026-10-15T18:32:29.000Z"
+    },
+    {
+      "objectID": "50104299",
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware",
+      "domain": "blogs.gnome.org",
+      "points": 255,
+      "publishedAt": "2026-10-15T14:35:15.000Z"
+    },
+    {
+      "objectID": "50106738",
+      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke-2",
+      "domain": "sunshowers.io",
+      "points": 254,
+      "publishedAt": "2026-10-15T17:05:19.000Z"
+    },
+    {
+      "objectID": "50118688",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2",
+      "domain": "starskirmish.com",
+      "points": 251,
+      "publishedAt": "2026-10-16T14:18:44.000Z"
     }
   ]
 }

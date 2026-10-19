@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-19T13:17:26.922Z",
-  "windowStart": "2026-10-16T13:17:26.922Z",
+  "fetchedAt": "2026-10-19T22:21:41.847Z",
+  "windowStart": "2026-10-16T22:21:41.847Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,22 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874546-20261020.htm",
+      "title": "道指低收36點　納指升逾1%　科技股普遍造好",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874546-20261020.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-19T21:27:31.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874544-20261020.htm",
+      "title": "歐股低收逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874544-20261020.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-19T21:14:54.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1874481-20261019.htm",
       "title": "韓股收市升約1.8%",
@@ -113,30 +129,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-10-16T22:27:10.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874256-20261017.htm",
-      "title": "道指低收175點　納指挫2.15%　AI相關股份再度受壓",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874256-20261017.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-16T21:56:14.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874254-20261017.htm",
-      "title": "歐洲3大指數升約0.3%至近1%　德股表現較好",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874254-20261017.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-16T21:31:20.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874242-20261016.htm",
-      "title": "美股初段個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874242-20261016.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-16T13:38:36.000Z"
     }
   ]
 }
