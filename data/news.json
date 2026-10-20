@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-20T17:08:38.279Z",
-  "windowStart": "2026-10-13T17:08:38.279Z",
+  "fetchedAt": "2026-10-20T21:37:50.360Z",
+  "windowStart": "2026-10-13T21:37:50.360Z",
   "queries": [
     "AI",
     "LLM",
@@ -31,23 +31,15 @@
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "domain": "redact.dev",
-      "points": 677,
+      "points": 703,
       "publishedAt": "2026-10-19T23:22:18.000Z"
-    },
-    {
-      "objectID": "50078141",
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room",
-      "domain": "sfstandard.com",
-      "points": 656,
-      "publishedAt": "2026-10-13T20:23:55.000Z"
     },
     {
       "objectID": "50121179",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://mercor.com/research/labor-index/benchmark-map",
       "domain": "mercor.com",
-      "points": 626,
+      "points": 628,
       "publishedAt": "2026-10-16T17:08:38.000Z"
     },
     {
@@ -55,7 +47,7 @@
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
-      "points": 560,
+      "points": 579,
       "publishedAt": "2026-10-19T11:24:34.000Z"
     },
     {
@@ -63,7 +55,7 @@
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
       "domain": "arxiv.org",
-      "points": 511,
+      "points": 513,
       "publishedAt": "2026-10-18T20:48:14.000Z"
     },
     {
@@ -79,7 +71,7 @@
       "title": "Anthropic's Scion is heavily inspired by Mononoke",
       "url": "https://sunshowers.io/posts/anthropic-mononoke",
       "domain": "sunshowers.io",
-      "points": 427,
+      "points": 428,
       "publishedAt": "2026-10-14T20:30:54.000Z"
     },
     {
@@ -111,15 +103,23 @@
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
       "domain": "jrdsgl.com",
-      "points": 298,
+      "points": 299,
       "publishedAt": "2026-10-18T21:09:12.000Z"
+    },
+    {
+      "objectID": "50165801",
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "domain": "peec.ai",
+      "points": 295,
+      "publishedAt": "2026-10-20T13:06:22.000Z"
     },
     {
       "objectID": "50135762",
       "title": "I built a programming language that LLMs can't use",
       "url": "https://blog.picheta.me/post/killswitch-lang",
       "domain": "blog.picheta.me",
-      "points": 278,
+      "points": 279,
       "publishedAt": "2026-10-17T22:26:47.000Z"
     },
     {
