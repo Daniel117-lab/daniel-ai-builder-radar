@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-19T22:21:41.250Z",
-  "windowStart": "2026-10-12T22:21:41.250Z",
+  "fetchedAt": "2026-10-20T04:51:44.145Z",
+  "windowStart": "2026-10-13T04:51:44.145Z",
   "queries": [
     "AI",
     "LLM",
@@ -55,7 +55,7 @@
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
       "domain": "arxiv.org",
-      "points": 501,
+      "points": 503,
       "publishedAt": "2026-10-18T20:48:14.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
       "domain": "claude.dev",
-      "points": 482,
+      "points": 483,
       "publishedAt": "2026-10-16T19:04:47.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "url": "https://sammystraus.com/",
       "domain": "sammystraus.com",
-      "points": 351,
+      "points": 352,
       "publishedAt": "2026-10-13T15:25:50.000Z"
     },
     {
@@ -103,8 +103,16 @@
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "domain": "llmspeed.dev",
-      "points": 328,
+      "points": 329,
       "publishedAt": "2026-10-17T04:36:53.000Z"
+    },
+    {
+      "objectID": "50151036",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "domain": "news.ycombinator.com",
+      "points": 328,
+      "publishedAt": "2026-10-19T11:24:34.000Z"
     },
     {
       "objectID": "50122112",
@@ -119,23 +127,15 @@
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
       "domain": "jrdsgl.com",
-      "points": 292,
+      "points": 295,
       "publishedAt": "2026-10-18T21:09:12.000Z"
-    },
-    {
-      "objectID": "50065692",
-      "title": "AI models can provably hide arbitrary capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "domain": "arxiv.org",
-      "points": 281,
-      "publishedAt": "2026-10-13T02:07:08.000Z"
     },
     {
       "objectID": "50135762",
       "title": "I built a programming language that LLMs can't use",
       "url": "https://blog.picheta.me/post/killswitch-lang",
       "domain": "blog.picheta.me",
-      "points": 269,
+      "points": 272,
       "publishedAt": "2026-10-17T22:26:47.000Z"
     },
     {
@@ -163,12 +163,12 @@
       "publishedAt": "2026-10-15T17:05:19.000Z"
     },
     {
-      "objectID": "50118688",
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2",
-      "domain": "starskirmish.com",
-      "points": 251,
-      "publishedAt": "2026-10-16T14:18:44.000Z"
+      "objectID": "50137950",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "domain": "sphinx-six-theta.vercel.app",
+      "points": 252,
+      "publishedAt": "2026-10-18T04:33:49.000Z"
     }
   ]
 }
