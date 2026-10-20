@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-20T11:37:52.415Z",
-  "windowStart": "2026-10-13T11:37:52.415Z",
+  "fetchedAt": "2026-10-20T17:08:38.279Z",
+  "windowStart": "2026-10-13T17:08:38.279Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 1062,
+      "points": 1063,
       "publishedAt": "2026-10-16T18:55:59.000Z"
     },
     {
@@ -27,12 +27,12 @@
       "publishedAt": "2026-10-14T17:45:23.000Z"
     },
     {
-      "objectID": "50073633",
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://anthropic.com/engineering/redesigning-source-control",
-      "domain": "anthropic.com",
-      "points": 895,
-      "publishedAt": "2026-10-13T15:49:56.000Z"
+      "objectID": "50159341",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "domain": "redact.dev",
+      "points": 677,
+      "publishedAt": "2026-10-19T23:22:18.000Z"
     },
     {
       "objectID": "50078141",
@@ -47,32 +47,24 @@
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://mercor.com/research/labor-index/benchmark-map",
       "domain": "mercor.com",
-      "points": 625,
+      "points": 626,
       "publishedAt": "2026-10-16T17:08:38.000Z"
-    },
-    {
-      "objectID": "50145337",
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "domain": "arxiv.org",
-      "points": 507,
-      "publishedAt": "2026-10-18T20:48:14.000Z"
-    },
-    {
-      "objectID": "50159341",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "domain": "redact.dev",
-      "points": 492,
-      "publishedAt": "2026-10-19T23:22:18.000Z"
     },
     {
       "objectID": "50151036",
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
-      "points": 484,
+      "points": 560,
       "publishedAt": "2026-10-19T11:24:34.000Z"
+    },
+    {
+      "objectID": "50145337",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "domain": "arxiv.org",
+      "points": 511,
+      "publishedAt": "2026-10-18T20:48:14.000Z"
     },
     {
       "objectID": "50122951",
@@ -87,7 +79,7 @@
       "title": "Anthropic's Scion is heavily inspired by Mononoke",
       "url": "https://sunshowers.io/posts/anthropic-mononoke",
       "domain": "sunshowers.io",
-      "points": 426,
+      "points": 427,
       "publishedAt": "2026-10-14T20:30:54.000Z"
     },
     {
@@ -97,14 +89,6 @@
       "domain": "startupfortune.com",
       "points": 385,
       "publishedAt": "2026-10-14T18:32:52.000Z"
-    },
-    {
-      "objectID": "50073221",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://sammystraus.com/",
-      "domain": "sammystraus.com",
-      "points": 352,
-      "publishedAt": "2026-10-13T15:25:50.000Z"
     },
     {
       "objectID": "50127979",
@@ -119,7 +103,7 @@
       "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
       "domain": "ft.com",
-      "points": 300,
+      "points": 301,
       "publishedAt": "2026-10-16T18:11:42.000Z"
     },
     {
@@ -127,7 +111,7 @@
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
       "domain": "jrdsgl.com",
-      "points": 297,
+      "points": 298,
       "publishedAt": "2026-10-18T21:09:12.000Z"
     },
     {
@@ -135,7 +119,7 @@
       "title": "I built a programming language that LLMs can't use",
       "url": "https://blog.picheta.me/post/killswitch-lang",
       "domain": "blog.picheta.me",
-      "points": 273,
+      "points": 278,
       "publishedAt": "2026-10-17T22:26:47.000Z"
     },
     {
@@ -155,6 +139,14 @@
       "publishedAt": "2026-10-15T14:35:15.000Z"
     },
     {
+      "objectID": "50118688",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2",
+      "domain": "starskirmish.com",
+      "points": 254,
+      "publishedAt": "2026-10-16T14:18:44.000Z"
+    },
+    {
       "objectID": "50106738",
       "title": "More on Anthropic's Scion ripping off Mononoke",
       "url": "https://sunshowers.io/posts/anthropic-mononoke-2",
@@ -169,6 +161,14 @@
       "domain": "sphinx-six-theta.vercel.app",
       "points": 252,
       "publishedAt": "2026-10-18T04:33:49.000Z"
+    },
+    {
+      "objectID": "50104654",
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era",
+      "domain": "simonsfoundation.org",
+      "points": 249,
+      "publishedAt": "2026-10-15T14:58:48.000Z"
     }
   ]
 }
