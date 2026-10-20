@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-20T04:51:44.817Z",
-  "windowStart": "2026-10-17T04:51:44.817Z",
+  "fetchedAt": "2026-10-20T11:37:53.001Z",
+  "windowStart": "2026-10-17T11:37:53.001Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,38 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874628-20261020.htm",
+      "title": "恒指低收319點　聯想集團急跌近10%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874628-20261020.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-20T08:40:23.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874615-20261020.htm",
+      "title": "內地股市尾段回穩　滬指轉升收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874615-20261020.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-10-20T07:11:46.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874612-20261020.htm",
+      "title": "韓股跌逾3.7%收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874612-20261020.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-20T06:40:17.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874611-20261020.htm",
+      "title": "日股低收1.3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874611-20261020.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-20T06:39:46.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1874592-20261020.htm",
       "title": "恒指半日跌229點　科技和金融股下跌",

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-20T04:51:44.145Z",
-  "windowStart": "2026-10-13T04:51:44.145Z",
+  "fetchedAt": "2026-10-20T11:37:52.415Z",
+  "windowStart": "2026-10-13T11:37:52.415Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 1060,
+      "points": 1062,
       "publishedAt": "2026-10-16T18:55:59.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Redesigning source control at Anthropic",
       "url": "https://anthropic.com/engineering/redesigning-source-control",
       "domain": "anthropic.com",
-      "points": 894,
+      "points": 895,
       "publishedAt": "2026-10-13T15:49:56.000Z"
     },
     {
@@ -55,8 +55,24 @@
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
       "domain": "arxiv.org",
-      "points": 503,
+      "points": 507,
       "publishedAt": "2026-10-18T20:48:14.000Z"
+    },
+    {
+      "objectID": "50159341",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "domain": "redact.dev",
+      "points": 492,
+      "publishedAt": "2026-10-19T23:22:18.000Z"
+    },
+    {
+      "objectID": "50151036",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "domain": "news.ycombinator.com",
+      "points": 484,
+      "publishedAt": "2026-10-19T11:24:34.000Z"
     },
     {
       "objectID": "50122951",
@@ -91,28 +107,12 @@
       "publishedAt": "2026-10-13T15:25:50.000Z"
     },
     {
-      "objectID": "50068036",
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai",
-      "domain": "blog.character.ai",
-      "points": 335,
-      "publishedAt": "2026-10-13T07:28:34.000Z"
-    },
-    {
       "objectID": "50127979",
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
       "domain": "llmspeed.dev",
       "points": 329,
       "publishedAt": "2026-10-17T04:36:53.000Z"
-    },
-    {
-      "objectID": "50151036",
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "domain": "news.ycombinator.com",
-      "points": 328,
-      "publishedAt": "2026-10-19T11:24:34.000Z"
     },
     {
       "objectID": "50122112",
@@ -127,7 +127,7 @@
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
       "domain": "jrdsgl.com",
-      "points": 295,
+      "points": 297,
       "publishedAt": "2026-10-18T21:09:12.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "I built a programming language that LLMs can't use",
       "url": "https://blog.picheta.me/post/killswitch-lang",
       "domain": "blog.picheta.me",
-      "points": 272,
+      "points": 273,
       "publishedAt": "2026-10-17T22:26:47.000Z"
     },
     {
