@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-21T04:49:11.968Z",
-  "windowStart": "2026-10-14T04:49:11.968Z",
+  "fetchedAt": "2026-10-21T11:50:13.793Z",
+  "windowStart": "2026-10-14T11:50:13.793Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 1064,
+      "points": 1065,
       "publishedAt": "2026-10-16T18:55:59.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "domain": "redact.dev",
-      "points": 719,
+      "points": 729,
       "publishedAt": "2026-10-19T23:22:18.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
-      "points": 589,
+      "points": 593,
       "publishedAt": "2026-10-19T11:24:34.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
       "domain": "claude.dev",
-      "points": 483,
+      "points": 484,
       "publishedAt": "2026-10-16T19:04:47.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Publish fake stats, get cited in LLMs",
       "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
       "domain": "peec.ai",
-      "points": 329,
+      "points": 345,
       "publishedAt": "2026-10-20T13:06:22.000Z"
     },
     {
@@ -99,6 +99,14 @@
       "publishedAt": "2026-10-17T04:36:53.000Z"
     },
     {
+      "objectID": "50145507",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
+      "domain": "jrdsgl.com",
+      "points": 301,
+      "publishedAt": "2026-10-18T21:09:12.000Z"
+    },
+    {
       "objectID": "50122112",
       "title": "Anthropic assigned highest junk credit rating in June",
       "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
@@ -107,19 +115,11 @@
       "publishedAt": "2026-10-16T18:11:42.000Z"
     },
     {
-      "objectID": "50145507",
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-      "domain": "jrdsgl.com",
-      "points": 300,
-      "publishedAt": "2026-10-18T21:09:12.000Z"
-    },
-    {
       "objectID": "50135762",
       "title": "I built a programming language that LLMs can't use",
       "url": "https://blog.picheta.me/post/killswitch-lang",
       "domain": "blog.picheta.me",
-      "points": 279,
+      "points": 280,
       "publishedAt": "2026-10-17T22:26:47.000Z"
     },
     {

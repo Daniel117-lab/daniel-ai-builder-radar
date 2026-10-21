@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-21T04:49:12.522Z",
-  "windowStart": "2026-10-18T04:49:12.522Z",
+  "fetchedAt": "2026-10-21T11:50:14.478Z",
+  "windowStart": "2026-10-18T11:50:14.478Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,54 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874777-20261021.htm",
+      "title": "恒指跌逾200點　科指跌穿4000點關口收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874777-20261021.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-21T08:46:19.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874767-20261021.htm",
+      "title": "內地3大指數先高後低　滬指跌0.6%　寧德時代A股跌約12%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874767-20261021.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-10-21T07:21:36.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874766-20261021.htm",
+      "title": "韓股反彈逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874766-20261021.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-21T07:08:10.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874764-20261021.htm",
+      "title": "日股高收約1%　未能企穩65000點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874764-20261021.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-21T07:06:36.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874763-20261021.htm",
+      "title": "台股高收約1.3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874763-20261021.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-21T07:03:34.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874755-20261021.htm",
+      "title": "恒指下午初段跌逾100點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874755-20261021.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-21T05:16:08.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1874747-20261021.htm",
       "title": "恒指半日跌83點　寧德時代績後急挫逾10%",
