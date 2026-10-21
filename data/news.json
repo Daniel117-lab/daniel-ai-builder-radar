@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-20T21:37:50.360Z",
-  "windowStart": "2026-10-13T21:37:50.360Z",
+  "fetchedAt": "2026-10-21T04:49:11.968Z",
+  "windowStart": "2026-10-14T04:49:11.968Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://anthropic.com/research/ecdsa-curve-origins",
       "domain": "anthropic.com",
-      "points": 1063,
+      "points": 1064,
       "publishedAt": "2026-10-16T18:55:59.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "domain": "redact.dev",
-      "points": 703,
+      "points": 719,
       "publishedAt": "2026-10-19T23:22:18.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
-      "points": 579,
+      "points": 589,
       "publishedAt": "2026-10-19T11:24:34.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
       "domain": "arxiv.org",
-      "points": 513,
+      "points": 516,
       "publishedAt": "2026-10-18T20:48:14.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Anthropic's Scion is heavily inspired by Mononoke",
       "url": "https://sunshowers.io/posts/anthropic-mononoke",
       "domain": "sunshowers.io",
-      "points": 428,
+      "points": 429,
       "publishedAt": "2026-10-14T20:30:54.000Z"
     },
     {
@@ -81,6 +81,14 @@
       "domain": "startupfortune.com",
       "points": 385,
       "publishedAt": "2026-10-14T18:32:52.000Z"
+    },
+    {
+      "objectID": "50165801",
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "domain": "peec.ai",
+      "points": 329,
+      "publishedAt": "2026-10-20T13:06:22.000Z"
     },
     {
       "objectID": "50127979",
@@ -103,16 +111,8 @@
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
       "domain": "jrdsgl.com",
-      "points": 299,
+      "points": 300,
       "publishedAt": "2026-10-18T21:09:12.000Z"
-    },
-    {
-      "objectID": "50165801",
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "domain": "peec.ai",
-      "points": 295,
-      "publishedAt": "2026-10-20T13:06:22.000Z"
     },
     {
       "objectID": "50135762",
