@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-22T11:53:47.200Z",
-  "windowStart": "2026-10-19T11:53:47.200Z",
+  "fetchedAt": "2026-10-22T17:11:20.911Z",
+  "windowStart": "2026-10-19T17:11:20.911Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,22 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874976-20261022.htm",
+      "title": "受強颱風「薔琵」影響　台股明日休市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874976-20261022.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-22T14:41:32.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874974-20261022.htm",
+      "title": "美股初段下跌　納指跌逾1%　Meta挫近6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874974-20261022.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-22T13:40:45.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1874935-20261022.htm",
       "title": "港股低收逾3%　科指跌半成",
