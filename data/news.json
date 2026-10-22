@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-22T04:47:28.269Z",
-  "windowStart": "2026-10-15T04:47:28.269Z",
+  "fetchedAt": "2026-10-22T11:53:46.617Z",
+  "windowStart": "2026-10-15T11:53:46.617Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "domain": "redact.dev",
-      "points": 738,
+      "points": 739,
       "publishedAt": "2026-10-19T23:22:18.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
-      "points": 604,
+      "points": 606,
       "publishedAt": "2026-10-19T11:24:34.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
       "domain": "arxiv.org",
-      "points": 517,
+      "points": 518,
       "publishedAt": "2026-10-18T20:48:14.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
-      "points": 439,
+      "points": 441,
       "publishedAt": "2026-10-21T13:43:19.000Z"
     },
     {
@@ -99,6 +99,14 @@
       "publishedAt": "2026-10-16T18:11:42.000Z"
     },
     {
+      "objectID": "50180079",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "domain": "openai.com",
+      "points": 300,
+      "publishedAt": "2026-10-21T12:53:11.000Z"
+    },
+    {
       "objectID": "50135762",
       "title": "I built a programming language that LLMs can't use",
       "url": "https://blog.picheta.me/post/killswitch-lang",
@@ -107,20 +115,20 @@
       "publishedAt": "2026-10-17T22:26:47.000Z"
     },
     {
-      "objectID": "50180079",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "domain": "openai.com",
-      "points": 261,
-      "publishedAt": "2026-10-21T12:53:11.000Z"
-    },
-    {
       "objectID": "50108131",
       "title": "Why We're Banning AI",
       "url": "https://currentaffairs.org/news/why-were-banning-ai",
       "domain": "currentaffairs.org",
       "points": 261,
       "publishedAt": "2026-10-15T18:32:29.000Z"
+    },
+    {
+      "objectID": "50181175",
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "domain": "openai.com",
+      "points": 259,
+      "publishedAt": "2026-10-21T14:03:43.000Z"
     },
     {
       "objectID": "50104299",
@@ -161,14 +169,6 @@
       "domain": "simonsfoundation.org",
       "points": 249,
       "publishedAt": "2026-10-15T14:58:48.000Z"
-    },
-    {
-      "objectID": "50181175",
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "domain": "openai.com",
-      "points": 244,
-      "publishedAt": "2026-10-21T14:03:43.000Z"
     }
   ]
 }
