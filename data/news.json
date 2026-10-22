@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-21T21:43:21.910Z",
-  "windowStart": "2026-10-14T21:43:21.910Z",
+  "fetchedAt": "2026-10-22T04:47:28.269Z",
+  "windowStart": "2026-10-15T04:47:28.269Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "domain": "redact.dev",
-      "points": 737,
+      "points": 738,
       "publishedAt": "2026-10-19T23:22:18.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
-      "points": 603,
+      "points": 604,
       "publishedAt": "2026-10-19T11:24:34.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
-      "points": 422,
+      "points": 439,
       "publishedAt": "2026-10-21T13:43:19.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Publish fake stats, get cited in LLMs",
       "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
       "domain": "peec.ai",
-      "points": 359,
+      "points": 363,
       "publishedAt": "2026-10-20T13:06:22.000Z"
     },
     {
@@ -107,6 +107,14 @@
       "publishedAt": "2026-10-17T22:26:47.000Z"
     },
     {
+      "objectID": "50180079",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "domain": "openai.com",
+      "points": 261,
+      "publishedAt": "2026-10-21T12:53:11.000Z"
+    },
+    {
       "objectID": "50108131",
       "title": "Why We're Banning AI",
       "url": "https://currentaffairs.org/news/why-were-banning-ai",
@@ -119,7 +127,7 @@
       "title": "Using AI to reverse engineer hardware",
       "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware",
       "domain": "blogs.gnome.org",
-      "points": 255,
+      "points": 256,
       "publishedAt": "2026-10-15T14:35:15.000Z"
     },
     {
@@ -155,19 +163,11 @@
       "publishedAt": "2026-10-15T14:58:48.000Z"
     },
     {
-      "objectID": "50119991",
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "url": "https://theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "domain": "theregister.com",
-      "points": 225,
-      "publishedAt": "2026-10-16T15:55:40.000Z"
-    },
-    {
       "objectID": "50181175",
       "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "domain": "openai.com",
-      "points": 203,
+      "points": 244,
       "publishedAt": "2026-10-21T14:03:43.000Z"
     }
   ]
