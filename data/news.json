@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-23T17:07:58.940Z",
-  "windowStart": "2026-10-16T17:07:58.940Z",
+  "fetchedAt": "2026-10-23T21:24:38.209Z",
+  "windowStart": "2026-10-16T21:24:38.209Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,14 +11,6 @@
   ],
   "stories": [
     {
-      "objectID": "50122800",
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://anthropic.com/research/ecdsa-curve-origins",
-      "domain": "anthropic.com",
-      "points": 1065,
-      "publishedAt": "2026-10-16T18:55:59.000Z"
-    },
-    {
       "objectID": "50159341",
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
@@ -27,19 +19,11 @@
       "publishedAt": "2026-10-19T23:22:18.000Z"
     },
     {
-      "objectID": "50121179",
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://mercor.com/research/labor-index/benchmark-map",
-      "domain": "mercor.com",
-      "points": 629,
-      "publishedAt": "2026-10-16T17:08:38.000Z"
-    },
-    {
       "objectID": "50151036",
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
-      "points": 617,
+      "points": 618,
       "publishedAt": "2026-10-19T11:24:34.000Z"
     },
     {
@@ -47,8 +31,16 @@
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
-      "points": 591,
+      "points": 609,
       "publishedAt": "2026-10-22T16:08:00.000Z"
+    },
+    {
+      "objectID": "50200997",
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "domain": "news.ycombinator.com",
+      "points": 555,
+      "publishedAt": "2026-10-22T21:03:55.000Z"
     },
     {
       "objectID": "50145337",
@@ -59,19 +51,11 @@
       "publishedAt": "2026-10-18T20:48:14.000Z"
     },
     {
-      "objectID": "50122951",
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-      "domain": "claude.dev",
-      "points": 487,
-      "publishedAt": "2026-10-16T19:04:47.000Z"
-    },
-    {
       "objectID": "50198675",
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
-      "points": 474,
+      "points": 487,
       "publishedAt": "2026-10-22T17:44:06.000Z"
     },
     {
@@ -79,7 +63,7 @@
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
-      "points": 451,
+      "points": 452,
       "publishedAt": "2026-10-21T13:43:19.000Z"
     },
     {
@@ -87,16 +71,8 @@
       "title": "LLMs are making formal software verification feasible at a much larger scale",
       "url": "https://anthropic.com/research/formal-verification",
       "domain": "anthropic.com",
-      "points": 411,
+      "points": 436,
       "publishedAt": "2026-10-22T22:54:43.000Z"
-    },
-    {
-      "objectID": "50200997",
-      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-      "url": "https://news.ycombinator.com/item?id=50200997",
-      "domain": "news.ycombinator.com",
-      "points": 404,
-      "publishedAt": "2026-10-22T21:03:55.000Z"
     },
     {
       "objectID": "50165801",
@@ -131,14 +107,6 @@
       "publishedAt": "2026-10-18T21:09:12.000Z"
     },
     {
-      "objectID": "50122112",
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "domain": "ft.com",
-      "points": 302,
-      "publishedAt": "2026-10-16T18:11:42.000Z"
-    },
-    {
       "objectID": "50135762",
       "title": "I built a programming language that LLMs can't use",
       "url": "https://blog.picheta.me/post/killswitch-lang",
@@ -159,7 +127,7 @@
       "title": "Airbnb bans making guests do dishes and take out the trash",
       "url": "https://theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "domain": "theverge.com",
-      "points": 254,
+      "points": 256,
       "publishedAt": "2026-10-21T23:38:32.000Z"
     },
     {
@@ -169,6 +137,38 @@
       "domain": "sphinx-six-theta.vercel.app",
       "points": 253,
       "publishedAt": "2026-10-18T04:33:49.000Z"
+    },
+    {
+      "objectID": "50191507",
+      "title": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
+      "domain": "github.com",
+      "points": 242,
+      "publishedAt": "2026-10-22T05:23:11.000Z"
+    },
+    {
+      "objectID": "50176082",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "domain": "rumple.github.io",
+      "points": 221,
+      "publishedAt": "2026-10-21T04:27:51.000Z"
+    },
+    {
+      "objectID": "50171966",
+      "title": "Anthropic logged net loss of over $80B in first half of 2026",
+      "url": "https://reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20",
+      "domain": "reuters.com",
+      "points": 190,
+      "publishedAt": "2026-10-20T20:09:46.000Z"
+    },
+    {
+      "objectID": "50168190",
+      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+      "url": "https://ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "domain": "ign.com",
+      "points": 183,
+      "publishedAt": "2026-10-20T15:48:26.000Z"
     }
   ]
 }
