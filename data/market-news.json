@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-23T11:40:07.936Z",
-  "windowStart": "2026-10-20T11:40:07.936Z",
+  "fetchedAt": "2026-10-23T17:08:00.106Z",
+  "windowStart": "2026-10-20T17:08:00.106Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,22 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875132-20261023.htm",
+      "title": "標普全球：美國10月製造業PMI初值高於預期",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875132-20261023.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-23T15:23:03.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875130-20261023.htm",
+      "title": "美股初段延續跌勢　道指跌近500點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875130-20261023.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-23T13:46:44.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1875077-20261023.htm",
       "title": "恒指反彈158點　全周跌1093點",
@@ -425,14 +441,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-10-20T21:16:38.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1874675-20261020.htm",
-      "title": "美股初段個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1874675-20261020.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-20T13:37:41.000Z"
     }
   ]
 }
