@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-22T21:36:26.792Z",
-  "windowStart": "2026-10-15T21:36:26.792Z",
+  "fetchedAt": "2026-10-23T04:50:25.735Z",
+  "windowStart": "2026-10-16T04:50:25.735Z",
   "queries": [
     "AI",
     "LLM",
@@ -39,7 +39,7 @@
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
-      "points": 610,
+      "points": 611,
       "publishedAt": "2026-10-19T11:24:34.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
-      "points": 446,
+      "points": 447,
       "publishedAt": "2026-10-21T13:43:19.000Z"
     },
     {
@@ -71,8 +71,16 @@
       "title": "Publish fake stats, get cited in LLMs",
       "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
       "domain": "peec.ai",
-      "points": 364,
+      "points": 365,
       "publishedAt": "2026-10-20T13:06:22.000Z"
+    },
+    {
+      "objectID": "50198675",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "domain": "github.com",
+      "points": 341,
+      "publishedAt": "2026-10-22T17:44:06.000Z"
     },
     {
       "objectID": "50127979",
@@ -87,7 +95,7 @@
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "domain": "openai.com",
-      "points": 320,
+      "points": 322,
       "publishedAt": "2026-10-21T12:53:11.000Z"
     },
     {
@@ -107,6 +115,14 @@
       "publishedAt": "2026-10-16T18:11:42.000Z"
     },
     {
+      "objectID": "50197313",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "domain": "modelcompare.ai",
+      "points": 299,
+      "publishedAt": "2026-10-22T16:08:00.000Z"
+    },
+    {
       "objectID": "50135762",
       "title": "I built a programming language that LLMs can't use",
       "url": "https://blog.picheta.me/post/killswitch-lang",
@@ -119,7 +135,7 @@
       "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "domain": "openai.com",
-      "points": 262,
+      "points": 264,
       "publishedAt": "2026-10-21T14:03:43.000Z"
     },
     {
@@ -143,32 +159,16 @@
       "title": "Airbnb bans making guests do dishes and take out the trash",
       "url": "https://theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "domain": "theverge.com",
-      "points": 240,
+      "points": 249,
       "publishedAt": "2026-10-21T23:38:32.000Z"
-    },
-    {
-      "objectID": "50119991",
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "url": "https://theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "domain": "theregister.com",
-      "points": 226,
-      "publishedAt": "2026-10-16T15:55:40.000Z"
     },
     {
       "objectID": "50191507",
       "title": "OpenAI CLI",
       "url": "https://github.com/openai/openai-cli",
       "domain": "github.com",
-      "points": 225,
+      "points": 232,
       "publishedAt": "2026-10-22T05:23:11.000Z"
-    },
-    {
-      "objectID": "50198675",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "domain": "github.com",
-      "points": 203,
-      "publishedAt": "2026-10-22T17:44:06.000Z"
     }
   ]
 }
