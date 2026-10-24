@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-24T11:02:01.965Z",
-  "windowStart": "2026-10-17T11:02:01.965Z",
+  "fetchedAt": "2026-10-24T15:57:21.898Z",
+  "windowStart": "2026-10-17T15:57:21.898Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
-      "points": 635,
+      "points": 640,
       "publishedAt": "2026-10-22T16:08:00.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
       "url": "https://news.ycombinator.com/item?id=50200997",
       "domain": "news.ycombinator.com",
-      "points": 621,
+      "points": 631,
       "publishedAt": "2026-10-22T21:03:55.000Z"
     },
     {
@@ -55,31 +55,39 @@
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
-      "points": 495,
+      "points": 496,
       "publishedAt": "2026-10-22T17:44:06.000Z"
-    },
-    {
-      "objectID": "50180836",
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://wiz.io/blog/php2shell-php-rce",
-      "domain": "wiz.io",
-      "points": 453,
-      "publishedAt": "2026-10-21T13:43:19.000Z"
     },
     {
       "objectID": "50202217",
       "title": "LLMs are making formal software verification feasible at a much larger scale",
       "url": "https://anthropic.com/research/formal-verification",
       "domain": "anthropic.com",
-      "points": 451,
+      "points": 454,
       "publishedAt": "2026-10-22T22:54:43.000Z"
+    },
+    {
+      "objectID": "50180836",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://wiz.io/blog/php2shell-php-rce",
+      "domain": "wiz.io",
+      "points": 454,
+      "publishedAt": "2026-10-21T13:43:19.000Z"
+    },
+    {
+      "objectID": "50218633",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+      "domain": "reddit.com",
+      "points": 391,
+      "publishedAt": "2026-10-24T05:49:57.000Z"
     },
     {
       "objectID": "50165801",
       "title": "Publish fake stats, get cited in LLMs",
       "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
       "domain": "peec.ai",
-      "points": 368,
+      "points": 369,
       "publishedAt": "2026-10-20T13:06:22.000Z"
     },
     {
@@ -95,7 +103,7 @@
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
       "domain": "jrdsgl.com",
-      "points": 302,
+      "points": 303,
       "publishedAt": "2026-10-18T21:09:12.000Z"
     },
     {
@@ -151,7 +159,7 @@
       "title": "NixOS is making me less afraid",
       "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
       "domain": "entropicthoughts.com",
-      "points": 197,
+      "points": 198,
       "publishedAt": "2026-10-20T12:43:05.000Z"
     },
     {
@@ -161,14 +169,6 @@
       "domain": "reuters.com",
       "points": 191,
       "publishedAt": "2026-10-20T20:09:46.000Z"
-    },
-    {
-      "objectID": "50168190",
-      "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
-      "url": "https://ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
-      "domain": "ign.com",
-      "points": 183,
-      "publishedAt": "2026-10-20T15:48:26.000Z"
     }
   ]
 }
