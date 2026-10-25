@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-24T20:50:35.562Z",
-  "windowStart": "2026-10-17T20:50:35.562Z",
+  "fetchedAt": "2026-10-25T04:42:24.070Z",
+  "windowStart": "2026-10-18T04:42:24.070Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,24 +15,24 @@
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "domain": "redact.dev",
-      "points": 742,
+      "points": 743,
       "publishedAt": "2026-10-19T23:22:18.000Z"
-    },
-    {
-      "objectID": "50197313",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "domain": "modelcompare.ai",
-      "points": 645,
-      "publishedAt": "2026-10-22T16:08:00.000Z"
     },
     {
       "objectID": "50200997",
       "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
       "url": "https://news.ycombinator.com/item?id=50200997",
       "domain": "news.ycombinator.com",
-      "points": 643,
+      "points": 648,
       "publishedAt": "2026-10-22T21:03:55.000Z"
+    },
+    {
+      "objectID": "50197313",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "domain": "modelcompare.ai",
+      "points": 648,
+      "publishedAt": "2026-10-22T16:08:00.000Z"
     },
     {
       "objectID": "50151036",
@@ -51,6 +51,14 @@
       "publishedAt": "2026-10-18T20:48:14.000Z"
     },
     {
+      "objectID": "50224463",
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "domain": "apollo.com",
+      "points": 514,
+      "publishedAt": "2026-10-24T19:47:19.000Z"
+    },
+    {
       "objectID": "50198675",
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
@@ -63,7 +71,7 @@
       "title": "LLMs are making formal software verification feasible at a much larger scale",
       "url": "https://anthropic.com/research/formal-verification",
       "domain": "anthropic.com",
-      "points": 455,
+      "points": 457,
       "publishedAt": "2026-10-22T22:54:43.000Z"
     },
     {
@@ -99,14 +107,6 @@
       "publishedAt": "2026-10-18T21:09:12.000Z"
     },
     {
-      "objectID": "50135762",
-      "title": "I built a programming language that LLMs can't use",
-      "url": "https://blog.picheta.me/post/killswitch-lang",
-      "domain": "blog.picheta.me",
-      "points": 283,
-      "publishedAt": "2026-10-17T22:26:47.000Z"
-    },
-    {
       "objectID": "50181175",
       "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
@@ -119,16 +119,24 @@
       "title": "Airbnb bans making guests do dishes and take out the trash",
       "url": "https://theverge.com/tech/1015844/airbnb-chores-house-rules-update",
       "domain": "theverge.com",
-      "points": 260,
+      "points": 261,
       "publishedAt": "2026-10-21T23:38:32.000Z"
     },
     {
-      "objectID": "50137950",
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "domain": "sphinx-six-theta.vercel.app",
-      "points": 253,
-      "publishedAt": "2026-10-18T04:33:49.000Z"
+      "objectID": "50171379",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "domain": "danielball.com",
+      "points": 248,
+      "publishedAt": "2026-10-20T19:22:39.000Z"
+    },
+    {
+      "objectID": "50226419",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "domain": "apricitas.io",
+      "points": 247,
+      "publishedAt": "2026-10-24T23:11:54.000Z"
     },
     {
       "objectID": "50191507",
@@ -139,19 +147,11 @@
       "publishedAt": "2026-10-22T05:23:11.000Z"
     },
     {
-      "objectID": "50171379",
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "domain": "danielball.com",
-      "points": 231,
-      "publishedAt": "2026-10-20T19:22:39.000Z"
-    },
-    {
       "objectID": "50176082",
       "title": "Using LLM for confidence scoring is a bad idea",
       "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
       "domain": "rumple.github.io",
-      "points": 224,
+      "points": 225,
       "publishedAt": "2026-10-21T04:27:51.000Z"
     },
     {
