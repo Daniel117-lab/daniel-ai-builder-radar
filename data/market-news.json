@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-26T04:48:15.031Z",
-  "windowStart": "2026-10-23T04:48:15.031Z",
+  "fetchedAt": "2026-10-26T13:04:19.659Z",
+  "windowStart": "2026-10-23T13:04:19.659Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,46 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875375-20261026.htm",
+      "title": "港股高收118點　地產、內銀及三桶油造好",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875375-20261026.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-26T08:42:33.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875367-20261026.htm",
+      "title": "內地股市收市個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875367-20261026.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-10-26T07:14:32.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875364-20261026.htm",
+      "title": "韓股低收逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875364-20261026.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-26T06:45:50.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875363-20261026.htm",
+      "title": "日股低收近1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875363-20261026.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-26T06:40:07.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875355-20261026.htm",
+      "title": "恒指午市初段升幅擴大",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875355-20261026.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-26T05:21:39.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1875344-20261026.htm",
       "title": "恒指半日升100點　成交不足千億元",
@@ -129,38 +169,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-23T13:46:44.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875077-20261023.htm",
-      "title": "恒指反彈158點　全周跌1093點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875077-20261023.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-23T08:36:26.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875065-20261023.htm",
-      "title": "韓股收市升0.3%　本周累計跌逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875065-20261023.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-23T06:40:06.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875066-20261023.htm",
-      "title": "日股跌幅收窄至0.34%　全星期跌4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875066-20261023.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-23T06:40:04.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875053-20261023.htm",
-      "title": "港股下午初段升130點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875053-20261023.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-23T05:07:14.000Z"
     }
   ]
 }
