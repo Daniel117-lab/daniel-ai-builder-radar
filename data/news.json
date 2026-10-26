@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-25T20:51:44.831Z",
-  "windowStart": "2026-10-18T20:51:44.831Z",
+  "fetchedAt": "2026-10-26T04:48:14.562Z",
+  "windowStart": "2026-10-19T04:48:14.562Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
       "url": "https://news.ycombinator.com/item?id=50200997",
       "domain": "news.ycombinator.com",
-      "points": 664,
+      "points": 671,
       "publishedAt": "2026-10-22T21:03:55.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
-      "points": 655,
+      "points": 656,
       "publishedAt": "2026-10-22T16:08:00.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
       "url": "https://news.ycombinator.com/item?id=50151036",
       "domain": "news.ycombinator.com",
-      "points": 620,
+      "points": 621,
       "publishedAt": "2026-10-19T11:24:34.000Z"
     },
     {
@@ -47,31 +47,39 @@
       "title": "No signs of AI payoff outside the tech sector",
       "url": "https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "domain": "apollo.com",
-      "points": 602,
+      "points": 616,
       "publishedAt": "2026-10-24T19:47:19.000Z"
-    },
-    {
-      "objectID": "50198675",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "domain": "github.com",
-      "points": 501,
-      "publishedAt": "2026-10-22T17:44:06.000Z"
     },
     {
       "objectID": "50226419",
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "url": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "domain": "apricitas.io",
-      "points": 489,
+      "points": 514,
       "publishedAt": "2026-10-24T23:11:54.000Z"
+    },
+    {
+      "objectID": "50198675",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "domain": "github.com",
+      "points": 502,
+      "publishedAt": "2026-10-22T17:44:06.000Z"
+    },
+    {
+      "objectID": "50233779",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "domain": "lynchlab.net",
+      "points": 494,
+      "publishedAt": "2026-10-25T17:15:38.000Z"
     },
     {
       "objectID": "50202217",
       "title": "LLMs are making formal software verification feasible at a much larger scale",
       "url": "https://anthropic.com/research/formal-verification",
       "domain": "anthropic.com",
-      "points": 460,
+      "points": 461,
       "publishedAt": "2026-10-22T22:54:43.000Z"
     },
     {
@@ -87,7 +95,7 @@
       "title": "Publish fake stats, get cited in LLMs",
       "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
       "domain": "peec.ai",
-      "points": 369,
+      "points": 370,
       "publishedAt": "2026-10-20T13:06:22.000Z"
     },
     {
@@ -95,7 +103,7 @@
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "domain": "cerebras.ai",
-      "points": 338,
+      "points": 354,
       "publishedAt": "2026-10-25T01:33:49.000Z"
     },
     {
@@ -107,28 +115,12 @@
       "publishedAt": "2026-10-21T12:53:11.000Z"
     },
     {
-      "objectID": "50145507",
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
-      "domain": "jrdsgl.com",
-      "points": 303,
-      "publishedAt": "2026-10-18T21:09:12.000Z"
-    },
-    {
       "objectID": "50171379",
       "title": "A practical guide to AI image generation, from diffusion to agents",
       "url": "https://danielball.com/notes/ai_image_generation.html",
       "domain": "danielball.com",
-      "points": 282,
+      "points": 283,
       "publishedAt": "2026-10-20T19:22:39.000Z"
-    },
-    {
-      "objectID": "50233779",
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "domain": "lynchlab.net",
-      "points": 280,
-      "publishedAt": "2026-10-25T17:15:38.000Z"
     },
     {
       "objectID": "50181175",
@@ -159,7 +151,7 @@
       "title": "Why is AI generated language so hard to understand?",
       "url": "https://arxiv.org/abs/2610.29162",
       "domain": "arxiv.org",
-      "points": 238,
+      "points": 243,
       "publishedAt": "2026-10-24T18:04:57.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "rumple.github.io",
       "points": 226,
       "publishedAt": "2026-10-21T04:27:51.000Z"
+    },
+    {
+      "objectID": "50236102",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms",
+      "domain": "minimaxir.com",
+      "points": 215,
+      "publishedAt": "2026-10-25T21:11:31.000Z"
     }
   ]
 }
