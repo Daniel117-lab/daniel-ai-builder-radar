@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-26T13:04:19.659Z",
-  "windowStart": "2026-10-23T13:04:19.659Z",
+  "fetchedAt": "2026-10-26T22:40:37.219Z",
+  "windowStart": "2026-10-23T22:40:37.219Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875437-20261027.htm",
+      "title": "港股ADR較本港昨日收市價個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875437-20261027.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-26T22:30:18.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875432-20261027.htm",
+      "title": "納指升逾0.8%　Anthropic提交上市申請重振市場情緒",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875432-20261027.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-26T21:42:22.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875405-20261026.htm",
+      "title": "美股三大指數初段升近1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875405-20261026.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-26T14:44:38.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1875375-20261026.htm",
       "title": "港股高收118點　地產、內銀及三桶油造好",
@@ -137,38 +161,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-10-23T22:49:33.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875146-20261024.htm",
-      "title": "道指低收逾600點　本周累升0.4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875146-20261024.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-23T21:47:33.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875144-20261024.htm",
-      "title": "英法德股市本周累跌近2%或以上",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875144-20261024.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-23T21:19:37.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875132-20261023.htm",
-      "title": "標普全球：美國10月製造業PMI初值高於預期",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875132-20261023.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-23T15:23:03.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875130-20261023.htm",
-      "title": "美股初段延續跌勢　道指跌近500點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875130-20261023.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-23T13:46:44.000Z"
     }
   ]
 }

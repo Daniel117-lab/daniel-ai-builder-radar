@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-26T13:04:19.052Z",
-  "windowStart": "2026-10-19T13:04:19.052Z",
+  "fetchedAt": "2026-10-26T22:40:36.631Z",
+  "windowStart": "2026-10-19T22:40:36.631Z",
   "queries": [
     "AI",
     "LLM",
@@ -10,6 +10,14 @@
     "Anthropic"
   ],
   "stories": [
+    {
+      "objectID": "50242939",
+      "title": "Anthropic S-1",
+      "url": "https://sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "domain": "sec.gov",
+      "points": 1397,
+      "publishedAt": "2026-10-26T13:04:50.000Z"
+    },
     {
       "objectID": "50159341",
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
@@ -23,7 +31,7 @@
       "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
       "url": "https://news.ycombinator.com/item?id=50200997",
       "domain": "news.ycombinator.com",
-      "points": 674,
+      "points": 677,
       "publishedAt": "2026-10-22T21:03:55.000Z"
     },
     {
@@ -31,31 +39,31 @@
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
-      "points": 658,
+      "points": 660,
       "publishedAt": "2026-10-22T16:08:00.000Z"
-    },
-    {
-      "objectID": "50224463",
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "domain": "apollo.com",
-      "points": 629,
-      "publishedAt": "2026-10-24T19:47:19.000Z"
     },
     {
       "objectID": "50233779",
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
       "domain": "lynchlab.net",
-      "points": 596,
+      "points": 650,
       "publishedAt": "2026-10-25T17:15:38.000Z"
+    },
+    {
+      "objectID": "50224463",
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "domain": "apollo.com",
+      "points": 638,
+      "publishedAt": "2026-10-24T19:47:19.000Z"
     },
     {
       "objectID": "50226419",
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "url": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "domain": "apricitas.io",
-      "points": 527,
+      "points": 541,
       "publishedAt": "2026-10-24T23:11:54.000Z"
     },
     {
@@ -63,7 +71,7 @@
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
-      "points": 503,
+      "points": 504,
       "publishedAt": "2026-10-22T17:44:06.000Z"
     },
     {
@@ -71,7 +79,7 @@
       "title": "LLMs are making formal software verification feasible at a much larger scale",
       "url": "https://anthropic.com/research/formal-verification",
       "domain": "anthropic.com",
-      "points": 461,
+      "points": 462,
       "publishedAt": "2026-10-22T22:54:43.000Z"
     },
     {
@@ -79,31 +87,39 @@
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "url": "https://wiz.io/blog/php2shell-php-rce",
       "domain": "wiz.io",
-      "points": 454,
+      "points": 455,
       "publishedAt": "2026-10-21T13:43:19.000Z"
     },
     {
-      "objectID": "50165801",
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "domain": "peec.ai",
-      "points": 370,
-      "publishedAt": "2026-10-20T13:06:22.000Z"
+      "objectID": "50248124",
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "domain": "openai.com",
+      "points": 436,
+      "publishedAt": "2026-10-26T18:01:17.000Z"
     },
     {
       "objectID": "50236102",
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "url": "https://minimaxir.com/2026/10/cheap-llms",
       "domain": "minimaxir.com",
-      "points": 369,
+      "points": 410,
       "publishedAt": "2026-10-25T21:11:31.000Z"
+    },
+    {
+      "objectID": "50165801",
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "domain": "peec.ai",
+      "points": 371,
+      "publishedAt": "2026-10-20T13:06:22.000Z"
     },
     {
       "objectID": "50227356",
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "domain": "cerebras.ai",
-      "points": 358,
+      "points": 364,
       "publishedAt": "2026-10-25T01:33:49.000Z"
     },
     {
@@ -143,7 +159,7 @@
       "title": "Why is AI generated language so hard to understand?",
       "url": "https://arxiv.org/abs/2610.29162",
       "domain": "arxiv.org",
-      "points": 247,
+      "points": 253,
       "publishedAt": "2026-10-24T18:04:57.000Z"
     },
     {
@@ -153,22 +169,6 @@
       "domain": "github.com",
       "points": 244,
       "publishedAt": "2026-10-22T05:23:11.000Z"
-    },
-    {
-      "objectID": "50176082",
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "domain": "rumple.github.io",
-      "points": 226,
-      "publishedAt": "2026-10-21T04:27:51.000Z"
-    },
-    {
-      "objectID": "50233304",
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "domain": "dailycal.org",
-      "points": 222,
-      "publishedAt": "2026-10-25T16:28:26.000Z"
     }
   ]
 }
