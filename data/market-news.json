@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-27T05:06:08.378Z",
-  "windowStart": "2026-10-24T05:06:08.378Z",
+  "fetchedAt": "2026-10-27T12:12:48.661Z",
+  "windowStart": "2026-10-24T12:12:48.661Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,54 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875510-20261027.htm",
+      "title": "恒指低收170點　滙控挫近6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875510-20261027.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-27T08:21:42.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875504-20261027.htm",
+      "title": "滬股跌逾1%　創逾14個月新低　創業板指數低收逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875504-20261027.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-10-27T07:10:23.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875500-20261027.htm",
+      "title": "韓股收市升約3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875500-20261027.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-27T06:43:32.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875499-20261027.htm",
+      "title": "日股升近2%收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875499-20261027.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-27T06:42:10.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875497-20261027.htm",
+      "title": "台股靠穩收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875497-20261027.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-27T06:34:10.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875490-20261027.htm",
+      "title": "恒指下午初段轉跌逾百點　滙控季績後挫近半成",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875490-20261027.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-27T05:23:38.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1875482-20261027.htm",
       "title": "港股窄幅上落　恒指半日跌31點",
