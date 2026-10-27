@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-27T18:01:41.934Z",
-  "windowStart": "2026-10-20T18:01:41.934Z",
+  "fetchedAt": "2026-10-27T22:14:48.602Z",
+  "windowStart": "2026-10-20T22:14:48.602Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Anthropic S-1",
       "url": "https://sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "domain": "sec.gov",
-      "points": 1675,
+      "points": 1685,
       "publishedAt": "2026-10-26T13:04:50.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Three new discoveries in mathematics, computer science, and physics",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "domain": "openai.com",
-      "points": 1097,
+      "points": 1120,
       "publishedAt": "2026-10-26T21:35:28.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "The Exponential Time Hypothesis Is False [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
       "domain": "github.com",
-      "points": 761,
+      "points": 774,
       "publishedAt": "2026-10-26T21:59:15.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
       "domain": "lynchlab.net",
-      "points": 665,
+      "points": 666,
       "publishedAt": "2026-10-25T17:15:38.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "domain": "modelcompare.ai",
-      "points": 663,
+      "points": 664,
       "publishedAt": "2026-10-22T16:08:00.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "GPT-6.1 Terra",
       "url": "https://openai.com/index/introducing-gpt-6-1-terra",
       "domain": "openai.com",
-      "points": 615,
+      "points": 622,
       "publishedAt": "2026-10-26T18:01:17.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "AI promised less work. I've never worked more",
       "url": "https://oioannou.com/blog/ai-promised-less-work",
       "domain": "oioannou.com",
-      "points": 584,
+      "points": 609,
       "publishedAt": "2026-10-27T11:08:14.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
       "domain": "github.com",
-      "points": 505,
+      "points": 507,
       "publishedAt": "2026-10-22T17:44:06.000Z"
     },
     {
@@ -119,8 +119,32 @@
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "url": "https://minimaxir.com/2026/10/cheap-llms",
       "domain": "minimaxir.com",
-      "points": 429,
+      "points": 433,
       "publishedAt": "2026-10-25T21:11:31.000Z"
+    },
+    {
+      "objectID": "50255298",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "domain": "j11g.com",
+      "points": 419,
+      "publishedAt": "2026-10-27T06:25:37.000Z"
+    },
+    {
+      "objectID": "50257326",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "domain": "spectrum.ieee.org",
+      "points": 409,
+      "publishedAt": "2026-10-27T11:08:15.000Z"
+    },
+    {
+      "objectID": "50260814",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
+      "domain": "stanforddaily.com",
+      "points": 374,
+      "publishedAt": "2026-10-27T15:28:26.000Z"
     },
     {
       "objectID": "50227356",
@@ -131,19 +155,11 @@
       "publishedAt": "2026-10-25T01:33:49.000Z"
     },
     {
-      "objectID": "50255298",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "domain": "j11g.com",
-      "points": 364,
-      "publishedAt": "2026-10-27T06:25:37.000Z"
-    },
-    {
       "objectID": "50180079",
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "domain": "openai.com",
-      "points": 325,
+      "points": 326,
       "publishedAt": "2026-10-21T12:53:11.000Z"
     },
     {
@@ -151,24 +167,8 @@
       "title": "Concerning behavior from a popular open-weight AI model",
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "domain": "cohere.com",
-      "points": 314,
+      "points": 322,
       "publishedAt": "2026-10-26T16:35:44.000Z"
-    },
-    {
-      "objectID": "50257326",
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "domain": "spectrum.ieee.org",
-      "points": 312,
-      "publishedAt": "2026-10-27T11:08:15.000Z"
-    },
-    {
-      "objectID": "50171379",
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "domain": "danielball.com",
-      "points": 286,
-      "publishedAt": "2026-10-20T19:22:39.000Z"
     }
   ]
 }
