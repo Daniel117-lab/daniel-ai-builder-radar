@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-28T12:55:32.611Z",
-  "windowStart": "2026-10-25T12:55:32.611Z",
+  "fetchedAt": "2026-10-28T22:35:45.727Z",
+  "windowStart": "2026-10-25T22:35:45.727Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875711-20261029.htm",
+      "title": "港股美國預託證券個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875711-20261029.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-28T22:18:06.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875706-20261029.htm",
+      "title": "道指升近百點收市　聯儲局維持利率不變",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875706-20261029.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-28T21:33:21.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875682-20261028.htm",
+      "title": "美股初段靠穩　觀望聯儲局議息結果",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875682-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-28T13:38:12.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1875643-20261028.htm",
       "title": "港股高收53點　渣打績後急升近8%",
