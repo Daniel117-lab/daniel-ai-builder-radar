@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-27T22:14:49.231Z",
-  "windowStart": "2026-10-24T22:14:49.231Z",
+  "fetchedAt": "2026-10-28T05:43:12.054Z",
+  "windowStart": "2026-10-25T05:43:12.054Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,70 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875618-20261028.htm",
+      "title": "恒指下午初段升逾80點　渣打績後升逾半成",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875618-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-28T05:14:36.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875607-20261028.htm",
+      "title": "恒指半日升99點　AI概念股上升",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875607-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-28T04:15:40.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875604-20261028.htm",
+      "title": "內地股市造好　創業板指數半日升3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875604-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-10-28T04:02:14.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875595-20261028.htm",
+      "title": "日股半日升近800點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875595-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-28T02:49:16.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875588-20261028.htm",
+      "title": "恒指競價時段升42點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875588-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-28T01:28:06.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875585-20261028.htm",
+      "title": "台股初段升近1.5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875585-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-28T01:09:18.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875581-20261028.htm",
+      "title": "韓股初段升逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875581-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-28T00:25:16.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875580-20261028.htm",
+      "title": "日股初段升逾800點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875580-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-28T00:23:51.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1875566-20261028.htm",
       "title": "科技股帶動納指高收逾1%　道指升15點",

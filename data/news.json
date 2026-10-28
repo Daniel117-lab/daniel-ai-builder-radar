@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-27T22:14:48.602Z",
-  "windowStart": "2026-10-20T22:14:48.602Z",
+  "fetchedAt": "2026-10-28T05:43:11.182Z",
+  "windowStart": "2026-10-21T05:43:11.182Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Anthropic S-1",
       "url": "https://sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "domain": "sec.gov",
-      "points": 1685,
+      "points": 1693,
       "publishedAt": "2026-10-26T13:04:50.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Three new discoveries in mathematics, computer science, and physics",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "domain": "openai.com",
-      "points": 1120,
+      "points": 1134,
       "publishedAt": "2026-10-26T21:35:28.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "The Exponential Time Hypothesis Is False [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
       "domain": "github.com",
-      "points": 774,
+      "points": 779,
       "publishedAt": "2026-10-26T21:59:15.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
       "url": "https://news.ycombinator.com/item?id=50200997",
       "domain": "news.ycombinator.com",
-      "points": 678,
+      "points": 679,
       "publishedAt": "2026-10-22T21:03:55.000Z"
     },
     {
@@ -63,31 +63,31 @@
       "title": "No signs of AI payoff outside the tech sector",
       "url": "https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "domain": "apollo.com",
-      "points": 641,
+      "points": 642,
       "publishedAt": "2026-10-24T19:47:19.000Z"
-    },
-    {
-      "objectID": "50248124",
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "domain": "openai.com",
-      "points": 622,
-      "publishedAt": "2026-10-26T18:01:17.000Z"
     },
     {
       "objectID": "50257325",
       "title": "AI promised less work. I've never worked more",
       "url": "https://oioannou.com/blog/ai-promised-less-work",
       "domain": "oioannou.com",
-      "points": 609,
+      "points": 628,
       "publishedAt": "2026-10-27T11:08:14.000Z"
+    },
+    {
+      "objectID": "50248124",
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "domain": "openai.com",
+      "points": 628,
+      "publishedAt": "2026-10-26T18:01:17.000Z"
     },
     {
       "objectID": "50226419",
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "url": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "domain": "apricitas.io",
-      "points": 542,
+      "points": 543,
       "publishedAt": "2026-10-24T23:11:54.000Z"
     },
     {
@@ -97,6 +97,22 @@
       "domain": "github.com",
       "points": 507,
       "publishedAt": "2026-10-22T17:44:06.000Z"
+    },
+    {
+      "objectID": "50260814",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
+      "domain": "stanforddaily.com",
+      "points": 499,
+      "publishedAt": "2026-10-27T15:28:26.000Z"
+    },
+    {
+      "objectID": "50257326",
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "domain": "spectrum.ieee.org",
+      "points": 468,
+      "publishedAt": "2026-10-27T11:08:15.000Z"
     },
     {
       "objectID": "50202217",
@@ -115,36 +131,20 @@
       "publishedAt": "2026-10-21T13:43:19.000Z"
     },
     {
-      "objectID": "50236102",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms",
-      "domain": "minimaxir.com",
-      "points": 433,
-      "publishedAt": "2026-10-25T21:11:31.000Z"
-    },
-    {
       "objectID": "50255298",
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
-      "points": 419,
+      "points": 449,
       "publishedAt": "2026-10-27T06:25:37.000Z"
     },
     {
-      "objectID": "50257326",
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "domain": "spectrum.ieee.org",
-      "points": 409,
-      "publishedAt": "2026-10-27T11:08:15.000Z"
-    },
-    {
-      "objectID": "50260814",
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
-      "domain": "stanforddaily.com",
-      "points": 374,
-      "publishedAt": "2026-10-27T15:28:26.000Z"
+      "objectID": "50236102",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms",
+      "domain": "minimaxir.com",
+      "points": 434,
+      "publishedAt": "2026-10-25T21:11:31.000Z"
     },
     {
       "objectID": "50227356",
@@ -155,19 +155,19 @@
       "publishedAt": "2026-10-25T01:33:49.000Z"
     },
     {
-      "objectID": "50180079",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "domain": "openai.com",
-      "points": 326,
-      "publishedAt": "2026-10-21T12:53:11.000Z"
+      "objectID": "50261819",
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "domain": "gizmodo.com",
+      "points": 365,
+      "publishedAt": "2026-10-27T16:40:15.000Z"
     },
     {
       "objectID": "50246658",
       "title": "Concerning behavior from a popular open-weight AI model",
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "domain": "cohere.com",
-      "points": 322,
+      "points": 326,
       "publishedAt": "2026-10-26T16:35:44.000Z"
     }
   ]
