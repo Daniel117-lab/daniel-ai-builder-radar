@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-28T05:43:12.054Z",
-  "windowStart": "2026-10-25T05:43:12.054Z",
+  "fetchedAt": "2026-10-28T12:55:32.611Z",
+  "windowStart": "2026-10-25T12:55:32.611Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,46 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875643-20261028.htm",
+      "title": "港股高收53點　渣打績後急升近8%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875643-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-10-28T08:42:09.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875635-20261028.htm",
+      "title": "滬深股市高收近1%至逾3%　創業板指數升幅較大",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875635-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-10-28T07:17:01.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875631-20261028.htm",
+      "title": "日股高收約1.1%　連升兩日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875631-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-28T06:45:58.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875632-20261028.htm",
+      "title": "韓股高收近7%　連升兩日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875632-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-28T06:45:54.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875629-20261028.htm",
+      "title": "台股高收2%　連升兩日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875629-20261028.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-10-28T06:23:05.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1875618-20261028.htm",
       "title": "恒指下午初段升逾80點　渣打績後升逾半成",
