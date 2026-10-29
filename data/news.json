@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-29T05:49:23.085Z",
-  "windowStart": "2026-10-22T05:49:23.085Z",
+  "fetchedAt": "2026-10-29T13:02:06.442Z",
+  "windowStart": "2026-10-22T13:02:06.442Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Anthropic S-1",
       "url": "https://sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "domain": "sec.gov",
-      "points": 1701,
+      "points": 1703,
       "publishedAt": "2026-10-26T13:04:50.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Three new discoveries in mathematics, computer science, and physics",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "domain": "openai.com",
-      "points": 1150,
+      "points": 1152,
       "publishedAt": "2026-10-26T21:35:28.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "The Exponential Time Hypothesis Is False [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
       "domain": "github.com",
-      "points": 795,
+      "points": 796,
       "publishedAt": "2026-10-26T21:59:15.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "AI promised less work. I've never worked more",
       "url": "https://oioannou.com/blog/ai-promised-less-work",
       "domain": "oioannou.com",
-      "points": 669,
+      "points": 674,
       "publishedAt": "2026-10-27T11:08:14.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
       "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
       "domain": "stanforddaily.com",
-      "points": 575,
+      "points": 586,
       "publishedAt": "2026-10-27T15:28:26.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "url": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "domain": "apricitas.io",
-      "points": 545,
+      "points": 546,
       "publishedAt": "2026-10-24T23:11:54.000Z"
     },
     {
@@ -103,31 +103,31 @@
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "url": "https://brangus.io/survival-llm",
       "domain": "brangus.io",
-      "points": 525,
+      "points": 528,
       "publishedAt": "2026-10-27T19:55:06.000Z"
-    },
-    {
-      "objectID": "50198675",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "domain": "github.com",
-      "points": 507,
-      "publishedAt": "2026-10-22T17:44:06.000Z"
     },
     {
       "objectID": "50257326",
       "title": "Wikipedia's Cleanup of AI-Generated Content",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
-      "points": 499,
+      "points": 509,
       "publishedAt": "2026-10-27T11:08:15.000Z"
+    },
+    {
+      "objectID": "50198675",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "domain": "github.com",
+      "points": 508,
+      "publishedAt": "2026-10-22T17:44:06.000Z"
     },
     {
       "objectID": "50255298",
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
-      "points": 477,
+      "points": 482,
       "publishedAt": "2026-10-27T06:25:37.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "LLMs are making formal software verification feasible at a much larger scale",
       "url": "https://anthropic.com/research/formal-verification",
       "domain": "anthropic.com",
-      "points": 464,
+      "points": 472,
       "publishedAt": "2026-10-22T22:54:43.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai",
       "domain": "religionnews.com",
-      "points": 449,
+      "points": 470,
       "publishedAt": "2026-10-28T13:41:30.000Z"
     },
     {
@@ -159,7 +159,7 @@
       "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
       "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
       "domain": "gizmodo.com",
-      "points": 394,
+      "points": 396,
       "publishedAt": "2026-10-27T16:40:15.000Z"
     },
     {
@@ -167,7 +167,7 @@
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
       "domain": "futurism.com",
-      "points": 373,
+      "points": 377,
       "publishedAt": "2026-10-27T16:25:30.000Z"
     }
   ]
