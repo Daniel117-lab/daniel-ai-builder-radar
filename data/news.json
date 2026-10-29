@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-28T22:35:45.154Z",
-  "windowStart": "2026-10-21T22:35:45.154Z",
+  "fetchedAt": "2026-10-29T05:49:23.085Z",
+  "windowStart": "2026-10-22T05:49:23.085Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Anthropic S-1",
       "url": "https://sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "domain": "sec.gov",
-      "points": 1700,
+      "points": 1701,
       "publishedAt": "2026-10-26T13:04:50.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Three new discoveries in mathematics, computer science, and physics",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "domain": "openai.com",
-      "points": 1143,
+      "points": 1150,
       "publishedAt": "2026-10-26T21:35:28.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "The Exponential Time Hypothesis Is False [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
       "domain": "github.com",
-      "points": 793,
+      "points": 795,
       "publishedAt": "2026-10-26T21:59:15.000Z"
     },
     {
@@ -39,15 +39,23 @@
       "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
       "url": "https://news.ycombinator.com/item?id=50200997",
       "domain": "news.ycombinator.com",
-      "points": 679,
+      "points": 680,
       "publishedAt": "2026-10-22T21:03:55.000Z"
+    },
+    {
+      "objectID": "50257325",
+      "title": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work",
+      "domain": "oioannou.com",
+      "points": 669,
+      "publishedAt": "2026-10-27T11:08:14.000Z"
     },
     {
       "objectID": "50233779",
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
       "domain": "lynchlab.net",
-      "points": 668,
+      "points": 669,
       "publishedAt": "2026-10-25T17:15:38.000Z"
     },
     {
@@ -59,19 +67,11 @@
       "publishedAt": "2026-10-22T16:08:00.000Z"
     },
     {
-      "objectID": "50257325",
-      "title": "AI promised less work. I've never worked more",
-      "url": "https://oioannou.com/blog/ai-promised-less-work",
-      "domain": "oioannou.com",
-      "points": 660,
-      "publishedAt": "2026-10-27T11:08:14.000Z"
-    },
-    {
       "objectID": "50224463",
       "title": "No signs of AI payoff outside the tech sector",
       "url": "https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "domain": "apollo.com",
-      "points": 648,
+      "points": 649,
       "publishedAt": "2026-10-24T19:47:19.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
       "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
       "domain": "stanforddaily.com",
-      "points": 567,
+      "points": 575,
       "publishedAt": "2026-10-27T15:28:26.000Z"
     },
     {
@@ -103,7 +103,7 @@
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "url": "https://brangus.io/survival-llm",
       "domain": "brangus.io",
-      "points": 510,
+      "points": 525,
       "publishedAt": "2026-10-27T19:55:06.000Z"
     },
     {
@@ -119,7 +119,7 @@
       "title": "Wikipedia's Cleanup of AI-Generated Content",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
-      "points": 497,
+      "points": 499,
       "publishedAt": "2026-10-27T11:08:15.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
-      "points": 475,
+      "points": 477,
       "publishedAt": "2026-10-27T06:25:37.000Z"
     },
     {
@@ -139,36 +139,36 @@
       "publishedAt": "2026-10-22T22:54:43.000Z"
     },
     {
-      "objectID": "50236102",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms",
-      "domain": "minimaxir.com",
-      "points": 439,
-      "publishedAt": "2026-10-25T21:11:31.000Z"
-    },
-    {
       "objectID": "50273396",
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai",
       "domain": "religionnews.com",
-      "points": 394,
+      "points": 449,
       "publishedAt": "2026-10-28T13:41:30.000Z"
+    },
+    {
+      "objectID": "50236102",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms",
+      "domain": "minimaxir.com",
+      "points": 441,
+      "publishedAt": "2026-10-25T21:11:31.000Z"
     },
     {
       "objectID": "50261819",
       "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
       "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
       "domain": "gizmodo.com",
-      "points": 391,
+      "points": 394,
       "publishedAt": "2026-10-27T16:40:15.000Z"
     },
     {
-      "objectID": "50227356",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "domain": "cerebras.ai",
-      "points": 368,
-      "publishedAt": "2026-10-25T01:33:49.000Z"
+      "objectID": "50261589",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "domain": "futurism.com",
+      "points": 373,
+      "publishedAt": "2026-10-27T16:25:30.000Z"
     }
   ]
 }
