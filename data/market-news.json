@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-30T12:56:40.574Z",
-  "windowStart": "2026-10-27T12:56:40.574Z",
+  "fetchedAt": "2026-10-30T22:20:54.009Z",
+  "windowStart": "2026-10-27T22:20:54.009Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,22 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876023-20261031.htm",
+      "title": "科技股被拋售　納指跌近2.9%　10月跌逾5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876023-20261031.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-30T22:09:35.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876005-20261030.htm",
+      "title": "納指初段跌逾2%　創近3個月新低　英特爾急挫近29%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876005-20261030.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-10-30T13:39:23.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1875961-20261030.htm",
       "title": "港股高收335點　恒指10月跌逾5%　科指全月挫近12%",
@@ -385,30 +401,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-10-28T00:23:51.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875566-20261028.htm",
-      "title": "科技股帶動納指高收逾1%　道指升15點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875566-20261028.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-27T21:49:12.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875565-20261028.htm",
-      "title": "滙控拖低英股　法德股市靠穩收市",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875565-20261028.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-27T21:48:45.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875548-20261027.htm",
-      "title": "美股初段造好　納指升逾0.7%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875548-20261027.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-27T13:45:38.000Z"
     }
   ]
 }
