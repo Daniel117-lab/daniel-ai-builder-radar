@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-31T12:31:09.640Z",
-  "windowStart": "2026-10-24T12:31:09.640Z",
+  "fetchedAt": "2026-10-31T21:35:41.767Z",
+  "windowStart": "2026-10-24T21:35:41.767Z",
   "queries": [
     "AI",
     "LLM",
@@ -31,7 +31,7 @@
       "title": "The Exponential Time Hypothesis Is False [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
       "domain": "github.com",
-      "points": 800,
+      "points": 802,
       "publishedAt": "2026-10-26T21:59:15.000Z"
     },
     {
@@ -51,12 +51,12 @@
       "publishedAt": "2026-10-25T17:15:38.000Z"
     },
     {
-      "objectID": "50224463",
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "domain": "apollo.com",
-      "points": 653,
-      "publishedAt": "2026-10-24T19:47:19.000Z"
+      "objectID": "50305693",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "domain": "newsletter.signoz.io",
+      "points": 643,
+      "publishedAt": "2026-10-30T15:52:18.000Z"
     },
     {
       "objectID": "50248124",
@@ -67,28 +67,20 @@
       "publishedAt": "2026-10-26T18:01:17.000Z"
     },
     {
-      "objectID": "50305693",
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "domain": "newsletter.signoz.io",
-      "points": 608,
-      "publishedAt": "2026-10-30T15:52:18.000Z"
+      "objectID": "50290177",
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "domain": "martinfowler.com",
+      "points": 604,
+      "publishedAt": "2026-10-29T14:57:55.000Z"
     },
     {
       "objectID": "50260814",
       "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
       "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
       "domain": "stanforddaily.com",
-      "points": 603,
+      "points": 604,
       "publishedAt": "2026-10-27T15:28:26.000Z"
-    },
-    {
-      "objectID": "50290177",
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "domain": "martinfowler.com",
-      "points": 598,
-      "publishedAt": "2026-10-29T14:57:55.000Z"
     },
     {
       "objectID": "50226419",
@@ -103,7 +95,7 @@
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "url": "https://brangus.io/survival-llm",
       "domain": "brangus.io",
-      "points": 541,
+      "points": 542,
       "publishedAt": "2026-10-27T19:55:06.000Z"
     },
     {
@@ -143,7 +135,7 @@
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
-      "points": 403,
+      "points": 412,
       "publishedAt": "2026-10-29T21:40:28.000Z"
     },
     {
@@ -151,7 +143,7 @@
       "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
       "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
       "domain": "gizmodo.com",
-      "points": 398,
+      "points": 399,
       "publishedAt": "2026-10-27T16:40:15.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "cerebras.ai",
       "points": 368,
       "publishedAt": "2026-10-25T01:33:49.000Z"
+    },
+    {
+      "objectID": "50246658",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "domain": "cohere.com",
+      "points": 335,
+      "publishedAt": "2026-10-26T16:35:44.000Z"
     }
   ]
 }
