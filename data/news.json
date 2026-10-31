@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-10-31T05:42:37.390Z",
-  "windowStart": "2026-10-24T05:42:37.390Z",
+  "fetchedAt": "2026-10-31T12:31:09.640Z",
+  "windowStart": "2026-10-24T12:31:09.640Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Anthropic S-1",
       "url": "https://sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "domain": "sec.gov",
-      "points": 1707,
+      "points": 1708,
       "publishedAt": "2026-10-26T13:04:50.000Z"
     },
     {
@@ -67,11 +67,19 @@
       "publishedAt": "2026-10-26T18:01:17.000Z"
     },
     {
+      "objectID": "50305693",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "domain": "newsletter.signoz.io",
+      "points": 608,
+      "publishedAt": "2026-10-30T15:52:18.000Z"
+    },
+    {
       "objectID": "50260814",
       "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
       "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
       "domain": "stanforddaily.com",
-      "points": 601,
+      "points": 603,
       "publishedAt": "2026-10-27T15:28:26.000Z"
     },
     {
@@ -79,16 +87,8 @@
       "title": "LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "domain": "martinfowler.com",
-      "points": 593,
+      "points": 598,
       "publishedAt": "2026-10-29T14:57:55.000Z"
-    },
-    {
-      "objectID": "50305693",
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "domain": "newsletter.signoz.io",
-      "points": 548,
-      "publishedAt": "2026-10-30T15:52:18.000Z"
     },
     {
       "objectID": "50226419",
@@ -119,7 +119,7 @@
       "title": "The Mythical Man-Month in the Age of AI",
       "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
       "domain": "j11g.com",
-      "points": 493,
+      "points": 495,
       "publishedAt": "2026-10-27T06:25:37.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
-      "points": 400,
+      "points": 403,
       "publishedAt": "2026-10-29T21:40:28.000Z"
     },
     {
