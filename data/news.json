@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-01T13:25:45.071Z",
-  "windowStart": "2026-10-25T13:25:45.071Z",
+  "fetchedAt": "2026-11-01T22:02:15.471Z",
+  "windowStart": "2026-10-25T22:02:15.471Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "Three new discoveries in mathematics, computer science, and physics",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "domain": "openai.com",
-      "points": 1159,
+      "points": 1161,
       "publishedAt": "2026-10-26T21:35:28.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "The Exponential Time Hypothesis Is False [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
       "domain": "github.com",
-      "points": 802,
+      "points": 803,
       "publishedAt": "2026-10-26T21:59:15.000Z"
     },
     {
@@ -39,23 +39,15 @@
       "title": "AI promised less work. I've never worked more",
       "url": "https://oioannou.com/blog/ai-promised-less-work",
       "domain": "oioannou.com",
-      "points": 685,
+      "points": 688,
       "publishedAt": "2026-10-27T11:08:14.000Z"
-    },
-    {
-      "objectID": "50233779",
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "domain": "lynchlab.net",
-      "points": 670,
-      "publishedAt": "2026-10-25T17:15:38.000Z"
     },
     {
       "objectID": "50305693",
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
-      "points": 655,
+      "points": 663,
       "publishedAt": "2026-10-30T15:52:18.000Z"
     },
     {
@@ -115,19 +107,19 @@
       "publishedAt": "2026-10-28T13:41:30.000Z"
     },
     {
-      "objectID": "50236102",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms",
-      "domain": "minimaxir.com",
-      "points": 443,
-      "publishedAt": "2026-10-25T21:11:31.000Z"
+      "objectID": "50319358",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "domain": "twitter.com",
+      "points": 444,
+      "publishedAt": "2026-10-31T19:39:19.000Z"
     },
     {
       "objectID": "50296486",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
-      "points": 413,
+      "points": 417,
       "publishedAt": "2026-10-29T21:40:28.000Z"
     },
     {
@@ -139,14 +131,6 @@
       "publishedAt": "2026-10-27T16:40:15.000Z"
     },
     {
-      "objectID": "50319358",
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "domain": "twitter.com",
-      "points": 398,
-      "publishedAt": "2026-10-31T19:39:19.000Z"
-    },
-    {
       "objectID": "50261589",
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
@@ -155,11 +139,19 @@
       "publishedAt": "2026-10-27T16:25:30.000Z"
     },
     {
+      "objectID": "50251200",
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+      "domain": "the-decoder.com",
+      "points": 362,
+      "publishedAt": "2026-10-26T21:24:18.000Z"
+    },
+    {
       "objectID": "50314699",
       "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://parameter.ai/labs/we-found-a-gap-at-openai",
       "domain": "parameter.ai",
-      "points": 346,
+      "points": 357,
       "publishedAt": "2026-10-31T10:30:11.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "cohere.com",
       "points": 336,
       "publishedAt": "2026-10-26T16:35:44.000Z"
+    },
+    {
+      "objectID": "50307219",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "domain": "ft.com",
+      "points": 324,
+      "publishedAt": "2026-10-30T17:27:25.000Z"
     }
   ]
 }
