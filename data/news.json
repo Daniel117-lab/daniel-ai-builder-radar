@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-01T22:02:15.471Z",
-  "windowStart": "2026-10-25T22:02:15.471Z",
+  "fetchedAt": "2026-11-02T06:04:17.885Z",
+  "windowStart": "2026-10-26T06:04:17.885Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "Three new discoveries in mathematics, computer science, and physics",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "domain": "openai.com",
-      "points": 1161,
+      "points": 1162,
       "publishedAt": "2026-10-26T21:35:28.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "AI promised less work. I've never worked more",
       "url": "https://oioannou.com/blog/ai-promised-less-work",
       "domain": "oioannou.com",
-      "points": 688,
+      "points": 689,
       "publishedAt": "2026-10-27T11:08:14.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
-      "points": 663,
+      "points": 667,
       "publishedAt": "2026-10-30T15:52:18.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Wikipedia's Cleanup of AI-Generated Content",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
-      "points": 519,
+      "points": 520,
       "publishedAt": "2026-10-27T11:08:15.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "domain": "twitter.com",
-      "points": 444,
+      "points": 462,
       "publishedAt": "2026-10-31T19:39:19.000Z"
     },
     {
@@ -119,7 +119,7 @@
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
-      "points": 417,
+      "points": 419,
       "publishedAt": "2026-10-29T21:40:28.000Z"
     },
     {
@@ -151,8 +151,16 @@
       "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://parameter.ai/labs/we-found-a-gap-at-openai",
       "domain": "parameter.ai",
-      "points": 357,
+      "points": 358,
       "publishedAt": "2026-10-31T10:30:11.000Z"
+    },
+    {
+      "objectID": "50323088",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "domain": "nolanlawson.com",
+      "points": 336,
+      "publishedAt": "2026-11-01T06:06:19.000Z"
     },
     {
       "objectID": "50246658",
@@ -161,14 +169,6 @@
       "domain": "cohere.com",
       "points": 336,
       "publishedAt": "2026-10-26T16:35:44.000Z"
-    },
-    {
-      "objectID": "50307219",
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "url": "https://ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-      "domain": "ft.com",
-      "points": 324,
-      "publishedAt": "2026-10-30T17:27:25.000Z"
     }
   ]
 }
