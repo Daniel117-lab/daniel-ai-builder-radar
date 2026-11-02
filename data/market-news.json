@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-02T06:04:20.891Z",
-  "windowStart": "2026-10-30T06:04:20.891Z",
+  "fetchedAt": "2026-11-02T15:54:20.374Z",
+  "windowStart": "2026-10-30T15:54:20.374Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,38 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876287-20261102.htm",
+      "title": "美股初段上升　油價急挫逾6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876287-20261102.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-02T14:48:20.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876243-20261102.htm",
+      "title": "恒指高收98點　科技股造好　小米升逾6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876243-20261102.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-02T08:26:43.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876233-20261102.htm",
+      "title": "內地股市收市升逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876233-20261102.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-02T07:16:14.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876231-20261102.htm",
+      "title": "韓股高收逾2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876231-20261102.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-02T06:44:58.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1876219-20261102.htm",
       "title": "港股下午初段升逾百點　科指升逾2%",
@@ -105,46 +137,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-30T22:09:35.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876005-20261030.htm",
-      "title": "納指初段跌逾2%　創近3個月新低　英特爾急挫近29%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876005-20261030.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-30T13:39:23.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875961-20261030.htm",
-      "title": "港股高收335點　恒指10月跌逾5%　科指全月挫近12%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875961-20261030.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-30T08:46:34.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875953-20261030.htm",
-      "title": "滬股全月跌逾6%　創業板指數急挫23%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875953-20261030.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-10-30T07:31:50.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875950-20261030.htm",
-      "title": "韓股收市跌逾3%　10月累計跌逾16%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875950-20261030.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-30T07:00:48.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1875947-20261030.htm",
-      "title": "日股低收逾2%　10月累計跌逾5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1875947-20261030.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-10-30T06:59:07.000Z"
     }
   ]
 }

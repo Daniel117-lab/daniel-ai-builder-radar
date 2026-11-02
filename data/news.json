@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-02T06:04:17.885Z",
-  "windowStart": "2026-10-26T06:04:17.885Z",
+  "fetchedAt": "2026-11-02T15:54:18.651Z",
+  "windowStart": "2026-10-26T15:54:18.651Z",
   "queries": [
     "AI",
     "LLM",
@@ -10,14 +10,6 @@
     "Anthropic"
   ],
   "stories": [
-    {
-      "objectID": "50242939",
-      "title": "Anthropic S-1",
-      "url": "https://sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "domain": "sec.gov",
-      "points": 1709,
-      "publishedAt": "2026-10-26T13:04:50.000Z"
-    },
     {
       "objectID": "50251344",
       "title": "Three new discoveries in mathematics, computer science, and physics",
@@ -47,7 +39,7 @@
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
-      "points": 667,
+      "points": 676,
       "publishedAt": "2026-10-30T15:52:18.000Z"
     },
     {
@@ -63,7 +55,7 @@
       "title": "LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "domain": "martinfowler.com",
-      "points": 605,
+      "points": 606,
       "publishedAt": "2026-10-29T14:57:55.000Z"
     },
     {
@@ -71,7 +63,7 @@
       "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
       "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
       "domain": "stanforddaily.com",
-      "points": 605,
+      "points": 606,
       "publishedAt": "2026-10-27T15:28:26.000Z"
     },
     {
@@ -87,7 +79,7 @@
       "title": "Wikipedia's Cleanup of AI-Generated Content",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
-      "points": 520,
+      "points": 521,
       "publishedAt": "2026-10-27T11:08:15.000Z"
     },
     {
@@ -103,7 +95,7 @@
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai",
       "domain": "religionnews.com",
-      "points": 491,
+      "points": 493,
       "publishedAt": "2026-10-28T13:41:30.000Z"
     },
     {
@@ -111,8 +103,16 @@
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "domain": "twitter.com",
-      "points": 462,
+      "points": 482,
       "publishedAt": "2026-10-31T19:39:19.000Z"
+    },
+    {
+      "objectID": "50323088",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "domain": "nolanlawson.com",
+      "points": 436,
+      "publishedAt": "2026-11-01T06:06:19.000Z"
     },
     {
       "objectID": "50296486",
@@ -135,7 +135,7 @@
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
       "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
       "domain": "futurism.com",
-      "points": 386,
+      "points": 387,
       "publishedAt": "2026-10-27T16:25:30.000Z"
     },
     {
@@ -151,24 +151,24 @@
       "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://parameter.ai/labs/we-found-a-gap-at-openai",
       "domain": "parameter.ai",
-      "points": 358,
+      "points": 360,
       "publishedAt": "2026-10-31T10:30:11.000Z"
-    },
-    {
-      "objectID": "50323088",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
-      "domain": "nolanlawson.com",
-      "points": 336,
-      "publishedAt": "2026-11-01T06:06:19.000Z"
     },
     {
       "objectID": "50246658",
       "title": "Concerning behavior from a popular open-weight AI model",
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "domain": "cohere.com",
-      "points": 336,
+      "points": 337,
       "publishedAt": "2026-10-26T16:35:44.000Z"
+    },
+    {
+      "objectID": "50307219",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "domain": "ft.com",
+      "points": 325,
+      "publishedAt": "2026-10-30T17:27:25.000Z"
     }
   ]
 }
