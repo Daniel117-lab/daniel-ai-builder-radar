@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-03T00:58:22.865Z",
-  "windowStart": "2026-10-27T00:58:22.865Z",
+  "fetchedAt": "2026-11-03T14:15:30.361Z",
+  "windowStart": "2026-10-27T14:15:30.361Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,19 +11,19 @@
   ],
   "stories": [
     {
-      "objectID": "50257325",
-      "title": "AI promised less work. I've never worked more",
-      "url": "https://oioannou.com/blog/ai-promised-less-work",
-      "domain": "oioannou.com",
-      "points": 689,
-      "publishedAt": "2026-10-27T11:08:14.000Z"
+      "objectID": "50340088",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "domain": "news.ycombinator.com",
+      "points": 758,
+      "publishedAt": "2026-11-02T17:16:17.000Z"
     },
     {
       "objectID": "50305693",
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
-      "points": 677,
+      "points": 680,
       "publishedAt": "2026-10-30T15:52:18.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "domain": "martinfowler.com",
-      "points": 606,
+      "points": 609,
       "publishedAt": "2026-10-29T14:57:55.000Z"
     },
     {
@@ -51,30 +51,6 @@
       "publishedAt": "2026-10-27T19:55:06.000Z"
     },
     {
-      "objectID": "50340088",
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "domain": "news.ycombinator.com",
-      "points": 526,
-      "publishedAt": "2026-11-02T17:16:17.000Z"
-    },
-    {
-      "objectID": "50257326",
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "domain": "spectrum.ieee.org",
-      "points": 522,
-      "publishedAt": "2026-10-27T11:08:15.000Z"
-    },
-    {
-      "objectID": "50255298",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "domain": "j11g.com",
-      "points": 496,
-      "publishedAt": "2026-10-27T06:25:37.000Z"
-    },
-    {
       "objectID": "50273396",
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai",
@@ -87,7 +63,7 @@
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "domain": "twitter.com",
-      "points": 488,
+      "points": 491,
       "publishedAt": "2026-10-31T19:39:19.000Z"
     },
     {
@@ -95,7 +71,7 @@
       "title": "The AI cost of JavaScript frameworks",
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
       "domain": "nolanlawson.com",
-      "points": 468,
+      "points": 472,
       "publishedAt": "2026-11-01T06:06:19.000Z"
     },
     {
@@ -123,12 +99,28 @@
       "publishedAt": "2026-10-27T16:25:30.000Z"
     },
     {
+      "objectID": "50344919",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
+      "domain": "techpolicy.press",
+      "points": 374,
+      "publishedAt": "2026-11-02T22:30:47.000Z"
+    },
+    {
       "objectID": "50314699",
       "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://parameter.ai/labs/we-found-a-gap-at-openai",
       "domain": "parameter.ai",
-      "points": 361,
+      "points": 364,
       "publishedAt": "2026-10-31T10:30:11.000Z"
+    },
+    {
+      "objectID": "50339494",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "domain": "businessinsider.com",
+      "points": 335,
+      "publishedAt": "2026-11-02T16:40:29.000Z"
     },
     {
       "objectID": "50307219",
@@ -143,7 +135,7 @@
       "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
       "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
       "domain": "fortune.com",
-      "points": 314,
+      "points": 316,
       "publishedAt": "2026-10-30T14:08:20.000Z"
     },
     {
@@ -155,20 +147,28 @@
       "publishedAt": "2026-10-30T17:24:45.000Z"
     },
     {
-      "objectID": "50339494",
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "domain": "businessinsider.com",
-      "points": 286,
-      "publishedAt": "2026-11-02T16:40:29.000Z"
-    },
-    {
       "objectID": "50272479",
       "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
       "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
       "domain": "research.google",
-      "points": 273,
+      "points": 274,
       "publishedAt": "2026-10-28T12:24:25.000Z"
+    },
+    {
+      "objectID": "50306008",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "url": "https://bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "domain": "bbc.co.uk",
+      "points": 270,
+      "publishedAt": "2026-10-30T16:13:02.000Z"
+    },
+    {
+      "objectID": "50275626",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "domain": "surgehq.ai",
+      "points": 266,
+      "publishedAt": "2026-10-28T15:46:30.000Z"
     }
   ]
 }
