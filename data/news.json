@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-03T14:15:30.361Z",
-  "windowStart": "2026-10-27T14:15:30.361Z",
+  "fetchedAt": "2026-11-03T23:23:55.115Z",
+  "windowStart": "2026-10-27T23:23:55.115Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,11 +11,19 @@
   ],
   "stories": [
     {
+      "objectID": "50354960",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "domain": "github.com",
+      "points": 929,
+      "publishedAt": "2026-11-03T17:22:37.000Z"
+    },
+    {
       "objectID": "50340088",
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 758,
+      "points": 809,
       "publishedAt": "2026-11-02T17:16:17.000Z"
     },
     {
@@ -23,7 +31,7 @@
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
-      "points": 680,
+      "points": 682,
       "publishedAt": "2026-10-30T15:52:18.000Z"
     },
     {
@@ -31,31 +39,23 @@
       "title": "LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
       "domain": "martinfowler.com",
-      "points": 609,
+      "points": 610,
       "publishedAt": "2026-10-29T14:57:55.000Z"
     },
     {
-      "objectID": "50260814",
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude",
-      "domain": "stanforddaily.com",
-      "points": 606,
-      "publishedAt": "2026-10-27T15:28:26.000Z"
-    },
-    {
-      "objectID": "50264853",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://brangus.io/survival-llm",
-      "domain": "brangus.io",
-      "points": 543,
-      "publishedAt": "2026-10-27T19:55:06.000Z"
+      "objectID": "50353192",
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "domain": "nytimes.com",
+      "points": 525,
+      "publishedAt": "2026-11-03T15:25:47.000Z"
     },
     {
       "objectID": "50273396",
       "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
       "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai",
       "domain": "religionnews.com",
-      "points": 493,
+      "points": 494,
       "publishedAt": "2026-10-28T13:41:30.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "domain": "twitter.com",
-      "points": 491,
+      "points": 492,
       "publishedAt": "2026-10-31T19:39:19.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "The AI cost of JavaScript frameworks",
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
       "domain": "nolanlawson.com",
-      "points": 472,
+      "points": 474,
       "publishedAt": "2026-11-01T06:06:19.000Z"
     },
     {
@@ -79,31 +79,23 @@
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
-      "points": 421,
+      "points": 422,
       "publishedAt": "2026-10-29T21:40:28.000Z"
     },
     {
-      "objectID": "50261819",
-      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "domain": "gizmodo.com",
-      "points": 400,
-      "publishedAt": "2026-10-27T16:40:15.000Z"
-    },
-    {
-      "objectID": "50261589",
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "domain": "futurism.com",
-      "points": 387,
-      "publishedAt": "2026-10-27T16:25:30.000Z"
+      "objectID": "50352757",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "domain": "news.ycombinator.com",
+      "points": 415,
+      "publishedAt": "2026-11-03T14:53:41.000Z"
     },
     {
       "objectID": "50344919",
       "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
       "url": "https://techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
       "domain": "techpolicy.press",
-      "points": 374,
+      "points": 397,
       "publishedAt": "2026-11-02T22:30:47.000Z"
     },
     {
@@ -115,11 +107,19 @@
       "publishedAt": "2026-10-31T10:30:11.000Z"
     },
     {
+      "objectID": "50336918",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
+      "domain": "arstechnica.com",
+      "points": 351,
+      "publishedAt": "2026-11-02T14:02:42.000Z"
+    },
+    {
       "objectID": "50339494",
       "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
       "url": "https://businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
       "domain": "businessinsider.com",
-      "points": 335,
+      "points": 348,
       "publishedAt": "2026-11-02T16:40:29.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
       "url": "https://404media.co/protons-ceo-cancels-ai-re-interviews",
       "domain": "404media.co",
-      "points": 301,
+      "points": 302,
       "publishedAt": "2026-10-30T17:24:45.000Z"
     },
     {
@@ -151,7 +151,7 @@
       "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
       "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
       "domain": "research.google",
-      "points": 274,
+      "points": 276,
       "publishedAt": "2026-10-28T12:24:25.000Z"
     },
     {
