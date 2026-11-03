@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-02T15:54:18.651Z",
-  "windowStart": "2026-10-26T15:54:18.651Z",
+  "fetchedAt": "2026-11-03T00:58:22.865Z",
+  "windowStart": "2026-10-27T00:58:22.865Z",
   "queries": [
     "AI",
     "LLM",
@@ -10,22 +10,6 @@
     "Anthropic"
   ],
   "stories": [
-    {
-      "objectID": "50251344",
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "domain": "openai.com",
-      "points": 1162,
-      "publishedAt": "2026-10-26T21:35:28.000Z"
-    },
-    {
-      "objectID": "50251661",
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "domain": "github.com",
-      "points": 803,
-      "publishedAt": "2026-10-26T21:59:15.000Z"
-    },
     {
       "objectID": "50257325",
       "title": "AI promised less work. I've never worked more",
@@ -39,16 +23,8 @@
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
-      "points": 676,
+      "points": 677,
       "publishedAt": "2026-10-30T15:52:18.000Z"
-    },
-    {
-      "objectID": "50248124",
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "domain": "openai.com",
-      "points": 637,
-      "publishedAt": "2026-10-26T18:01:17.000Z"
     },
     {
       "objectID": "50290177",
@@ -75,11 +51,19 @@
       "publishedAt": "2026-10-27T19:55:06.000Z"
     },
     {
+      "objectID": "50340088",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "domain": "news.ycombinator.com",
+      "points": 526,
+      "publishedAt": "2026-11-02T17:16:17.000Z"
+    },
+    {
       "objectID": "50257326",
       "title": "Wikipedia's Cleanup of AI-Generated Content",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
       "domain": "spectrum.ieee.org",
-      "points": 521,
+      "points": 522,
       "publishedAt": "2026-10-27T11:08:15.000Z"
     },
     {
@@ -103,7 +87,7 @@
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "domain": "twitter.com",
-      "points": 482,
+      "points": 488,
       "publishedAt": "2026-10-31T19:39:19.000Z"
     },
     {
@@ -111,7 +95,7 @@
       "title": "The AI cost of JavaScript frameworks",
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
       "domain": "nolanlawson.com",
-      "points": 436,
+      "points": 468,
       "publishedAt": "2026-11-01T06:06:19.000Z"
     },
     {
@@ -119,7 +103,7 @@
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
-      "points": 419,
+      "points": 421,
       "publishedAt": "2026-10-29T21:40:28.000Z"
     },
     {
@@ -139,36 +123,52 @@
       "publishedAt": "2026-10-27T16:25:30.000Z"
     },
     {
-      "objectID": "50251200",
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "domain": "the-decoder.com",
-      "points": 362,
-      "publishedAt": "2026-10-26T21:24:18.000Z"
-    },
-    {
       "objectID": "50314699",
       "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://parameter.ai/labs/we-found-a-gap-at-openai",
       "domain": "parameter.ai",
-      "points": 360,
+      "points": 361,
       "publishedAt": "2026-10-31T10:30:11.000Z"
-    },
-    {
-      "objectID": "50246658",
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "domain": "cohere.com",
-      "points": 337,
-      "publishedAt": "2026-10-26T16:35:44.000Z"
     },
     {
       "objectID": "50307219",
       "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
       "url": "https://ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
       "domain": "ft.com",
-      "points": 325,
+      "points": 326,
       "publishedAt": "2026-10-30T17:27:25.000Z"
+    },
+    {
+      "objectID": "50304122",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
+      "domain": "fortune.com",
+      "points": 314,
+      "publishedAt": "2026-10-30T14:08:20.000Z"
+    },
+    {
+      "objectID": "50307183",
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "url": "https://404media.co/protons-ceo-cancels-ai-re-interviews",
+      "domain": "404media.co",
+      "points": 301,
+      "publishedAt": "2026-10-30T17:24:45.000Z"
+    },
+    {
+      "objectID": "50339494",
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "domain": "businessinsider.com",
+      "points": 286,
+      "publishedAt": "2026-11-02T16:40:29.000Z"
+    },
+    {
+      "objectID": "50272479",
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+      "domain": "research.google",
+      "points": 273,
+      "publishedAt": "2026-10-28T12:24:25.000Z"
     }
   ]
 }

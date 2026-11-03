@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-02T15:54:20.374Z",
-  "windowStart": "2026-10-30T15:54:20.374Z",
+  "fetchedAt": "2026-11-03T00:58:23.789Z",
+  "windowStart": "2026-10-31T00:58:23.789Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,38 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876325-20261103.htm",
+      "title": "韓股初段跌逾3%　日股休市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876325-20261103.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-03T00:18:47.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876316-20261103.htm",
+      "title": "港股美國預託證券普遍造好",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876316-20261103.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-02T22:19:39.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876314-20261103.htm",
+      "title": "歐洲股市靠穩　法股企穩8000點以上收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876314-20261103.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-02T22:18:38.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876311-20261103.htm",
+      "title": "道指高收213點　納指跌逾1%　英特爾沽壓未止",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876311-20261103.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-02T21:53:36.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1876287-20261102.htm",
       "title": "美股初段上升　油價急挫逾6%",
@@ -121,22 +153,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-10-31T07:18:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876027-20261031.htm",
-      "title": "港股ADR個別發展　滙控跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876027-20261031.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-10-30T23:36:38.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876023-20261031.htm",
-      "title": "英特爾重挫近29%　納指跌近2.9%　10月跌逾5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876023-20261031.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-10-30T22:09:35.000Z"
     }
   ]
 }
