@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-03T23:23:55.115Z",
-  "windowStart": "2026-10-27T23:23:55.115Z",
+  "fetchedAt": "2026-11-04T06:23:20.597Z",
+  "windowStart": "2026-10-28T06:23:20.597Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
-      "points": 929,
+      "points": 1166,
       "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 809,
+      "points": 815,
       "publishedAt": "2026-11-02T17:16:17.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
-      "points": 682,
+      "points": 683,
       "publishedAt": "2026-10-30T15:52:18.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Google will turn off search for schools that reject AI",
       "url": "https://nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "domain": "nytimes.com",
-      "points": 525,
+      "points": 596,
       "publishedAt": "2026-11-03T15:25:47.000Z"
     },
     {
@@ -75,20 +75,28 @@
       "publishedAt": "2026-11-01T06:06:19.000Z"
     },
     {
+      "objectID": "50352757",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "domain": "news.ycombinator.com",
+      "points": 464,
+      "publishedAt": "2026-11-03T14:53:41.000Z"
+    },
+    {
+      "objectID": "50336918",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
+      "domain": "arstechnica.com",
+      "points": 434,
+      "publishedAt": "2026-11-02T14:02:42.000Z"
+    },
+    {
       "objectID": "50296486",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
       "points": 422,
       "publishedAt": "2026-10-29T21:40:28.000Z"
-    },
-    {
-      "objectID": "50352757",
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "url": "https://news.ycombinator.com/item?id=50352757",
-      "domain": "news.ycombinator.com",
-      "points": 415,
-      "publishedAt": "2026-11-03T14:53:41.000Z"
     },
     {
       "objectID": "50344919",
@@ -103,23 +111,15 @@
       "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://parameter.ai/labs/we-found-a-gap-at-openai",
       "domain": "parameter.ai",
-      "points": 364,
+      "points": 365,
       "publishedAt": "2026-10-31T10:30:11.000Z"
-    },
-    {
-      "objectID": "50336918",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
-      "domain": "arstechnica.com",
-      "points": 351,
-      "publishedAt": "2026-11-02T14:02:42.000Z"
     },
     {
       "objectID": "50339494",
       "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
       "url": "https://businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
       "domain": "businessinsider.com",
-      "points": 348,
+      "points": 351,
       "publishedAt": "2026-11-02T16:40:29.000Z"
     },
     {
@@ -129,6 +129,14 @@
       "domain": "ft.com",
       "points": 326,
       "publishedAt": "2026-10-30T17:27:25.000Z"
+    },
+    {
+      "objectID": "50358422",
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "domain": "asia.nikkei.com",
+      "points": 322,
+      "publishedAt": "2026-11-03T21:26:44.000Z"
     },
     {
       "objectID": "50304122",
@@ -147,28 +155,20 @@
       "publishedAt": "2026-10-30T17:24:45.000Z"
     },
     {
+      "objectID": "50358582",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "domain": "arxiv.org",
+      "points": 298,
+      "publishedAt": "2026-11-03T21:40:53.000Z"
+    },
+    {
       "objectID": "50272479",
       "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
       "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
       "domain": "research.google",
       "points": 276,
       "publishedAt": "2026-10-28T12:24:25.000Z"
-    },
-    {
-      "objectID": "50306008",
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "url": "https://bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "domain": "bbc.co.uk",
-      "points": 270,
-      "publishedAt": "2026-10-30T16:13:02.000Z"
-    },
-    {
-      "objectID": "50275626",
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "domain": "surgehq.ai",
-      "points": 266,
-      "publishedAt": "2026-10-28T15:46:30.000Z"
     }
   ]
 }
