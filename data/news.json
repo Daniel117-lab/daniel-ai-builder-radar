@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-04T06:23:20.597Z",
-  "windowStart": "2026-10-28T06:23:20.597Z",
+  "fetchedAt": "2026-11-04T19:45:33.836Z",
+  "windowStart": "2026-10-28T19:45:33.836Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,15 +15,23 @@
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
-      "points": 1166,
+      "points": 1460,
       "publishedAt": "2026-11-03T17:22:37.000Z"
+    },
+    {
+      "objectID": "50364336",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "domain": "spectrum.ieee.org",
+      "points": 838,
+      "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
       "objectID": "50340088",
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 815,
+      "points": 827,
       "publishedAt": "2026-11-02T17:16:17.000Z"
     },
     {
@@ -31,8 +39,16 @@
       "title": "AI isn't replacing SREs, it's deskilling them",
       "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "domain": "newsletter.signoz.io",
-      "points": 683,
+      "points": 684,
       "publishedAt": "2026-10-30T15:52:18.000Z"
+    },
+    {
+      "objectID": "50353192",
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "domain": "nytimes.com",
+      "points": 653,
+      "publishedAt": "2026-11-03T15:25:47.000Z"
     },
     {
       "objectID": "50290177",
@@ -43,20 +59,20 @@
       "publishedAt": "2026-10-29T14:57:55.000Z"
     },
     {
-      "objectID": "50353192",
-      "title": "Google will turn off search for schools that reject AI",
-      "url": "https://nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "domain": "nytimes.com",
-      "points": 596,
-      "publishedAt": "2026-11-03T15:25:47.000Z"
+      "objectID": "50336918",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
+      "domain": "arstechnica.com",
+      "points": 524,
+      "publishedAt": "2026-11-02T14:02:42.000Z"
     },
     {
-      "objectID": "50273396",
-      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai",
-      "domain": "religionnews.com",
-      "points": 494,
-      "publishedAt": "2026-10-28T13:41:30.000Z"
+      "objectID": "50352757",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "domain": "news.ycombinator.com",
+      "points": 511,
+      "publishedAt": "2026-11-03T14:53:41.000Z"
     },
     {
       "objectID": "50319358",
@@ -71,24 +87,8 @@
       "title": "The AI cost of JavaScript frameworks",
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
       "domain": "nolanlawson.com",
-      "points": 474,
+      "points": 476,
       "publishedAt": "2026-11-01T06:06:19.000Z"
-    },
-    {
-      "objectID": "50352757",
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "url": "https://news.ycombinator.com/item?id=50352757",
-      "domain": "news.ycombinator.com",
-      "points": 464,
-      "publishedAt": "2026-11-03T14:53:41.000Z"
-    },
-    {
-      "objectID": "50336918",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
-      "domain": "arstechnica.com",
-      "points": 434,
-      "publishedAt": "2026-11-02T14:02:42.000Z"
     },
     {
       "objectID": "50296486",
@@ -103,8 +103,24 @@
       "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
       "url": "https://techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
       "domain": "techpolicy.press",
-      "points": 397,
+      "points": 403,
       "publishedAt": "2026-11-02T22:30:47.000Z"
+    },
+    {
+      "objectID": "50358422",
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "domain": "asia.nikkei.com",
+      "points": 402,
+      "publishedAt": "2026-11-03T21:26:44.000Z"
+    },
+    {
+      "objectID": "50358582",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "domain": "arxiv.org",
+      "points": 376,
+      "publishedAt": "2026-11-03T21:40:53.000Z"
     },
     {
       "objectID": "50314699",
@@ -119,7 +135,7 @@
       "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
       "url": "https://businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
       "domain": "businessinsider.com",
-      "points": 351,
+      "points": 352,
       "publishedAt": "2026-11-02T16:40:29.000Z"
     },
     {
@@ -129,14 +145,6 @@
       "domain": "ft.com",
       "points": 326,
       "publishedAt": "2026-10-30T17:27:25.000Z"
-    },
-    {
-      "objectID": "50358422",
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "domain": "asia.nikkei.com",
-      "points": 322,
-      "publishedAt": "2026-11-03T21:26:44.000Z"
     },
     {
       "objectID": "50304122",
@@ -151,24 +159,16 @@
       "title": "Proton's CEO Cancels AI 'Re-Interviews'",
       "url": "https://404media.co/protons-ceo-cancels-ai-re-interviews",
       "domain": "404media.co",
-      "points": 302,
+      "points": 304,
       "publishedAt": "2026-10-30T17:24:45.000Z"
     },
     {
-      "objectID": "50358582",
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "domain": "arxiv.org",
-      "points": 298,
-      "publishedAt": "2026-11-03T21:40:53.000Z"
-    },
-    {
-      "objectID": "50272479",
-      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
-      "domain": "research.google",
-      "points": 276,
-      "publishedAt": "2026-10-28T12:24:25.000Z"
+      "objectID": "50363554",
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "domain": "theguardian.com",
+      "points": 282,
+      "publishedAt": "2026-11-04T10:23:34.000Z"
     }
   ]
 }

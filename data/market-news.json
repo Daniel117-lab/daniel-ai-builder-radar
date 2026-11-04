@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-04T06:23:21.155Z",
-  "windowStart": "2026-11-01T06:23:21.155Z",
+  "fetchedAt": "2026-11-04T19:45:34.756Z",
+  "windowStart": "2026-11-01T19:45:34.756Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,54 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876590-20261104.htm",
+      "title": "道指初段升逾1200點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876590-20261104.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-04T14:47:52.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876541-20261104.htm",
+      "title": "恒指高收393點　連升4日　晶片和AI概念股急升",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876541-20261104.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-04T08:25:07.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876533-20261104.htm",
+      "title": "滬指高收逾2%　創近7個月最大升幅　創業板指數升逾6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876533-20261104.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-04T07:43:03.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876528-20261104.htm",
+      "title": "韓股高收0.6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876528-20261104.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-04T06:58:15.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876527-20261104.htm",
+      "title": "日股低收逾1%　一度跌逾3000點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876527-20261104.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-04T06:56:55.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876525-20261104.htm",
+      "title": "台股低收近1%　連跌5個交易日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876525-20261104.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-04T06:32:52.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1876518-20261104.htm",
       "title": "港股下午初段靠穩",
