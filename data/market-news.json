@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-05T06:47:11.994Z",
-  "windowStart": "2026-11-02T06:47:11.994Z",
+  "fetchedAt": "2026-11-05T19:57:24.090Z",
+  "windowStart": "2026-11-02T19:57:24.090Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,38 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876723-20261105.htm",
+      "title": "納指初段跌逾2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876723-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-05T14:46:08.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876675-20261105.htm",
+      "title": "恒指收市報24796點　升逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876675-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-05T08:25:00.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876663-20261105.htm",
+      "title": "滬指收市變動不大　深證成份指數升逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876663-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-05T07:14:54.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876660-20261105.htm",
+      "title": "韓股低收逾5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876660-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-05T06:42:40.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1876658-20261105.htm",
       "title": "日股低收近2%　連跌4日",
@@ -305,30 +337,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-11-02T21:53:36.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876287-20261102.htm",
-      "title": "美股初段上升　油價急挫逾6%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876287-20261102.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-02T14:48:20.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876243-20261102.htm",
-      "title": "恒指高收98點　科技股造好　小米升逾6%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876243-20261102.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-02T08:26:43.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876233-20261102.htm",
-      "title": "內地股市收市升逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876233-20261102.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-02T07:16:14.000Z"
     }
   ]
 }

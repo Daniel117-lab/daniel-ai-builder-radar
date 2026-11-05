@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-05T06:47:11.480Z",
-  "windowStart": "2026-10-29T06:47:11.480Z",
+  "fetchedAt": "2026-11-05T19:57:23.422Z",
+  "windowStart": "2026-10-29T19:57:23.422Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
-      "points": 1494,
+      "points": 1510,
       "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1146,
+      "points": 1249,
       "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 830,
+      "points": 836,
       "publishedAt": "2026-11-02T17:16:17.000Z"
     },
     {
@@ -47,23 +47,15 @@
       "title": "Google will turn off search for schools that reject AI",
       "url": "https://nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "domain": "nytimes.com",
-      "points": 664,
+      "points": 671,
       "publishedAt": "2026-11-03T15:25:47.000Z"
-    },
-    {
-      "objectID": "50290177",
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "domain": "martinfowler.com",
-      "points": 610,
-      "publishedAt": "2026-10-29T14:57:55.000Z"
     },
     {
       "objectID": "50336918",
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
       "domain": "arstechnica.com",
-      "points": 529,
+      "points": 533,
       "publishedAt": "2026-11-02T14:02:42.000Z"
     },
     {
@@ -71,7 +63,7 @@
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
       "url": "https://news.ycombinator.com/item?id=50352757",
       "domain": "news.ycombinator.com",
-      "points": 518,
+      "points": 522,
       "publishedAt": "2026-11-03T14:53:41.000Z"
     },
     {
@@ -79,8 +71,16 @@
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "domain": "twitter.com",
-      "points": 492,
+      "points": 493,
       "publishedAt": "2026-10-31T19:39:19.000Z"
+    },
+    {
+      "objectID": "50366117",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "domain": "news.ycombinator.com",
+      "points": 491,
+      "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
       "objectID": "50323088",
@@ -91,11 +91,19 @@
       "publishedAt": "2026-11-01T06:06:19.000Z"
     },
     {
+      "objectID": "50372929",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "domain": "openai.com",
+      "points": 463,
+      "publishedAt": "2026-11-04T23:33:14.000Z"
+    },
+    {
       "objectID": "50296486",
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "domain": "labs.ycombinator.com",
-      "points": 422,
+      "points": 423,
       "publishedAt": "2026-10-29T21:40:28.000Z"
     },
     {
@@ -103,7 +111,7 @@
       "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
       "domain": "asia.nikkei.com",
-      "points": 411,
+      "points": 415,
       "publishedAt": "2026-11-03T21:26:44.000Z"
     },
     {
@@ -111,7 +119,7 @@
       "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
       "url": "https://techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
       "domain": "techpolicy.press",
-      "points": 404,
+      "points": 405,
       "publishedAt": "2026-11-02T22:30:47.000Z"
     },
     {
@@ -119,8 +127,16 @@
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
-      "points": 384,
+      "points": 388,
       "publishedAt": "2026-11-03T21:40:53.000Z"
+    },
+    {
+      "objectID": "50372945",
+      "title": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "domain": "openai.com",
+      "points": 374,
+      "publishedAt": "2026-11-04T23:35:44.000Z"
     },
     {
       "objectID": "50314699",
@@ -147,28 +163,12 @@
       "publishedAt": "2026-10-30T17:27:25.000Z"
     },
     {
-      "objectID": "50304122",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-      "domain": "fortune.com",
-      "points": 316,
-      "publishedAt": "2026-10-30T14:08:20.000Z"
-    },
-    {
       "objectID": "50363554",
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
       "url": "https://theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
       "domain": "theguardian.com",
-      "points": 304,
+      "points": 317,
       "publishedAt": "2026-11-04T10:23:34.000Z"
-    },
-    {
-      "objectID": "50307183",
-      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-      "url": "https://404media.co/protons-ceo-cancels-ai-re-interviews",
-      "domain": "404media.co",
-      "points": 304,
-      "publishedAt": "2026-10-30T17:24:45.000Z"
     }
   ]
 }
