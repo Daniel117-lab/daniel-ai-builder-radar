@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-04T19:45:34.756Z",
-  "windowStart": "2026-11-01T19:45:34.756Z",
+  "fetchedAt": "2026-11-05T06:47:11.994Z",
+  "windowStart": "2026-11-02T06:47:11.994Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,86 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876658-20261105.htm",
+      "title": "日股低收近2%　連跌4日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876658-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-05T06:39:36.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876657-20261105.htm",
+      "title": "台股低收逾3%　連跌6日　創逾3個月低位",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876657-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-05T06:31:04.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876651-20261105.htm",
+      "title": "港股下午初段升幅收窄至約700點　科指升近5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876651-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-05T05:13:32.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876645-20261105.htm",
+      "title": "港股半日升739點　科指升近5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876645-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-05T04:23:46.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876643-20261105.htm",
+      "title": "內地股市低開高走　滬股曾升穿3700點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876643-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-05T03:43:29.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876634-20261105.htm",
+      "title": "日股半日倒跌逾0.4%　再度失守62000點關口",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876634-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-05T02:39:54.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876629-20261105.htm",
+      "title": "港股升幅擴大至逾600點　科指升逾4%突破4000點關口",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876629-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-05T01:52:52.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876628-20261105.htm",
+      "title": "內地股市初段偏軟　滬股跌逾0.6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876628-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-05T01:40:34.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876626-20261105.htm",
+      "title": "港股競價時段升397點　 半個月以來首次重上24000點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876626-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-05T01:26:49.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876624-20261105.htm",
+      "title": "台股初段跌約1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876624-20261105.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-05T01:07:53.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1876590-20261104.htm",
       "title": "道指初段升逾1200點",
@@ -249,70 +329,6 @@
       "source": "香港電台財經新聞",
       "market": "cn",
       "publishedAt": "2026-11-02T07:16:14.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876231-20261102.htm",
-      "title": "韓股高收逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876231-20261102.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-02T06:44:58.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876219-20261102.htm",
-      "title": "港股下午初段升逾百點　科指升逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876219-20261102.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-02T05:17:50.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876213-20261102.htm",
-      "title": "港股半日升142點　科指升近3%　銀行股捱沽",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876213-20261102.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-02T04:18:09.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876205-20261102.htm",
-      "title": "日股半日跌幅收窄至不足200點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876205-20261102.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-02T02:44:44.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876192-20261102.htm",
-      "title": "內地股市初段靠穩　滬股徘徊3600點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876192-20261102.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-02T01:37:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876190-20261102.htm",
-      "title": "港股競價時段升7點　科指升0.55%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876190-20261102.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-02T01:23:27.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876183-20261102.htm",
-      "title": "台股開市後跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876183-20261102.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-02T01:05:37.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876181-20261102.htm",
-      "title": "日股初段失守63000點　韓股跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876181-20261102.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-02T00:22:01.000Z"
     }
   ]
 }
