@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-06T06:47:18.198Z",
-  "windowStart": "2026-11-03T06:47:18.198Z",
+  "fetchedAt": "2026-11-06T19:24:53.833Z",
+  "windowStart": "2026-11-03T19:24:53.833Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,54 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876881-20261106.htm",
+      "title": "美股初段個別發展　晶片股反彈",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876881-20261106.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-06T14:56:49.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876875-20261106.htm",
+      "title": "深交所擬修訂創業板指數編制方案　股份權重上限逐步下調至15%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876875-20261106.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-06T13:07:05.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876834-20261106.htm",
+      "title": "恒指低收315點　本周升逾5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876834-20261106.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-06T08:32:44.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876827-20261106.htm",
+      "title": "內地股市低收1-4%　全星期錄得升幅",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876827-20261106.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-06T07:39:35.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876821-20261106.htm",
+      "title": "日股低收近6%　連跌5個交易日",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876821-20261106.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-06T07:07:01.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876822-20261106.htm",
+      "title": "韓股低收6%　本周累跌近12%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876822-20261106.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-06T07:06:06.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1876815-20261106.htm",
       "title": "台股低收4.5%　本周累跌逾12%",
@@ -305,30 +353,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-11-03T21:44:50.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876439-20261103.htm",
-      "title": "美股初段個別發展　晶片股反彈",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876439-20261103.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-03T14:44:09.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876392-20261103.htm",
-      "title": "恒指高收132點　連升3日",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876392-20261103.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-03T08:45:29.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876383-20261103.htm",
-      "title": "滬指低收近1%　創業板指數跌近3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876383-20261103.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-03T07:13:22.000Z"
     }
   ]
 }

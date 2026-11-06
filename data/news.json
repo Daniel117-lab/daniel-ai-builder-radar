@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-06T06:47:17.704Z",
-  "windowStart": "2026-10-30T06:47:17.704Z",
+  "fetchedAt": "2026-11-06T19:24:53.373Z",
+  "windowStart": "2026-10-30T19:24:53.373Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
-      "points": 1516,
+      "points": 1520,
       "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1270,
+      "points": 1286,
       "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
@@ -31,31 +31,31 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 837,
+      "points": 839,
       "publishedAt": "2026-11-02T17:16:17.000Z"
-    },
-    {
-      "objectID": "50305693",
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "domain": "newsletter.signoz.io",
-      "points": 684,
-      "publishedAt": "2026-10-30T15:52:18.000Z"
     },
     {
       "objectID": "50353192",
       "title": "Google will turn off search for schools that reject AI",
       "url": "https://nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "domain": "nytimes.com",
-      "points": 671,
+      "points": 672,
       "publishedAt": "2026-11-03T15:25:47.000Z"
+    },
+    {
+      "objectID": "50366117",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "domain": "news.ycombinator.com",
+      "points": 537,
+      "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
       "objectID": "50336918",
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
       "domain": "arstechnica.com",
-      "points": 535,
+      "points": 536,
       "publishedAt": "2026-11-02T14:02:42.000Z"
     },
     {
@@ -63,16 +63,8 @@
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
       "url": "https://news.ycombinator.com/item?id=50352757",
       "domain": "news.ycombinator.com",
-      "points": 525,
+      "points": 527,
       "publishedAt": "2026-11-03T14:53:41.000Z"
-    },
-    {
-      "objectID": "50366117",
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "domain": "news.ycombinator.com",
-      "points": 517,
-      "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
       "objectID": "50319358",
@@ -87,8 +79,16 @@
       "title": "A thousand fewer paths to root",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "domain": "openai.com",
-      "points": 477,
+      "points": 486,
       "publishedAt": "2026-11-04T23:33:14.000Z"
+    },
+    {
+      "objectID": "50385870",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "domain": "finance.yahoo.com",
+      "points": 480,
+      "publishedAt": "2026-11-05T23:09:57.000Z"
     },
     {
       "objectID": "50323088",
@@ -119,7 +119,7 @@
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
-      "points": 391,
+      "points": 392,
       "publishedAt": "2026-11-03T21:40:53.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "Images 2.6",
       "url": "https://openai.com/index/introducing-images-2-6",
       "domain": "openai.com",
-      "points": 376,
+      "points": 381,
       "publishedAt": "2026-11-04T23:35:44.000Z"
     },
     {
@@ -147,28 +147,28 @@
       "publishedAt": "2026-11-02T16:40:29.000Z"
     },
     {
-      "objectID": "50307219",
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "url": "https://ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-      "domain": "ft.com",
-      "points": 326,
-      "publishedAt": "2026-10-30T17:27:25.000Z"
+      "objectID": "50376313",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
+      "domain": "alignment.openai.com",
+      "points": 339,
+      "publishedAt": "2026-11-05T07:44:30.000Z"
     },
     {
       "objectID": "50363554",
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
       "url": "https://theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
       "domain": "theguardian.com",
-      "points": 319,
+      "points": 321,
       "publishedAt": "2026-11-04T10:23:34.000Z"
     },
     {
-      "objectID": "50376313",
-      "title": "GPT-6 Astra covertly underperforms on safety research",
-      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
-      "domain": "alignment.openai.com",
-      "points": 316,
-      "publishedAt": "2026-11-05T07:44:30.000Z"
+      "objectID": "50345924",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "domain": "openai.com",
+      "points": 271,
+      "publishedAt": "2026-11-02T23:47:56.000Z"
     }
   ]
 }
