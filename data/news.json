@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-05T19:57:23.422Z",
-  "windowStart": "2026-10-29T19:57:23.422Z",
+  "fetchedAt": "2026-11-06T06:47:17.704Z",
+  "windowStart": "2026-10-30T06:47:17.704Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
-      "points": 1510,
+      "points": 1516,
       "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1249,
+      "points": 1270,
       "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 836,
+      "points": 837,
       "publishedAt": "2026-11-02T17:16:17.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
       "domain": "arstechnica.com",
-      "points": 533,
+      "points": 535,
       "publishedAt": "2026-11-02T14:02:42.000Z"
     },
     {
@@ -63,8 +63,16 @@
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
       "url": "https://news.ycombinator.com/item?id=50352757",
       "domain": "news.ycombinator.com",
-      "points": 522,
+      "points": 525,
       "publishedAt": "2026-11-03T14:53:41.000Z"
+    },
+    {
+      "objectID": "50366117",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "domain": "news.ycombinator.com",
+      "points": 517,
+      "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
       "objectID": "50319358",
@@ -75,12 +83,12 @@
       "publishedAt": "2026-10-31T19:39:19.000Z"
     },
     {
-      "objectID": "50366117",
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "domain": "news.ycombinator.com",
-      "points": 491,
-      "publishedAt": "2026-11-04T14:37:22.000Z"
+      "objectID": "50372929",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "domain": "openai.com",
+      "points": 477,
+      "publishedAt": "2026-11-04T23:33:14.000Z"
     },
     {
       "objectID": "50323088",
@@ -91,27 +99,11 @@
       "publishedAt": "2026-11-01T06:06:19.000Z"
     },
     {
-      "objectID": "50372929",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "domain": "openai.com",
-      "points": 463,
-      "publishedAt": "2026-11-04T23:33:14.000Z"
-    },
-    {
-      "objectID": "50296486",
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "domain": "labs.ycombinator.com",
-      "points": 423,
-      "publishedAt": "2026-10-29T21:40:28.000Z"
-    },
-    {
       "objectID": "50358422",
       "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
       "domain": "asia.nikkei.com",
-      "points": 415,
+      "points": 420,
       "publishedAt": "2026-11-03T21:26:44.000Z"
     },
     {
@@ -127,7 +119,7 @@
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
-      "points": 388,
+      "points": 391,
       "publishedAt": "2026-11-03T21:40:53.000Z"
     },
     {
@@ -135,7 +127,7 @@
       "title": "Images 2.6",
       "url": "https://openai.com/index/introducing-images-2-6",
       "domain": "openai.com",
-      "points": 374,
+      "points": 376,
       "publishedAt": "2026-11-04T23:35:44.000Z"
     },
     {
@@ -167,8 +159,16 @@
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
       "url": "https://theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
       "domain": "theguardian.com",
-      "points": 317,
+      "points": 319,
       "publishedAt": "2026-11-04T10:23:34.000Z"
+    },
+    {
+      "objectID": "50376313",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
+      "domain": "alignment.openai.com",
+      "points": 316,
+      "publishedAt": "2026-11-05T07:44:30.000Z"
     }
   ]
 }
