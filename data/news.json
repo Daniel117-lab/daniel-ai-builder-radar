@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-07T05:58:45.436Z",
-  "windowStart": "2026-10-31T05:58:45.436Z",
+  "fetchedAt": "2026-11-07T13:01:44.487Z",
+  "windowStart": "2026-10-31T13:01:44.487Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
-      "points": 1522,
+      "points": 1523,
       "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1292,
+      "points": 1294,
       "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
-      "points": 544,
+      "points": 548,
       "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
       "url": "https://news.ycombinator.com/item?id=50352757",
       "domain": "news.ycombinator.com",
-      "points": 529,
+      "points": 530,
       "publishedAt": "2026-11-03T14:53:41.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
-      "points": 502,
+      "points": 509,
       "publishedAt": "2026-11-05T23:09:57.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "A thousand fewer paths to root",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "domain": "openai.com",
-      "points": 486,
+      "points": 487,
       "publishedAt": "2026-11-04T23:33:14.000Z"
     },
     {
@@ -111,7 +111,7 @@
       "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
       "url": "https://techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
       "domain": "techpolicy.press",
-      "points": 405,
+      "points": 406,
       "publishedAt": "2026-11-02T22:30:47.000Z"
     },
     {
@@ -131,12 +131,12 @@
       "publishedAt": "2026-11-04T23:35:44.000Z"
     },
     {
-      "objectID": "50314699",
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://parameter.ai/labs/we-found-a-gap-at-openai",
-      "domain": "parameter.ai",
-      "points": 365,
-      "publishedAt": "2026-10-31T10:30:11.000Z"
+      "objectID": "50388001",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
+      "domain": "reuters.com",
+      "points": 356,
+      "publishedAt": "2026-11-06T04:00:28.000Z"
     },
     {
       "objectID": "50339494",
@@ -155,20 +155,20 @@
       "publishedAt": "2026-11-05T07:44:30.000Z"
     },
     {
+      "objectID": "50397994",
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "domain": "planned-obsolescence.org",
+      "points": 331,
+      "publishedAt": "2026-11-06T20:27:23.000Z"
+    },
+    {
       "objectID": "50363554",
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
       "url": "https://theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
       "domain": "theguardian.com",
       "points": 321,
       "publishedAt": "2026-11-04T10:23:34.000Z"
-    },
-    {
-      "objectID": "50388001",
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
-      "domain": "reuters.com",
-      "points": 309,
-      "publishedAt": "2026-11-06T04:00:28.000Z"
     }
   ]
 }
