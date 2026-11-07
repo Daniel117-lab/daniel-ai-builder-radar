@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-07T13:01:44.487Z",
-  "windowStart": "2026-10-31T13:01:44.487Z",
+  "fetchedAt": "2026-11-07T21:51:30.028Z",
+  "windowStart": "2026-10-31T21:51:30.028Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,11 +11,19 @@
   ],
   "stories": [
     {
+      "objectID": "50385272",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "domain": "github.com",
+      "points": 1589,
+      "publishedAt": "2026-11-05T22:17:15.000Z"
+    },
+    {
       "objectID": "50354960",
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
-      "points": 1523,
+      "points": 1524,
       "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
@@ -31,7 +39,7 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 840,
+      "points": 841,
       "publishedAt": "2026-11-02T17:16:17.000Z"
     },
     {
@@ -47,7 +55,7 @@
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
-      "points": 548,
+      "points": 553,
       "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
@@ -55,7 +63,7 @@
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
       "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
       "domain": "arstechnica.com",
-      "points": 536,
+      "points": 537,
       "publishedAt": "2026-11-02T14:02:42.000Z"
     },
     {
@@ -63,7 +71,7 @@
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
       "url": "https://news.ycombinator.com/item?id=50352757",
       "domain": "news.ycombinator.com",
-      "points": 530,
+      "points": 531,
       "publishedAt": "2026-11-03T14:53:41.000Z"
     },
     {
@@ -71,16 +79,8 @@
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
-      "points": 509,
+      "points": 510,
       "publishedAt": "2026-11-05T23:09:57.000Z"
-    },
-    {
-      "objectID": "50319358",
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "domain": "twitter.com",
-      "points": 494,
-      "publishedAt": "2026-10-31T19:39:19.000Z"
     },
     {
       "objectID": "50372929",
@@ -103,7 +103,7 @@
       "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
       "domain": "asia.nikkei.com",
-      "points": 420,
+      "points": 421,
       "publishedAt": "2026-11-03T21:26:44.000Z"
     },
     {
@@ -113,6 +113,14 @@
       "domain": "techpolicy.press",
       "points": 406,
       "publishedAt": "2026-11-02T22:30:47.000Z"
+    },
+    {
+      "objectID": "50388001",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
+      "domain": "reuters.com",
+      "points": 402,
+      "publishedAt": "2026-11-06T04:00:28.000Z"
     },
     {
       "objectID": "50358582",
@@ -131,12 +139,12 @@
       "publishedAt": "2026-11-04T23:35:44.000Z"
     },
     {
-      "objectID": "50388001",
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
-      "domain": "reuters.com",
-      "points": 356,
-      "publishedAt": "2026-11-06T04:00:28.000Z"
+      "objectID": "50397994",
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "domain": "planned-obsolescence.org",
+      "points": 358,
+      "publishedAt": "2026-11-06T20:27:23.000Z"
     },
     {
       "objectID": "50339494",
@@ -155,19 +163,11 @@
       "publishedAt": "2026-11-05T07:44:30.000Z"
     },
     {
-      "objectID": "50397994",
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "domain": "planned-obsolescence.org",
-      "points": 331,
-      "publishedAt": "2026-11-06T20:27:23.000Z"
-    },
-    {
       "objectID": "50363554",
       "title": "Geoffrey Hinton: it might turn out we were better off without AI",
       "url": "https://theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
       "domain": "theguardian.com",
-      "points": 321,
+      "points": 322,
       "publishedAt": "2026-11-04T10:23:34.000Z"
     }
   ]

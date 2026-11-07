@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-07T13:01:49.118Z",
-  "windowStart": "2026-11-04T13:01:49.118Z",
+  "fetchedAt": "2026-11-07T21:51:30.629Z",
+  "windowStart": "2026-11-04T21:51:30.629Z",
   "markets": [
     {
       "id": "hk",
@@ -265,14 +265,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-11-05T01:07:53.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876590-20261104.htm",
-      "title": "道指初段升逾1200點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876590-20261104.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-04T14:47:52.000Z"
     }
   ]
 }
