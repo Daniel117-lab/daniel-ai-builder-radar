@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-06T19:24:53.833Z",
-  "windowStart": "2026-11-03T19:24:53.833Z",
+  "fetchedAt": "2026-11-07T05:58:46.002Z",
+  "windowStart": "2026-11-04T05:58:46.002Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876898-20261107.htm",
+      "title": "港股美國預託證券個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876898-20261107.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-06T22:23:51.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876897-20261107.htm",
+      "title": "英法德股市低收近1%至近2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876897-20261107.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-06T22:12:24.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876896-20261107.htm",
+      "title": "道指低收237點　納指反彈逾1%　多隻科技股回升",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876896-20261107.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-06T21:55:16.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1876881-20261106.htm",
       "title": "美股初段個別發展　晶片股反彈",
@@ -289,70 +313,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-11-04T06:32:52.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876518-20261104.htm",
-      "title": "港股下午初段靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876518-20261104.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-04T05:09:07.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876511-20261104.htm",
-      "title": "港股半日升3點　科指跌1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876511-20261104.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-04T04:14:36.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876498-20261104.htm",
-      "title": "日股半日跌幅擴至近4%　觸及逾3個月新低",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876498-20261104.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-04T02:36:55.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876490-20261104.htm",
-      "title": "滬股初段微升　創業板指數重上2400點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876490-20261104.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-04T01:36:21.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876487-20261104.htm",
-      "title": "恒指競價時段跌74點　科指跌0.5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876487-20261104.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-04T01:23:41.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876462-20261104.htm",
-      "title": "港股美國預託證券受壓　多隻藍籌股跌近1%或以上",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876462-20261104.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-03T22:23:13.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876461-20261104.htm",
-      "title": "歐洲股市低收　富時100指數跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876461-20261104.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-03T22:22:58.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876460-20261104.htm",
-      "title": "道指低收197點　納指反彈逾0.8%　蘋果跌約2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876460-20261104.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-03T21:44:50.000Z"
     }
   ]
 }

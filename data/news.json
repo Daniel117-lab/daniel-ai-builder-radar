@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-06T19:24:53.373Z",
-  "windowStart": "2026-10-30T19:24:53.373Z",
+  "fetchedAt": "2026-11-07T05:58:45.436Z",
+  "windowStart": "2026-10-31T05:58:45.436Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
-      "points": 1520,
+      "points": 1522,
       "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1286,
+      "points": 1292,
       "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 839,
+      "points": 840,
       "publishedAt": "2026-11-02T17:16:17.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
-      "points": 537,
+      "points": 544,
       "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
@@ -63,15 +63,23 @@
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
       "url": "https://news.ycombinator.com/item?id=50352757",
       "domain": "news.ycombinator.com",
-      "points": 527,
+      "points": 529,
       "publishedAt": "2026-11-03T14:53:41.000Z"
+    },
+    {
+      "objectID": "50385870",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "domain": "finance.yahoo.com",
+      "points": 502,
+      "publishedAt": "2026-11-05T23:09:57.000Z"
     },
     {
       "objectID": "50319358",
       "title": "Anthropic blocks users for anything touching training larger models",
       "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
       "domain": "twitter.com",
-      "points": 493,
+      "points": 494,
       "publishedAt": "2026-10-31T19:39:19.000Z"
     },
     {
@@ -81,14 +89,6 @@
       "domain": "openai.com",
       "points": 486,
       "publishedAt": "2026-11-04T23:33:14.000Z"
-    },
-    {
-      "objectID": "50385870",
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "domain": "finance.yahoo.com",
-      "points": 480,
-      "publishedAt": "2026-11-05T23:09:57.000Z"
     },
     {
       "objectID": "50323088",
@@ -127,7 +127,7 @@
       "title": "Images 2.6",
       "url": "https://openai.com/index/introducing-images-2-6",
       "domain": "openai.com",
-      "points": 381,
+      "points": 384,
       "publishedAt": "2026-11-04T23:35:44.000Z"
     },
     {
@@ -151,7 +151,7 @@
       "title": "GPT-6 Astra covertly underperforms on safety research",
       "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
       "domain": "alignment.openai.com",
-      "points": 339,
+      "points": 341,
       "publishedAt": "2026-11-05T07:44:30.000Z"
     },
     {
@@ -163,12 +163,12 @@
       "publishedAt": "2026-11-04T10:23:34.000Z"
     },
     {
-      "objectID": "50345924",
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai",
-      "domain": "openai.com",
-      "points": 271,
-      "publishedAt": "2026-11-02T23:47:56.000Z"
+      "objectID": "50388001",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
+      "domain": "reuters.com",
+      "points": 309,
+      "publishedAt": "2026-11-06T04:00:28.000Z"
     }
   ]
 }
