@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-08T13:25:36.284Z",
-  "windowStart": "2026-11-01T13:25:36.284Z",
+  "fetchedAt": "2026-11-08T22:05:59.455Z",
+  "windowStart": "2026-11-01T22:05:59.455Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "domain": "github.com",
-      "points": 1596,
+      "points": 1600,
       "publishedAt": "2026-11-05T22:17:15.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1299,
+      "points": 1304,
       "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Google will turn off search for schools that reject AI",
       "url": "https://nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "domain": "nytimes.com",
-      "points": 672,
+      "points": 673,
       "publishedAt": "2026-11-03T15:25:47.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
-      "points": 558,
+      "points": 561,
       "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
       "url": "https://news.ycombinator.com/item?id=50352757",
       "domain": "news.ycombinator.com",
-      "points": 531,
+      "points": 533,
       "publishedAt": "2026-11-03T14:53:41.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
-      "points": 515,
+      "points": 517,
       "publishedAt": "2026-11-05T23:09:57.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
-      "points": 473,
+      "points": 487,
       "publishedAt": "2026-11-07T18:02:17.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
-      "points": 393,
+      "points": 394,
       "publishedAt": "2026-11-03T21:40:53.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "AI is dramatically accelerating AI research",
       "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
-      "points": 370,
+      "points": 373,
       "publishedAt": "2026-11-06T20:27:23.000Z"
     },
     {
