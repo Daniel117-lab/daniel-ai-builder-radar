@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-07T21:51:30.629Z",
-  "windowStart": "2026-11-04T21:51:30.629Z",
+  "fetchedAt": "2026-11-08T06:01:40.842Z",
+  "windowStart": "2026-11-05T06:01:40.842Z",
   "markets": [
     {
       "id": "hk",
@@ -201,70 +201,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-11-05T06:31:04.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876651-20261105.htm",
-      "title": "港股下午初段升幅收窄至約700點　科指升近5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876651-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-05T05:13:32.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876645-20261105.htm",
-      "title": "港股半日升739點　科指升近5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876645-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-05T04:23:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876643-20261105.htm",
-      "title": "內地股市低開高走　滬股曾升穿3700點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876643-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-05T03:43:29.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876634-20261105.htm",
-      "title": "日股半日倒跌逾0.4%　再度失守62000點關口",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876634-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-05T02:39:54.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876629-20261105.htm",
-      "title": "港股升幅擴大至逾600點　科指升逾4%突破4000點關口",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876629-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-05T01:52:52.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876628-20261105.htm",
-      "title": "內地股市初段偏軟　滬股跌逾0.6%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876628-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-05T01:40:34.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876626-20261105.htm",
-      "title": "港股競價時段升397點　 半個月以來首次重上24000點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876626-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-05T01:26:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876624-20261105.htm",
-      "title": "台股初段跌約1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876624-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-05T01:07:53.000Z"
     }
   ]
 }
