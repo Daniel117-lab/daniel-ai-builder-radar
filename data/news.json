@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-08T06:01:36.599Z",
-  "windowStart": "2026-11-01T06:01:36.599Z",
+  "fetchedAt": "2026-11-08T13:25:36.284Z",
+  "windowStart": "2026-11-01T13:25:36.284Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "domain": "github.com",
-      "points": 1593,
+      "points": 1596,
       "publishedAt": "2026-11-05T22:17:15.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1296,
+      "points": 1299,
       "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 842,
+      "points": 843,
       "publishedAt": "2026-11-02T17:16:17.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
-      "points": 555,
+      "points": 558,
       "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
@@ -87,23 +87,15 @@
       "title": "A thousand fewer paths to root",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "domain": "openai.com",
-      "points": 487,
+      "points": 488,
       "publishedAt": "2026-11-04T23:33:14.000Z"
-    },
-    {
-      "objectID": "50323088",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
-      "domain": "nolanlawson.com",
-      "points": 477,
-      "publishedAt": "2026-11-01T06:06:19.000Z"
     },
     {
       "objectID": "50406563",
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
-      "points": 430,
+      "points": 473,
       "publishedAt": "2026-11-07T18:02:17.000Z"
     },
     {
@@ -135,7 +127,7 @@
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
-      "points": 392,
+      "points": 393,
       "publishedAt": "2026-11-03T21:40:53.000Z"
     },
     {
@@ -151,7 +143,7 @@
       "title": "AI is dramatically accelerating AI research",
       "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
-      "points": 363,
+      "points": 370,
       "publishedAt": "2026-11-06T20:27:23.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "alignment.openai.com",
       "points": 341,
       "publishedAt": "2026-11-05T07:44:30.000Z"
+    },
+    {
+      "objectID": "50363554",
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "domain": "theguardian.com",
+      "points": 322,
+      "publishedAt": "2026-11-04T10:23:34.000Z"
     }
   ]
 }

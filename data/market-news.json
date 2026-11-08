@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-08T06:01:40.842Z",
-  "windowStart": "2026-11-05T06:01:40.842Z",
+  "fetchedAt": "2026-11-08T13:25:37.026Z",
+  "windowStart": "2026-11-05T13:25:37.026Z",
   "markets": [
     {
       "id": "hk",
@@ -161,46 +161,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-11-05T14:46:08.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876675-20261105.htm",
-      "title": "恒指收市報24796點　升逾3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876675-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-05T08:25:00.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876663-20261105.htm",
-      "title": "滬指收市變動不大　深證成份指數升逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876663-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-05T07:14:54.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876660-20261105.htm",
-      "title": "韓股低收逾5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876660-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-05T06:42:40.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876658-20261105.htm",
-      "title": "日股低收近2%　連跌4日",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876658-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-05T06:39:36.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876657-20261105.htm",
-      "title": "台股低收逾3%　連跌6日　創逾3個月低位",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876657-20261105.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-05T06:31:04.000Z"
     }
   ]
 }
