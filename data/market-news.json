@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-09T06:30:57.573Z",
-  "windowStart": "2026-11-06T06:30:57.573Z",
+  "fetchedAt": "2026-11-09T22:22:20.340Z",
+  "windowStart": "2026-11-06T22:22:20.340Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,70 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877190-20261110.htm",
+      "title": "道指高收逾1100點　納指升近3%　Nvidia跌逾4%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877190-20261110.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-09T21:37:50.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877189-20261110.htm",
+      "title": "歐股高收逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877189-20261110.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-09T21:36:16.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877170-20261109.htm",
+      "title": "美股初段造好　道指升逾700點　Nvidia曾急挫近9%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877170-20261109.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-09T14:50:10.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877152-20261109.htm",
+      "title": "分析：內地A股回購短期有助紓緩港股情緒",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877152-20261109.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-09T10:52:45.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877134-20261109.htm",
+      "title": "港股低收32點　成交減至1737億元",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877134-20261109.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-09T08:23:49.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877123-20261109.htm",
+      "title": "滬股高收0.3%　深證成指及創業板高開低走",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877123-20261109.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-09T07:09:27.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877121-20261109.htm",
+      "title": "日股全日升幅收窄至2.3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877121-20261109.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-09T06:41:46.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877120-20261109.htm",
+      "title": "韓股扭轉早段升勢　低收0.8%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877120-20261109.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-09T06:39:20.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1877117-20261109.htm",
       "title": "台股高收近5%　結束7日跌勢",
@@ -121,70 +185,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-11-06T22:23:51.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876897-20261107.htm",
-      "title": "英法德股市低收近1%至近2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876897-20261107.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-06T22:12:24.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876896-20261107.htm",
-      "title": "道指低收237點　納指反彈逾1%　多隻科技股回升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876896-20261107.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-06T21:55:16.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876881-20261106.htm",
-      "title": "美股初段個別發展　晶片股反彈",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876881-20261106.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-06T14:56:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876875-20261106.htm",
-      "title": "深交所擬修訂創業板指數編制方案　股份權重上限逐步下調至15%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876875-20261106.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-06T13:07:05.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876834-20261106.htm",
-      "title": "恒指低收315點　本周升逾5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876834-20261106.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-06T08:32:44.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876827-20261106.htm",
-      "title": "內地股市低收1-4%　全星期錄得升幅",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876827-20261106.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-06T07:39:35.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876821-20261106.htm",
-      "title": "日股低收近6%　連跌5個交易日",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876821-20261106.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-06T07:07:01.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1876822-20261106.htm",
-      "title": "韓股低收6%　本周累跌近12%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1876822-20261106.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-06T07:06:06.000Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-09T06:30:56.431Z",
-  "windowStart": "2026-11-02T06:30:56.431Z",
+  "fetchedAt": "2026-11-09T22:22:19.773Z",
+  "windowStart": "2026-11-02T22:22:19.773Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "domain": "github.com",
-      "points": 1605,
+      "points": 1611,
       "publishedAt": "2026-11-05T22:17:15.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
-      "points": 1525,
+      "points": 1527,
       "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
@@ -31,16 +31,24 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1304,
+      "points": 1307,
       "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
-      "objectID": "50340088",
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "domain": "news.ycombinator.com",
-      "points": 844,
-      "publishedAt": "2026-11-02T17:16:17.000Z"
+      "objectID": "50429906",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
+      "domain": "anthropic.com",
+      "points": 774,
+      "publishedAt": "2026-11-09T18:56:29.000Z"
+    },
+    {
+      "objectID": "50424581",
+      "title": "Fold Epic Paper Airplanes",
+      "url": "https://foldableflight.com/",
+      "domain": "foldableflight.com",
+      "points": 763,
+      "publishedAt": "2026-11-09T12:19:22.000Z"
     },
     {
       "objectID": "50353192",
@@ -55,16 +63,16 @@
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
-      "points": 564,
+      "points": 569,
       "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
-      "objectID": "50336918",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
-      "domain": "arstechnica.com",
-      "points": 537,
-      "publishedAt": "2026-11-02T14:02:42.000Z"
+      "objectID": "50418975",
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
+      "domain": "matteoraso.github.io",
+      "points": 536,
+      "publishedAt": "2026-11-08T23:44:36.000Z"
     },
     {
       "objectID": "50352757",
@@ -79,7 +87,7 @@
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
-      "points": 519,
+      "points": 521,
       "publishedAt": "2026-11-05T23:09:57.000Z"
     },
     {
@@ -87,7 +95,7 @@
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
-      "points": 500,
+      "points": 507,
       "publishedAt": "2026-11-07T18:02:17.000Z"
     },
     {
@@ -111,7 +119,7 @@
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "url": "https://reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
       "domain": "reuters.com",
-      "points": 406,
+      "points": 410,
       "publishedAt": "2026-11-06T04:00:28.000Z"
     },
     {
@@ -127,7 +135,7 @@
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
       "domain": "arxiv.org",
-      "points": 394,
+      "points": 395,
       "publishedAt": "2026-11-03T21:40:53.000Z"
     },
     {
@@ -143,16 +151,8 @@
       "title": "AI is dramatically accelerating AI research",
       "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
-      "points": 374,
+      "points": 375,
       "publishedAt": "2026-11-06T20:27:23.000Z"
-    },
-    {
-      "objectID": "50339494",
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "domain": "businessinsider.com",
-      "points": 352,
-      "publishedAt": "2026-11-02T16:40:29.000Z"
     },
     {
       "objectID": "50376313",
@@ -163,12 +163,12 @@
       "publishedAt": "2026-11-05T07:44:30.000Z"
     },
     {
-      "objectID": "50363554",
-      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "url": "https://theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "domain": "theguardian.com",
+      "objectID": "50394906",
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "domain": "bloomberg.com",
       "points": 322,
-      "publishedAt": "2026-11-04T10:23:34.000Z"
+      "publishedAt": "2026-11-06T16:54:36.000Z"
     }
   ]
 }
