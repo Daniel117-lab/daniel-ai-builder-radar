@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-08T22:05:59.455Z",
-  "windowStart": "2026-11-01T22:05:59.455Z",
+  "fetchedAt": "2026-11-09T06:30:56.431Z",
+  "windowStart": "2026-11-02T06:30:56.431Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "domain": "github.com",
-      "points": 1600,
+      "points": 1605,
       "publishedAt": "2026-11-05T22:17:15.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
       "domain": "news.ycombinator.com",
-      "points": 843,
+      "points": 844,
       "publishedAt": "2026-11-02T17:16:17.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "Google will turn off search for schools that reject AI",
       "url": "https://nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
       "domain": "nytimes.com",
-      "points": 673,
+      "points": 674,
       "publishedAt": "2026-11-03T15:25:47.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
-      "points": 561,
+      "points": 564,
       "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
       "url": "https://news.ycombinator.com/item?id=50352757",
       "domain": "news.ycombinator.com",
-      "points": 533,
+      "points": 535,
       "publishedAt": "2026-11-03T14:53:41.000Z"
     },
     {
@@ -79,8 +79,16 @@
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
-      "points": 517,
+      "points": 519,
       "publishedAt": "2026-11-05T23:09:57.000Z"
+    },
+    {
+      "objectID": "50406563",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "domain": "hunch.net",
+      "points": 500,
+      "publishedAt": "2026-11-07T18:02:17.000Z"
     },
     {
       "objectID": "50372929",
@@ -91,14 +99,6 @@
       "publishedAt": "2026-11-04T23:33:14.000Z"
     },
     {
-      "objectID": "50406563",
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "domain": "hunch.net",
-      "points": 487,
-      "publishedAt": "2026-11-07T18:02:17.000Z"
-    },
-    {
       "objectID": "50358422",
       "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
@@ -107,20 +107,20 @@
       "publishedAt": "2026-11-03T21:26:44.000Z"
     },
     {
+      "objectID": "50388001",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
+      "domain": "reuters.com",
+      "points": 406,
+      "publishedAt": "2026-11-06T04:00:28.000Z"
+    },
+    {
       "objectID": "50344919",
       "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
       "url": "https://techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
       "domain": "techpolicy.press",
       "points": 406,
       "publishedAt": "2026-11-02T22:30:47.000Z"
-    },
-    {
-      "objectID": "50388001",
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
-      "domain": "reuters.com",
-      "points": 403,
-      "publishedAt": "2026-11-06T04:00:28.000Z"
     },
     {
       "objectID": "50358582",
@@ -143,7 +143,7 @@
       "title": "AI is dramatically accelerating AI research",
       "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
-      "points": 373,
+      "points": 374,
       "publishedAt": "2026-11-06T20:27:23.000Z"
     },
     {
