@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-09T22:22:19.773Z",
-  "windowStart": "2026-11-02T22:22:19.773Z",
+  "fetchedAt": "2026-11-10T07:18:55.664Z",
+  "windowStart": "2026-11-03T07:18:55.664Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "domain": "github.com",
-      "points": 1611,
+      "points": 1612,
       "publishedAt": "2026-11-05T22:17:15.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
       "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
       "domain": "github.com",
-      "points": 1527,
+      "points": 1528,
       "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1307,
+      "points": 1308,
       "publishedAt": "2026-11-04T11:52:17.000Z"
     },
     {
@@ -39,15 +39,15 @@
       "title": "Claude Fable 5.2 and Mythos 5.2",
       "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
       "domain": "anthropic.com",
-      "points": 774,
+      "points": 973,
       "publishedAt": "2026-11-09T18:56:29.000Z"
     },
     {
       "objectID": "50424581",
-      "title": "Fold Epic Paper Airplanes",
+      "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://foldableflight.com/",
       "domain": "foldableflight.com",
-      "points": 763,
+      "points": 956,
       "publishedAt": "2026-11-09T12:19:22.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "I'm not convinced the AI bubble exists",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
       "domain": "matteoraso.github.io",
-      "points": 536,
+      "points": 550,
       "publishedAt": "2026-11-08T23:44:36.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
-      "points": 507,
+      "points": 509,
       "publishedAt": "2026-11-07T18:02:17.000Z"
     },
     {
@@ -121,14 +121,6 @@
       "domain": "reuters.com",
       "points": 410,
       "publishedAt": "2026-11-06T04:00:28.000Z"
-    },
-    {
-      "objectID": "50344919",
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-      "domain": "techpolicy.press",
-      "points": 406,
-      "publishedAt": "2026-11-02T22:30:47.000Z"
     },
     {
       "objectID": "50358582",
@@ -169,6 +161,14 @@
       "domain": "bloomberg.com",
       "points": 322,
       "publishedAt": "2026-11-06T16:54:36.000Z"
+    },
+    {
+      "objectID": "50363554",
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "domain": "theguardian.com",
+      "points": 322,
+      "publishedAt": "2026-11-04T10:23:34.000Z"
     }
   ]
 }
