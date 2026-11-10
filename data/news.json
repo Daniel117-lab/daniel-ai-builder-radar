@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-10T07:18:55.664Z",
-  "windowStart": "2026-11-03T07:18:55.664Z",
+  "fetchedAt": "2026-11-10T19:44:05.079Z",
+  "windowStart": "2026-11-03T19:44:05.079Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,55 +15,39 @@
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "domain": "github.com",
-      "points": 1612,
+      "points": 1613,
       "publishedAt": "2026-11-05T22:17:15.000Z"
-    },
-    {
-      "objectID": "50354960",
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "domain": "github.com",
-      "points": 1528,
-      "publishedAt": "2026-11-03T17:22:37.000Z"
     },
     {
       "objectID": "50364336",
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "domain": "spectrum.ieee.org",
-      "points": 1308,
+      "points": 1309,
       "publishedAt": "2026-11-04T11:52:17.000Z"
-    },
-    {
-      "objectID": "50429906",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
-      "domain": "anthropic.com",
-      "points": 973,
-      "publishedAt": "2026-11-09T18:56:29.000Z"
     },
     {
       "objectID": "50424581",
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://foldableflight.com/",
       "domain": "foldableflight.com",
-      "points": 956,
+      "points": 1169,
       "publishedAt": "2026-11-09T12:19:22.000Z"
     },
     {
-      "objectID": "50353192",
-      "title": "Google will turn off search for schools that reject AI",
-      "url": "https://nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "domain": "nytimes.com",
-      "points": 674,
-      "publishedAt": "2026-11-03T15:25:47.000Z"
+      "objectID": "50429906",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
+      "domain": "anthropic.com",
+      "points": 984,
+      "publishedAt": "2026-11-09T18:56:29.000Z"
     },
     {
       "objectID": "50366117",
       "title": "Ask HN: What's your current AI agentic setup?",
       "url": "https://news.ycombinator.com/item?id=50366117",
       "domain": "news.ycombinator.com",
-      "points": 569,
+      "points": 571,
       "publishedAt": "2026-11-04T14:37:22.000Z"
     },
     {
@@ -71,23 +55,15 @@
       "title": "I'm not convinced the AI bubble exists",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
       "domain": "matteoraso.github.io",
-      "points": 550,
+      "points": 560,
       "publishedAt": "2026-11-08T23:44:36.000Z"
-    },
-    {
-      "objectID": "50352757",
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "url": "https://news.ycombinator.com/item?id=50352757",
-      "domain": "news.ycombinator.com",
-      "points": 535,
-      "publishedAt": "2026-11-03T14:53:41.000Z"
     },
     {
       "objectID": "50385870",
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
-      "points": 521,
+      "points": 523,
       "publishedAt": "2026-11-05T23:09:57.000Z"
     },
     {
@@ -95,7 +71,7 @@
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
-      "points": 509,
+      "points": 510,
       "publishedAt": "2026-11-07T18:02:17.000Z"
     },
     {
@@ -103,7 +79,7 @@
       "title": "A thousand fewer paths to root",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "domain": "openai.com",
-      "points": 488,
+      "points": 489,
       "publishedAt": "2026-11-04T23:33:14.000Z"
     },
     {
@@ -119,7 +95,7 @@
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "url": "https://reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
       "domain": "reuters.com",
-      "points": 410,
+      "points": 411,
       "publishedAt": "2026-11-06T04:00:28.000Z"
     },
     {
@@ -143,7 +119,7 @@
       "title": "AI is dramatically accelerating AI research",
       "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
-      "points": 375,
+      "points": 377,
       "publishedAt": "2026-11-06T20:27:23.000Z"
     },
     {
@@ -151,7 +127,7 @@
       "title": "GPT-6 Astra covertly underperforms on safety research",
       "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
       "domain": "alignment.openai.com",
-      "points": 341,
+      "points": 342,
       "publishedAt": "2026-11-05T07:44:30.000Z"
     },
     {
@@ -169,6 +145,30 @@
       "domain": "theguardian.com",
       "points": 322,
       "publishedAt": "2026-11-04T10:23:34.000Z"
+    },
+    {
+      "objectID": "50416363",
+      "title": "How I'm fighting the AI brain fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "domain": "sergeykuhne.com",
+      "points": 308,
+      "publishedAt": "2026-11-08T19:37:42.000Z"
+    },
+    {
+      "objectID": "50366863",
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "domain": "openai.com",
+      "points": 265,
+      "publishedAt": "2026-11-04T15:21:21.000Z"
+    },
+    {
+      "objectID": "50388513",
+      "title": "I struggle to believe that AI R&D is ingenious",
+      "url": "https://lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "domain": "lesswrong.com",
+      "points": 221,
+      "publishedAt": "2026-11-06T05:19:04.000Z"
     }
   ]
 }
