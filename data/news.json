@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-10T19:44:05.079Z",
-  "windowStart": "2026-11-03T19:44:05.079Z",
+  "fetchedAt": "2026-11-11T06:22:20.049Z",
+  "windowStart": "2026-11-04T06:22:20.049Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "domain": "github.com",
-      "points": 1613,
+      "points": 1614,
       "publishedAt": "2026-11-05T22:17:15.000Z"
     },
     {
@@ -31,16 +31,8 @@
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://foldableflight.com/",
       "domain": "foldableflight.com",
-      "points": 1169,
+      "points": 1214,
       "publishedAt": "2026-11-09T12:19:22.000Z"
-    },
-    {
-      "objectID": "50429906",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
-      "domain": "anthropic.com",
-      "points": 984,
-      "publishedAt": "2026-11-09T18:56:29.000Z"
     },
     {
       "objectID": "50366117",
@@ -55,7 +47,7 @@
       "title": "I'm not convinced the AI bubble exists",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
       "domain": "matteoraso.github.io",
-      "points": 560,
+      "points": 566,
       "publishedAt": "2026-11-08T23:44:36.000Z"
     },
     {
@@ -83,12 +75,12 @@
       "publishedAt": "2026-11-04T23:33:14.000Z"
     },
     {
-      "objectID": "50358422",
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "domain": "asia.nikkei.com",
-      "points": 421,
-      "publishedAt": "2026-11-03T21:26:44.000Z"
+      "objectID": "50438318",
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
+      "domain": "evanxmerz.com",
+      "points": 470,
+      "publishedAt": "2026-11-10T10:25:58.000Z"
     },
     {
       "objectID": "50388001",
@@ -97,14 +89,6 @@
       "domain": "reuters.com",
       "points": 411,
       "publishedAt": "2026-11-06T04:00:28.000Z"
-    },
-    {
-      "objectID": "50358582",
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "domain": "arxiv.org",
-      "points": 395,
-      "publishedAt": "2026-11-03T21:40:53.000Z"
     },
     {
       "objectID": "50372945",
@@ -119,8 +103,16 @@
       "title": "AI is dramatically accelerating AI research",
       "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
-      "points": 377,
+      "points": 378,
       "publishedAt": "2026-11-06T20:27:23.000Z"
+    },
+    {
+      "objectID": "50447074",
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://vulncheck.com/blog/anthropic-glasswing-november-update",
+      "domain": "vulncheck.com",
+      "points": 370,
+      "publishedAt": "2026-11-10T22:17:56.000Z"
     },
     {
       "objectID": "50376313",
@@ -151,7 +143,7 @@
       "title": "How I'm fighting the AI brain fry",
       "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "domain": "sergeykuhne.com",
-      "points": 308,
+      "points": 311,
       "publishedAt": "2026-11-08T19:37:42.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "lesswrong.com",
       "points": 221,
       "publishedAt": "2026-11-06T05:19:04.000Z"
+    },
+    {
+      "objectID": "50422628",
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "url": "https://news.ycombinator.com/item?id=50422628",
+      "domain": "news.ycombinator.com",
+      "points": 216,
+      "publishedAt": "2026-11-09T08:17:49.000Z"
     }
   ]
 }
