@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-11T19:36:41.649Z",
-  "windowStart": "2026-11-04T19:36:41.649Z",
+  "fetchedAt": "2026-11-12T07:11:46.943Z",
+  "windowStart": "2026-11-05T07:11:46.943Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,15 +15,15 @@
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://foldableflight.com/",
       "domain": "foldableflight.com",
-      "points": 1237,
+      "points": 1252,
       "publishedAt": "2026-11-09T12:19:22.000Z"
     },
     {
       "objectID": "50452455",
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "url": "https://pietromiotti.com/latest/maya-site?maya=",
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
       "domain": "pietromiotti.com",
-      "points": 834,
+      "points": 969,
       "publishedAt": "2026-11-11T12:05:22.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "domain": "evanxmerz.com",
-      "points": 621,
+      "points": 633,
       "publishedAt": "2026-11-10T10:25:58.000Z"
     },
     {
@@ -39,8 +39,16 @@
       "title": "I'm not convinced the AI bubble exists",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
       "domain": "matteoraso.github.io",
-      "points": 570,
+      "points": 572,
       "publishedAt": "2026-11-08T23:44:36.000Z"
+    },
+    {
+      "objectID": "50446520",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
+      "domain": "9to5mac.com",
+      "points": 528,
+      "publishedAt": "2026-11-10T21:25:03.000Z"
     },
     {
       "objectID": "50385870",
@@ -51,35 +59,27 @@
       "publishedAt": "2026-11-05T23:09:57.000Z"
     },
     {
+      "objectID": "50458900",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+      "domain": "cbsnews.com",
+      "points": 513,
+      "publishedAt": "2026-11-11T21:24:35.000Z"
+    },
+    {
       "objectID": "50406563",
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
-      "points": 511,
+      "points": 512,
       "publishedAt": "2026-11-07T18:02:17.000Z"
-    },
-    {
-      "objectID": "50372929",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "domain": "openai.com",
-      "points": 489,
-      "publishedAt": "2026-11-04T23:33:14.000Z"
-    },
-    {
-      "objectID": "50446520",
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
-      "domain": "9to5mac.com",
-      "points": 483,
-      "publishedAt": "2026-11-10T21:25:03.000Z"
     },
     {
       "objectID": "50447074",
       "title": "Tracking Anthropic-discovered vulnerabilities",
       "url": "https://vulncheck.com/blog/anthropic-glasswing-november-update",
       "domain": "vulncheck.com",
-      "points": 440,
+      "points": 449,
       "publishedAt": "2026-11-10T22:17:56.000Z"
     },
     {
@@ -89,14 +89,6 @@
       "domain": "reuters.com",
       "points": 412,
       "publishedAt": "2026-11-06T04:00:28.000Z"
-    },
-    {
-      "objectID": "50372945",
-      "title": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "domain": "openai.com",
-      "points": 384,
-      "publishedAt": "2026-11-04T23:35:44.000Z"
     },
     {
       "objectID": "50397994",
@@ -131,6 +123,14 @@
       "publishedAt": "2026-11-08T19:37:42.000Z"
     },
     {
+      "objectID": "50454625",
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "domain": "github.com",
+      "points": 222,
+      "publishedAt": "2026-11-11T15:33:06.000Z"
+    },
+    {
       "objectID": "50388513",
       "title": "I struggle to believe that AI R&D is ingenious",
       "url": "https://lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
@@ -151,7 +151,7 @@
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
       "url": "https://cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "domain": "cnbc.com",
-      "points": 194,
+      "points": 195,
       "publishedAt": "2026-11-10T03:20:06.000Z"
     },
     {
@@ -163,12 +163,12 @@
       "publishedAt": "2026-11-08T14:49:23.000Z"
     },
     {
-      "objectID": "50370654",
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "domain": "qualcomm.com",
-      "points": 170,
-      "publishedAt": "2026-11-04T19:55:14.000Z"
+      "objectID": "50437106",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "domain": "notion.com",
+      "points": 164,
+      "publishedAt": "2026-11-10T07:19:38.000Z"
     }
   ]
 }

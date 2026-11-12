@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-11T19:36:42.484Z",
-  "windowStart": "2026-11-08T19:36:42.484Z",
+  "fetchedAt": "2026-11-12T07:11:47.841Z",
+  "windowStart": "2026-11-09T07:11:47.841Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,94 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877525-20261112.htm",
+      "title": "台股低收逾2.6%　結束3日升勢",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877525-20261112.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-12T06:41:51.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877529-20261112.htm",
+      "title": "韓股低收0.6%　結束兩日升勢",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877529-20261112.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-12T06:40:01.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877528-20261112.htm",
+      "title": "日股低收0.7%　結束3日升勢",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877528-20261112.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-12T06:38:12.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877519-20261112.htm",
+      "title": "恒指下午初段跌逾200點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877519-20261112.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-12T05:07:15.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877505-20261112.htm",
+      "title": "恒指半日跌223點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877505-20261112.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-12T04:19:53.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877503-20261112.htm",
+      "title": "內地股市半日靠穩",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877503-20261112.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-12T03:43:31.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877496-20261112.htm",
+      "title": "日股半日升近1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877496-20261112.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-12T02:49:34.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877488-20261112.htm",
+      "title": "內地股市初段偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877488-20261112.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-12T01:44:10.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877484-20261112.htm",
+      "title": "恒指競價時段跌194點　科指失守4000點關口",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877484-20261112.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-12T01:28:50.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877481-20261112.htm",
+      "title": "台股初段反覆",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877481-20261112.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-12T01:15:16.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877480-20261112.htm",
+      "title": "韓股初段微跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877480-20261112.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-12T00:18:10.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1877444-20261111.htm",
       "title": "道指初段窄幅上落　納指升逾1%　Nvidia反彈",
@@ -313,118 +401,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-11-09T08:23:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877123-20261109.htm",
-      "title": "滬股高收0.3%　深證成指及創業板高開低走",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877123-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-09T07:09:27.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877121-20261109.htm",
-      "title": "日股全日升幅收窄至2.3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877121-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-09T06:41:46.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877120-20261109.htm",
-      "title": "韓股扭轉早段升勢　低收0.8%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877120-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-09T06:39:20.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877117-20261109.htm",
-      "title": "台股高收近5%　結束7日跌勢",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877117-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-09T05:58:32.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877114-20261109.htm",
-      "title": "恒指下午開市初段靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877114-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-09T05:10:26.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877109-20261109.htm",
-      "title": "恒指半日升49點　美團跌逾半成",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877109-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-09T04:15:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877100-20261109.htm",
-      "title": "滬深股市半日上升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877100-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-09T03:46:03.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877094-20261109.htm",
-      "title": "日股半日升逾3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877094-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-09T02:38:29.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877081-20261109.htm",
-      "title": "內地股市初段上升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877081-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-09T01:37:23.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877079-20261109.htm",
-      "title": "恒指競價時段升143點　新股遠信儲能高招股價逾1倍",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877079-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-09T01:27:42.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877075-20261109.htm",
-      "title": "台股初段升近3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877075-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-09T01:09:19.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877067-20261109.htm",
-      "title": "韓股初段跌約1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877067-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-09T00:09:17.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877066-20261109.htm",
-      "title": "日股初段升逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877066-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-09T00:08:54.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877054-20261109.htm",
-      "title": "美股本周焦點於美國最新通脹數據及聯儲局官員講話",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877054-20261109.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-08T21:49:45.000Z"
     }
   ]
 }
