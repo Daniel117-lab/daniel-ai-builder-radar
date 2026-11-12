@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-12T07:11:46.943Z",
-  "windowStart": "2026-11-05T07:11:46.943Z",
+  "fetchedAt": "2026-11-12T19:55:00.724Z",
+  "windowStart": "2026-11-05T19:55:00.724Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,11 +11,19 @@
   ],
   "stories": [
     {
+      "objectID": "50385272",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "domain": "github.com",
+      "points": 1615,
+      "publishedAt": "2026-11-05T22:17:15.000Z"
+    },
+    {
       "objectID": "50424581",
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://foldableflight.com/",
       "domain": "foldableflight.com",
-      "points": 1252,
+      "points": 1260,
       "publishedAt": "2026-11-09T12:19:22.000Z"
     },
     {
@@ -23,15 +31,39 @@
       "title": "My AI agents found an unmapped Maya site?",
       "url": "https://pietromiotti.com/latest/maya-site",
       "domain": "pietromiotti.com",
-      "points": 969,
+      "points": 1024,
       "publishedAt": "2026-11-11T12:05:22.000Z"
+    },
+    {
+      "objectID": "50429906",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
+      "domain": "anthropic.com",
+      "points": 996,
+      "publishedAt": "2026-11-09T18:56:29.000Z"
+    },
+    {
+      "objectID": "50465829",
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us",
+      "domain": "ipo.anthropic.com",
+      "points": 698,
+      "publishedAt": "2026-11-12T11:46:41.000Z"
+    },
+    {
+      "objectID": "50458900",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+      "domain": "cbsnews.com",
+      "points": 651,
+      "publishedAt": "2026-11-11T21:24:35.000Z"
     },
     {
       "objectID": "50438318",
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "domain": "evanxmerz.com",
-      "points": 633,
+      "points": 637,
       "publishedAt": "2026-11-10T10:25:58.000Z"
     },
     {
@@ -39,7 +71,7 @@
       "title": "I'm not convinced the AI bubble exists",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
       "domain": "matteoraso.github.io",
-      "points": 572,
+      "points": 573,
       "publishedAt": "2026-11-08T23:44:36.000Z"
     },
     {
@@ -47,7 +79,7 @@
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "domain": "9to5mac.com",
-      "points": 528,
+      "points": 549,
       "publishedAt": "2026-11-10T21:25:03.000Z"
     },
     {
@@ -55,23 +87,15 @@
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "domain": "finance.yahoo.com",
-      "points": 523,
+      "points": 524,
       "publishedAt": "2026-11-05T23:09:57.000Z"
-    },
-    {
-      "objectID": "50458900",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
-      "domain": "cbsnews.com",
-      "points": 513,
-      "publishedAt": "2026-11-11T21:24:35.000Z"
     },
     {
       "objectID": "50406563",
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
       "domain": "hunch.net",
-      "points": 512,
+      "points": 513,
       "publishedAt": "2026-11-07T18:02:17.000Z"
     },
     {
@@ -79,7 +103,7 @@
       "title": "Tracking Anthropic-discovered vulnerabilities",
       "url": "https://vulncheck.com/blog/anthropic-glasswing-november-update",
       "domain": "vulncheck.com",
-      "points": 449,
+      "points": 457,
       "publishedAt": "2026-11-10T22:17:56.000Z"
     },
     {
@@ -95,16 +119,8 @@
       "title": "AI is dramatically accelerating AI research",
       "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
-      "points": 380,
+      "points": 381,
       "publishedAt": "2026-11-06T20:27:23.000Z"
-    },
-    {
-      "objectID": "50376313",
-      "title": "GPT-6 Astra covertly underperforms on safety research",
-      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks",
-      "domain": "alignment.openai.com",
-      "points": 342,
-      "publishedAt": "2026-11-05T07:44:30.000Z"
     },
     {
       "objectID": "50394906",
@@ -127,7 +143,7 @@
       "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "domain": "github.com",
-      "points": 222,
+      "points": 282,
       "publishedAt": "2026-11-11T15:33:06.000Z"
     },
     {
@@ -143,7 +159,7 @@
       "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
       "url": "https://news.ycombinator.com/item?id=50422628",
       "domain": "news.ycombinator.com",
-      "points": 217,
+      "points": 219,
       "publishedAt": "2026-11-09T08:17:49.000Z"
     },
     {
@@ -151,24 +167,8 @@
       "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
       "url": "https://cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
       "domain": "cnbc.com",
-      "points": 195,
+      "points": 196,
       "publishedAt": "2026-11-10T03:20:06.000Z"
-    },
-    {
-      "objectID": "50413822",
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "domain": "247wallst.com",
-      "points": 190,
-      "publishedAt": "2026-11-08T14:49:23.000Z"
-    },
-    {
-      "objectID": "50437106",
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "domain": "notion.com",
-      "points": 164,
-      "publishedAt": "2026-11-10T07:19:38.000Z"
     }
   ]
 }
