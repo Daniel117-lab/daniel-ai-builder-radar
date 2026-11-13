@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-12T19:55:00.724Z",
-  "windowStart": "2026-11-05T19:55:00.724Z",
+  "fetchedAt": "2026-11-13T06:46:35.063Z",
+  "windowStart": "2026-11-06T06:46:35.063Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,19 +11,11 @@
   ],
   "stories": [
     {
-      "objectID": "50385272",
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "domain": "github.com",
-      "points": 1615,
-      "publishedAt": "2026-11-05T22:17:15.000Z"
-    },
-    {
       "objectID": "50424581",
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://foldableflight.com/",
       "domain": "foldableflight.com",
-      "points": 1260,
+      "points": 1264,
       "publishedAt": "2026-11-09T12:19:22.000Z"
     },
     {
@@ -31,7 +23,7 @@
       "title": "My AI agents found an unmapped Maya site?",
       "url": "https://pietromiotti.com/latest/maya-site",
       "domain": "pietromiotti.com",
-      "points": 1024,
+      "points": 1030,
       "publishedAt": "2026-11-11T12:05:22.000Z"
     },
     {
@@ -39,7 +31,7 @@
       "title": "Claude Fable 5.2 and Mythos 5.2",
       "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
       "domain": "anthropic.com",
-      "points": 996,
+      "points": 998,
       "publishedAt": "2026-11-09T18:56:29.000Z"
     },
     {
@@ -47,7 +39,7 @@
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us",
       "domain": "ipo.anthropic.com",
-      "points": 698,
+      "points": 894,
       "publishedAt": "2026-11-12T11:46:41.000Z"
     },
     {
@@ -55,7 +47,7 @@
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
       "domain": "cbsnews.com",
-      "points": 651,
+      "points": 669,
       "publishedAt": "2026-11-11T21:24:35.000Z"
     },
     {
@@ -63,7 +55,7 @@
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "domain": "evanxmerz.com",
-      "points": 637,
+      "points": 639,
       "publishedAt": "2026-11-10T10:25:58.000Z"
     },
     {
@@ -79,16 +71,8 @@
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "domain": "9to5mac.com",
-      "points": 549,
+      "points": 555,
       "publishedAt": "2026-11-10T21:25:03.000Z"
-    },
-    {
-      "objectID": "50385870",
-      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-      "domain": "finance.yahoo.com",
-      "points": 524,
-      "publishedAt": "2026-11-05T23:09:57.000Z"
     },
     {
       "objectID": "50406563",
@@ -107,20 +91,20 @@
       "publishedAt": "2026-11-10T22:17:56.000Z"
     },
     {
-      "objectID": "50388001",
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
-      "domain": "reuters.com",
-      "points": 412,
-      "publishedAt": "2026-11-06T04:00:28.000Z"
-    },
-    {
       "objectID": "50397994",
       "title": "AI is dramatically accelerating AI research",
       "url": "https://planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "domain": "planned-obsolescence.org",
-      "points": 381,
+      "points": 382,
       "publishedAt": "2026-11-06T20:27:23.000Z"
+    },
+    {
+      "objectID": "50468888",
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing",
+      "domain": "github.com",
+      "points": 329,
+      "publishedAt": "2026-11-12T15:23:10.000Z"
     },
     {
       "objectID": "50394906",
@@ -135,7 +119,7 @@
       "title": "How I'm fighting the AI brain fry",
       "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "domain": "sergeykuhne.com",
-      "points": 313,
+      "points": 314,
       "publishedAt": "2026-11-08T19:37:42.000Z"
     },
     {
@@ -143,16 +127,16 @@
       "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "domain": "github.com",
-      "points": 282,
+      "points": 290,
       "publishedAt": "2026-11-11T15:33:06.000Z"
     },
     {
-      "objectID": "50388513",
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "url": "https://lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "domain": "lesswrong.com",
-      "points": 221,
-      "publishedAt": "2026-11-06T05:19:04.000Z"
+      "objectID": "50474883",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "domain": "unemploymentlabs.com",
+      "points": 254,
+      "publishedAt": "2026-11-12T21:56:11.000Z"
     },
     {
       "objectID": "50422628",
@@ -169,6 +153,22 @@
       "domain": "cnbc.com",
       "points": 196,
       "publishedAt": "2026-11-10T03:20:06.000Z"
+    },
+    {
+      "objectID": "50413822",
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "domain": "247wallst.com",
+      "points": 190,
+      "publishedAt": "2026-11-08T14:49:23.000Z"
+    },
+    {
+      "objectID": "50402212",
+      "title": "The Components of Agent Memory",
+      "url": "https://anthropic.com/research/components-of-agent-memory",
+      "domain": "anthropic.com",
+      "points": 189,
+      "publishedAt": "2026-11-07T06:39:04.000Z"
     }
   ]
 }
