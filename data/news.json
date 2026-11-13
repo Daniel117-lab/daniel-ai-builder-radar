@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-13T06:46:35.063Z",
-  "windowStart": "2026-11-06T06:46:35.063Z",
+  "fetchedAt": "2026-11-13T19:42:57.508Z",
+  "windowStart": "2026-11-06T19:42:57.508Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://foldableflight.com/",
       "domain": "foldableflight.com",
-      "points": 1264,
+      "points": 1273,
       "publishedAt": "2026-11-09T12:19:22.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "My AI agents found an unmapped Maya site?",
       "url": "https://pietromiotti.com/latest/maya-site",
       "domain": "pietromiotti.com",
-      "points": 1030,
+      "points": 1033,
       "publishedAt": "2026-11-11T12:05:22.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us",
       "domain": "ipo.anthropic.com",
-      "points": 894,
+      "points": 988,
       "publishedAt": "2026-11-12T11:46:41.000Z"
     },
     {
@@ -47,7 +47,7 @@
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
       "domain": "cbsnews.com",
-      "points": 669,
+      "points": 676,
       "publishedAt": "2026-11-11T21:24:35.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "domain": "evanxmerz.com",
-      "points": 639,
+      "points": 641,
       "publishedAt": "2026-11-10T10:25:58.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "I'm not convinced the AI bubble exists",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
       "domain": "matteoraso.github.io",
-      "points": 573,
+      "points": 574,
       "publishedAt": "2026-11-08T23:44:36.000Z"
     },
     {
@@ -71,8 +71,16 @@
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "domain": "9to5mac.com",
-      "points": 555,
+      "points": 561,
       "publishedAt": "2026-11-10T21:25:03.000Z"
+    },
+    {
+      "objectID": "50474959",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
+      "domain": "scottjg.com",
+      "points": 550,
+      "publishedAt": "2026-11-12T22:03:09.000Z"
     },
     {
       "objectID": "50406563",
@@ -83,11 +91,27 @@
       "publishedAt": "2026-11-07T18:02:17.000Z"
     },
     {
+      "objectID": "50468888",
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing",
+      "domain": "github.com",
+      "points": 462,
+      "publishedAt": "2026-11-12T15:23:10.000Z"
+    },
+    {
+      "objectID": "50481187",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "domain": "status.claude.com",
+      "points": 460,
+      "publishedAt": "2026-11-13T10:18:13.000Z"
+    },
+    {
       "objectID": "50447074",
       "title": "Tracking Anthropic-discovered vulnerabilities",
       "url": "https://vulncheck.com/blog/anthropic-glasswing-november-update",
       "domain": "vulncheck.com",
-      "points": 457,
+      "points": 459,
       "publishedAt": "2026-11-10T22:17:56.000Z"
     },
     {
@@ -99,20 +123,20 @@
       "publishedAt": "2026-11-06T20:27:23.000Z"
     },
     {
-      "objectID": "50468888",
-      "title": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing",
-      "domain": "github.com",
-      "points": 329,
-      "publishedAt": "2026-11-12T15:23:10.000Z"
+      "objectID": "50474883",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "domain": "unemploymentlabs.com",
+      "points": 349,
+      "publishedAt": "2026-11-12T21:56:11.000Z"
     },
     {
-      "objectID": "50394906",
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "url": "https://bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "domain": "bloomberg.com",
-      "points": 322,
-      "publishedAt": "2026-11-06T16:54:36.000Z"
+      "objectID": "50475713",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "domain": "edge0.ai",
+      "points": 329,
+      "publishedAt": "2026-11-12T23:06:17.000Z"
     },
     {
       "objectID": "50416363",
@@ -127,48 +151,24 @@
       "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "domain": "github.com",
-      "points": 290,
+      "points": 296,
       "publishedAt": "2026-11-11T15:33:06.000Z"
     },
     {
-      "objectID": "50474883",
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "domain": "unemploymentlabs.com",
-      "points": 254,
-      "publishedAt": "2026-11-12T21:56:11.000Z"
+      "objectID": "50481870",
+      "title": "AI is destroying the trust between writers and readers",
+      "url": "https://theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
+      "domain": "theatlantic.com",
+      "points": 261,
+      "publishedAt": "2026-11-13T11:13:46.000Z"
     },
     {
       "objectID": "50422628",
       "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
       "url": "https://news.ycombinator.com/item?id=50422628",
       "domain": "news.ycombinator.com",
-      "points": 219,
+      "points": 220,
       "publishedAt": "2026-11-09T08:17:49.000Z"
-    },
-    {
-      "objectID": "50435660",
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "domain": "cnbc.com",
-      "points": 196,
-      "publishedAt": "2026-11-10T03:20:06.000Z"
-    },
-    {
-      "objectID": "50413822",
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "domain": "247wallst.com",
-      "points": 190,
-      "publishedAt": "2026-11-08T14:49:23.000Z"
-    },
-    {
-      "objectID": "50402212",
-      "title": "The Components of Agent Memory",
-      "url": "https://anthropic.com/research/components-of-agent-memory",
-      "domain": "anthropic.com",
-      "points": 189,
-      "publishedAt": "2026-11-07T06:39:04.000Z"
     }
   ]
 }
