@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-13T19:42:58.480Z",
-  "windowStart": "2026-11-10T19:42:58.480Z",
+  "fetchedAt": "2026-11-14T06:23:45.621Z",
+  "windowStart": "2026-11-11T06:23:45.621Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877778-20261114.htm",
+      "title": "港股ADR普遍較本港收市上升",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877778-20261114.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-13T23:22:49.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877771-20261114.htm",
+      "title": "美股3大指數本周升逾2%　Nvidia跌近13%連跌6周",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877771-20261114.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-13T22:14:50.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877768-20261114.htm",
+      "title": "歐股收市個別發展　本周累升逾2%至近4%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877768-20261114.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-13T21:57:34.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1877747-20261113.htm",
       "title": "美股初段個別發展　道指曾升逾200點　蘋果股價創新高",
@@ -273,94 +297,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-11-11T06:41:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877383-20261111.htm",
-      "title": "台股連升3日　高收近4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877383-20261111.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-11T05:50:00.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877381-20261111.htm",
-      "title": "恒指下午初段跌逾百點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877381-20261111.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-11T05:45:19.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877371-20261111.htm",
-      "title": "恒指半日跌204點　科指跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877371-20261111.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-11T04:15:29.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877368-20261111.htm",
-      "title": "滬指半日跌0.2%　創指升約1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877368-20261111.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-11T03:51:19.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877358-20261111.htm",
-      "title": "日股半日升近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877358-20261111.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-11T02:46:49.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877351-20261111.htm",
-      "title": "內地股市初段變動不大",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877351-20261111.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-11T01:38:06.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877349-20261111.htm",
-      "title": "恒指競價時段跌202點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877349-20261111.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-11T01:26:57.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877346-20261111.htm",
-      "title": "台股初段靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877346-20261111.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-11T01:15:23.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877341-20261111.htm",
-      "title": "韓股初段變動不大",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877341-20261111.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-11T00:13:15.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877340-20261111.htm",
-      "title": "日股初段靠穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877340-20261111.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-11T00:13:04.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877331-20261111.htm",
-      "title": "港股ADR普遍較本港收市下跌",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877331-20261111.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-10T22:34:28.000Z"
     }
   ]
 }
