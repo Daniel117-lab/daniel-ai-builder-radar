@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-14T18:02:14.060Z",
-  "windowStart": "2026-11-07T18:02:14.060Z",
+  "fetchedAt": "2026-11-14T22:24:47.611Z",
+  "windowStart": "2026-11-07T22:24:47.611Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://foldableflight.com/",
       "domain": "foldableflight.com",
-      "points": 1283,
+      "points": 1284,
       "publishedAt": "2026-11-09T12:19:22.000Z"
     },
     {
@@ -27,6 +27,22 @@
       "publishedAt": "2026-11-11T12:05:22.000Z"
     },
     {
+      "objectID": "50493251",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "domain": "techpowerup.com",
+      "points": 1009,
+      "publishedAt": "2026-11-14T02:52:59.000Z"
+    },
+    {
+      "objectID": "50465829",
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us",
+      "domain": "ipo.anthropic.com",
+      "points": 1001,
+      "publishedAt": "2026-11-12T11:46:41.000Z"
+    },
+    {
       "objectID": "50429906",
       "title": "Claude Fable 5.2 and Mythos 5.2",
       "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
@@ -35,27 +51,11 @@
       "publishedAt": "2026-11-09T18:56:29.000Z"
     },
     {
-      "objectID": "50465829",
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us",
-      "domain": "ipo.anthropic.com",
-      "points": 999,
-      "publishedAt": "2026-11-12T11:46:41.000Z"
-    },
-    {
-      "objectID": "50493251",
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "domain": "techpowerup.com",
-      "points": 952,
-      "publishedAt": "2026-11-14T02:52:59.000Z"
-    },
-    {
       "objectID": "50474959",
       "title": "Reverse engineering my Coway air purifier to ditch the cloud",
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
       "domain": "scottjg.com",
-      "points": 775,
+      "points": 782,
       "publishedAt": "2026-11-12T22:03:09.000Z"
     },
     {
@@ -63,7 +63,7 @@
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
       "domain": "cbsnews.com",
-      "points": 678,
+      "points": 680,
       "publishedAt": "2026-11-11T21:24:35.000Z"
     },
     {
@@ -87,23 +87,15 @@
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "domain": "9to5mac.com",
-      "points": 568,
+      "points": 569,
       "publishedAt": "2026-11-10T21:25:03.000Z"
-    },
-    {
-      "objectID": "50406563",
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "domain": "hunch.net",
-      "points": 515,
-      "publishedAt": "2026-11-07T18:02:17.000Z"
     },
     {
       "objectID": "50481187",
       "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "domain": "status.claude.com",
-      "points": 489,
+      "points": 493,
       "publishedAt": "2026-11-13T10:18:13.000Z"
     },
     {
@@ -127,7 +119,7 @@
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
       "url": "https://youtube.com/watch?v=IRK8h67ol7Q",
       "domain": "youtube.com",
-      "points": 435,
+      "points": 451,
       "publishedAt": "2026-11-13T15:08:44.000Z"
     },
     {
@@ -135,7 +127,7 @@
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "domain": "theguardian.com",
-      "points": 412,
+      "points": 420,
       "publishedAt": "2026-11-13T17:30:10.000Z"
     },
     {
@@ -143,7 +135,7 @@
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
-      "points": 369,
+      "points": 371,
       "publishedAt": "2026-11-12T21:56:11.000Z"
     },
     {
@@ -151,7 +143,7 @@
       "title": "AI is destroying the trust between writers and readers",
       "url": "https://theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
       "domain": "theatlantic.com",
-      "points": 359,
+      "points": 363,
       "publishedAt": "2026-11-13T11:13:46.000Z"
     },
     {
@@ -159,7 +151,7 @@
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "domain": "edge0.ai",
-      "points": 347,
+      "points": 351,
       "publishedAt": "2026-11-12T23:06:17.000Z"
     },
     {
@@ -169,6 +161,14 @@
       "domain": "sergeykuhne.com",
       "points": 315,
       "publishedAt": "2026-11-08T19:37:42.000Z"
+    },
+    {
+      "objectID": "50454625",
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "domain": "github.com",
+      "points": 303,
+      "publishedAt": "2026-11-11T15:33:06.000Z"
     }
   ]
 }
