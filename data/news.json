@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-15T06:33:20.904Z",
-  "windowStart": "2026-11-08T06:33:20.904Z",
+  "fetchedAt": "2026-11-15T18:51:47.171Z",
+  "windowStart": "2026-11-08T18:51:47.171Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://foldableflight.com/",
       "domain": "foldableflight.com",
-      "points": 1284,
+      "points": 1287,
       "publishedAt": "2026-11-09T12:19:22.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "domain": "techpowerup.com",
-      "points": 1062,
+      "points": 1089,
       "publishedAt": "2026-11-14T02:52:59.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "My AI agents found an unmapped Maya site?",
       "url": "https://pietromiotti.com/latest/maya-site",
       "domain": "pietromiotti.com",
-      "points": 1035,
+      "points": 1036,
       "publishedAt": "2026-11-11T12:05:22.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us",
       "domain": "ipo.anthropic.com",
-      "points": 1002,
+      "points": 1003,
       "publishedAt": "2026-11-12T11:46:41.000Z"
     },
     {
@@ -55,15 +55,23 @@
       "title": "Reverse engineering my Coway air purifier to ditch the cloud",
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
       "domain": "scottjg.com",
-      "points": 787,
+      "points": 792,
       "publishedAt": "2026-11-12T22:03:09.000Z"
+    },
+    {
+      "objectID": "50507303",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "domain": "jakub.jankiewicz.org",
+      "points": 684,
+      "publishedAt": "2026-11-15T14:46:58.000Z"
     },
     {
       "objectID": "50458900",
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
       "url": "https://cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
       "domain": "cbsnews.com",
-      "points": 680,
+      "points": 681,
       "publishedAt": "2026-11-11T21:24:35.000Z"
     },
     {
@@ -71,7 +79,7 @@
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "domain": "evanxmerz.com",
-      "points": 643,
+      "points": 645,
       "publishedAt": "2026-11-10T10:25:58.000Z"
     },
     {
@@ -79,7 +87,7 @@
       "title": "I'm not convinced the AI bubble exists",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
       "domain": "matteoraso.github.io",
-      "points": 578,
+      "points": 579,
       "publishedAt": "2026-11-08T23:44:36.000Z"
     },
     {
@@ -87,7 +95,7 @@
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "domain": "9to5mac.com",
-      "points": 570,
+      "points": 572,
       "publishedAt": "2026-11-10T21:25:03.000Z"
     },
     {
@@ -103,7 +111,7 @@
       "title": "I'm making LLMs work on small and old devices",
       "url": "https://github.com/hyperionaidev/smolmaxxing",
       "domain": "github.com",
-      "points": 478,
+      "points": 480,
       "publishedAt": "2026-11-12T15:23:10.000Z"
     },
     {
@@ -111,7 +119,7 @@
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
       "url": "https://youtube.com/watch?v=IRK8h67ol7Q",
       "domain": "youtube.com",
-      "points": 468,
+      "points": 477,
       "publishedAt": "2026-11-13T15:08:44.000Z"
     },
     {
@@ -127,7 +135,7 @@
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "domain": "theguardian.com",
-      "points": 427,
+      "points": 434,
       "publishedAt": "2026-11-13T17:30:10.000Z"
     },
     {
@@ -135,7 +143,7 @@
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
-      "points": 395,
+      "points": 417,
       "publishedAt": "2026-11-12T21:56:11.000Z"
     },
     {
@@ -143,7 +151,7 @@
       "title": "AI is destroying the trust between writers and readers",
       "url": "https://theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
       "domain": "theatlantic.com",
-      "points": 366,
+      "points": 369,
       "publishedAt": "2026-11-13T11:13:46.000Z"
     },
     {
@@ -151,7 +159,7 @@
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "domain": "edge0.ai",
-      "points": 353,
+      "points": 355,
       "publishedAt": "2026-11-12T23:06:17.000Z"
     },
     {
@@ -161,14 +169,6 @@
       "domain": "sergeykuhne.com",
       "points": 316,
       "publishedAt": "2026-11-08T19:37:42.000Z"
-    },
-    {
-      "objectID": "50454625",
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "domain": "github.com",
-      "points": 303,
-      "publishedAt": "2026-11-11T15:33:06.000Z"
     }
   ]
 }
