@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-14T22:24:47.611Z",
-  "windowStart": "2026-11-07T22:24:47.611Z",
+  "fetchedAt": "2026-11-15T06:33:20.904Z",
+  "windowStart": "2026-11-08T06:33:20.904Z",
   "queries": [
     "AI",
     "LLM",
@@ -19,6 +19,14 @@
       "publishedAt": "2026-11-09T12:19:22.000Z"
     },
     {
+      "objectID": "50493251",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "domain": "techpowerup.com",
+      "points": 1062,
+      "publishedAt": "2026-11-14T02:52:59.000Z"
+    },
+    {
       "objectID": "50452455",
       "title": "My AI agents found an unmapped Maya site?",
       "url": "https://pietromiotti.com/latest/maya-site",
@@ -27,19 +35,11 @@
       "publishedAt": "2026-11-11T12:05:22.000Z"
     },
     {
-      "objectID": "50493251",
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "domain": "techpowerup.com",
-      "points": 1009,
-      "publishedAt": "2026-11-14T02:52:59.000Z"
-    },
-    {
       "objectID": "50465829",
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us",
       "domain": "ipo.anthropic.com",
-      "points": 1001,
+      "points": 1002,
       "publishedAt": "2026-11-12T11:46:41.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Reverse engineering my Coway air purifier to ditch the cloud",
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
       "domain": "scottjg.com",
-      "points": 782,
+      "points": 787,
       "publishedAt": "2026-11-12T22:03:09.000Z"
     },
     {
@@ -71,7 +71,7 @@
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "domain": "evanxmerz.com",
-      "points": 642,
+      "points": 643,
       "publishedAt": "2026-11-10T10:25:58.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "domain": "9to5mac.com",
-      "points": 569,
+      "points": 570,
       "publishedAt": "2026-11-10T21:25:03.000Z"
     },
     {
@@ -107,6 +107,14 @@
       "publishedAt": "2026-11-12T15:23:10.000Z"
     },
     {
+      "objectID": "50484658",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://youtube.com/watch?v=IRK8h67ol7Q",
+      "domain": "youtube.com",
+      "points": 468,
+      "publishedAt": "2026-11-13T15:08:44.000Z"
+    },
+    {
       "objectID": "50447074",
       "title": "Tracking Anthropic-discovered vulnerabilities",
       "url": "https://vulncheck.com/blog/anthropic-glasswing-november-update",
@@ -115,19 +123,11 @@
       "publishedAt": "2026-11-10T22:17:56.000Z"
     },
     {
-      "objectID": "50484658",
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "url": "https://youtube.com/watch?v=IRK8h67ol7Q",
-      "domain": "youtube.com",
-      "points": 451,
-      "publishedAt": "2026-11-13T15:08:44.000Z"
-    },
-    {
       "objectID": "50486748",
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "domain": "theguardian.com",
-      "points": 420,
+      "points": 427,
       "publishedAt": "2026-11-13T17:30:10.000Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
-      "points": 371,
+      "points": 395,
       "publishedAt": "2026-11-12T21:56:11.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "AI is destroying the trust between writers and readers",
       "url": "https://theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
       "domain": "theatlantic.com",
-      "points": 363,
+      "points": 366,
       "publishedAt": "2026-11-13T11:13:46.000Z"
     },
     {
@@ -151,7 +151,7 @@
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "domain": "edge0.ai",
-      "points": 351,
+      "points": 353,
       "publishedAt": "2026-11-12T23:06:17.000Z"
     },
     {
@@ -159,7 +159,7 @@
       "title": "How I'm fighting the AI brain fry",
       "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "domain": "sergeykuhne.com",
-      "points": 315,
+      "points": 316,
       "publishedAt": "2026-11-08T19:37:42.000Z"
     },
     {
