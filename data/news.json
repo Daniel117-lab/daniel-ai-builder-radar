@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-16T06:30:41.503Z",
-  "windowStart": "2026-11-09T06:30:41.503Z",
+  "fetchedAt": "2026-11-16T22:03:03.664Z",
+  "windowStart": "2026-11-09T22:03:03.664Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,19 +11,11 @@
   ],
   "stories": [
     {
-      "objectID": "50424581",
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://foldableflight.com/",
-      "domain": "foldableflight.com",
-      "points": 1291,
-      "publishedAt": "2026-11-09T12:19:22.000Z"
-    },
-    {
       "objectID": "50507303",
       "title": "All AI-generated code should be Open Source",
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
       "domain": "jakub.jankiewicz.org",
-      "points": 1130,
+      "points": 1243,
       "publishedAt": "2026-11-15T14:46:58.000Z"
     },
     {
@@ -31,7 +23,7 @@
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "domain": "techpowerup.com",
-      "points": 1102,
+      "points": 1111,
       "publishedAt": "2026-11-14T02:52:59.000Z"
     },
     {
@@ -47,23 +39,15 @@
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us",
       "domain": "ipo.anthropic.com",
-      "points": 1003,
+      "points": 1004,
       "publishedAt": "2026-11-12T11:46:41.000Z"
-    },
-    {
-      "objectID": "50429906",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
-      "domain": "anthropic.com",
-      "points": 1000,
-      "publishedAt": "2026-11-09T18:56:29.000Z"
     },
     {
       "objectID": "50474959",
       "title": "Reverse engineering my Coway air purifier to ditch the cloud",
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
       "domain": "scottjg.com",
-      "points": 794,
+      "points": 798,
       "publishedAt": "2026-11-12T22:03:09.000Z"
     },
     {
@@ -79,7 +63,7 @@
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
       "domain": "evanxmerz.com",
-      "points": 645,
+      "points": 647,
       "publishedAt": "2026-11-10T10:25:58.000Z"
     },
     {
@@ -87,7 +71,7 @@
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "domain": "9to5mac.com",
-      "points": 575,
+      "points": 576,
       "publishedAt": "2026-11-10T21:25:03.000Z"
     },
     {
@@ -103,7 +87,7 @@
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
       "url": "https://youtube.com/watch?v=IRK8h67ol7Q",
       "domain": "youtube.com",
-      "points": 483,
+      "points": 489,
       "publishedAt": "2026-11-13T15:08:44.000Z"
     },
     {
@@ -111,7 +95,7 @@
       "title": "I'm making LLMs work on small and old devices",
       "url": "https://github.com/hyperionaidev/smolmaxxing",
       "domain": "github.com",
-      "points": 480,
+      "points": 483,
       "publishedAt": "2026-11-12T15:23:10.000Z"
     },
     {
@@ -119,31 +103,31 @@
       "title": "Tracking Anthropic-discovered vulnerabilities",
       "url": "https://vulncheck.com/blog/anthropic-glasswing-november-update",
       "domain": "vulncheck.com",
-      "points": 460,
+      "points": 461,
       "publishedAt": "2026-11-10T22:17:56.000Z"
-    },
-    {
-      "objectID": "50486748",
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "domain": "theguardian.com",
-      "points": 438,
-      "publishedAt": "2026-11-13T17:30:10.000Z"
     },
     {
       "objectID": "50474883",
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
-      "points": 438,
+      "points": 448,
       "publishedAt": "2026-11-12T21:56:11.000Z"
+    },
+    {
+      "objectID": "50486748",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "domain": "theguardian.com",
+      "points": 442,
+      "publishedAt": "2026-11-13T17:30:10.000Z"
     },
     {
       "objectID": "50481870",
       "title": "AI is destroying the trust between writers and readers",
       "url": "https://theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
       "domain": "theatlantic.com",
-      "points": 370,
+      "points": 371,
       "publishedAt": "2026-11-13T11:13:46.000Z"
     },
     {
@@ -151,7 +135,7 @@
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "domain": "edge0.ai",
-      "points": 356,
+      "points": 357,
       "publishedAt": "2026-11-12T23:06:17.000Z"
     },
     {
@@ -169,6 +153,22 @@
       "domain": "orcasairband.com",
       "points": 293,
       "publishedAt": "2026-11-13T22:04:24.000Z"
+    },
+    {
+      "objectID": "50506376",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "domain": "magazine.sebastianraschka.com",
+      "points": 241,
+      "publishedAt": "2026-11-15T12:14:06.000Z"
+    },
+    {
+      "objectID": "50441444",
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text",
+      "domain": "news.umich.edu",
+      "points": 231,
+      "publishedAt": "2026-11-10T15:07:28.000Z"
     }
   ]
 }

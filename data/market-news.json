@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-16T06:30:43.709Z",
-  "windowStart": "2026-11-13T06:30:43.709Z",
+  "fetchedAt": "2026-11-16T22:03:04.702Z",
+  "windowStart": "2026-11-13T22:03:04.702Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,38 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878054-20261117.htm",
+      "title": "道指低收739點　據報董事會無意讓黃仁勳重返Nvidia",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878054-20261117.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-16T21:39:12.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878037-20261116.htm",
+      "title": "美股初段向下　納指跌逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878037-20261116.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-16T14:50:14.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878000-20261116.htm",
+      "title": "港股高收116點　結束3日跌勢　新世界復牌急挫近41%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878000-20261116.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-16T08:38:54.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877993-20261116.htm",
+      "title": "內地股市下跌　創業板指數跌逾4%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877993-20261116.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-16T07:23:39.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1877975-20261116.htm",
       "title": "港股下午初段升近200點",
@@ -97,30 +129,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-11-13T22:14:50.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877768-20261114.htm",
-      "title": "歐股收市個別發展　本周累升逾2%至近4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877768-20261114.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-13T21:57:34.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877747-20261113.htm",
-      "title": "美股初段個別發展　道指曾升逾200點　蘋果股價創新高",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877747-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-13T14:59:12.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877704-20261113.htm",
-      "title": "港股低收370點　連跌3日　汽車及AI股跌勢未止",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877704-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-13T08:33:34.000Z"
     }
   ]
 }
