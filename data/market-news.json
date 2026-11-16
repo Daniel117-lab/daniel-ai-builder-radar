@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-15T18:51:48.101Z",
-  "windowStart": "2026-11-12T18:51:48.101Z",
+  "fetchedAt": "2026-11-16T06:30:43.709Z",
+  "windowStart": "2026-11-13T06:30:43.709Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,62 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877975-20261116.htm",
+      "title": "港股下午初段升近200點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877975-20261116.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-16T05:16:34.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877968-20261116.htm",
+      "title": "港交所計劃股份明年2月16日股份無紙化",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877968-20261116.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-16T05:10:55.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877962-20261116.htm",
+      "title": "港股半日升197點　科技股造好　新世界跌幅收窄至不足4成",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877962-20261116.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-16T04:23:54.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877959-20261116.htm",
+      "title": "滬股半日跌約0.4%　創業板指數跌逾2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877959-20261116.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-16T03:39:59.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877949-20261116.htm",
+      "title": "日股半日跌約1.6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877949-20261116.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-16T02:59:33.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877941-20261116.htm",
+      "title": "內地股市初段跌約1%或以上　上證指數3600點爭持",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877941-20261116.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-16T01:38:48.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877938-20261116.htm",
+      "title": "港股開市升71點　新世界供股集資249億元　復牌急挫逾45%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877938-20261116.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-16T01:24:28.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1877778-20261114.htm",
       "title": "港股ADR普遍較本港收市上升",
@@ -65,86 +121,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-11-13T08:33:34.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877683-20261113.htm",
-      "title": "台股高收逾1%　本周累升10%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877683-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-13T05:41:13.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877682-20261113.htm",
-      "title": "恒指下午初段跌逾280點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877682-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-13T05:19:42.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877673-20261113.htm",
-      "title": "恒指半日跌222點　科指跌近2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877673-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-13T04:17:42.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877668-20261113.htm",
-      "title": "內地股市半日個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877668-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-13T03:47:32.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877659-20261113.htm",
-      "title": "日股半日升近2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877659-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-13T02:53:39.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877652-20261113.htm",
-      "title": "恒指初段跌124點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877652-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-13T01:51:29.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877649-20261113.htm",
-      "title": "內地股市初段個別發展",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877649-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-13T01:48:58.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877644-20261113.htm",
-      "title": "台股初段升逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877644-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-13T01:13:05.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877639-20261113.htm",
-      "title": "韓股初段升近3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877639-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-13T00:25:25.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1877638-20261113.htm",
-      "title": "日股初段升逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1877638-20261113.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-13T00:25:15.000Z"
     }
   ]
 }
