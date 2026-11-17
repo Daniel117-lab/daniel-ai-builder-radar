@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-17T07:55:48.757Z",
-  "windowStart": "2026-11-10T07:55:48.757Z",
+  "fetchedAt": "2026-11-17T20:55:58.195Z",
+  "windowStart": "2026-11-10T20:55:58.195Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "All AI-generated code should be Open Source",
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
       "domain": "jakub.jankiewicz.org",
-      "points": 1270,
+      "points": 1278,
       "publishedAt": "2026-11-15T14:46:58.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "domain": "techpowerup.com",
-      "points": 1112,
+      "points": 1113,
       "publishedAt": "2026-11-14T02:52:59.000Z"
     },
     {
@@ -39,7 +39,7 @@
       "title": "Anthropic IPO",
       "url": "https://ipo.anthropic.com/us",
       "domain": "ipo.anthropic.com",
-      "points": 1005,
+      "points": 1006,
       "publishedAt": "2026-11-12T11:46:41.000Z"
     },
     {
@@ -47,8 +47,16 @@
       "title": "Reverse engineering my Coway air purifier to ditch the cloud",
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
       "domain": "scottjg.com",
-      "points": 799,
+      "points": 801,
       "publishedAt": "2026-11-12T22:03:09.000Z"
+    },
+    {
+      "objectID": "50535230",
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "domain": "openai.com",
+      "points": 774,
+      "publishedAt": "2026-11-17T17:46:43.000Z"
     },
     {
       "objectID": "50458900",
@@ -59,36 +67,28 @@
       "publishedAt": "2026-11-11T21:24:35.000Z"
     },
     {
-      "objectID": "50438318",
-      "title": "AI usage generates a fragile codebase",
-      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase",
-      "domain": "evanxmerz.com",
-      "points": 647,
-      "publishedAt": "2026-11-10T10:25:58.000Z"
-    },
-    {
       "objectID": "50446520",
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
       "domain": "9to5mac.com",
-      "points": 576,
+      "points": 578,
       "publishedAt": "2026-11-10T21:25:03.000Z"
-    },
-    {
-      "objectID": "50481187",
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "domain": "status.claude.com",
-      "points": 493,
-      "publishedAt": "2026-11-13T10:18:13.000Z"
     },
     {
       "objectID": "50484658",
       "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
       "url": "https://youtube.com/watch?v=IRK8h67ol7Q",
       "domain": "youtube.com",
-      "points": 489,
+      "points": 494,
       "publishedAt": "2026-11-13T15:08:44.000Z"
+    },
+    {
+      "objectID": "50481187",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "domain": "status.claude.com",
+      "points": 494,
+      "publishedAt": "2026-11-13T10:18:13.000Z"
     },
     {
       "objectID": "50468888",
@@ -111,7 +111,7 @@
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
-      "points": 450,
+      "points": 452,
       "publishedAt": "2026-11-12T21:56:11.000Z"
     },
     {
@@ -119,7 +119,7 @@
       "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
       "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
       "domain": "theguardian.com",
-      "points": 443,
+      "points": 444,
       "publishedAt": "2026-11-13T17:30:10.000Z"
     },
     {
@@ -143,7 +143,7 @@
       "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "domain": "github.com",
-      "points": 305,
+      "points": 306,
       "publishedAt": "2026-11-11T15:33:06.000Z"
     },
     {
@@ -155,20 +155,20 @@
       "publishedAt": "2026-11-13T22:04:24.000Z"
     },
     {
-      "objectID": "50506376",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "domain": "magazine.sebastianraschka.com",
-      "points": 245,
-      "publishedAt": "2026-11-15T12:14:06.000Z"
-    },
-    {
       "objectID": "50524165",
       "title": "United Airlines experiencing a widespread system outage, airline says",
       "url": "https://cnn.com/2026/11/16/us/united-airlines-outage",
       "domain": "cnn.com",
-      "points": 234,
+      "points": 253,
       "publishedAt": "2026-11-16T22:14:38.000Z"
+    },
+    {
+      "objectID": "50506376",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "domain": "magazine.sebastianraschka.com",
+      "points": 246,
+      "publishedAt": "2026-11-15T12:14:06.000Z"
     }
   ]
 }
