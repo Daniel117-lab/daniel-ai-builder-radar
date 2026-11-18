@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-17T20:55:58.911Z",
-  "windowStart": "2026-11-14T20:55:58.911Z",
+  "fetchedAt": "2026-11-18T07:29:35.705Z",
+  "windowStart": "2026-11-15T07:29:35.705Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,94 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878299-20261118.htm",
+      "title": "內地股市靠穩收市　創指升近1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878299-20261118.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-18T07:18:48.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878295-20261118.htm",
+      "title": "韓股反彈近2%收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878295-20261118.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-18T06:53:11.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878294-20261118.htm",
+      "title": "日股靠穩收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878294-20261118.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-18T06:42:25.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878293-20261118.htm",
+      "title": "台股收市跌約0.3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878293-20261118.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-18T06:38:02.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878281-20261118.htm",
+      "title": "港股下午初段跌近300點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878281-20261118.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-18T05:13:01.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878268-20261118.htm",
+      "title": "港股半日跌266點　京東系股份急挫",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878268-20261118.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-18T04:16:46.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878263-20261118.htm",
+      "title": "滬股半日跌0.4%　創業板指數跌近0.6%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878263-20261118.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-18T03:58:51.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878252-20261118.htm",
+      "title": "日股半日轉跌約0.3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878252-20261118.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-18T02:42:52.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878239-20261118.htm",
+      "title": "滬深股市高開後微跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878239-20261118.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-18T01:48:22.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878238-20261118.htm",
+      "title": "港股競價時段跌79點　京東集團績後跌逾4%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878238-20261118.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-18T01:27:10.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878231-20261118.htm",
+      "title": "台股初段升逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878231-20261118.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-18T01:06:01.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1878187-20261117.htm",
       "title": "美股初段向下　道指跌逾340點",
