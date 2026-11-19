@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-19T07:27:06.336Z",
-  "windowStart": "2026-11-12T07:27:06.336Z",
+  "fetchedAt": "2026-11-19T20:38:05.699Z",
+  "windowStart": "2026-11-12T20:38:05.699Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "GPT‑6.2 Astra and Sol",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "domain": "openai.com",
-      "points": 1339,
+      "points": 1345,
       "publishedAt": "2026-11-17T17:46:43.000Z"
     },
     {
@@ -23,7 +23,7 @@
       "title": "All AI-generated code should be Open Source",
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
       "domain": "jakub.jankiewicz.org",
-      "points": 1281,
+      "points": 1285,
       "publishedAt": "2026-11-15T14:46:58.000Z"
     },
     {
@@ -33,14 +33,6 @@
       "domain": "techpowerup.com",
       "points": 1114,
       "publishedAt": "2026-11-14T02:52:59.000Z"
-    },
-    {
-      "objectID": "50465829",
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us",
-      "domain": "ipo.anthropic.com",
-      "points": 1007,
-      "publishedAt": "2026-11-12T11:46:41.000Z"
     },
     {
       "objectID": "50474959",
@@ -55,7 +47,7 @@
       "title": "AI is killing All About Berlin",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "domain": "nicolasbouliane.com",
-      "points": 777,
+      "points": 801,
       "publishedAt": "2026-11-18T06:47:26.000Z"
     },
     {
@@ -63,8 +55,16 @@
       "title": "Google's AI answers reducing search traffic by 40%",
       "url": "https://revscope.co/blog/search-seo-geo-2026",
       "domain": "revscope.co",
-      "points": 697,
+      "points": 708,
       "publishedAt": "2026-11-18T00:17:58.000Z"
+    },
+    {
+      "objectID": "50562754",
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+      "domain": "reuters.com",
+      "points": 540,
+      "publishedAt": "2026-11-19T17:02:40.000Z"
     },
     {
       "objectID": "50484658",
@@ -83,19 +83,19 @@
       "publishedAt": "2026-11-13T10:18:13.000Z"
     },
     {
-      "objectID": "50468888",
-      "title": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing",
-      "domain": "github.com",
-      "points": 485,
-      "publishedAt": "2026-11-12T15:23:10.000Z"
+      "objectID": "50547777",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
+      "domain": "europeanbusinessmagazine.com",
+      "points": 479,
+      "publishedAt": "2026-11-18T15:49:34.000Z"
     },
     {
       "objectID": "50474883",
       "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
       "url": "https://unemploymentlabs.com/checkpoint-forensics",
       "domain": "unemploymentlabs.com",
-      "points": 453,
+      "points": 454,
       "publishedAt": "2026-11-12T21:56:11.000Z"
     },
     {
@@ -107,12 +107,12 @@
       "publishedAt": "2026-11-13T17:30:10.000Z"
     },
     {
-      "objectID": "50547777",
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
-      "domain": "europeanbusinessmagazine.com",
-      "points": 441,
-      "publishedAt": "2026-11-18T15:49:34.000Z"
+      "objectID": "50553843",
+      "title": "Anthropic prices initial public offering",
+      "url": "https://anthropic.com/news/anthropic-prices-initial-public-offering",
+      "domain": "anthropic.com",
+      "points": 410,
+      "publishedAt": "2026-11-18T23:30:09.000Z"
     },
     {
       "objectID": "50481870",
@@ -127,7 +127,7 @@
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "domain": "edge0.ai",
-      "points": 357,
+      "points": 358,
       "publishedAt": "2026-11-12T23:06:17.000Z"
     },
     {
@@ -135,8 +135,16 @@
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
       "domain": "complexdiscovery.com",
-      "points": 320,
+      "points": 322,
       "publishedAt": "2026-11-17T21:16:12.000Z"
+    },
+    {
+      "objectID": "50553225",
+      "title": "LLM assisted reverse engineering",
+      "url": "https://slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "domain": "slowchronicle.com",
+      "points": 294,
+      "publishedAt": "2026-11-18T22:29:13.000Z"
     },
     {
       "objectID": "50490593",
@@ -147,28 +155,20 @@
       "publishedAt": "2026-11-13T22:04:24.000Z"
     },
     {
+      "objectID": "50562262",
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
+      "domain": "ounapuu.ee",
+      "points": 288,
+      "publishedAt": "2026-11-19T16:30:18.000Z"
+    },
+    {
       "objectID": "50524165",
       "title": "United Airlines experiencing a widespread system outage, airline says",
       "url": "https://cnn.com/2026/11/16/us/united-airlines-outage",
       "domain": "cnn.com",
       "points": 257,
       "publishedAt": "2026-11-16T22:14:38.000Z"
-    },
-    {
-      "objectID": "50506376",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "domain": "magazine.sebastianraschka.com",
-      "points": 246,
-      "publishedAt": "2026-11-15T12:14:06.000Z"
-    },
-    {
-      "objectID": "50488769",
-      "title": "No AI Slop: A Manifesto",
-      "url": "https://slopmanifesto.com/",
-      "domain": "slopmanifesto.com",
-      "points": 230,
-      "publishedAt": "2026-11-13T19:51:56.000Z"
     }
   ]
 }

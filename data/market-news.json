@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-19T07:27:06.917Z",
-  "windowStart": "2026-11-16T07:27:06.917Z",
+  "fetchedAt": "2026-11-19T20:38:06.777Z",
+  "windowStart": "2026-11-16T20:38:06.777Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,14 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878508-20261119.htm",
+      "title": "美股初段造好　納指升近2%　AI相關股份造好",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878508-20261119.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-19T14:56:17.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1878443-20261119.htm",
       "title": "日股高收419點",
@@ -257,22 +265,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-11-16T21:39:12.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878037-20261116.htm",
-      "title": "美股初段向下　納指跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878037-20261116.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-16T14:50:14.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878000-20261116.htm",
-      "title": "港股高收116點　結束3日跌勢　新世界復牌急挫近41%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878000-20261116.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-16T08:38:54.000Z"
     }
   ]
 }
