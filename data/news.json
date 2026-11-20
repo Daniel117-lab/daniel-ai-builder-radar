@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-20T07:16:51.415Z",
-  "windowStart": "2026-11-13T07:16:51.415Z",
+  "fetchedAt": "2026-11-20T20:21:15.459Z",
+  "windowStart": "2026-11-13T20:21:15.459Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "GPT‑6.2 Astra and Sol",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "domain": "openai.com",
-      "points": 1345,
+      "points": 1346,
       "publishedAt": "2026-11-17T17:46:43.000Z"
     },
     {
@@ -23,31 +23,31 @@
       "title": "All AI-generated code should be Open Source",
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
       "domain": "jakub.jankiewicz.org",
-      "points": 1285,
+      "points": 1287,
       "publishedAt": "2026-11-15T14:46:58.000Z"
-    },
-    {
-      "objectID": "50493251",
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "domain": "techpowerup.com",
-      "points": 1114,
-      "publishedAt": "2026-11-14T02:52:59.000Z"
     },
     {
       "objectID": "50562754",
       "title": "Anthropic’s Nasdaq debut",
       "url": "https://reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
       "domain": "reuters.com",
-      "points": 1046,
+      "points": 1126,
       "publishedAt": "2026-11-19T17:02:40.000Z"
+    },
+    {
+      "objectID": "50493251",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "domain": "techpowerup.com",
+      "points": 1115,
+      "publishedAt": "2026-11-14T02:52:59.000Z"
     },
     {
       "objectID": "50542705",
       "title": "AI is killing All About Berlin",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "domain": "nicolasbouliane.com",
-      "points": 806,
+      "points": 812,
       "publishedAt": "2026-11-18T06:47:26.000Z"
     },
     {
@@ -63,63 +63,39 @@
       "title": "Fuck Your AI Safeguards",
       "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
       "domain": "ounapuu.ee",
-      "points": 528,
+      "points": 590,
       "publishedAt": "2026-11-19T16:30:18.000Z"
     },
     {
-      "objectID": "50484658",
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "url": "https://youtube.com/watch?v=IRK8h67ol7Q",
-      "domain": "youtube.com",
-      "points": 495,
-      "publishedAt": "2026-11-13T15:08:44.000Z"
-    },
-    {
-      "objectID": "50481187",
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "domain": "status.claude.com",
-      "points": 494,
-      "publishedAt": "2026-11-13T10:18:13.000Z"
+      "objectID": "50572503",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "domain": "architectlabs.com",
+      "points": 553,
+      "publishedAt": "2026-11-20T10:01:41.000Z"
     },
     {
       "objectID": "50547777",
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
       "domain": "europeanbusinessmagazine.com",
-      "points": 489,
+      "points": 495,
       "publishedAt": "2026-11-18T15:49:34.000Z"
-    },
-    {
-      "objectID": "50486748",
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "domain": "theguardian.com",
-      "points": 445,
-      "publishedAt": "2026-11-13T17:30:10.000Z"
     },
     {
       "objectID": "50553843",
       "title": "Anthropic prices initial public offering",
       "url": "https://anthropic.com/news/anthropic-prices-initial-public-offering",
       "domain": "anthropic.com",
-      "points": 414,
+      "points": 417,
       "publishedAt": "2026-11-18T23:30:09.000Z"
-    },
-    {
-      "objectID": "50481870",
-      "title": "AI is destroying the trust between writers and readers",
-      "url": "https://theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391",
-      "domain": "theatlantic.com",
-      "points": 373,
-      "publishedAt": "2026-11-13T11:13:46.000Z"
     },
     {
       "objectID": "50538303",
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
       "domain": "complexdiscovery.com",
-      "points": 325,
+      "points": 327,
       "publishedAt": "2026-11-17T21:16:12.000Z"
     },
     {
@@ -127,7 +103,7 @@
       "title": "LLM assisted reverse engineering",
       "url": "https://slowchronicle.com/posts/llm-assisted-reverse-engineering",
       "domain": "slowchronicle.com",
-      "points": 302,
+      "points": 313,
       "publishedAt": "2026-11-18T22:29:13.000Z"
     },
     {
@@ -139,11 +115,19 @@
       "publishedAt": "2026-11-13T22:04:24.000Z"
     },
     {
+      "objectID": "50561508",
+      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine",
+      "domain": "thedataexchange.media",
+      "points": 265,
+      "publishedAt": "2026-11-19T15:38:12.000Z"
+    },
+    {
       "objectID": "50524165",
       "title": "United Airlines experiencing a widespread system outage, airline says",
       "url": "https://cnn.com/2026/11/16/us/united-airlines-outage",
       "domain": "cnn.com",
-      "points": 257,
+      "points": 258,
       "publishedAt": "2026-11-16T22:14:38.000Z"
     },
     {
@@ -155,20 +139,36 @@
       "publishedAt": "2026-11-15T12:14:06.000Z"
     },
     {
-      "objectID": "50488769",
-      "title": "No AI Slop: A Manifesto",
-      "url": "https://slopmanifesto.com/",
-      "domain": "slopmanifesto.com",
-      "points": 230,
-      "publishedAt": "2026-11-13T19:51:56.000Z"
+      "objectID": "50549493",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "domain": "openai.com",
+      "points": 223,
+      "publishedAt": "2026-11-18T17:45:47.000Z"
     },
     {
-      "objectID": "50561508",
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine",
-      "domain": "thedataexchange.media",
-      "points": 226,
-      "publishedAt": "2026-11-19T15:38:12.000Z"
+      "objectID": "50489652",
+      "title": "All US airports are currently ground stopped",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "domain": "twitter.com",
+      "points": 214,
+      "publishedAt": "2026-11-13T21:06:52.000Z"
+    },
+    {
+      "objectID": "50531751",
+      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+      "url": "https://scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+      "domain": "scmp.com",
+      "points": 191,
+      "publishedAt": "2026-11-17T14:19:59.000Z"
+    },
+    {
+      "objectID": "50535740",
+      "title": "Not Everything Needs an LLM",
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "domain": "newsletter.posthog.com",
+      "points": 186,
+      "publishedAt": "2026-11-17T18:16:18.000Z"
     }
   ]
 }
