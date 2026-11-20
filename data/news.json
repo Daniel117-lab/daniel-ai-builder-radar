@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-19T20:38:05.699Z",
-  "windowStart": "2026-11-12T20:38:05.699Z",
+  "fetchedAt": "2026-11-20T07:16:51.415Z",
+  "windowStart": "2026-11-13T07:16:51.415Z",
   "queries": [
     "AI",
     "LLM",
@@ -35,19 +35,19 @@
       "publishedAt": "2026-11-14T02:52:59.000Z"
     },
     {
-      "objectID": "50474959",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
-      "domain": "scottjg.com",
-      "points": 804,
-      "publishedAt": "2026-11-12T22:03:09.000Z"
+      "objectID": "50562754",
+      "title": "Anthropic’s Nasdaq debut",
+      "url": "https://reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+      "domain": "reuters.com",
+      "points": 1046,
+      "publishedAt": "2026-11-19T17:02:40.000Z"
     },
     {
       "objectID": "50542705",
       "title": "AI is killing All About Berlin",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "domain": "nicolasbouliane.com",
-      "points": 801,
+      "points": 806,
       "publishedAt": "2026-11-18T06:47:26.000Z"
     },
     {
@@ -55,16 +55,16 @@
       "title": "Google's AI answers reducing search traffic by 40%",
       "url": "https://revscope.co/blog/search-seo-geo-2026",
       "domain": "revscope.co",
-      "points": 708,
+      "points": 709,
       "publishedAt": "2026-11-18T00:17:58.000Z"
     },
     {
-      "objectID": "50562754",
-      "title": "Anthropic hits $2T in Nasdaq debut",
-      "url": "https://reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-      "domain": "reuters.com",
-      "points": 540,
-      "publishedAt": "2026-11-19T17:02:40.000Z"
+      "objectID": "50562262",
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
+      "domain": "ounapuu.ee",
+      "points": 528,
+      "publishedAt": "2026-11-19T16:30:18.000Z"
     },
     {
       "objectID": "50484658",
@@ -87,16 +87,8 @@
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
       "domain": "europeanbusinessmagazine.com",
-      "points": 479,
+      "points": 489,
       "publishedAt": "2026-11-18T15:49:34.000Z"
-    },
-    {
-      "objectID": "50474883",
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "domain": "unemploymentlabs.com",
-      "points": 454,
-      "publishedAt": "2026-11-12T21:56:11.000Z"
     },
     {
       "objectID": "50486748",
@@ -111,7 +103,7 @@
       "title": "Anthropic prices initial public offering",
       "url": "https://anthropic.com/news/anthropic-prices-initial-public-offering",
       "domain": "anthropic.com",
-      "points": 410,
+      "points": 414,
       "publishedAt": "2026-11-18T23:30:09.000Z"
     },
     {
@@ -123,19 +115,11 @@
       "publishedAt": "2026-11-13T11:13:46.000Z"
     },
     {
-      "objectID": "50475713",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "domain": "edge0.ai",
-      "points": 358,
-      "publishedAt": "2026-11-12T23:06:17.000Z"
-    },
-    {
       "objectID": "50538303",
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
       "domain": "complexdiscovery.com",
-      "points": 322,
+      "points": 325,
       "publishedAt": "2026-11-17T21:16:12.000Z"
     },
     {
@@ -143,7 +127,7 @@
       "title": "LLM assisted reverse engineering",
       "url": "https://slowchronicle.com/posts/llm-assisted-reverse-engineering",
       "domain": "slowchronicle.com",
-      "points": 294,
+      "points": 302,
       "publishedAt": "2026-11-18T22:29:13.000Z"
     },
     {
@@ -155,20 +139,36 @@
       "publishedAt": "2026-11-13T22:04:24.000Z"
     },
     {
-      "objectID": "50562262",
-      "title": "Fuck Your AI Safeguards",
-      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
-      "domain": "ounapuu.ee",
-      "points": 288,
-      "publishedAt": "2026-11-19T16:30:18.000Z"
-    },
-    {
       "objectID": "50524165",
       "title": "United Airlines experiencing a widespread system outage, airline says",
       "url": "https://cnn.com/2026/11/16/us/united-airlines-outage",
       "domain": "cnn.com",
       "points": 257,
       "publishedAt": "2026-11-16T22:14:38.000Z"
+    },
+    {
+      "objectID": "50506376",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "domain": "magazine.sebastianraschka.com",
+      "points": 246,
+      "publishedAt": "2026-11-15T12:14:06.000Z"
+    },
+    {
+      "objectID": "50488769",
+      "title": "No AI Slop: A Manifesto",
+      "url": "https://slopmanifesto.com/",
+      "domain": "slopmanifesto.com",
+      "points": 230,
+      "publishedAt": "2026-11-13T19:51:56.000Z"
+    },
+    {
+      "objectID": "50561508",
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine",
+      "domain": "thedataexchange.media",
+      "points": 226,
+      "publishedAt": "2026-11-19T15:38:12.000Z"
     }
   ]
 }
