@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-20T20:21:15.459Z",
-  "windowStart": "2026-11-13T20:21:15.459Z",
+  "fetchedAt": "2026-11-21T07:09:11.407Z",
+  "windowStart": "2026-11-14T07:09:11.407Z",
   "queries": [
     "AI",
     "LLM",
@@ -31,23 +31,15 @@
       "title": "Anthropic’s Nasdaq debut",
       "url": "https://reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
       "domain": "reuters.com",
-      "points": 1126,
+      "points": 1133,
       "publishedAt": "2026-11-19T17:02:40.000Z"
-    },
-    {
-      "objectID": "50493251",
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "domain": "techpowerup.com",
-      "points": 1115,
-      "publishedAt": "2026-11-14T02:52:59.000Z"
     },
     {
       "objectID": "50542705",
       "title": "AI is killing All About Berlin",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "domain": "nicolasbouliane.com",
-      "points": 812,
+      "points": 813,
       "publishedAt": "2026-11-18T06:47:26.000Z"
     },
     {
@@ -55,31 +47,39 @@
       "title": "Google's AI answers reducing search traffic by 40%",
       "url": "https://revscope.co/blog/search-seo-geo-2026",
       "domain": "revscope.co",
-      "points": 709,
+      "points": 710,
       "publishedAt": "2026-11-18T00:17:58.000Z"
-    },
-    {
-      "objectID": "50562262",
-      "title": "Fuck Your AI Safeguards",
-      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
-      "domain": "ounapuu.ee",
-      "points": 590,
-      "publishedAt": "2026-11-19T16:30:18.000Z"
     },
     {
       "objectID": "50572503",
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "url": "https://architectlabs.com/blog/frostbite",
       "domain": "architectlabs.com",
-      "points": 553,
+      "points": 640,
       "publishedAt": "2026-11-20T10:01:41.000Z"
+    },
+    {
+      "objectID": "50562262",
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
+      "domain": "ounapuu.ee",
+      "points": 605,
+      "publishedAt": "2026-11-19T16:30:18.000Z"
+    },
+    {
+      "objectID": "50572348",
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy",
+      "domain": "signal.org",
+      "points": 542,
+      "publishedAt": "2026-11-20T09:42:16.000Z"
     },
     {
       "objectID": "50547777",
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
       "domain": "europeanbusinessmagazine.com",
-      "points": 495,
+      "points": 497,
       "publishedAt": "2026-11-18T15:49:34.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Anthropic prices initial public offering",
       "url": "https://anthropic.com/news/anthropic-prices-initial-public-offering",
       "domain": "anthropic.com",
-      "points": 417,
+      "points": 421,
       "publishedAt": "2026-11-18T23:30:09.000Z"
     },
     {
@@ -103,23 +103,23 @@
       "title": "LLM assisted reverse engineering",
       "url": "https://slowchronicle.com/posts/llm-assisted-reverse-engineering",
       "domain": "slowchronicle.com",
-      "points": 313,
+      "points": 315,
       "publishedAt": "2026-11-18T22:29:13.000Z"
     },
     {
-      "objectID": "50490593",
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "domain": "orcasairband.com",
-      "points": 293,
-      "publishedAt": "2026-11-13T22:04:24.000Z"
+      "objectID": "50577901",
+      "title": "Google workers tell their employer not to punish schools that don't want AI",
+      "url": "https://motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+      "domain": "motherjones.com",
+      "points": 275,
+      "publishedAt": "2026-11-20T16:59:27.000Z"
     },
     {
       "objectID": "50561508",
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
       "url": "https://thedataexchange.media/pete-warden-moonshine",
       "domain": "thedataexchange.media",
-      "points": 265,
+      "points": 269,
       "publishedAt": "2026-11-19T15:38:12.000Z"
     },
     {
@@ -129,6 +129,14 @@
       "domain": "cnn.com",
       "points": 258,
       "publishedAt": "2026-11-16T22:14:38.000Z"
+    },
+    {
+      "objectID": "50574383",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "url": "https://theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "domain": "theguardian.com",
+      "points": 251,
+      "publishedAt": "2026-11-20T13:29:59.000Z"
     },
     {
       "objectID": "50506376",
@@ -143,16 +151,8 @@
       "title": "Advancing chip design with OpenAI models",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "domain": "openai.com",
-      "points": 223,
+      "points": 224,
       "publishedAt": "2026-11-18T17:45:47.000Z"
-    },
-    {
-      "objectID": "50489652",
-      "title": "All US airports are currently ground stopped",
-      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "domain": "twitter.com",
-      "points": 214,
-      "publishedAt": "2026-11-13T21:06:52.000Z"
     },
     {
       "objectID": "50531751",
@@ -167,7 +167,7 @@
       "title": "Not Everything Needs an LLM",
       "url": "https://newsletter.posthog.com/p/decision-models",
       "domain": "newsletter.posthog.com",
-      "points": 186,
+      "points": 187,
       "publishedAt": "2026-11-17T18:16:18.000Z"
     }
   ]
