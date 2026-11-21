@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-21T07:09:11.908Z",
-  "windowStart": "2026-11-18T07:09:11.908Z",
+  "fetchedAt": "2026-11-21T19:16:00.852Z",
+  "windowStart": "2026-11-18T19:16:00.852Z",
   "markets": [
     {
       "id": "hk",
@@ -217,30 +217,6 @@
       "source": "香港電台財經新聞",
       "market": "cn",
       "publishedAt": "2026-11-19T03:37:13.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878348-20261118.htm",
-      "title": "美股初段個別發展　道指跌近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878348-20261118.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-18T15:06:38.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878307-20261118.htm",
-      "title": "港股低收213點　京東系績後受壓",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878307-20261118.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-18T08:45:01.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878299-20261118.htm",
-      "title": "內地股市靠穩收市　創指升近1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878299-20261118.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-18T07:18:48.000Z"
     }
   ]
 }
