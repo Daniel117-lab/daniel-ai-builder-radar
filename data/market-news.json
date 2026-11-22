@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-21T19:16:00.852Z",
-  "windowStart": "2026-11-18T19:16:00.852Z",
+  "fetchedAt": "2026-11-22T06:48:44.213Z",
+  "windowStart": "2026-11-19T06:48:44.213Z",
   "markets": [
     {
       "id": "hk",
@@ -177,46 +177,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-11-19T14:56:17.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878443-20261119.htm",
-      "title": "日股高收419點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878443-20261119.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-19T06:42:51.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878442-20261119.htm",
-      "title": "台股收市急挫逾4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878442-20261119.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-19T06:41:24.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878423-20261119.htm",
-      "title": "恒指下午初段跌逾400點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878423-20261119.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-19T05:18:28.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878415-20261119.htm",
-      "title": "恒指失守23000點　半日跌439點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878415-20261119.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-19T04:17:31.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878410-20261119.htm",
-      "title": "滬股半日跌0.4%　創業板指數跌幅收窄",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878410-20261119.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-19T03:37:13.000Z"
     }
   ]
 }
