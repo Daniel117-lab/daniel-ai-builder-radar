@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-22T06:48:44.213Z",
-  "windowStart": "2026-11-19T06:48:44.213Z",
+  "fetchedAt": "2026-11-22T19:41:22.498Z",
+  "windowStart": "2026-11-19T19:41:22.498Z",
   "markets": [
     {
       "id": "hk",
@@ -169,14 +169,6 @@
       "source": "香港電台財經新聞",
       "market": "global",
       "publishedAt": "2026-11-20T00:06:28.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878508-20261119.htm",
-      "title": "美股初段造好　納指升近2%　AI相關股份造好",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878508-20261119.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-19T14:56:17.000Z"
     }
   ]
 }

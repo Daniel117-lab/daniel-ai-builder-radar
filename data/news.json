@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-22T06:48:43.622Z",
-  "windowStart": "2026-11-15T06:48:43.622Z",
+  "fetchedAt": "2026-11-22T19:41:21.834Z",
+  "windowStart": "2026-11-15T19:41:21.834Z",
   "queries": [
     "AI",
     "LLM",
@@ -19,19 +19,11 @@
       "publishedAt": "2026-11-17T17:46:43.000Z"
     },
     {
-      "objectID": "50507303",
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
-      "domain": "jakub.jankiewicz.org",
-      "points": 1288,
-      "publishedAt": "2026-11-15T14:46:58.000Z"
-    },
-    {
       "objectID": "50562754",
       "title": "Anthropic’s Nasdaq debut",
       "url": "https://reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
       "domain": "reuters.com",
-      "points": 1139,
+      "points": 1140,
       "publishedAt": "2026-11-19T17:02:40.000Z"
     },
     {
@@ -39,7 +31,7 @@
       "title": "AI is killing All About Berlin",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "domain": "nicolasbouliane.com",
-      "points": 816,
+      "points": 820,
       "publishedAt": "2026-11-18T06:47:26.000Z"
     },
     {
@@ -47,7 +39,7 @@
       "title": "Google's AI answers reducing search traffic by 40%",
       "url": "https://revscope.co/blog/search-seo-geo-2026",
       "domain": "revscope.co",
-      "points": 712,
+      "points": 713,
       "publishedAt": "2026-11-18T00:17:58.000Z"
     },
     {
@@ -55,8 +47,16 @@
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "url": "https://architectlabs.com/blog/frostbite",
       "domain": "architectlabs.com",
-      "points": 670,
+      "points": 675,
       "publishedAt": "2026-11-20T10:01:41.000Z"
+    },
+    {
+      "objectID": "50597612",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+      "domain": "betterdatacenterproject.com",
+      "points": 652,
+      "publishedAt": "2026-11-22T08:57:34.000Z"
     },
     {
       "objectID": "50562262",
@@ -71,7 +71,7 @@
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
       "url": "https://signal.org/blog/protecting-your-privacy",
       "domain": "signal.org",
-      "points": 573,
+      "points": 577,
       "publishedAt": "2026-11-20T09:42:16.000Z"
     },
     {
@@ -79,7 +79,7 @@
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
       "url": "https://theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "domain": "theguardian.com",
-      "points": 509,
+      "points": 525,
       "publishedAt": "2026-11-20T13:29:59.000Z"
     },
     {
@@ -103,7 +103,7 @@
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
       "domain": "complexdiscovery.com",
-      "points": 328,
+      "points": 331,
       "publishedAt": "2026-11-17T21:16:12.000Z"
     },
     {
@@ -115,11 +115,19 @@
       "publishedAt": "2026-11-18T22:29:13.000Z"
     },
     {
+      "objectID": "50546587",
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming",
+      "domain": "sgiannopoulos.github.io",
+      "points": 308,
+      "publishedAt": "2026-11-18T14:15:58.000Z"
+    },
+    {
       "objectID": "50577901",
       "title": "Google workers tell their employer not to punish schools that don't want AI",
       "url": "https://motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
       "domain": "motherjones.com",
-      "points": 281,
+      "points": 283,
       "publishedAt": "2026-11-20T16:59:27.000Z"
     },
     {
@@ -139,20 +147,12 @@
       "publishedAt": "2026-11-16T22:14:38.000Z"
     },
     {
-      "objectID": "50506376",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "domain": "magazine.sebastianraschka.com",
-      "points": 246,
-      "publishedAt": "2026-11-15T12:14:06.000Z"
-    },
-    {
-      "objectID": "50546587",
-      "title": "LLMs can read and write executables byte by byte from a hex dump",
-      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming",
-      "domain": "sgiannopoulos.github.io",
-      "points": 227,
-      "publishedAt": "2026-11-18T14:15:58.000Z"
+      "objectID": "50601525",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "domain": "openai.com",
+      "points": 233,
+      "publishedAt": "2026-11-22T17:06:27.000Z"
     },
     {
       "objectID": "50549493",
