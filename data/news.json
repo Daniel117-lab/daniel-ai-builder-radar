@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-22T19:41:21.834Z",
-  "windowStart": "2026-11-15T19:41:21.834Z",
+  "fetchedAt": "2026-11-23T07:39:56.807Z",
+  "windowStart": "2026-11-16T07:39:56.807Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,8 +23,16 @@
       "title": "Anthropic’s Nasdaq debut",
       "url": "https://reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
       "domain": "reuters.com",
-      "points": 1140,
+      "points": 1141,
       "publishedAt": "2026-11-19T17:02:40.000Z"
+    },
+    {
+      "objectID": "50597612",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+      "domain": "betterdatacenterproject.com",
+      "points": 952,
+      "publishedAt": "2026-11-22T08:57:34.000Z"
     },
     {
       "objectID": "50542705",
@@ -47,23 +55,15 @@
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "url": "https://architectlabs.com/blog/frostbite",
       "domain": "architectlabs.com",
-      "points": 675,
+      "points": 679,
       "publishedAt": "2026-11-20T10:01:41.000Z"
-    },
-    {
-      "objectID": "50597612",
-      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
-      "domain": "betterdatacenterproject.com",
-      "points": 652,
-      "publishedAt": "2026-11-22T08:57:34.000Z"
     },
     {
       "objectID": "50562262",
       "title": "Fuck Your AI Safeguards",
       "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
       "domain": "ounapuu.ee",
-      "points": 616,
+      "points": 617,
       "publishedAt": "2026-11-19T16:30:18.000Z"
     },
     {
@@ -71,15 +71,23 @@
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
       "url": "https://signal.org/blog/protecting-your-privacy",
       "domain": "signal.org",
-      "points": 577,
+      "points": 580,
       "publishedAt": "2026-11-20T09:42:16.000Z"
+    },
+    {
+      "objectID": "50601525",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "domain": "openai.com",
+      "points": 560,
+      "publishedAt": "2026-11-22T17:06:27.000Z"
     },
     {
       "objectID": "50574383",
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
       "url": "https://theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "domain": "theguardian.com",
-      "points": 525,
+      "points": 530,
       "publishedAt": "2026-11-20T13:29:59.000Z"
     },
     {
@@ -87,15 +95,23 @@
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
       "domain": "europeanbusinessmagazine.com",
-      "points": 499,
+      "points": 500,
       "publishedAt": "2026-11-18T15:49:34.000Z"
+    },
+    {
+      "objectID": "50603845",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "domain": "gpupartner.com",
+      "points": 430,
+      "publishedAt": "2026-11-22T21:01:16.000Z"
     },
     {
       "objectID": "50553843",
       "title": "Anthropic prices initial public offering",
       "url": "https://anthropic.com/news/anthropic-prices-initial-public-offering",
       "domain": "anthropic.com",
-      "points": 422,
+      "points": 423,
       "publishedAt": "2026-11-18T23:30:09.000Z"
     },
     {
@@ -119,15 +135,23 @@
       "title": "LLMs can read and write executables byte by byte from a hex dump",
       "url": "https://sgiannopoulos.github.io/blog/machine-code-programming",
       "domain": "sgiannopoulos.github.io",
-      "points": 308,
+      "points": 311,
       "publishedAt": "2026-11-18T14:15:58.000Z"
+    },
+    {
+      "objectID": "50599762",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "domain": "github.com",
+      "points": 309,
+      "publishedAt": "2026-11-22T13:56:58.000Z"
     },
     {
       "objectID": "50577901",
       "title": "Google workers tell their employer not to punish schools that don't want AI",
       "url": "https://motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
       "domain": "motherjones.com",
-      "points": 283,
+      "points": 284,
       "publishedAt": "2026-11-20T16:59:27.000Z"
     },
     {
@@ -135,7 +159,7 @@
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
       "url": "https://thedataexchange.media/pete-warden-moonshine",
       "domain": "thedataexchange.media",
-      "points": 272,
+      "points": 273,
       "publishedAt": "2026-11-19T15:38:12.000Z"
     },
     {
@@ -145,30 +169,6 @@
       "domain": "cnn.com",
       "points": 258,
       "publishedAt": "2026-11-16T22:14:38.000Z"
-    },
-    {
-      "objectID": "50601525",
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "domain": "openai.com",
-      "points": 233,
-      "publishedAt": "2026-11-22T17:06:27.000Z"
-    },
-    {
-      "objectID": "50549493",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "domain": "openai.com",
-      "points": 225,
-      "publishedAt": "2026-11-18T17:45:47.000Z"
-    },
-    {
-      "objectID": "50531751",
-      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "url": "https://scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-      "domain": "scmp.com",
-      "points": 191,
-      "publishedAt": "2026-11-17T14:19:59.000Z"
     }
   ]
 }
