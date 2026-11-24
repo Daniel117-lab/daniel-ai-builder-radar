@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-24T09:54:47.219Z",
-  "windowStart": "2026-11-17T09:54:47.219Z",
+  "fetchedAt": "2026-11-24T22:26:59.652Z",
+  "windowStart": "2026-11-17T22:26:59.652Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,19 +11,11 @@
   ],
   "stories": [
     {
-      "objectID": "50535230",
-      "title": "GPT‑6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "domain": "openai.com",
-      "points": 1347,
-      "publishedAt": "2026-11-17T17:46:43.000Z"
-    },
-    {
       "objectID": "50562754",
       "title": "Anthropic’s Nasdaq debut",
       "url": "https://reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
       "domain": "reuters.com",
-      "points": 1145,
+      "points": 1146,
       "publishedAt": "2026-11-19T17:02:40.000Z"
     },
     {
@@ -31,15 +23,23 @@
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
       "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
       "domain": "betterdatacenterproject.com",
-      "points": 1031,
+      "points": 1038,
       "publishedAt": "2026-11-22T08:57:34.000Z"
+    },
+    {
+      "objectID": "50627340",
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "domain": "michaelharley.net",
+      "points": 844,
+      "publishedAt": "2026-11-24T12:40:15.000Z"
     },
     {
       "objectID": "50542705",
       "title": "AI is killing All About Berlin",
       "url": "https://nicolasbouliane.com/blog/death-by-ai",
       "domain": "nicolasbouliane.com",
-      "points": 821,
+      "points": 822,
       "publishedAt": "2026-11-18T06:47:26.000Z"
     },
     {
@@ -47,8 +47,16 @@
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "domain": "gpupartner.com",
-      "points": 758,
+      "points": 769,
       "publishedAt": "2026-11-22T21:01:16.000Z"
+    },
+    {
+      "objectID": "50601525",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "domain": "openai.com",
+      "points": 715,
+      "publishedAt": "2026-11-22T17:06:27.000Z"
     },
     {
       "objectID": "50540178",
@@ -59,19 +67,11 @@
       "publishedAt": "2026-11-18T00:17:58.000Z"
     },
     {
-      "objectID": "50601525",
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "domain": "openai.com",
-      "points": 705,
-      "publishedAt": "2026-11-22T17:06:27.000Z"
-    },
-    {
       "objectID": "50572503",
       "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
       "url": "https://architectlabs.com/blog/frostbite",
       "domain": "architectlabs.com",
-      "points": 684,
+      "points": 686,
       "publishedAt": "2026-11-20T10:01:41.000Z"
     },
     {
@@ -103,7 +103,7 @@
       "title": "AI agents ask better questions than KPMG accountants in audit trial",
       "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
       "domain": "europeanbusinessmagazine.com",
-      "points": 502,
+      "points": 503,
       "publishedAt": "2026-11-18T15:49:34.000Z"
     },
     {
@@ -119,23 +119,15 @@
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "url": "https://github.com/gulivan/worker755",
       "domain": "github.com",
-      "points": 358,
+      "points": 360,
       "publishedAt": "2026-11-22T13:56:58.000Z"
-    },
-    {
-      "objectID": "50538303",
-      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
-      "domain": "complexdiscovery.com",
-      "points": 332,
-      "publishedAt": "2026-11-17T21:16:12.000Z"
     },
     {
       "objectID": "50553225",
       "title": "LLM assisted reverse engineering",
       "url": "https://slowchronicle.com/posts/llm-assisted-reverse-engineering",
       "domain": "slowchronicle.com",
-      "points": 316,
+      "points": 317,
       "publishedAt": "2026-11-18T22:29:13.000Z"
     },
     {
@@ -143,8 +135,16 @@
       "title": "LLMs can read and write executables byte by byte from a hex dump",
       "url": "https://sgiannopoulos.github.io/blog/machine-code-programming",
       "domain": "sgiannopoulos.github.io",
-      "points": 316,
+      "points": 317,
       "publishedAt": "2026-11-18T14:15:58.000Z"
+    },
+    {
+      "objectID": "50630309",
+      "title": "Tidal bans AI-generated music",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "domain": "variety.com",
+      "points": 309,
+      "publishedAt": "2026-11-24T16:12:38.000Z"
     },
     {
       "objectID": "50577901",
@@ -155,20 +155,20 @@
       "publishedAt": "2026-11-20T16:59:27.000Z"
     },
     {
+      "objectID": "50627836",
+      "title": "Anthropic breaks below $83 IPO price",
+      "url": "https://bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "domain": "bloomberg.com",
+      "points": 282,
+      "publishedAt": "2026-11-24T13:23:47.000Z"
+    },
+    {
       "objectID": "50561508",
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
       "url": "https://thedataexchange.media/pete-warden-moonshine",
       "domain": "thedataexchange.media",
-      "points": 273,
+      "points": 274,
       "publishedAt": "2026-11-19T15:38:12.000Z"
-    },
-    {
-      "objectID": "50549493",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "domain": "openai.com",
-      "points": 225,
-      "publishedAt": "2026-11-18T17:45:47.000Z"
     }
   ]
 }

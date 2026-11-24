@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-24T09:54:47.796Z",
-  "windowStart": "2026-11-21T09:54:47.796Z",
+  "fetchedAt": "2026-11-24T22:27:00.128Z",
+  "windowStart": "2026-11-21T22:27:00.128Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879147-20261125.htm",
+      "title": "道指高收423點　納指跌近1.5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879147-20261125.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-24T21:54:36.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879143-20261125.htm",
+      "title": "歐股收市下跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879143-20261125.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-24T21:11:08.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879126-20261124.htm",
+      "title": "美股初段個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879126-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-24T14:54:57.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1879084-20261124.htm",
       "title": "恒指轉跌164點收市　連跌6日累計挫逾1500點",
