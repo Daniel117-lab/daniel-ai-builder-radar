@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-23T23:54:25.916Z",
-  "windowStart": "2026-11-20T23:54:25.916Z",
+  "fetchedAt": "2026-11-24T09:54:47.796Z",
+  "windowStart": "2026-11-21T09:54:47.796Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,94 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879084-20261124.htm",
+      "title": "恒指轉跌164點收市　連跌6日累計挫逾1500點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879084-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-24T08:29:30.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879075-20261124.htm",
+      "title": "內地股市高開低走　深證成指及創業板轉跌收市",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879075-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-24T07:13:15.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879072-20261124.htm",
+      "title": "韓股高收逾6%　重上5000點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879072-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-24T06:47:28.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879071-20261124.htm",
+      "title": "日股高收近4%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879071-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-24T06:46:10.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879065-20261124.htm",
+      "title": "台股高收約9%　台積電升停",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879065-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-24T06:19:42.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879061-20261124.htm",
+      "title": "恒指下午開市初段偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879061-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-24T05:09:53.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879050-20261124.htm",
+      "title": "恒指半日跌87點　科指跌約1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879050-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-24T04:18:53.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879049-20261124.htm",
+      "title": "滬指半日升約0.5%　創業板指數升近2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879049-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-24T03:58:32.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879045-20261124.htm",
+      "title": "日股半日升2239點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879045-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-24T02:49:54.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879034-20261124.htm",
+      "title": "內地股市初段升近1%至逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879034-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-24T01:34:54.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879033-20261124.htm",
+      "title": "恒指競價時段升243點　科指升逾2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879033-20261124.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-24T01:28:23.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1879015-20261124.htm",
       "title": "港股ADR普遍較本港收市上升",
