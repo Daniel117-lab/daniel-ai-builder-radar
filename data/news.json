@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-24T22:26:59.652Z",
-  "windowStart": "2026-11-17T22:26:59.652Z",
+  "fetchedAt": "2026-11-25T08:35:12.488Z",
+  "windowStart": "2026-11-18T08:35:12.488Z",
   "queries": [
     "AI",
     "LLM",
@@ -23,7 +23,7 @@
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
       "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
       "domain": "betterdatacenterproject.com",
-      "points": 1038,
+      "points": 1040,
       "publishedAt": "2026-11-22T08:57:34.000Z"
     },
     {
@@ -31,23 +31,15 @@
       "title": "LLM agents work for their parent companies, not for you",
       "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
       "domain": "michaelharley.net",
-      "points": 844,
+      "points": 964,
       "publishedAt": "2026-11-24T12:40:15.000Z"
-    },
-    {
-      "objectID": "50542705",
-      "title": "AI is killing All About Berlin",
-      "url": "https://nicolasbouliane.com/blog/death-by-ai",
-      "domain": "nicolasbouliane.com",
-      "points": 822,
-      "publishedAt": "2026-11-18T06:47:26.000Z"
     },
     {
       "objectID": "50603845",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "domain": "gpupartner.com",
-      "points": 769,
+      "points": 773,
       "publishedAt": "2026-11-22T21:01:16.000Z"
     },
     {
@@ -55,16 +47,8 @@
       "title": "Perplexity and Intelligence",
       "url": "https://openai.com/index/perplexity-and-intelligence",
       "domain": "openai.com",
-      "points": 715,
+      "points": 719,
       "publishedAt": "2026-11-22T17:06:27.000Z"
-    },
-    {
-      "objectID": "50540178",
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "url": "https://revscope.co/blog/search-seo-geo-2026",
-      "domain": "revscope.co",
-      "points": 713,
-      "publishedAt": "2026-11-18T00:17:58.000Z"
     },
     {
       "objectID": "50572503",
@@ -87,8 +71,16 @@
       "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
       "url": "https://signal.org/blog/protecting-your-privacy",
       "domain": "signal.org",
-      "points": 583,
+      "points": 584,
       "publishedAt": "2026-11-20T09:42:16.000Z"
+    },
+    {
+      "objectID": "50637220",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "domain": "github.com",
+      "points": 558,
+      "publishedAt": "2026-11-25T01:19:26.000Z"
     },
     {
       "objectID": "50574383",
@@ -115,12 +107,28 @@
       "publishedAt": "2026-11-18T23:30:09.000Z"
     },
     {
+      "objectID": "50627836",
+      "title": "Anthropic breaks below $83 IPO price",
+      "url": "https://bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "domain": "bloomberg.com",
+      "points": 387,
+      "publishedAt": "2026-11-24T13:23:47.000Z"
+    },
+    {
       "objectID": "50599762",
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "url": "https://github.com/gulivan/worker755",
       "domain": "github.com",
       "points": 360,
       "publishedAt": "2026-11-22T13:56:58.000Z"
+    },
+    {
+      "objectID": "50630309",
+      "title": "Tidal bans AI-generated music",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "domain": "variety.com",
+      "points": 325,
+      "publishedAt": "2026-11-24T16:12:38.000Z"
     },
     {
       "objectID": "50553225",
@@ -139,14 +147,6 @@
       "publishedAt": "2026-11-18T14:15:58.000Z"
     },
     {
-      "objectID": "50630309",
-      "title": "Tidal bans AI-generated music",
-      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
-      "domain": "variety.com",
-      "points": 309,
-      "publishedAt": "2026-11-24T16:12:38.000Z"
-    },
-    {
       "objectID": "50577901",
       "title": "Google workers tell their employer not to punish schools that don't want AI",
       "url": "https://motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
@@ -155,20 +155,20 @@
       "publishedAt": "2026-11-20T16:59:27.000Z"
     },
     {
-      "objectID": "50627836",
-      "title": "Anthropic breaks below $83 IPO price",
-      "url": "https://bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "domain": "bloomberg.com",
-      "points": 282,
-      "publishedAt": "2026-11-24T13:23:47.000Z"
-    },
-    {
       "objectID": "50561508",
       "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
       "url": "https://thedataexchange.media/pete-warden-moonshine",
       "domain": "thedataexchange.media",
       "points": 274,
       "publishedAt": "2026-11-19T15:38:12.000Z"
+    },
+    {
+      "objectID": "50630809",
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "domain": "news.ycombinator.com",
+      "points": 261,
+      "publishedAt": "2026-11-24T16:45:44.000Z"
     }
   ]
 }
