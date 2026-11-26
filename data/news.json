@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-25T21:42:30.194Z",
-  "windowStart": "2026-11-18T21:42:30.194Z",
+  "fetchedAt": "2026-11-26T08:18:04.139Z",
+  "windowStart": "2026-11-19T08:18:04.139Z",
   "queries": [
     "AI",
     "LLM",
@@ -27,27 +27,27 @@
       "publishedAt": "2026-11-22T08:57:34.000Z"
     },
     {
-      "objectID": "50627340",
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
-      "domain": "michaelharley.net",
-      "points": 997,
-      "publishedAt": "2026-11-24T12:40:15.000Z"
-    },
-    {
       "objectID": "50637220",
       "title": "The matrix multiplication exponent is nine fourths [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "domain": "github.com",
-      "points": 984,
+      "points": 1039,
       "publishedAt": "2026-11-25T01:19:26.000Z"
+    },
+    {
+      "objectID": "50627340",
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "domain": "michaelharley.net",
+      "points": 1013,
+      "publishedAt": "2026-11-24T12:40:15.000Z"
     },
     {
       "objectID": "50603845",
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "domain": "gpupartner.com",
-      "points": 776,
+      "points": 777,
       "publishedAt": "2026-11-22T21:01:16.000Z"
     },
     {
@@ -55,7 +55,7 @@
       "title": "Perplexity and Intelligence",
       "url": "https://openai.com/index/perplexity-and-intelligence",
       "domain": "openai.com",
-      "points": 719,
+      "points": 720,
       "publishedAt": "2026-11-22T17:06:27.000Z"
     },
     {
@@ -91,36 +91,36 @@
       "publishedAt": "2026-11-20T13:29:59.000Z"
     },
     {
+      "objectID": "50643065",
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to",
+      "domain": "reddit.com",
+      "points": 488,
+      "publishedAt": "2026-11-25T15:08:44.000Z"
+    },
+    {
       "objectID": "50630809",
       "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
       "url": "https://news.ycombinator.com/item?id=50630809",
       "domain": "news.ycombinator.com",
-      "points": 432,
+      "points": 450,
       "publishedAt": "2026-11-24T16:45:44.000Z"
     },
     {
-      "objectID": "50553843",
-      "title": "Anthropic prices initial public offering",
-      "url": "https://anthropic.com/news/anthropic-prices-initial-public-offering",
-      "domain": "anthropic.com",
-      "points": 423,
-      "publishedAt": "2026-11-18T23:30:09.000Z"
+      "objectID": "50648050",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "domain": "github.com",
+      "points": 429,
+      "publishedAt": "2026-11-25T21:48:10.000Z"
     },
     {
       "objectID": "50627836",
       "title": "Anthropic breaks below $83 IPO price",
       "url": "https://bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
       "domain": "bloomberg.com",
-      "points": 418,
+      "points": 427,
       "publishedAt": "2026-11-24T13:23:47.000Z"
-    },
-    {
-      "objectID": "50643065",
-      "title": "Rumors swirling that labs might have cracked Factoring in P",
-      "url": "https://reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to",
-      "domain": "reddit.com",
-      "points": 410,
-      "publishedAt": "2026-11-25T15:08:44.000Z"
     },
     {
       "objectID": "50599762",
@@ -131,28 +131,36 @@
       "publishedAt": "2026-11-22T13:56:58.000Z"
     },
     {
+      "objectID": "50601280",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark",
+      "domain": "bjin.github.io",
+      "points": 359,
+      "publishedAt": "2026-11-22T16:44:48.000Z"
+    },
+    {
       "objectID": "50634658",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "domain": "openai.com",
-      "points": 347,
+      "points": 354,
       "publishedAt": "2026-11-24T21:02:22.000Z"
+    },
+    {
+      "objectID": "50647673",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "domain": "theverge.com",
+      "points": 342,
+      "publishedAt": "2026-11-25T21:18:02.000Z"
     },
     {
       "objectID": "50630309",
       "title": "Tidal bans AI-generated music",
       "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
       "domain": "variety.com",
-      "points": 334,
+      "points": 336,
       "publishedAt": "2026-11-24T16:12:38.000Z"
-    },
-    {
-      "objectID": "50553225",
-      "title": "LLM assisted reverse engineering",
-      "url": "https://slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "domain": "slowchronicle.com",
-      "points": 317,
-      "publishedAt": "2026-11-18T22:29:13.000Z"
     },
     {
       "objectID": "50577901",
@@ -161,14 +169,6 @@
       "domain": "motherjones.com",
       "points": 284,
       "publishedAt": "2026-11-20T16:59:27.000Z"
-    },
-    {
-      "objectID": "50561508",
-      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine",
-      "domain": "thedataexchange.media",
-      "points": 274,
-      "publishedAt": "2026-11-19T15:38:12.000Z"
     }
   ]
 }
