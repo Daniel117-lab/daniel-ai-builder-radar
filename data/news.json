@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-26T08:18:04.139Z",
-  "windowStart": "2026-11-19T08:18:04.139Z",
+  "fetchedAt": "2026-11-26T21:32:39.362Z",
+  "windowStart": "2026-11-19T21:32:39.362Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,35 +11,27 @@
   ],
   "stories": [
     {
-      "objectID": "50562754",
-      "title": "Anthropic’s Nasdaq debut",
-      "url": "https://reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-      "domain": "reuters.com",
-      "points": 1146,
-      "publishedAt": "2026-11-19T17:02:40.000Z"
+      "objectID": "50637220",
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "domain": "github.com",
+      "points": 1059,
+      "publishedAt": "2026-11-25T01:19:26.000Z"
     },
     {
       "objectID": "50597612",
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
       "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
       "domain": "betterdatacenterproject.com",
-      "points": 1042,
+      "points": 1043,
       "publishedAt": "2026-11-22T08:57:34.000Z"
-    },
-    {
-      "objectID": "50637220",
-      "title": "The matrix multiplication exponent is nine fourths [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "domain": "github.com",
-      "points": 1039,
-      "publishedAt": "2026-11-25T01:19:26.000Z"
     },
     {
       "objectID": "50627340",
       "title": "LLM agents work for their parent companies, not for you",
       "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
       "domain": "michaelharley.net",
-      "points": 1013,
+      "points": 1026,
       "publishedAt": "2026-11-24T12:40:15.000Z"
     },
     {
@@ -47,7 +39,7 @@
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "domain": "gpupartner.com",
-      "points": 777,
+      "points": 780,
       "publishedAt": "2026-11-22T21:01:16.000Z"
     },
     {
@@ -55,7 +47,7 @@
       "title": "Perplexity and Intelligence",
       "url": "https://openai.com/index/perplexity-and-intelligence",
       "domain": "openai.com",
-      "points": 720,
+      "points": 721,
       "publishedAt": "2026-11-22T17:06:27.000Z"
     },
     {
@@ -67,12 +59,12 @@
       "publishedAt": "2026-11-20T10:01:41.000Z"
     },
     {
-      "objectID": "50562262",
-      "title": "Fuck Your AI Safeguards",
-      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
-      "domain": "ounapuu.ee",
-      "points": 618,
-      "publishedAt": "2026-11-19T16:30:18.000Z"
+      "objectID": "50647673",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "domain": "theverge.com",
+      "points": 636,
+      "publishedAt": "2026-11-25T21:18:02.000Z"
     },
     {
       "objectID": "50572348",
@@ -83,11 +75,19 @@
       "publishedAt": "2026-11-20T09:42:16.000Z"
     },
     {
+      "objectID": "50648050",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "domain": "github.com",
+      "points": 542,
+      "publishedAt": "2026-11-25T21:48:10.000Z"
+    },
+    {
       "objectID": "50574383",
       "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
       "url": "https://theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
       "domain": "theguardian.com",
-      "points": 530,
+      "points": 531,
       "publishedAt": "2026-11-20T13:29:59.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "Rumors swirling that labs might have cracked Factoring in P",
       "url": "https://reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to",
       "domain": "reddit.com",
-      "points": 488,
+      "points": 504,
       "publishedAt": "2026-11-25T15:08:44.000Z"
     },
     {
@@ -103,63 +103,63 @@
       "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
       "url": "https://news.ycombinator.com/item?id=50630809",
       "domain": "news.ycombinator.com",
-      "points": 450,
+      "points": 463,
       "publishedAt": "2026-11-24T16:45:44.000Z"
-    },
-    {
-      "objectID": "50648050",
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "domain": "github.com",
-      "points": 429,
-      "publishedAt": "2026-11-25T21:48:10.000Z"
-    },
-    {
-      "objectID": "50627836",
-      "title": "Anthropic breaks below $83 IPO price",
-      "url": "https://bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "domain": "bloomberg.com",
-      "points": 427,
-      "publishedAt": "2026-11-24T13:23:47.000Z"
-    },
-    {
-      "objectID": "50599762",
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "url": "https://github.com/gulivan/worker755",
-      "domain": "github.com",
-      "points": 360,
-      "publishedAt": "2026-11-22T13:56:58.000Z"
     },
     {
       "objectID": "50601280",
       "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
       "url": "https://bjin.github.io/go-codegolf-benchmark",
       "domain": "bjin.github.io",
-      "points": 359,
+      "points": 460,
       "publishedAt": "2026-11-22T16:44:48.000Z"
+    },
+    {
+      "objectID": "50651117",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "domain": "twitter.com",
+      "points": 446,
+      "publishedAt": "2026-11-26T03:36:58.000Z"
+    },
+    {
+      "objectID": "50627836",
+      "title": "Anthropic breaks below $83 IPO price",
+      "url": "https://bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "domain": "bloomberg.com",
+      "points": 433,
+      "publishedAt": "2026-11-24T13:23:47.000Z"
+    },
+    {
+      "objectID": "50620102",
+      "title": "VP ≠ VNP over Every Field",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "domain": "github.com",
+      "points": 368,
+      "publishedAt": "2026-11-23T22:09:10.000Z"
+    },
+    {
+      "objectID": "50599762",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "domain": "github.com",
+      "points": 362,
+      "publishedAt": "2026-11-22T13:56:58.000Z"
     },
     {
       "objectID": "50634658",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "domain": "openai.com",
-      "points": 354,
+      "points": 356,
       "publishedAt": "2026-11-24T21:02:22.000Z"
-    },
-    {
-      "objectID": "50647673",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "domain": "theverge.com",
-      "points": 342,
-      "publishedAt": "2026-11-25T21:18:02.000Z"
     },
     {
       "objectID": "50630309",
       "title": "Tidal bans AI-generated music",
       "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
       "domain": "variety.com",
-      "points": 336,
+      "points": 337,
       "publishedAt": "2026-11-24T16:12:38.000Z"
     },
     {
@@ -167,7 +167,7 @@
       "title": "Google workers tell their employer not to punish schools that don't want AI",
       "url": "https://motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
       "domain": "motherjones.com",
-      "points": 284,
+      "points": 285,
       "publishedAt": "2026-11-20T16:59:27.000Z"
     }
   ]

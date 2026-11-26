@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-26T08:18:04.783Z",
-  "windowStart": "2026-11-23T08:18:04.783Z",
+  "fetchedAt": "2026-11-26T21:32:39.947Z",
+  "windowStart": "2026-11-23T21:32:39.947Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,22 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879413-20261126.htm",
+      "title": "美股因感恩節休市一天",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879413-20261126.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-26T14:39:15.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879372-20261126.htm",
+      "title": "恒指升幅收窄至260點收市　結束7連跌",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879372-20261126.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-26T08:33:01.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1879362-20261126.htm",
       "title": "滬深股市尾段轉弱　收市變動不大",
@@ -353,22 +369,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-11-23T21:37:47.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878995-20261123.htm",
-      "title": "標普全球：美國11月製造業PMI初值合乎市場預期",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878995-20261123.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-23T15:49:08.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1878986-20261123.htm",
-      "title": "美股初段急升　納指升近6%　Nvidia急升逾29%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1878986-20261123.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-23T14:49:58.000Z"
     }
   ]
 }
