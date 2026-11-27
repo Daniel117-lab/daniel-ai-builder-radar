@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-26T21:32:39.947Z",
-  "windowStart": "2026-11-23T21:32:39.947Z",
+  "fetchedAt": "2026-11-27T08:34:53.623Z",
+  "windowStart": "2026-11-24T08:34:53.623Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,94 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879499-20261127.htm",
+      "title": "滬股高收近4%　深證成指及創業板指數急升逾7%至近12%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879499-20261127.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-27T07:39:48.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879493-20261127.htm",
+      "title": "韓股高收逾4%　本周升近1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879493-20261127.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-27T06:52:05.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879490-20261127.htm",
+      "title": "日股高收逾1200點　本周累升約4%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879490-20261127.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-27T06:46:40.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879485-20261127.htm",
+      "title": "台股高收0.4%　本周累升近9.1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879485-20261127.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-27T06:14:04.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879482-20261127.htm",
+      "title": "滬深港股市下午升幅擴大　恒指升逾400點　科指升逾5%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879482-20261127.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-27T05:19:12.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879473-20261127.htm",
+      "title": "恒指半日升189點　科指升逾3%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879473-20261127.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-27T04:19:05.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879471-20261127.htm",
+      "title": "滬深股市造好　創業板半日升近4%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879471-20261127.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-27T03:42:14.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879465-20261127.htm",
+      "title": "日股半日升逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879465-20261127.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-27T02:49:55.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879452-20261127.htm",
+      "title": "滬深股市初段靠穩　創業板指數升逾1%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879452-20261127.htm",
+      "source": "香港電台財經新聞",
+      "market": "cn",
+      "publishedAt": "2026-11-27T01:45:02.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879451-20261127.htm",
+      "title": "港股競價時段升36點",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879451-20261127.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-27T01:25:02.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879449-20261127.htm",
+      "title": "台股初段偏軟",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879449-20261127.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-27T01:21:54.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1879413-20261126.htm",
       "title": "美股因感恩節休市一天",
@@ -257,118 +345,6 @@
       "source": "香港電台財經新聞",
       "market": "us",
       "publishedAt": "2026-11-24T14:54:57.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879084-20261124.htm",
-      "title": "恒指轉跌164點收市　連跌6日累計挫逾1500點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879084-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-24T08:29:30.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879075-20261124.htm",
-      "title": "內地股市高開低走　深證成指及創業板轉跌收市",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879075-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-24T07:13:15.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879072-20261124.htm",
-      "title": "韓股高收逾6%　重上5000點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879072-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-24T06:47:28.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879071-20261124.htm",
-      "title": "日股高收近4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879071-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-24T06:46:10.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879065-20261124.htm",
-      "title": "台股高收約9%　台積電升停",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879065-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-24T06:19:42.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879061-20261124.htm",
-      "title": "恒指下午開市初段偏軟",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879061-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-24T05:09:53.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879050-20261124.htm",
-      "title": "恒指半日跌87點　科指跌約1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879050-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-24T04:18:53.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879049-20261124.htm",
-      "title": "滬指半日升約0.5%　創業板指數升近2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879049-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-24T03:58:32.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879045-20261124.htm",
-      "title": "日股半日升2239點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879045-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-24T02:49:54.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879034-20261124.htm",
-      "title": "內地股市初段升近1%至逾3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879034-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-24T01:34:54.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879033-20261124.htm",
-      "title": "恒指競價時段升243點　科指升逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879033-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-24T01:28:23.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879015-20261124.htm",
-      "title": "港股ADR普遍較本港收市上升",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879015-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-23T22:25:18.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879009-20261124.htm",
-      "title": "歐股高收逾1%至逾2%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879009-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-23T21:50:47.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879008-20261124.htm",
-      "title": "道指高收3%　納指升逾6%　Nvidia急升逾31%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879008-20261124.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-23T21:37:47.000Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-26T21:32:39.362Z",
-  "windowStart": "2026-11-19T21:32:39.362Z",
+  "fetchedAt": "2026-11-27T08:34:52.928Z",
+  "windowStart": "2026-11-20T08:34:52.928Z",
   "queries": [
     "AI",
     "LLM",
@@ -15,7 +15,7 @@
       "title": "The matrix multiplication exponent is nine fourths [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "domain": "github.com",
-      "points": 1059,
+      "points": 1065,
       "publishedAt": "2026-11-25T01:19:26.000Z"
     },
     {
@@ -31,7 +31,7 @@
       "title": "LLM agents work for their parent companies, not for you",
       "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
       "domain": "michaelharley.net",
-      "points": 1026,
+      "points": 1032,
       "publishedAt": "2026-11-24T12:40:15.000Z"
     },
     {
@@ -63,8 +63,16 @@
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "url": "https://theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "domain": "theverge.com",
-      "points": 636,
+      "points": 671,
       "publishedAt": "2026-11-25T21:18:02.000Z"
+    },
+    {
+      "objectID": "50660180",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "domain": "janlukas.blog",
+      "points": 620,
+      "publishedAt": "2026-11-26T21:47:45.000Z"
     },
     {
       "objectID": "50572348",
@@ -79,7 +87,7 @@
       "title": "Much shorter version of GRH Lean verification from Anthropic",
       "url": "https://github.com/lsernau/grh-lean",
       "domain": "github.com",
-      "points": 542,
+      "points": 555,
       "publishedAt": "2026-11-25T21:48:10.000Z"
     },
     {
@@ -95,15 +103,23 @@
       "title": "Rumors swirling that labs might have cracked Factoring in P",
       "url": "https://reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to",
       "domain": "reddit.com",
-      "points": 504,
+      "points": 508,
       "publishedAt": "2026-11-25T15:08:44.000Z"
+    },
+    {
+      "objectID": "50651117",
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "domain": "twitter.com",
+      "points": 482,
+      "publishedAt": "2026-11-26T03:36:58.000Z"
     },
     {
       "objectID": "50630809",
       "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
       "url": "https://news.ycombinator.com/item?id=50630809",
       "domain": "news.ycombinator.com",
-      "points": 463,
+      "points": 467,
       "publishedAt": "2026-11-24T16:45:44.000Z"
     },
     {
@@ -111,16 +127,8 @@
       "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
       "url": "https://bjin.github.io/go-codegolf-benchmark",
       "domain": "bjin.github.io",
-      "points": 460,
+      "points": 466,
       "publishedAt": "2026-11-22T16:44:48.000Z"
-    },
-    {
-      "objectID": "50651117",
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "domain": "twitter.com",
-      "points": 446,
-      "publishedAt": "2026-11-26T03:36:58.000Z"
     },
     {
       "objectID": "50627836",
@@ -161,14 +169,6 @@
       "domain": "variety.com",
       "points": 337,
       "publishedAt": "2026-11-24T16:12:38.000Z"
-    },
-    {
-      "objectID": "50577901",
-      "title": "Google workers tell their employer not to punish schools that don't want AI",
-      "url": "https://motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
-      "domain": "motherjones.com",
-      "points": 285,
-      "publishedAt": "2026-11-20T16:59:27.000Z"
     }
   ]
 }
