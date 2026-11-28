@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-27T21:17:20.959Z",
-  "windowStart": "2026-11-20T21:17:20.959Z",
+  "fetchedAt": "2026-11-28T07:49:55.658Z",
+  "windowStart": "2026-11-21T07:49:55.658Z",
   "queries": [
     "AI",
     "LLM",
@@ -11,20 +11,20 @@
   ],
   "stories": [
     {
-      "objectID": "50637220",
-      "title": "The matrix multiplication exponent is nine fourths [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "domain": "github.com",
-      "points": 1067,
-      "publishedAt": "2026-11-25T01:19:26.000Z"
-    },
-    {
       "objectID": "50660180",
       "title": "AI made self-hosting fun again",
       "url": "https://janlukas.blog/posts/ai-self-hosting",
       "domain": "janlukas.blog",
-      "points": 1046,
+      "points": 1115,
       "publishedAt": "2026-11-26T21:47:45.000Z"
+    },
+    {
+      "objectID": "50637220",
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "domain": "github.com",
+      "points": 1068,
+      "publishedAt": "2026-11-25T01:19:26.000Z"
     },
     {
       "objectID": "50597612",
@@ -47,7 +47,7 @@
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
       "url": "https://gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "domain": "gpupartner.com",
-      "points": 781,
+      "points": 782,
       "publishedAt": "2026-11-22T21:01:16.000Z"
     },
     {
@@ -59,27 +59,27 @@
       "publishedAt": "2026-11-22T17:06:27.000Z"
     },
     {
-      "objectID": "50647673",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "domain": "theverge.com",
-      "points": 678,
-      "publishedAt": "2026-11-25T21:18:02.000Z"
-    },
-    {
       "objectID": "50663595",
       "title": "Group chat where your AI talks behind your back",
       "url": "https://construct22.com/",
       "domain": "construct22.com",
-      "points": 635,
+      "points": 701,
       "publishedAt": "2026-11-27T06:44:34.000Z"
+    },
+    {
+      "objectID": "50647673",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "domain": "theverge.com",
+      "points": 681,
+      "publishedAt": "2026-11-25T21:18:02.000Z"
     },
     {
       "objectID": "50648050",
       "title": "Much shorter version of GRH Lean verification from Anthropic",
       "url": "https://github.com/lsernau/grh-lean",
       "domain": "github.com",
-      "points": 560,
+      "points": 564,
       "publishedAt": "2026-11-25T21:48:10.000Z"
     },
     {
@@ -87,7 +87,7 @@
       "title": "Rumors swirling that labs might have cracked Factoring in P",
       "url": "https://reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to",
       "domain": "reddit.com",
-      "points": 511,
+      "points": 513,
       "publishedAt": "2026-11-25T15:08:44.000Z"
     },
     {
@@ -95,7 +95,7 @@
       "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
       "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
       "domain": "twitter.com",
-      "points": 506,
+      "points": 510,
       "publishedAt": "2026-11-26T03:36:58.000Z"
     },
     {
@@ -103,7 +103,7 @@
       "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
       "url": "https://news.ycombinator.com/item?id=50630809",
       "domain": "news.ycombinator.com",
-      "points": 472,
+      "points": 476,
       "publishedAt": "2026-11-24T16:45:44.000Z"
     },
     {
@@ -127,7 +127,7 @@
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
       "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
       "domain": "techstackups.com",
-      "points": 417,
+      "points": 420,
       "publishedAt": "2026-11-26T09:44:23.000Z"
     },
     {
@@ -147,6 +147,14 @@
       "publishedAt": "2026-11-22T13:56:58.000Z"
     },
     {
+      "objectID": "50652527",
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+      "domain": "micjm.com",
+      "points": 356,
+      "publishedAt": "2026-11-26T07:33:12.000Z"
+    },
+    {
       "objectID": "50634658",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
@@ -155,20 +163,12 @@
       "publishedAt": "2026-11-24T21:02:22.000Z"
     },
     {
-      "objectID": "50652527",
-      "title": "OpenAI may be in cost control mode",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
-      "domain": "micjm.com",
-      "points": 355,
-      "publishedAt": "2026-11-26T07:33:12.000Z"
-    },
-    {
-      "objectID": "50630309",
-      "title": "Tidal bans AI-generated music",
-      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
-      "domain": "variety.com",
-      "points": 337,
-      "publishedAt": "2026-11-24T16:12:38.000Z"
+      "objectID": "50666375",
+      "title": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "domain": "news.sky.com",
+      "points": 343,
+      "publishedAt": "2026-11-27T12:54:11.000Z"
     }
   ]
 }

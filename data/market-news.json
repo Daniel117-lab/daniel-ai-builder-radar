@@ -1,6 +1,6 @@
 {
-  "fetchedAt": "2026-11-27T21:17:21.917Z",
-  "windowStart": "2026-11-24T21:17:21.917Z",
+  "fetchedAt": "2026-11-28T07:49:56.177Z",
+  "windowStart": "2026-11-25T07:49:56.177Z",
   "markets": [
     {
       "id": "hk",
@@ -26,6 +26,30 @@
     }
   ],
   "stories": [
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879565-20261128.htm",
+      "title": "港股ADR與本港收市個別發展",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879565-20261128.htm",
+      "source": "香港電台財經新聞",
+      "market": "hk",
+      "publishedAt": "2026-11-27T22:41:16.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879559-20261128.htm",
+      "title": "德法英股本周累升近3%或以上",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879559-20261128.htm",
+      "source": "香港電台財經新聞",
+      "market": "global",
+      "publishedAt": "2026-11-27T21:52:53.000Z"
+    },
+    {
+      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879557-20261128.htm",
+      "title": "美股半日市　道指高收591點　納指升逾2%",
+      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879557-20261128.htm",
+      "source": "香港電台財經新聞",
+      "market": "us",
+      "publishedAt": "2026-11-27T21:33:59.000Z"
+    },
     {
       "id": "https://news.rthk.hk/rthk/ch/component/k2/1879539-20261127.htm",
       "title": "美股3大指數初段上升　感恩節翌日只有半日市",
@@ -257,94 +281,6 @@
       "source": "香港電台財經新聞",
       "market": "hk",
       "publishedAt": "2026-11-25T08:44:42.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879220-20261125.htm",
-      "title": "恒指尾市失守22000點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879220-20261125.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-25T07:31:18.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879218-20261125.htm",
-      "title": "滬深股市低收逾2%至逾4%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879218-20261125.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-25T07:24:44.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879210-20261125.htm",
-      "title": "日股低收逾1600點",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879210-20261125.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-25T06:50:21.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879211-20261125.htm",
-      "title": "韓股急跌逾6%　再創逾10個月低位",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879211-20261125.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-25T06:49:23.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879209-20261125.htm",
-      "title": "台股回吐近半成收市",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879209-20261125.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-25T06:28:12.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879195-20261125.htm",
-      "title": "港股下午偏軟",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879195-20261125.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-25T05:09:55.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879186-20261125.htm",
-      "title": "恒指半日升46點　科指回穩",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879186-20261125.htm",
-      "source": "香港電台財經新聞",
-      "market": "hk",
-      "publishedAt": "2026-11-25T04:18:42.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879185-20261125.htm",
-      "title": "滬深股市半日跌逾1%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879185-20261125.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-25T03:43:52.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879177-20261125.htm",
-      "title": "日股半日跌逾3%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879177-20261125.htm",
-      "source": "香港電台財經新聞",
-      "market": "global",
-      "publishedAt": "2026-11-25T02:41:28.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879168-20261125.htm",
-      "title": "滬深股市初段跌近1%或以上",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879168-20261125.htm",
-      "source": "香港電台財經新聞",
-      "market": "cn",
-      "publishedAt": "2026-11-25T01:46:18.000Z"
-    },
-    {
-      "id": "https://news.rthk.hk/rthk/ch/component/k2/1879147-20261125.htm",
-      "title": "道指高收423點　納指跌近1.5%",
-      "url": "https://news.rthk.hk/rthk/ch/component/k2/1879147-20261125.htm",
-      "source": "香港電台財經新聞",
-      "market": "us",
-      "publishedAt": "2026-11-24T21:54:36.000Z"
     }
   ]
 }
